@@ -1,5 +1,5 @@
 # Change these first
-owner: Sulstice # Your GitHub organization or username, where this repository lives
+owner: sulstice # Your GitHub organization or username, where this repository lives
 repo: uptime-zinc-db # The name of this repository
 
 sites:
@@ -11,7 +11,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: https://sulstice.github.io/uptime-zinc-db/
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Zinc Database Statuses
