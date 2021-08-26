@@ -38,7 +38,7 @@
     "slug": "zinc-20",
     "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "98.99%",
     "uptimeYear": "99.18%",
@@ -48,7 +48,7 @@
     "timeMonth": 925,
     "timeYear": 846,
     "dailyMinutesDown": {
-      "2021-08-26": 0,
+      "2021-08-26": 1,
       "2021-08-24": 19,
       "2021-08-09": 28,
       "2021-08-04": 16,
