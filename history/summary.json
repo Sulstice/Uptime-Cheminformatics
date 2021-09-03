@@ -38,7 +38,7 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "97.71%",
     "uptimeDay": "92.61%",
     "uptimeWeek": "90.46%",
@@ -46,7 +46,7 @@
     "uptimeYear": "97.71%",
     "time": 712,
     "timeDay": 595,
-    "timeWeek": 541,
+    "timeWeek": 544,
     "timeMonth": 486,
     "timeYear": 712,
     "dailyMinutesDown": {
