@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.36%",
     "uptimeYear": "97.61%",
-    "time": 782,
-    "timeDay": 391,
-    "timeWeek": 480,
-    "timeMonth": 466,
-    "timeYear": 782,
+    "time": 780,
+    "timeDay": 437,
+    "timeWeek": 487,
+    "timeMonth": 467,
+    "timeYear": 780,
     "dailyMinutesDown": {
       "2021-09-29": 30,
       "2021-09-24": 57,
@@ -51,17 +51,17 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "97.22%",
-    "uptimeDay": "97.90%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "96.43%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "96.44%",
     "uptimeYear": "97.22%",
-    "time": 706,
-    "timeDay": 459,
-    "timeWeek": 431,
+    "time": 705,
+    "timeDay": 460,
+    "timeWeek": 441,
     "timeMonth": 676,
-    "timeYear": 706,
+    "timeYear": 705,
     "dailyMinutesDown": {
-      "2021-10-08": 30,
+      "2021-10-08": 22,
       "2021-10-06": 19,
       "2021-10-05": 17,
       "2021-09-30": 17,
@@ -96,7 +96,8 @@
       "2021-07-23": 31,
       "2021-07-19": 17,
       "2021-07-16": 51,
-      "2021-07-12": 28
+      "2021-07-12": 28,
+      "2021-07-08": 19
     }
   }
 ]
