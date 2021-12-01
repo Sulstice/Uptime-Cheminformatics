@@ -4,7 +4,7 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "97.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.28%",
@@ -16,6 +16,7 @@
     "timeMonth": 797,
     "timeYear": 729,
     "dailyMinutesDown": {
+      "2021-12-01": 0,
       "2021-11-29": 24,
       "2021-11-27": 23,
       "2021-11-25": 26,
