@@ -4,12 +4,12 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
-    "uptime": "97.91%",
-    "uptimeDay": "98.68%",
+    "status": "down",
+    "uptime": "97.92%",
+    "uptimeDay": "98.67%",
     "uptimeWeek": "99.15%",
     "uptimeMonth": "97.80%",
-    "uptimeYear": "97.91%",
+    "uptimeYear": "97.92%",
     "time": 717,
     "timeDay": 469,
     "timeWeek": 404,
@@ -69,15 +69,15 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
-    "uptime": "97.99%",
-    "uptimeDay": "98.71%",
+    "status": "down",
+    "uptime": "98.01%",
+    "uptimeDay": "98.70%",
     "uptimeWeek": "99.14%",
     "uptimeMonth": "97.58%",
-    "uptimeYear": "97.99%",
+    "uptimeYear": "98.01%",
     "time": 638,
     "timeDay": 302,
-    "timeWeek": 395,
+    "timeWeek": 380,
     "timeMonth": 626,
     "timeYear": 638,
     "dailyMinutesDown": {
@@ -130,7 +130,7 @@
       "2021-09-03": 163,
       "2021-09-02": 56,
       "2021-09-01": 116,
-      "2021-08-31": 59
+      "2021-08-31": 37
     }
   }
 ]
