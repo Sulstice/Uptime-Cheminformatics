@@ -4,18 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "97.40%",
-    "uptimeDay": "90.11%",
+    "uptimeDay": "94.76%",
     "uptimeWeek": "87.07%",
     "uptimeMonth": "96.24%",
     "uptimeYear": "97.40%",
     "time": 710,
-    "timeDay": 418,
+    "timeDay": 436,
     "timeWeek": 406,
     "timeMonth": 544,
     "timeYear": 710,
     "dailyMinutesDown": {
+      "2021-12-10": 0,
       "2021-12-09": 1158,
       "2021-12-08": 96,
       "2021-12-06": 50,
@@ -70,15 +71,15 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
-    "uptime": "98.04%",
-    "uptimeDay": "94.36%",
+    "status": "down",
+    "uptime": "98.05%",
+    "uptimeDay": "94.35%",
     "uptimeWeek": "98.01%",
     "uptimeMonth": "98.56%",
-    "uptimeYear": "98.04%",
+    "uptimeYear": "98.05%",
     "time": 644,
-    "timeDay": 1563,
-    "timeWeek": 577,
+    "timeDay": 1737,
+    "timeWeek": 582,
     "timeMonth": 538,
     "timeYear": 644,
     "dailyMinutesDown": {
@@ -131,7 +132,7 @@
       "2021-09-06": 15,
       "2021-09-04": 141,
       "2021-09-03": 163,
-      "2021-09-02": 56
+      "2021-09-02": 36
     }
   }
 ]
