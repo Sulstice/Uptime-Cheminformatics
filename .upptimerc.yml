@@ -13,6 +13,14 @@ sites:
     url: https://webbook.nist.gov/chemistry/
   - name: Chem Exper
     url: http://www.chemexper.com/
+  - name: NMR Shift Database
+    url: https://nmrshiftdb.nmr.uni-koeln.de/
+  - name: Drug Bank
+    url: https://go.drugbank.com/releases/latest
+  - name: Binding Database
+    url: http://www.bindingdb.org/bind/index.jsp
+  - name: Spectral Database for Organic Compounds
+    url: https://sdbs.db.aist.go.jp/sdbs/cgi-bin/cre_index.cgi?lang=eng
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
