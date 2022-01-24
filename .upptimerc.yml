@@ -7,6 +7,8 @@ sites:
     url: https://zinc15.docking.org
   - name: Zinc 20
     url: https://zinc20.docking.org
+  - name: PubChem
+    url: https://pubchem.ncbi.nlm.nih.gov
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
