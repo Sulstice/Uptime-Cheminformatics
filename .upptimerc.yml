@@ -27,11 +27,43 @@ sites:
     url: http://www.chemspider.com/Default.aspx
   - name: Stitch
     url: http://stitch.embl.de/cgi/download.pl
+  - name: CardPred
+    url: http://bioanalysis.cau.ac.kr:7050/
+  - name: Comparative Toxicogenomics Database
+    url: http://ctdbase.org/
+  - name: AMED Cardiotoxicity Database
+    url: https://drugdesign.riken.jp/hERGdb/
+  - name: Tox21
+    url: https://tripod.nih.gov/tox21/challenge/data.jsp
+  - name: Drug Safety Analysis System
+    url: http://xundrug.cn/moltox
+  - name: OpenFDA
+    url: https://open.fda.gov/
+  - name: Metabolites Biological Role
+    url: http://csbg.cnb.csic.es/mbrole2/
+  - name: MetaboAnalyst
+    url: https://www.metaboanalyst.ca/MetaboAnalyst/
+  - name: Adverse Drug Reaction Classification System
+    url: http://bioinf.xmu.edu.cn/ADReCS/
+  - name: Metabolism and Transport Database
+    url: http://www-metrabase.ch.cam.ac.uk/
+  - name: Ecology Toxicity 
+    url: https://cfpub.epa.gov/ecotox/
+  - name: Human and Environment Risk Assessment 
+    url: https://www.heraproject.com/RiskAssessment.cfm
+  - name: International Toxicity Information for Risk Assesments
+    url: https://www.tera.org/iter/
+  - name: Japan Exisiting Database
+    url: https://dra4.nihs.go.jp/mhlw_data/jsp/SearchPageENG.jsp
+  - name: National Pesticide Center
+    url: http://npic.orst.edu/
+  - name: Pesticide Info
+    url: https://www.pesticideinfo.org/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: https://sulstice.github.io/uptime-zinc-db/
+  cname: https://sulstice.github.io/uptime-cheminformatics/
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Zinc Database Statuses
