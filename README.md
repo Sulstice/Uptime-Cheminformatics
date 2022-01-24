@@ -1,5 +1,7 @@
 # [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟧 Partial outage**
 
+Hello and welcome to the Cheminformatic Status Database repository. As I access drug and chemical data online I often have misconnections or the resource is lost forever and also messes with my automation pipelines. In an attempt to keep track of the resources I use for myself I perform a heartbeat check to ensure they are still working. 
+
 This repository contains the open-source uptime monitor and status page for [Suliman Sharif](https://demo.upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/Sulstice/uptime-zinc-db/workflows/Uptime%20CI/badge.svg)](https://github.com/Sulstice/uptime-zinc-db/actions?query=workflow%3A%22Uptime+CI%22)
