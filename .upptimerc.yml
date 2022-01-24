@@ -21,6 +21,12 @@ sites:
     url: http://www.bindingdb.org/bind/index.jsp
   - name: Spectral Database for Organic Compounds
     url: https://sdbs.db.aist.go.jp/sdbs/cgi-bin/cre_index.cgi?lang=eng
+  - name: Sider
+    url: http://sideeffects.embl.de/download/
+  - name: ChemSpider
+    url: http://www.chemspider.com/Default.aspx
+  - name: Stitch
+    url: http://stitch.embl.de/cgi/download.pl
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
