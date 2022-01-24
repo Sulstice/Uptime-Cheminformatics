@@ -9,6 +9,10 @@ sites:
     url: https://zinc20.docking.org
   - name: PubChem
     url: https://pubchem.ncbi.nlm.nih.gov
+  - name: NIST Chemistry Webhook
+    url: https://webbook.nist.gov/chemistry/
+  - name: Chem Exper
+    url: http://www.chemexper.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
