@@ -1,6 +1,6 @@
 # [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟩 All systems operational**
 
-Hello and welcome to the Cheminformatic Status Database repository. As I access drug and chemical data online I often have misconnections or the resource is lost forever and also messes with my automation pipelines. In an attempt to keep track of the resources I use for myself I perform a heartbeat check to ensure they are still working.
+Hello and welcome to the Cheminformatic Status Database repository. As I explore chemical infinity online I often have misconnections or the resource is lost forever and also messes with my automation pipelines. In an attempt to keep track of the resources I use for myself I perform a heartbeat check to ensure they are still working. If you need it then just search the page and check the status. If the history is dead forever, links will be removed appropiately or into a deadlink category. 
 
 This repository contains the open-source uptime monitor and status page for [Suliman Sharif](https://demo.upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
 
