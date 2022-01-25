@@ -73,8 +73,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: https://sulstice.github.io/Uptime-Cheminformatics/
-  # baseUrl: /your-repo-name
+  # cname: https://sulstice.github.io/Uptime-Cheminformatics/
+  baseUrl: /Uptime-Cheminformatics
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Cheminformatic Database Statuses
   introTitle: "Website Status of Cheminformatic Databases"
@@ -84,3 +84,4 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+      
