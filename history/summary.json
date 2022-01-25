@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
     "status": "down",
-    "uptime": "96.47%",
-    "uptimeDay": "94.00%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "92.51%",
-    "uptimeYear": "96.47%",
+    "uptime": "96.46%",
+    "uptimeDay": "92.84%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "92.47%",
+    "uptimeYear": "96.46%",
     "time": 691,
     "timeDay": 355,
     "timeWeek": 346,
     "timeMonth": 522,
     "timeYear": 691,
     "dailyMinutesDown": {
-      "2022-01-25": 86,
+      "2022-01-25": 103,
       "2022-01-09": 1391,
       "2022-01-08": 226,
       "2022-01-07": 878,
@@ -248,19 +248,19 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://favicons.githubusercontent.com/www.bindingdb.org",
     "slug": "binding-database",
-    "status": "up",
-    "uptime": "91.93%",
-    "uptimeDay": "91.93%",
-    "uptimeWeek": "91.93%",
-    "uptimeMonth": "91.93%",
-    "uptimeYear": "91.93%",
+    "status": "down",
+    "uptime": "91.99%",
+    "uptimeDay": "91.99%",
+    "uptimeWeek": "91.99%",
+    "uptimeMonth": "91.99%",
+    "uptimeYear": "91.99%",
     "time": 291,
     "timeDay": 291,
     "timeWeek": 291,
     "timeMonth": 291,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2022-01-25": 58
+      "2022-01-25": 59
     }
   },
   {
@@ -550,7 +550,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-25": 254,
+      "2022-01-25": 270,
       "2022-01-24": 60
     }
   },
