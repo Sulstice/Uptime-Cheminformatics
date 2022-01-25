@@ -81,11 +81,11 @@
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
     "status": "up",
-    "uptime": "98.16%",
+    "uptime": "98.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.68%",
-    "uptimeYear": "98.16%",
+    "uptimeYear": "98.17%",
     "time": 694,
     "timeDay": 4606,
     "timeWeek": 2614,
@@ -547,7 +547,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-24": 8
+      "2022-01-25": 12,
+      "2022-01-24": 60
     }
   },
   {
