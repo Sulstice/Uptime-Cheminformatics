@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
     "status": "down",
-    "uptime": "96.50%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "92.70%",
-    "uptimeYear": "96.50%",
+    "uptime": "96.49%",
+    "uptimeDay": "97.99%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "92.64%",
+    "uptimeYear": "96.49%",
     "time": 691,
     "timeDay": 355,
     "timeWeek": 346,
     "timeMonth": 522,
     "timeYear": 691,
     "dailyMinutesDown": {
-      "2022-01-25": 1,
+      "2022-01-25": 29,
       "2022-01-09": 1391,
       "2022-01-08": 226,
       "2022-01-07": 878,
@@ -248,18 +248,20 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://favicons.githubusercontent.com/www.bindingdb.org",
     "slug": "binding-database",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.85%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 282,
     "timeDay": 282,
     "timeWeek": 282,
     "timeMonth": 282,
     "timeYear": 282,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-25": 1
+    }
   },
   {
     "name": "Spectral Database for Organic Compounds",
@@ -548,7 +550,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-25": 168,
+      "2022-01-25": 196,
       "2022-01-24": 60
     }
   },
