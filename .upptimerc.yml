@@ -59,6 +59,16 @@ sites:
     url: http://npic.orst.edu/
   - name: Pesticide Info
     url: https://www.pesticideinfo.org/
+  - name: Kyoto Encyclopedia of Genes and Genomes
+    url: https://www.genome.jp/kegg/
+  - name: Hetereocycles
+    url: https://www.heterocycles.jp/newlibrary/natural_products/structure
+  - name: Chemical Resolver
+    url: https://cactus.nci.nih.gov/chemical/structure
+  - name: LookChem
+    url: https://www.lookchem.com/
+  - name: Lipid Maps
+    url: https://www.lipidmaps.org/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
