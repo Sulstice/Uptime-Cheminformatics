@@ -76,5 +76,11 @@ status-website:
   cname: https://sulstice.github.io/uptime-cheminformatics/
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Zinc Database Statuses
-  introTitle: "Website Status of the Zinc DB"
+  name: Cheminformatic Database Statuses
+  introTitle: "Website Status of Cheminformatic Databases"
+  introMessage: Welcome to the endpoint monitor of live databases. 
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
