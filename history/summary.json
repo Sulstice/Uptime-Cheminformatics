@@ -309,18 +309,18 @@
     "icon": "https://favicons.githubusercontent.com/www.chemspider.com",
     "slug": "chem-spider",
     "status": "up",
-    "uptime": "98.88%",
-    "uptimeDay": "96.88%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "98.88%",
-    "uptimeYear": "98.88%",
+    "uptime": "99.07%",
+    "uptimeDay": "97.42%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.07%",
+    "uptimeYear": "99.07%",
     "time": 13760,
     "timeDay": 12056,
     "timeWeek": 13760,
     "timeMonth": 13760,
     "timeYear": 13760,
     "dailyMinutesDown": {
-      "2022-01-27": 46
+      "2022-01-27": 38
     }
   },
   {
@@ -526,18 +526,20 @@
     "url": "https://cfpub.epa.gov/ecotox/",
     "icon": "https://favicons.githubusercontent.com/cfpub.epa.gov",
     "slug": "ecology-toxicity",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 407,
-    "timeDay": 236,
-    "timeWeek": 407,
-    "timeMonth": 407,
-    "timeYear": 407,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 475,
+    "timeDay": 662,
+    "timeWeek": 475,
+    "timeMonth": 475,
+    "timeYear": 475,
+    "dailyMinutesDown": {
+      "2022-01-27": 0
+    }
   },
   {
     "name": "Human and Environment Risk Assessment",
@@ -556,7 +558,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-27": 900,
+      "2022-01-27": 911,
       "2022-01-26": 1440,
       "2022-01-25": 1440,
       "2022-01-24": 60
