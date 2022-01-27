@@ -307,19 +307,19 @@
     "url": "http://www.chemspider.com/Default.aspx",
     "icon": "https://favicons.githubusercontent.com/www.chemspider.com",
     "slug": "chem-spider",
-    "status": "down",
-    "uptime": "99.52%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.52%",
-    "time": 17494,
-    "timeDay": 18649,
-    "timeWeek": 17494,
-    "timeMonth": 17494,
-    "timeYear": 17494,
+    "status": "up",
+    "uptime": "99.24%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.24%",
+    "time": 16299,
+    "timeDay": 15073,
+    "timeWeek": 16299,
+    "timeMonth": 16299,
+    "timeYear": 16299,
     "dailyMinutesDown": {
-      "2022-01-27": 17
+      "2022-01-27": 26
     }
   },
   {
@@ -555,7 +555,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-27": 281,
+      "2022-01-27": 291,
       "2022-01-26": 1440,
       "2022-01-25": 1440,
       "2022-01-24": 60
