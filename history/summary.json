@@ -253,11 +253,11 @@
     "icon": "https://favicons.githubusercontent.com/www.bindingdb.org",
     "slug": "binding-database",
     "status": "up",
-    "uptime": "97.89%",
+    "uptime": "97.90%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.89%",
-    "uptimeMonth": "97.89%",
-    "uptimeYear": "97.89%",
+    "uptimeWeek": "97.90%",
+    "uptimeMonth": "97.90%",
+    "uptimeYear": "97.90%",
     "time": 303,
     "timeDay": 468,
     "timeWeek": 303,
@@ -308,9 +308,9 @@
     "url": "http://www.chemspider.com/Default.aspx",
     "icon": "https://favicons.githubusercontent.com/www.chemspider.com",
     "slug": "chem-spider",
-    "status": "up",
+    "status": "down",
     "uptime": "97.46%",
-    "uptimeDay": "92.10%",
+    "uptimeDay": "92.05%",
     "uptimeWeek": "97.46%",
     "uptimeMonth": "97.46%",
     "uptimeYear": "97.46%",
@@ -320,7 +320,7 @@
     "timeMonth": 13017,
     "timeYear": 13017,
     "dailyMinutesDown": {
-      "2022-01-27": 115
+      "2022-01-27": 116
     }
   },
   {
@@ -556,7 +556,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-27": 1388,
+      "2022-01-27": 1404,
       "2022-01-26": 1440,
       "2022-01-25": 1440,
       "2022-01-24": 60
