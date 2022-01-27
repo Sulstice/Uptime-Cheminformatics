@@ -6,9 +6,9 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "96.16%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "88.67%",
-    "uptimeMonth": "90.14%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "88.78%",
+    "uptimeMonth": "90.16%",
     "uptimeYear": "96.16%",
     "time": 682,
     "timeDay": 351,
@@ -16,7 +16,6 @@
     "timeMonth": 489,
     "timeYear": 682,
     "dailyMinutesDown": {
-      "2022-01-27": 10,
       "2022-01-26": 149,
       "2022-01-25": 982,
       "2022-01-09": 1391,
@@ -84,18 +83,17 @@
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
     "status": "up",
-    "uptime": "98.16%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "98.04%",
-    "uptimeMonth": "99.27%",
-    "uptimeYear": "98.16%",
+    "uptime": "98.15%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.14%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "98.15%",
     "time": 684,
     "timeDay": 338,
     "timeWeek": 1299,
     "timeMonth": 877,
     "timeYear": 684,
     "dailyMinutesDown": {
-      "2022-01-27": 10,
       "2022-01-26": 188,
       "2022-01-20": 19,
       "2022-01-19": 7,
@@ -152,7 +150,8 @@
       "2021-09-20": 42,
       "2021-09-18": 29,
       "2021-09-16": 609,
-      "2021-09-15": 74
+      "2021-09-15": 74,
+      "2021-09-10": 29
     }
   },
   {
@@ -309,19 +308,19 @@
     "url": "http://www.chemspider.com/Default.aspx",
     "icon": "https://favicons.githubusercontent.com/www.chemspider.com",
     "slug": "chem-spider",
-    "status": "up",
-    "uptime": "97.60%",
-    "uptimeDay": "92.58%",
-    "uptimeWeek": "97.60%",
-    "uptimeMonth": "97.60%",
-    "uptimeYear": "97.60%",
+    "status": "down",
+    "uptime": "97.78%",
+    "uptimeDay": "93.12%",
+    "uptimeWeek": "97.78%",
+    "uptimeMonth": "97.78%",
+    "uptimeYear": "97.78%",
     "time": 12653,
     "timeDay": 11211,
     "timeWeek": 12653,
     "timeMonth": 12653,
     "timeYear": 12653,
     "dailyMinutesDown": {
-      "2022-01-27": 108
+      "2022-01-27": 100
     }
   },
   {
@@ -557,7 +556,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-27": 1367,
+      "2022-01-27": 1373,
       "2022-01-26": 1440,
       "2022-01-25": 1440,
       "2022-01-24": 60
