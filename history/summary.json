@@ -314,10 +314,10 @@
     "url": "http://www.chemspider.com/Default.aspx",
     "icon": "https://favicons.githubusercontent.com/www.chemspider.com",
     "slug": "chem-spider",
-    "status": "up",
+    "status": "down",
     "uptime": "96.18%",
-    "uptimeDay": "94.54%",
-    "uptimeWeek": "95.54%",
+    "uptimeDay": "94.48%",
+    "uptimeWeek": "95.53%",
     "uptimeMonth": "96.18%",
     "uptimeYear": "96.18%",
     "time": 10091,
@@ -326,7 +326,7 @@
     "timeMonth": 10091,
     "timeYear": 10091,
     "dailyMinutesDown": {
-      "2022-02-05": 63,
+      "2022-02-05": 64,
       "2022-02-04": 15,
       "2022-02-03": 88,
       "2022-02-02": 77,
@@ -360,9 +360,9 @@
     "url": "http://bioanalysis.cau.ac.kr:7050/",
     "icon": "https://favicons.githubusercontent.com/bioanalysis.cau.ac.kr",
     "slug": "card-pred",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -371,7 +371,9 @@
     "timeWeek": 873,
     "timeMonth": 859,
     "timeYear": 859,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-05": 0
+    }
   },
   {
     "name": "Comparative Toxicogenomics Database",
@@ -543,18 +545,18 @@
     "icon": "https://favicons.githubusercontent.com/cfpub.epa.gov",
     "slug": "ecology-toxicity",
     "status": "down",
-    "uptime": "95.47%",
-    "uptimeDay": "50.47%",
-    "uptimeWeek": "92.53%",
-    "uptimeMonth": "95.47%",
-    "uptimeYear": "95.47%",
+    "uptime": "95.41%",
+    "uptimeDay": "49.76%",
+    "uptimeWeek": "92.43%",
+    "uptimeMonth": "95.41%",
+    "uptimeYear": "95.41%",
     "time": 509,
     "timeDay": 201,
     "timeWeek": 600,
     "timeMonth": 509,
     "timeYear": 509,
     "dailyMinutesDown": {
-      "2022-02-05": 713,
+      "2022-02-05": 723,
       "2022-02-03": 40
     }
   },
@@ -575,7 +577,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-05": 714,
+      "2022-02-05": 724,
       "2022-02-04": 1440,
       "2022-02-03": 1440,
       "2022-02-02": 1440,
