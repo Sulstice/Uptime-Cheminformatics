@@ -542,18 +542,18 @@
     "icon": "https://favicons.githubusercontent.com/cfpub.epa.gov",
     "slug": "ecology-toxicity",
     "status": "down",
-    "uptime": "99.75%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
+    "uptime": "99.69%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
     "time": 509,
     "timeDay": 201,
     "timeWeek": 600,
     "timeMonth": 509,
     "timeYear": 509,
     "dailyMinutesDown": {
-      "2022-02-05": 1,
+      "2022-02-05": 9,
       "2022-02-03": 40
     }
   },
@@ -574,7 +574,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-05": 2,
+      "2022-02-05": 10,
       "2022-02-04": 1440,
       "2022-02-03": 1440,
       "2022-02-02": 1440,
