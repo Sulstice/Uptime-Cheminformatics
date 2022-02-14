@@ -225,19 +225,19 @@
     "url": "https://nmrshiftdb.nmr.uni-koeln.de/",
     "icon": "https://favicons.githubusercontent.com/nmrshiftdb.nmr.uni-koeln.de",
     "slug": "nmr-shift-database",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 957,
-    "timeDay": 854,
-    "timeWeek": 967,
-    "timeMonth": 957,
-    "timeYear": 957,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1079,
+    "timeDay": 2269,
+    "timeWeek": 1426,
+    "timeMonth": 1079,
+    "timeYear": 1079,
     "dailyMinutesDown": {
-      "2022-02-14": 1
+      "2022-02-14": 7
     }
   },
   {
@@ -600,7 +600,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-14": 1307,
+      "2022-02-14": 1315,
       "2022-02-13": 1440,
       "2022-02-12": 1440,
       "2022-02-11": 1440,
