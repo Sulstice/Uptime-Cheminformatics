@@ -6,17 +6,17 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "96.36%",
-    "uptimeDay": "81.68%",
-    "uptimeWeek": "81.10%",
-    "uptimeMonth": "94.68%",
+    "uptimeDay": "82.23%",
+    "uptimeWeek": "81.18%",
+    "uptimeMonth": "94.70%",
     "uptimeYear": "96.36%",
     "time": 635,
-    "timeDay": 395,
+    "timeDay": 397,
     "timeWeek": 391,
     "timeMonth": 388,
     "timeYear": 635,
     "dailyMinutesDown": {
-      "2022-03-04": 246,
+      "2022-03-04": 238,
       "2022-03-03": 255,
       "2022-03-02": 1365,
       "2022-03-01": 37,
@@ -76,7 +76,7 @@
       "2021-08-04": 16,
       "2021-08-01": 29,
       "2021-07-31": 1041,
-      "2021-07-30": 350
+      "2021-07-30": 366
     }
   },
   {
@@ -86,17 +86,17 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "98.29%",
-    "uptimeDay": "82.03%",
-    "uptimeWeek": "82.04%",
-    "uptimeMonth": "95.70%",
+    "uptimeDay": "82.55%",
+    "uptimeWeek": "82.12%",
+    "uptimeMonth": "95.71%",
     "uptimeYear": "98.29%",
     "time": 654,
-    "timeDay": 373,
+    "timeDay": 378,
     "timeWeek": 605,
     "timeMonth": 489,
     "timeYear": 654,
     "dailyMinutesDown": {
-      "2022-03-04": 240,
+      "2022-03-04": 233,
       "2022-03-03": 251,
       "2022-03-02": 1270,
       "2022-03-01": 17,
@@ -153,7 +153,8 @@
       "2021-10-11": 17,
       "2021-10-08": 22,
       "2021-10-06": 19,
-      "2021-10-05": 17
+      "2021-10-05": 17,
+      "2021-09-30": 17
     }
   },
   {
@@ -204,7 +205,7 @@
     "uptimeMonth": "99.22%",
     "uptimeYear": "99.00%",
     "time": 678,
-    "timeDay": 625,
+    "timeDay": 600,
     "timeWeek": 667,
     "timeMonth": 693,
     "timeYear": 678,
@@ -438,19 +439,19 @@
     "url": "https://drugdesign.riken.jp/hERGdb/",
     "icon": "https://favicons.githubusercontent.com/drugdesign.riken.jp",
     "slug": "amed-cardiotoxicity-database",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 1142,
-    "timeDay": 1430,
-    "timeWeek": 1220,
-    "timeMonth": 1142,
-    "timeYear": 1142,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1148,
+    "timeDay": 1416,
+    "timeWeek": 1243,
+    "timeMonth": 1151,
+    "timeYear": 1148,
     "dailyMinutesDown": {
-      "2022-03-04": 8
+      "2022-03-04": 15
     }
   },
   {
@@ -636,7 +637,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-04": 1248,
+      "2022-03-04": 1255,
       "2022-03-03": 1440,
       "2022-03-02": 1440,
       "2022-03-01": 1440,
