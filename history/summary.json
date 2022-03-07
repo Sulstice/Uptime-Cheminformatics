@@ -4,10 +4,10 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "96.79%",
-    "uptimeDay": "78.41%",
-    "uptimeWeek": "72.62%",
+    "uptimeDay": "78.32%",
+    "uptimeWeek": "72.61%",
     "uptimeMonth": "92.73%",
     "uptimeYear": "96.79%",
     "time": 613,
@@ -16,7 +16,7 @@
     "timeMonth": 387,
     "timeYear": 613,
     "dailyMinutesDown": {
-      "2022-03-07": 144,
+      "2022-03-07": 145,
       "2022-03-06": 343,
       "2022-03-05": 362,
       "2022-03-04": 252,
@@ -57,8 +57,7 @@
       "2021-11-09": 552,
       "2021-11-03": 316,
       "2021-11-01": 29,
-      "2021-10-28": 18,
-      "2021-10-25": 23
+      "2021-10-28": 18
     }
   },
   {
@@ -66,19 +65,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
-    "uptime": "98.65%",
-    "uptimeDay": "78.86%",
-    "uptimeWeek": "73.87%",
+    "status": "down",
+    "uptime": "98.66%",
+    "uptimeDay": "78.81%",
+    "uptimeWeek": "73.86%",
     "uptimeMonth": "93.81%",
-    "uptimeYear": "98.65%",
+    "uptimeYear": "98.66%",
     "time": 636,
     "timeDay": 389,
     "timeWeek": 494,
     "timeMonth": 452,
     "timeYear": 636,
     "dailyMinutesDown": {
-      "2022-03-07": 142,
+      "2022-03-07": 143,
       "2022-03-06": 321,
       "2022-03-05": 354,
       "2022-03-04": 246,
@@ -114,8 +113,7 @@
       "2021-11-27": 23,
       "2021-11-24": 82,
       "2021-11-23": 66,
-      "2021-11-22": 10,
-      "2021-11-19": 16
+      "2021-11-22": 10
     }
   },
   {
@@ -263,19 +261,19 @@
     "url": "https://sdbs.db.aist.go.jp/sdbs/cgi-bin/cre_index.cgi?lang=eng",
     "icon": "https://favicons.githubusercontent.com/sdbs.db.aist.go.jp",
     "slug": "spectral-database-for-organic-compounds",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1840,
-    "timeDay": 1420,
-    "timeWeek": 1595,
-    "timeMonth": 1936,
-    "timeYear": 1840,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 1850,
+    "timeDay": 1891,
+    "timeWeek": 1691,
+    "timeMonth": 1949,
+    "timeYear": 1850,
     "dailyMinutesDown": {
-      "2022-03-07": 1
+      "2022-03-07": 20
     }
   },
   {
@@ -486,7 +484,7 @@
     "status": "up",
     "uptime": "91.34%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "82.40%",
+    "uptimeWeek": "82.60%",
     "uptimeMonth": "88.22%",
     "uptimeYear": "91.34%",
     "time": 639,
@@ -601,7 +599,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-07": 474,
+      "2022-03-07": 494,
       "2022-03-06": 1440,
       "2022-03-05": 1440,
       "2022-03-04": 1440,
