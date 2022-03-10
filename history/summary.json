@@ -4,19 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
-    "uptime": "97.80%",
-    "uptimeDay": "77.92%",
-    "uptimeWeek": "78.72%",
+    "status": "down",
+    "uptime": "98.05%",
+    "uptimeDay": "78.61%",
+    "uptimeWeek": "78.70%",
     "uptimeMonth": "90.52%",
-    "uptimeYear": "97.80%",
+    "uptimeYear": "98.05%",
     "time": 595,
     "timeDay": 422,
-    "timeWeek": 414,
+    "timeWeek": 413,
     "timeMonth": 409,
     "timeYear": 595,
     "dailyMinutesDown": {
-      "2022-03-10": 200,
+      "2022-03-10": 202,
       "2022-03-09": 236,
       "2022-03-08": 319,
       "2022-03-07": 356,
@@ -34,8 +34,7 @@
       "2022-01-26": 149,
       "2022-01-25": 982,
       "2022-01-09": 1391,
-      "2022-01-08": 226,
-      "2022-01-07": 878
+      "2022-01-08": 226
     }
   },
   {
@@ -43,10 +42,10 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "98.91%",
-    "uptimeDay": "78.30%",
-    "uptimeWeek": "79.57%",
+    "uptimeDay": "78.99%",
+    "uptimeWeek": "79.55%",
     "uptimeMonth": "91.79%",
     "uptimeYear": "98.91%",
     "time": 617,
@@ -55,7 +54,7 @@
     "timeMonth": 446,
     "timeYear": 617,
     "dailyMinutesDown": {
-      "2022-03-10": 197,
+      "2022-03-10": 198,
       "2022-03-09": 230,
       "2022-03-08": 298,
       "2022-03-07": 334,
@@ -73,8 +72,7 @@
       "2022-02-03": 16,
       "2022-01-26": 188,
       "2022-01-20": 19,
-      "2022-01-19": 7,
-      "2022-01-13": 16
+      "2022-01-19": 7
     }
   },
   {
@@ -126,7 +124,7 @@
     "uptimeYear": "98.96%",
     "time": 669,
     "timeDay": 659,
-    "timeWeek": 629,
+    "timeWeek": 631,
     "timeMonth": 668,
     "timeYear": 669,
     "dailyMinutesDown": {
@@ -407,18 +405,17 @@
     "icon": "https://favicons.githubusercontent.com/xundrug.cn",
     "slug": "drug-safety-analysis-system",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 1622,
     "timeDay": 2131,
     "timeWeek": 2212,
     "timeMonth": 1905,
     "timeYear": 1622,
     "dailyMinutesDown": {
-      "2022-03-10": 13,
       "2022-02-17": 39,
       "2022-02-09": 22
     }
@@ -446,10 +443,10 @@
     "url": "http://csbg.cnb.csic.es/mbrole2/",
     "icon": "https://favicons.githubusercontent.com/csbg.cnb.csic.es",
     "slug": "metabolites-biological-role",
-    "status": "up",
+    "status": "down",
     "uptime": "91.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "88.22%",
     "uptimeYear": "91.98%",
     "time": 624,
@@ -458,6 +455,7 @@
     "timeMonth": 601,
     "timeYear": 624,
     "dailyMinutesDown": {
+      "2022-03-10": 1,
       "2022-03-01": 808,
       "2022-02-28": 1440,
       "2022-02-27": 1440,
@@ -564,7 +562,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-10": 932,
+      "2022-03-10": 944,
       "2022-03-09": 1440,
       "2022-03-08": 1440,
       "2022-03-07": 1440,
