@@ -6,9 +6,9 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "97.64%",
-    "uptimeDay": "82.00%",
-    "uptimeWeek": "79.14%",
-    "uptimeMonth": "90.74%",
+    "uptimeDay": "82.56%",
+    "uptimeWeek": "79.22%",
+    "uptimeMonth": "90.76%",
     "uptimeYear": "97.64%",
     "time": 597,
     "timeDay": 537,
@@ -16,7 +16,7 @@
     "timeMonth": 409,
     "timeYear": 597,
     "dailyMinutesDown": {
-      "2022-03-10": 106,
+      "2022-03-10": 98,
       "2022-03-09": 236,
       "2022-03-08": 319,
       "2022-03-07": 356,
@@ -37,7 +37,7 @@
       "2022-01-08": 226,
       "2022-01-07": 878,
       "2022-01-06": 630,
-      "2022-01-04": 15
+      "2022-01-04": 33
     }
   },
   {
@@ -47,9 +47,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "98.91%",
-    "uptimeDay": "82.34%",
-    "uptimeWeek": "79.99%",
-    "uptimeMonth": "92.00%",
+    "uptimeDay": "82.87%",
+    "uptimeWeek": "80.06%",
+    "uptimeMonth": "92.02%",
     "uptimeYear": "98.91%",
     "time": 618,
     "timeDay": 362,
@@ -57,7 +57,7 @@
     "timeMonth": 448,
     "timeYear": 618,
     "dailyMinutesDown": {
-      "2022-03-10": 105,
+      "2022-03-10": 97,
       "2022-03-09": 230,
       "2022-03-08": 298,
       "2022-03-07": 334,
@@ -79,7 +79,8 @@
       "2022-01-13": 16,
       "2022-01-06": 19,
       "2022-01-04": 44,
-      "2021-12-28": 18
+      "2021-12-28": 18,
+      "2021-12-25": 17
     }
   },
   {
@@ -341,11 +342,11 @@
     "icon": "https://favicons.githubusercontent.com/ctdbase.org",
     "slug": "comparative-toxicogenomics-database",
     "status": "up",
-    "uptime": "96.46%",
+    "uptime": "96.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.30%",
-    "uptimeYear": "96.46%",
+    "uptimeYear": "96.47%",
     "time": 1302,
     "timeDay": 268,
     "timeWeek": 258,
@@ -533,11 +534,11 @@
     "icon": "https://favicons.githubusercontent.com/cfpub.epa.gov",
     "slug": "ecology-toxicity",
     "status": "up",
-    "uptime": "97.60%",
+    "uptime": "97.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "97.60%",
+    "uptimeYear": "97.61%",
     "time": 621,
     "timeDay": 114,
     "timeWeek": 401,
@@ -567,7 +568,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-10": 600,
+      "2022-03-10": 622,
       "2022-03-09": 1440,
       "2022-03-08": 1440,
       "2022-03-07": 1440,
@@ -796,19 +797,19 @@
     "url": "https://www.lookchem.com/",
     "icon": "https://favicons.githubusercontent.com/www.lookchem.com",
     "slug": "look-chem",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 570,
-    "timeDay": 355,
-    "timeWeek": 1340,
-    "timeMonth": 682,
-    "timeYear": 570,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
+    "time": 564,
+    "timeDay": 325,
+    "timeWeek": 1232,
+    "timeMonth": 670,
+    "timeYear": 564,
     "dailyMinutesDown": {
-      "2022-03-10": 1
+      "2022-03-10": 22
     }
   },
   {
