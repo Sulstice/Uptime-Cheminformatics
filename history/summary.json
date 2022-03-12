@@ -6,9 +6,9 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "80.38%",
-    "uptimeWeek": "79.74%",
-    "uptimeMonth": "94.15%",
+    "uptimeDay": "81.81%",
+    "uptimeWeek": "79.82%",
+    "uptimeMonth": "94.13%",
     "uptimeYear": "99.28%",
     "time": 586,
     "timeDay": 431,
@@ -16,7 +16,7 @@
     "timeMonth": 410,
     "timeYear": 586,
     "dailyMinutesDown": {
-      "2022-03-12": 130,
+      "2022-03-12": 121,
       "2022-03-11": 217,
       "2022-03-10": 270,
       "2022-03-09": 236,
@@ -25,7 +25,7 @@
       "2022-03-06": 343,
       "2022-03-05": 362,
       "2022-03-04": 252,
-      "2022-03-03": 77
+      "2022-03-03": 95
     }
   },
   {
@@ -34,18 +34,18 @@
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
     "status": "up",
-    "uptime": "99.30%",
-    "uptimeDay": "80.80%",
-    "uptimeWeek": "80.58%",
-    "uptimeMonth": "94.25%",
-    "uptimeYear": "99.30%",
+    "uptime": "99.29%",
+    "uptimeDay": "82.19%",
+    "uptimeWeek": "80.66%",
+    "uptimeMonth": "94.23%",
+    "uptimeYear": "99.29%",
     "time": 607,
     "timeDay": 365,
     "timeWeek": 398,
     "timeMonth": 437,
     "timeYear": 607,
     "dailyMinutesDown": {
-      "2022-03-12": 127,
+      "2022-03-12": 119,
       "2022-03-11": 214,
       "2022-03-10": 266,
       "2022-03-09": 230,
@@ -54,7 +54,7 @@
       "2022-03-06": 321,
       "2022-03-05": 354,
       "2022-03-04": 246,
-      "2022-03-03": 126
+      "2022-03-03": 144
     }
   },
   {
@@ -105,7 +105,7 @@
     "uptimeMonth": "99.05%",
     "uptimeYear": "98.97%",
     "time": 667,
-    "timeDay": 654,
+    "timeDay": 643,
     "timeWeek": 622,
     "timeMonth": 663,
     "timeYear": 667,
@@ -546,7 +546,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-12": 544,
+      "2022-03-12": 555,
       "2022-03-11": 1440,
       "2022-03-10": 1440,
       "2022-03-09": 1440,
@@ -715,11 +715,11 @@
     "url": "https://cactus.nci.nih.gov/chemical/structure",
     "icon": "https://favicons.githubusercontent.com/cactus.nci.nih.gov",
     "slug": "chemical-resolver",
-    "status": "up",
+    "status": "down",
     "uptime": "97.19%",
-    "uptimeDay": "98.62%",
-    "uptimeWeek": "98.32%",
-    "uptimeMonth": "97.85%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "98.31%",
+    "uptimeMonth": "97.88%",
     "uptimeYear": "97.19%",
     "time": 673,
     "timeDay": 242,
@@ -727,6 +727,7 @@
     "timeMonth": 581,
     "timeYear": 673,
     "dailyMinutesDown": {
+      "2022-03-12": 0,
       "2022-03-11": 20,
       "2022-03-10": 20,
       "2022-03-09": 29,
