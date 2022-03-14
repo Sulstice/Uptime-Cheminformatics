@@ -6,9 +6,9 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "82.45%",
-    "uptimeWeek": "81.19%",
-    "uptimeMonth": "94.26%",
+    "uptimeDay": "83.16%",
+    "uptimeWeek": "81.38%",
+    "uptimeMonth": "94.24%",
     "uptimeYear": "99.30%",
     "time": 575,
     "timeDay": 387,
@@ -16,7 +16,7 @@
     "timeMonth": 404,
     "timeYear": 575,
     "dailyMinutesDown": {
-      "2022-03-14": 116,
+      "2022-03-14": 106,
       "2022-03-13": 200,
       "2022-03-12": 288,
       "2022-03-11": 217,
@@ -25,7 +25,7 @@
       "2022-03-08": 319,
       "2022-03-07": 356,
       "2022-03-06": 343,
-      "2022-03-05": 171
+      "2022-03-05": 188
     }
   },
   {
@@ -35,9 +35,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "82.80%",
-    "uptimeWeek": "81.86%",
-    "uptimeMonth": "94.33%",
+    "uptimeDay": "83.48%",
+    "uptimeWeek": "82.04%",
+    "uptimeMonth": "94.29%",
     "uptimeYear": "99.31%",
     "time": 598,
     "timeDay": 429,
@@ -45,7 +45,7 @@
     "timeMonth": 433,
     "timeYear": 598,
     "dailyMinutesDown": {
-      "2022-03-14": 116,
+      "2022-03-14": 106,
       "2022-03-13": 194,
       "2022-03-12": 281,
       "2022-03-11": 214,
@@ -54,7 +54,7 @@
       "2022-03-08": 298,
       "2022-03-07": 334,
       "2022-03-06": 321,
-      "2022-03-05": 229
+      "2022-03-05": 257
     }
   },
   {
@@ -106,7 +106,7 @@
     "uptimeYear": "99.01%",
     "time": 667,
     "timeDay": 618,
-    "timeWeek": 631,
+    "timeWeek": 629,
     "timeMonth": 666,
     "timeYear": 667,
     "dailyMinutesDown": {
@@ -316,10 +316,10 @@
     "url": "http://ctdbase.org/",
     "icon": "https://favicons.githubusercontent.com/ctdbase.org",
     "slug": "comparative-toxicogenomics-database",
-    "status": "up",
+    "status": "down",
     "uptime": "96.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "96.02%",
     "uptimeYear": "96.75%",
     "time": 1262,
@@ -328,6 +328,7 @@
     "timeMonth": 1010,
     "timeYear": 1262,
     "dailyMinutesDown": {
+      "2022-03-14": 1,
       "2022-03-03": 31,
       "2022-03-02": 481,
       "2022-03-01": 499,
@@ -546,7 +547,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-14": 415,
+      "2022-03-14": 423,
       "2022-03-13": 1440,
       "2022-03-12": 1440,
       "2022-03-11": 1440,
