@@ -107,7 +107,7 @@
     "time": 668,
     "timeDay": 698,
     "timeWeek": 646,
-    "timeMonth": 667,
+    "timeMonth": 668,
     "timeYear": 668,
     "dailyMinutesDown": {
       "2022-03-14": 17,
@@ -162,18 +162,20 @@
     "url": "https://go.drugbank.com/releases/latest",
     "icon": "https://favicons.githubusercontent.com/go.drugbank.com",
     "slug": "drug-bank",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 364,
-    "timeDay": 0,
-    "timeWeek": 349,
-    "timeMonth": 357,
-    "timeYear": 364,
-    "dailyMinutesDown": {}
+    "time": 359,
+    "timeDay": 70,
+    "timeWeek": 309,
+    "timeMonth": 347,
+    "timeYear": 359,
+    "dailyMinutesDown": {
+      "2022-03-14": 1
+    }
   },
   {
     "name": "Binding Database",
@@ -348,18 +350,17 @@
     "icon": "https://favicons.githubusercontent.com/drugdesign.riken.jp",
     "slug": "amed-cardiotoxicity-database",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 1179,
     "timeDay": 1035,
     "timeWeek": 1431,
     "timeMonth": 1224,
     "timeYear": 1179,
     "dailyMinutesDown": {
-      "2022-03-14": 9,
       "2022-03-04": 15
     }
   },
@@ -549,7 +550,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-14": 1120,
+      "2022-03-14": 1127,
       "2022-03-13": 1440,
       "2022-03-12": 1440,
       "2022-03-11": 1440,
@@ -625,19 +626,17 @@
     "icon": "https://favicons.githubusercontent.com/dra4.nihs.go.jp",
     "slug": "japan-exisiting-database",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 721,
     "timeDay": 564,
     "timeWeek": 802,
     "timeMonth": 728,
     "timeYear": 721,
-    "dailyMinutesDown": {
-      "2022-03-14": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "National Pesticide Center",
