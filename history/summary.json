@@ -6,9 +6,9 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "85.62%",
-    "uptimeWeek": "81.21%",
-    "uptimeMonth": "94.36%",
+    "uptimeDay": "86.17%",
+    "uptimeWeek": "81.28%",
+    "uptimeMonth": "94.31%",
     "uptimeYear": "99.31%",
     "time": 576,
     "timeDay": 396,
@@ -16,7 +16,7 @@
     "timeMonth": 406,
     "timeYear": 576,
     "dailyMinutesDown": {
-      "2022-03-13": 208,
+      "2022-03-13": 200,
       "2022-03-12": 288,
       "2022-03-11": 217,
       "2022-03-10": 270,
@@ -24,7 +24,7 @@
       "2022-03-08": 319,
       "2022-03-07": 356,
       "2022-03-06": 343,
-      "2022-03-05": 235
+      "2022-03-05": 264
     }
   },
   {
@@ -33,18 +33,18 @@
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
     "status": "up",
-    "uptime": "99.32%",
-    "uptimeDay": "85.97%",
-    "uptimeWeek": "81.88%",
-    "uptimeMonth": "94.41%",
-    "uptimeYear": "99.32%",
+    "uptime": "99.30%",
+    "uptimeDay": "86.48%",
+    "uptimeWeek": "81.95%",
+    "uptimeMonth": "94.27%",
+    "uptimeYear": "99.30%",
     "time": 600,
     "timeDay": 412,
     "timeWeek": 408,
     "timeMonth": 436,
     "timeYear": 600,
     "dailyMinutesDown": {
-      "2022-03-13": 201,
+      "2022-03-13": 194,
       "2022-03-12": 281,
       "2022-03-11": 214,
       "2022-03-10": 266,
@@ -52,7 +52,8 @@
       "2022-03-08": 298,
       "2022-03-07": 334,
       "2022-03-06": 321,
-      "2022-03-05": 299
+      "2022-03-05": 354,
+      "2022-03-04": 13
     }
   },
   {
@@ -424,11 +425,11 @@
     "icon": "https://favicons.githubusercontent.com/csbg.cnb.csic.es",
     "slug": "metabolites-biological-role",
     "status": "up",
-    "uptime": "92.50%",
+    "uptime": "92.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "88.16%",
-    "uptimeYear": "92.50%",
+    "uptimeYear": "92.51%",
     "time": 672,
     "timeDay": 0,
     "timeWeek": 878,
@@ -544,7 +545,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-13": 1427,
+      "2022-03-14": 18,
+      "2022-03-13": 1440,
       "2022-03-12": 1440,
       "2022-03-11": 1440,
       "2022-03-10": 1440,
