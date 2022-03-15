@@ -549,7 +549,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-15": 1358,
+      "2022-03-15": 1370,
       "2022-03-14": 1440,
       "2022-03-13": 1440,
       "2022-03-12": 1440,
@@ -679,10 +679,10 @@
     "url": "https://www.genome.jp/kegg/",
     "icon": "https://favicons.githubusercontent.com/www.genome.jp",
     "slug": "kyoto-encyclopedia-of-genes-and-genomes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 912,
@@ -691,6 +691,7 @@
     "timeMonth": 937,
     "timeYear": 912,
     "dailyMinutesDown": {
+      "2022-03-15": 1,
       "2022-02-01": 26
     }
   },
