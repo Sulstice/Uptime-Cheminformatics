@@ -4,19 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
-    "uptime": "99.31%",
-    "uptimeDay": "83.20%",
-    "uptimeWeek": "82.96%",
-    "uptimeMonth": "94.27%",
-    "uptimeYear": "99.31%",
+    "status": "down",
+    "uptime": "99.32%",
+    "uptimeDay": "83.11%",
+    "uptimeWeek": "82.94%",
+    "uptimeMonth": "94.34%",
+    "uptimeYear": "99.32%",
     "time": 565,
     "timeDay": 457,
     "timeWeek": 415,
     "timeMonth": 406,
     "timeYear": 565,
     "dailyMinutesDown": {
-      "2022-03-16": 117,
+      "2022-03-16": 118,
       "2022-03-15": 207,
       "2022-03-14": 265,
       "2022-03-13": 200,
@@ -25,8 +25,7 @@
       "2022-03-10": 270,
       "2022-03-09": 236,
       "2022-03-08": 319,
-      "2022-03-07": 356,
-      "2022-03-06": 32
+      "2022-03-07": 356
     }
   },
   {
@@ -34,19 +33,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
-    "uptime": "99.32%",
-    "uptimeDay": "83.55%",
-    "uptimeWeek": "83.30%",
-    "uptimeMonth": "94.37%",
-    "uptimeYear": "99.32%",
+    "status": "down",
+    "uptime": "99.33%",
+    "uptimeDay": "83.49%",
+    "uptimeWeek": "83.29%",
+    "uptimeMonth": "94.41%",
+    "uptimeYear": "99.33%",
     "time": 587,
     "timeDay": 382,
     "timeWeek": 379,
     "timeMonth": 426,
     "timeYear": 587,
     "dailyMinutesDown": {
-      "2022-03-16": 115,
+      "2022-03-16": 116,
       "2022-03-15": 203,
       "2022-03-14": 261,
       "2022-03-13": 194,
@@ -56,7 +55,7 @@
       "2022-03-09": 230,
       "2022-03-08": 298,
       "2022-03-07": 334,
-      "2022-03-06": 70
+      "2022-03-06": 51
     }
   },
   {
@@ -552,7 +551,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-16": 460,
+      "2022-03-16": 470,
       "2022-03-15": 1440,
       "2022-03-14": 1440,
       "2022-03-13": 1440,
