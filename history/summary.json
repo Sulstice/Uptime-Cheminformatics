@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
     "status": "up",
-    "uptime": "99.32%",
-    "uptimeDay": "80.71%",
-    "uptimeWeek": "82.28%",
-    "uptimeMonth": "94.23%",
-    "uptimeYear": "99.32%",
+    "uptime": "99.31%",
+    "uptimeDay": "81.32%",
+    "uptimeWeek": "82.37%",
+    "uptimeMonth": "94.17%",
+    "uptimeYear": "99.31%",
     "time": 551,
     "timeDay": 407,
     "timeWeek": 399,
     "timeMonth": 404,
     "timeYear": 551,
     "dailyMinutesDown": {
-      "2022-03-20": 64,
+      "2022-03-20": 55,
       "2022-03-19": 315,
       "2022-03-18": 389,
       "2022-03-17": 173,
@@ -26,7 +26,7 @@
       "2022-03-13": 200,
       "2022-03-12": 288,
       "2022-03-11": 217,
-      "2022-03-10": 172
+      "2022-03-10": 209
     }
   },
   {
@@ -36,9 +36,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "81.06%",
-    "uptimeWeek": "82.77%",
-    "uptimeMonth": "94.30%",
+    "uptimeDay": "81.64%",
+    "uptimeWeek": "82.86%",
+    "uptimeMonth": "94.26%",
     "uptimeYear": "99.32%",
     "time": 574,
     "timeDay": 421,
@@ -46,7 +46,7 @@
     "timeMonth": 424,
     "timeYear": 574,
     "dailyMinutesDown": {
-      "2022-03-20": 62,
+      "2022-03-20": 54,
       "2022-03-19": 296,
       "2022-03-18": 385,
       "2022-03-17": 169,
@@ -56,7 +56,7 @@
       "2022-03-13": 194,
       "2022-03-12": 281,
       "2022-03-11": 214,
-      "2022-03-10": 206
+      "2022-03-10": 231
     }
   },
   {
@@ -100,10 +100,10 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://favicons.githubusercontent.com/www.chemexper.com",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "98.89%",
-    "uptimeDay": "98.87%",
-    "uptimeWeek": "98.26%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "98.25%",
     "uptimeMonth": "98.77%",
     "uptimeYear": "98.89%",
     "time": 666,
@@ -112,6 +112,7 @@
     "timeMonth": 654,
     "timeYear": 666,
     "dailyMinutesDown": {
+      "2022-03-20": 1,
       "2022-03-19": 16,
       "2022-03-18": 18,
       "2022-03-16": 38,
@@ -557,7 +558,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-20": 412,
+      "2022-03-20": 421,
       "2022-03-19": 1440,
       "2022-03-18": 1440,
       "2022-03-17": 1440,
