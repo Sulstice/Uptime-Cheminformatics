@@ -6,9 +6,9 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "79.27%",
-    "uptimeWeek": "83.09%",
-    "uptimeMonth": "94.00%",
+    "uptimeDay": "80.85%",
+    "uptimeWeek": "83.21%",
+    "uptimeMonth": "93.99%",
     "uptimeYear": "99.30%",
     "time": 565,
     "timeDay": 843,
@@ -16,7 +16,7 @@
     "timeMonth": 460,
     "timeYear": 565,
     "dailyMinutesDown": {
-      "2022-03-24": 131,
+      "2022-03-24": 119,
       "2022-03-23": 235,
       "2022-03-22": 152,
       "2022-03-21": 126,
@@ -27,7 +27,7 @@
       "2022-03-16": 234,
       "2022-03-15": 207,
       "2022-03-14": 265,
-      "2022-03-13": 136
+      "2022-03-13": 152
     }
   },
   {
@@ -37,9 +37,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "78.00%",
-    "uptimeWeek": "83.23%",
-    "uptimeMonth": "94.07%",
+    "uptimeDay": "79.52%",
+    "uptimeWeek": "83.35%",
+    "uptimeMonth": "94.06%",
     "uptimeYear": "99.31%",
     "time": 573,
     "timeDay": 508,
@@ -47,7 +47,7 @@
     "timeMonth": 448,
     "timeYear": 573,
     "dailyMinutesDown": {
-      "2022-03-24": 128,
+      "2022-03-24": 117,
       "2022-03-23": 252,
       "2022-03-22": 150,
       "2022-03-21": 131,
@@ -58,7 +58,7 @@
       "2022-03-16": 230,
       "2022-03-15": 203,
       "2022-03-14": 261,
-      "2022-03-13": 133
+      "2022-03-13": 148
     }
   },
   {
@@ -561,7 +561,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-24": 442,
+      "2022-03-24": 454,
       "2022-03-23": 1440,
       "2022-03-22": 1440,
       "2022-03-21": 1440,
@@ -722,10 +722,10 @@
     "url": "https://www.heterocycles.jp/newlibrary/natural_products/structure",
     "icon": "https://favicons.githubusercontent.com/www.heterocycles.jp",
     "slug": "hetereocycles",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 2254,
@@ -734,6 +734,7 @@
     "timeMonth": 1732,
     "timeYear": 2254,
     "dailyMinutesDown": {
+      "2022-03-24": 1,
       "2022-02-08": 32,
       "2022-02-07": 35,
       "2022-02-06": 15
