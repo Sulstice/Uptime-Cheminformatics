@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.17%",
-    "uptimeDay": "52.04%",
-    "uptimeWeek": "78.66%",
-    "uptimeMonth": "92.77%",
+    "uptimeDay": "51.96%",
+    "uptimeWeek": "78.73%",
+    "uptimeMonth": "92.81%",
     "uptimeYear": "99.17%",
     "time": 622,
     "timeDay": 3361,
@@ -16,7 +16,7 @@
     "timeMonth": 587,
     "timeYear": 622,
     "dailyMinutesDown": {
-      "2022-03-27": 690,
+      "2022-03-27": 691,
       "2022-03-26": 416,
       "2022-03-25": 284,
       "2022-03-24": 237,
@@ -26,7 +26,7 @@
       "2022-03-20": 264,
       "2022-03-19": 315,
       "2022-03-18": 389,
-      "2022-03-17": 55
+      "2022-03-17": 39
     }
   },
   {
@@ -34,11 +34,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "55.09%",
-    "uptimeWeek": "79.04%",
-    "uptimeMonth": "92.97%",
+    "uptimeDay": "55.04%",
+    "uptimeWeek": "79.12%",
+    "uptimeMonth": "93.01%",
     "uptimeYear": "99.19%",
     "time": 632,
     "timeDay": 3552,
@@ -46,7 +46,7 @@
     "timeMonth": 599,
     "timeYear": 632,
     "dailyMinutesDown": {
-      "2022-03-27": 645,
+      "2022-03-27": 646,
       "2022-03-26": 412,
       "2022-03-25": 280,
       "2022-03-24": 233,
@@ -56,7 +56,7 @@
       "2022-03-20": 261,
       "2022-03-19": 296,
       "2022-03-18": 385,
-      "2022-03-17": 37
+      "2022-03-17": 19
     }
   },
   {
@@ -444,7 +444,7 @@
     "uptime": "94.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.67%",
-    "uptimeMonth": "94.70%",
+    "uptimeMonth": "94.72%",
     "uptimeYear": "94.16%",
     "time": 655,
     "timeDay": 648,
@@ -529,7 +529,7 @@
     "slug": "ecology-toxicity",
     "status": "up",
     "uptime": "94.40%",
-    "uptimeDay": "61.37%",
+    "uptimeDay": "62.00%",
     "uptimeWeek": "65.57%",
     "uptimeMonth": "92.08%",
     "uptimeYear": "94.40%",
@@ -566,7 +566,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-27": 1424,
+      "2022-03-27": 1433,
       "2022-03-26": 1440,
       "2022-03-25": 1440,
       "2022-03-24": 1440,
