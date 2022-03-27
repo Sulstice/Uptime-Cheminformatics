@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.17%",
-    "uptimeDay": "48.91%",
-    "uptimeWeek": "78.49%",
-    "uptimeMonth": "92.77%",
+    "uptimeDay": "49.50%",
+    "uptimeWeek": "78.58%",
+    "uptimeMonth": "92.81%",
     "uptimeYear": "99.17%",
     "time": 617,
     "timeDay": 3176,
@@ -16,7 +16,7 @@
     "timeMonth": 577,
     "timeYear": 617,
     "dailyMinutesDown": {
-      "2022-03-27": 672,
+      "2022-03-27": 673,
       "2022-03-26": 416,
       "2022-03-25": 284,
       "2022-03-24": 237,
@@ -26,7 +26,7 @@
       "2022-03-20": 264,
       "2022-03-19": 315,
       "2022-03-18": 389,
-      "2022-03-17": 74
+      "2022-03-17": 55
     }
   },
   {
@@ -38,7 +38,7 @@
     "uptime": "99.19%",
     "uptimeDay": "53.28%",
     "uptimeWeek": "79.06%",
-    "uptimeMonth": "93.02%",
+    "uptimeMonth": "92.99%",
     "uptimeYear": "99.19%",
     "time": 622,
     "timeDay": 3037,
@@ -46,7 +46,7 @@
     "timeMonth": 576,
     "timeYear": 622,
     "dailyMinutesDown": {
-      "2022-03-27": 608,
+      "2022-03-27": 618,
       "2022-03-26": 412,
       "2022-03-25": 280,
       "2022-03-24": 233,
@@ -108,7 +108,7 @@
     "uptimeYear": "98.99%",
     "time": 663,
     "timeDay": 618,
-    "timeWeek": 634,
+    "timeWeek": 636,
     "timeMonth": 645,
     "timeYear": 663,
     "dailyMinutesDown": {
@@ -444,7 +444,7 @@
     "uptime": "94.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.67%",
-    "uptimeMonth": "94.52%",
+    "uptimeMonth": "94.54%",
     "uptimeYear": "94.15%",
     "time": 656,
     "timeDay": 484,
@@ -529,7 +529,7 @@
     "slug": "ecology-toxicity",
     "status": "up",
     "uptime": "94.39%",
-    "uptimeDay": "56.07%",
+    "uptimeDay": "56.75%",
     "uptimeWeek": "65.57%",
     "uptimeMonth": "92.08%",
     "uptimeYear": "94.39%",
@@ -566,7 +566,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-27": 1348,
+      "2022-03-27": 1358,
       "2022-03-26": 1440,
       "2022-03-25": 1440,
       "2022-03-24": 1440,
