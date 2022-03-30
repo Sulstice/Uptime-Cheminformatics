@@ -4,19 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
-    "uptime": "99.00%",
-    "uptimeDay": "82.47%",
-    "uptimeWeek": "70.85%",
-    "uptimeMonth": "91.27%",
-    "uptimeYear": "99.00%",
+    "status": "down",
+    "uptime": "99.01%",
+    "uptimeDay": "82.39%",
+    "uptimeWeek": "70.84%",
+    "uptimeMonth": "91.31%",
+    "uptimeYear": "99.01%",
     "time": 645,
     "timeDay": 454,
-    "timeWeek": 1291,
+    "timeWeek": 1265,
     "timeMonth": 634,
     "timeYear": 645,
     "dailyMinutesDown": {
-      "2022-03-30": 184,
+      "2022-03-30": 185,
       "2022-03-29": 101,
       "2022-03-28": 892,
       "2022-03-27": 699,
@@ -27,7 +27,7 @@
       "2022-03-22": 152,
       "2022-03-21": 126,
       "2022-03-20": 264,
-      "2022-03-19": 235
+      "2022-03-19": 215
     }
   },
   {
@@ -35,11 +35,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.05%",
-    "uptimeDay": "82.71%",
-    "uptimeWeek": "72.04%",
-    "uptimeMonth": "91.65%",
+    "uptimeDay": "82.66%",
+    "uptimeWeek": "72.18%",
+    "uptimeMonth": "91.69%",
     "uptimeYear": "99.05%",
     "time": 641,
     "timeDay": 382,
@@ -47,7 +47,7 @@
     "timeMonth": 620,
     "timeYear": 641,
     "dailyMinutesDown": {
-      "2022-03-30": 183,
+      "2022-03-30": 184,
       "2022-03-29": 99,
       "2022-03-28": 821,
       "2022-03-27": 653,
@@ -58,7 +58,7 @@
       "2022-03-22": 150,
       "2022-03-21": 131,
       "2022-03-20": 261,
-      "2022-03-19": 184
+      "2022-03-19": 164
     }
   },
   {
@@ -448,7 +448,7 @@
     "uptime": "94.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.12%",
+    "uptimeMonth": "96.16%",
     "uptimeYear": "94.38%",
     "time": 649,
     "timeDay": 496,
@@ -570,7 +570,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-30": 609,
+      "2022-03-30": 624,
       "2022-03-29": 1440,
       "2022-03-28": 1440,
       "2022-03-27": 1440,
