@@ -4,19 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
-    "uptime": "98.96%",
-    "uptimeDay": "85.88%",
-    "uptimeWeek": "75.23%",
-    "uptimeMonth": "90.71%",
-    "uptimeYear": "98.96%",
+    "status": "down",
+    "uptime": "98.97%",
+    "uptimeDay": "85.81%",
+    "uptimeWeek": "75.22%",
+    "uptimeMonth": "90.81%",
+    "uptimeYear": "98.97%",
     "time": 636,
-    "timeDay": 429,
-    "timeWeek": 907,
+    "timeDay": 427,
+    "timeWeek": 884,
     "timeMonth": 627,
     "timeYear": 636,
     "dailyMinutesDown": {
-      "2022-04-03": 157,
+      "2022-04-03": 158,
       "2022-04-02": 186,
       "2022-04-01": 474,
       "2022-03-31": 197,
@@ -27,7 +27,7 @@
       "2022-03-26": 416,
       "2022-03-25": 284,
       "2022-03-24": 237,
-      "2022-03-23": 125
+      "2022-03-23": 78
     }
   },
   {
@@ -35,19 +35,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
-    "uptime": "99.01%",
-    "uptimeDay": "86.16%",
-    "uptimeWeek": "76.21%",
-    "uptimeMonth": "91.20%",
-    "uptimeYear": "99.01%",
+    "status": "down",
+    "uptime": "99.02%",
+    "uptimeDay": "86.11%",
+    "uptimeWeek": "76.36%",
+    "uptimeMonth": "91.24%",
+    "uptimeYear": "99.02%",
     "time": 638,
     "timeDay": 398,
     "timeWeek": 872,
     "timeMonth": 607,
     "timeYear": 638,
     "dailyMinutesDown": {
-      "2022-04-03": 155,
+      "2022-04-03": 156,
       "2022-04-02": 181,
       "2022-04-01": 455,
       "2022-03-31": 196,
@@ -58,7 +58,7 @@
       "2022-03-26": 412,
       "2022-03-25": 280,
       "2022-03-24": 233,
-      "2022-03-23": 73
+      "2022-03-23": 54
     }
   },
   {
@@ -574,7 +574,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-03": 1092,
+      "2022-04-03": 1107,
       "2022-04-02": 1440,
       "2022-04-01": 1440,
       "2022-03-31": 1440,
