@@ -4,19 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
-    "uptime": "98.98%",
-    "uptimeDay": "91.81%",
-    "uptimeWeek": "84.57%",
-    "uptimeMonth": "90.87%",
-    "uptimeYear": "98.98%",
+    "status": "down",
+    "uptime": "98.99%",
+    "uptimeDay": "91.70%",
+    "uptimeWeek": "84.55%",
+    "uptimeMonth": "90.93%",
+    "uptimeYear": "98.99%",
     "time": 633,
     "timeDay": 407,
     "timeWeek": 489,
     "timeMonth": 636,
     "timeYear": 633,
     "dailyMinutesDown": {
-      "2022-04-05": 82,
+      "2022-04-05": 84,
       "2022-04-04": 54,
       "2022-04-03": 190,
       "2022-04-02": 186,
@@ -28,7 +28,7 @@
       "2022-03-27": 699,
       "2022-03-26": 416,
       "2022-03-25": 284,
-      "2022-03-24": 118
+      "2022-03-24": 91
     }
   },
   {
@@ -36,11 +36,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.03%",
-    "uptimeDay": "92.02%",
-    "uptimeWeek": "84.96%",
-    "uptimeMonth": "91.32%",
+    "uptimeDay": "91.93%",
+    "uptimeWeek": "84.95%",
+    "uptimeMonth": "91.35%",
     "uptimeYear": "99.03%",
     "time": 635,
     "timeDay": 415,
@@ -48,7 +48,7 @@
     "timeMonth": 616,
     "timeYear": 635,
     "dailyMinutesDown": {
-      "2022-04-05": 82,
+      "2022-04-05": 83,
       "2022-04-04": 52,
       "2022-04-03": 187,
       "2022-04-02": 181,
@@ -60,7 +60,7 @@
       "2022-03-27": 653,
       "2022-03-26": 412,
       "2022-03-25": 280,
-      "2022-03-24": 89
+      "2022-03-24": 72
     }
   },
   {
@@ -413,18 +413,17 @@
     "icon": "https://favicons.githubusercontent.com/xundrug.cn",
     "slug": "drug-safety-analysis-system",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.94%",
     "time": 1542,
     "timeDay": 917,
     "timeWeek": 846,
     "timeMonth": 1629,
     "timeYear": 1542,
     "dailyMinutesDown": {
-      "2022-04-05": 8,
       "2022-02-17": 39,
       "2022-02-09": 22
     }
@@ -578,7 +577,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-05": 587,
+      "2022-04-05": 597,
       "2022-04-04": 1440,
       "2022-04-03": 1440,
       "2022-04-02": 1440,
