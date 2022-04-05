@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
     "status": "up",
-    "uptime": "98.99%",
-    "uptimeDay": "91.19%",
-    "uptimeWeek": "84.67%",
-    "uptimeMonth": "90.91%",
-    "uptimeYear": "98.99%",
+    "uptime": "98.98%",
+    "uptimeDay": "91.81%",
+    "uptimeWeek": "84.76%",
+    "uptimeMonth": "90.87%",
+    "uptimeYear": "98.98%",
     "time": 633,
     "timeDay": 424,
-    "timeWeek": 491,
+    "timeWeek": 492,
     "timeMonth": 636,
     "timeYear": 633,
     "dailyMinutesDown": {
-      "2022-04-05": 91,
+      "2022-04-05": 82,
       "2022-04-04": 54,
       "2022-04-03": 190,
       "2022-04-02": 186,
@@ -28,7 +28,7 @@
       "2022-03-27": 699,
       "2022-03-26": 416,
       "2022-03-25": 284,
-      "2022-03-24": 91
+      "2022-03-24": 118
     }
   },
   {
@@ -38,17 +38,17 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.03%",
-    "uptimeDay": "91.43%",
-    "uptimeWeek": "85.06%",
-    "uptimeMonth": "91.34%",
+    "uptimeDay": "92.02%",
+    "uptimeWeek": "85.15%",
+    "uptimeMonth": "91.32%",
     "uptimeYear": "99.03%",
     "time": 635,
     "timeDay": 397,
-    "timeWeek": 533,
+    "timeWeek": 535,
     "timeMonth": 616,
     "timeYear": 635,
     "dailyMinutesDown": {
-      "2022-04-05": 90,
+      "2022-04-05": 82,
       "2022-04-04": 52,
       "2022-04-03": 187,
       "2022-04-02": 181,
@@ -60,7 +60,7 @@
       "2022-03-27": 653,
       "2022-03-26": 412,
       "2022-03-25": 280,
-      "2022-03-24": 72
+      "2022-03-24": 89
     }
   },
   {
@@ -113,7 +113,7 @@
     "time": 660,
     "timeDay": 828,
     "timeWeek": 632,
-    "timeMonth": 632,
+    "timeMonth": 631,
     "timeYear": 660,
     "dailyMinutesDown": {
       "2022-04-01": 30,
@@ -538,11 +538,11 @@
     "url": "https://cfpub.epa.gov/ecotox/",
     "icon": "https://favicons.githubusercontent.com/cfpub.epa.gov",
     "slug": "ecology-toxicity",
-    "status": "up",
+    "status": "down",
     "uptime": "95.07%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.08%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "92.07%",
     "uptimeYear": "95.07%",
     "time": 719,
     "timeDay": 640,
@@ -550,6 +550,7 @@
     "timeMonth": 859,
     "timeYear": 719,
     "dailyMinutesDown": {
+      "2022-04-05": 1,
       "2022-03-27": 540,
       "2022-03-26": 1440,
       "2022-03-25": 1440,
@@ -577,7 +578,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-05": 664,
+      "2022-04-05": 688,
       "2022-04-04": 1440,
       "2022-04-03": 1440,
       "2022-04-02": 1440,
