@@ -4,19 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
-    "uptime": "98.99%",
-    "uptimeDay": "84.28%",
-    "uptimeWeek": "84.96%",
-    "uptimeMonth": "90.88%",
-    "uptimeYear": "98.99%",
+    "status": "down",
+    "uptime": "99.00%",
+    "uptimeDay": "84.16%",
+    "uptimeWeek": "85.12%",
+    "uptimeMonth": "90.96%",
+    "uptimeYear": "99.00%",
     "time": 627,
     "timeDay": 386,
-    "timeWeek": 472,
+    "timeWeek": 473,
     "timeMonth": 637,
     "timeYear": 627,
     "dailyMinutesDown": {
-      "2022-04-06": 170,
+      "2022-04-06": 172,
       "2022-04-05": 207,
       "2022-04-04": 54,
       "2022-04-03": 190,
@@ -28,7 +28,7 @@
       "2022-03-28": 892,
       "2022-03-27": 699,
       "2022-03-26": 416,
-      "2022-03-25": 103
+      "2022-03-25": 66
     }
   },
   {
@@ -36,19 +36,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
-    "uptime": "99.04%",
-    "uptimeDay": "84.59%",
-    "uptimeWeek": "85.36%",
-    "uptimeMonth": "91.35%",
-    "uptimeYear": "99.04%",
+    "status": "down",
+    "uptime": "99.05%",
+    "uptimeDay": "84.49%",
+    "uptimeWeek": "85.52%",
+    "uptimeMonth": "91.41%",
+    "uptimeYear": "99.05%",
     "time": 630,
     "timeDay": 396,
-    "timeWeek": 529,
+    "timeWeek": 531,
     "timeMonth": 617,
     "timeYear": 630,
     "dailyMinutesDown": {
-      "2022-04-06": 166,
+      "2022-04-06": 167,
       "2022-04-05": 205,
       "2022-04-04": 52,
       "2022-04-03": 187,
@@ -60,7 +60,7 @@
       "2022-03-28": 821,
       "2022-03-27": 653,
       "2022-03-26": 412,
-      "2022-03-25": 66
+      "2022-03-25": 37
     }
   },
   {
@@ -578,7 +578,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-06": 1014,
+      "2022-04-06": 1038,
       "2022-04-05": 1440,
       "2022-04-04": 1440,
       "2022-04-03": 1440,
