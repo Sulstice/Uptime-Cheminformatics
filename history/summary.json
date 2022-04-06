@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
     "status": "up",
-    "uptime": "99.00%",
-    "uptimeDay": "82.54%",
-    "uptimeWeek": "84.83%",
-    "uptimeMonth": "90.96%",
-    "uptimeYear": "99.00%",
+    "uptime": "98.99%",
+    "uptimeDay": "83.70%",
+    "uptimeWeek": "84.91%",
+    "uptimeMonth": "90.94%",
+    "uptimeYear": "98.99%",
     "time": 626,
     "timeDay": 373,
     "timeWeek": 473,
     "timeMonth": 637,
     "timeYear": 626,
     "dailyMinutesDown": {
-      "2022-04-06": 219,
+      "2022-04-06": 210,
       "2022-04-05": 207,
       "2022-04-04": 54,
       "2022-04-03": 190,
@@ -28,7 +28,7 @@
       "2022-03-28": 892,
       "2022-03-27": 699,
       "2022-03-26": 416,
-      "2022-03-25": 18
+      "2022-03-25": 37
     }
   },
   {
@@ -38,9 +38,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.04%",
-    "uptimeDay": "82.90%",
-    "uptimeWeek": "85.23%",
-    "uptimeMonth": "91.39%",
+    "uptimeDay": "84.03%",
+    "uptimeWeek": "85.31%",
+    "uptimeMonth": "91.37%",
     "uptimeYear": "99.04%",
     "time": 629,
     "timeDay": 356,
@@ -48,7 +48,7 @@
     "timeMonth": 617,
     "timeYear": 629,
     "dailyMinutesDown": {
-      "2022-04-06": 214,
+      "2022-04-06": 206,
       "2022-04-05": 205,
       "2022-04-04": 52,
       "2022-04-03": 187,
@@ -59,7 +59,8 @@
       "2022-03-29": 99,
       "2022-03-28": 821,
       "2022-03-27": 653,
-      "2022-03-26": 412
+      "2022-03-26": 412,
+      "2022-03-25": 18
     }
   },
   {
@@ -577,7 +578,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-06": 1303,
+      "2022-04-06": 1311,
       "2022-04-05": 1440,
       "2022-04-04": 1440,
       "2022-04-03": 1440,
@@ -711,18 +712,19 @@
     "url": "https://www.pesticideinfo.org/",
     "icon": "https://favicons.githubusercontent.com/www.pesticideinfo.org",
     "slug": "pesticide-info",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.96%",
-    "time": 498,
-    "timeDay": 639,
-    "timeWeek": 551,
-    "timeMonth": 478,
-    "timeYear": 498,
+    "time": 497,
+    "timeDay": 495,
+    "timeWeek": 531,
+    "timeMonth": 474,
+    "timeYear": 497,
     "dailyMinutesDown": {
+      "2022-04-06": 1,
       "2022-04-04": 41
     }
   },
