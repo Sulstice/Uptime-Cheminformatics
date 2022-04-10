@@ -6,9 +6,9 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.13%",
-    "uptimeDay": "90.87%",
-    "uptimeWeek": "87.64%",
-    "uptimeMonth": "92.10%",
+    "uptimeDay": "91.68%",
+    "uptimeWeek": "87.76%",
+    "uptimeMonth": "92.09%",
     "uptimeYear": "99.13%",
     "time": 613,
     "timeDay": 325,
@@ -16,7 +16,7 @@
     "timeMonth": 632,
     "timeYear": 613,
     "dailyMinutesDown": {
-      "2022-04-10": 49,
+      "2022-04-10": 37,
       "2022-04-09": 160,
       "2022-04-08": 173,
       "2022-04-07": 231,
@@ -30,7 +30,7 @@
       "2022-03-30": 301,
       "2022-03-29": 101,
       "2022-03-28": 892,
-      "2022-03-27": 9
+      "2022-03-27": 27
     }
   },
   {
@@ -39,18 +39,18 @@
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
     "status": "up",
-    "uptime": "99.17%",
-    "uptimeDay": "91.11%",
-    "uptimeWeek": "87.91%",
-    "uptimeMonth": "92.40%",
-    "uptimeYear": "99.17%",
+    "uptime": "99.16%",
+    "uptimeDay": "91.89%",
+    "uptimeWeek": "88.03%",
+    "uptimeMonth": "92.39%",
+    "uptimeYear": "99.16%",
     "time": 618,
     "timeDay": 370,
     "timeWeek": 385,
     "timeMonth": 617,
     "timeYear": 618,
     "dailyMinutesDown": {
-      "2022-04-10": 47,
+      "2022-04-10": 36,
       "2022-04-09": 157,
       "2022-04-08": 169,
       "2022-04-07": 225,
@@ -64,7 +64,7 @@
       "2022-03-30": 297,
       "2022-03-29": 99,
       "2022-03-28": 821,
-      "2022-03-27": 8
+      "2022-03-27": 26
     }
   },
   {
@@ -341,7 +341,7 @@
     "url": "http://ctdbase.org/",
     "icon": "https://favicons.githubusercontent.com/ctdbase.org",
     "slug": "comparative-toxicogenomics-database",
-    "status": "up",
+    "status": "down",
     "uptime": "97.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.38%",
@@ -583,7 +583,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-10": 290,
+      "2022-04-10": 300,
       "2022-04-09": 1440,
       "2022-04-08": 1440,
       "2022-04-07": 1440,
