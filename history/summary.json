@@ -4,19 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
-    "uptime": "99.40%",
-    "uptimeDay": "84.59%",
-    "uptimeWeek": "87.56%",
-    "uptimeMonth": "94.41%",
-    "uptimeYear": "99.40%",
+    "status": "down",
+    "uptime": "99.41%",
+    "uptimeDay": "85.17%",
+    "uptimeWeek": "87.55%",
+    "uptimeMonth": "94.50%",
+    "uptimeYear": "99.41%",
     "time": 599,
     "timeDay": 395,
     "timeWeek": 429,
     "timeMonth": 651,
     "timeYear": 599,
     "dailyMinutesDown": {
-      "2022-04-16": 106,
+      "2022-04-16": 107,
       "2022-04-15": 260,
       "2022-04-14": 98,
       "2022-04-13": 306,
@@ -29,7 +29,7 @@
       "2022-04-06": 234,
       "2022-04-05": 207,
       "2022-04-04": 54,
-      "2022-04-03": 177
+      "2022-04-03": 137
     }
   },
   {
@@ -37,11 +37,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "84.88%",
+    "uptimeDay": "85.48%",
     "uptimeWeek": "88.09%",
-    "uptimeMonth": "94.46%",
+    "uptimeMonth": "94.51%",
     "uptimeYear": "99.41%",
     "time": 612,
     "timeDay": 416,
@@ -49,7 +49,7 @@
     "timeMonth": 657,
     "timeYear": 612,
     "dailyMinutesDown": {
-      "2022-04-16": 104,
+      "2022-04-16": 105,
       "2022-04-15": 256,
       "2022-04-14": 97,
       "2022-04-13": 286,
@@ -63,7 +63,7 @@
       "2022-04-05": 205,
       "2022-04-04": 52,
       "2022-04-03": 187,
-      "2022-04-02": 44
+      "2022-04-02": 21
     }
   },
   {
@@ -586,7 +586,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-16": 525,
+      "2022-04-16": 535,
       "2022-04-15": 1440,
       "2022-04-14": 1440,
       "2022-04-13": 1440,
@@ -801,7 +801,7 @@
     "uptimeMonth": "97.74%",
     "uptimeYear": "97.46%",
     "time": 653,
-    "timeDay": 333,
+    "timeDay": 278,
     "timeWeek": 498,
     "timeMonth": 635,
     "timeYear": 653,
