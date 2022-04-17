@@ -6,9 +6,9 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "90.05%",
-    "uptimeWeek": "86.56%",
-    "uptimeMonth": "94.41%",
+    "uptimeDay": "90.59%",
+    "uptimeWeek": "86.64%",
+    "uptimeMonth": "94.39%",
     "uptimeYear": "99.40%",
     "time": 596,
     "timeDay": 397,
@@ -16,7 +16,7 @@
     "timeMonth": 652,
     "timeYear": 596,
     "dailyMinutesDown": {
-      "2022-04-17": 86,
+      "2022-04-17": 78,
       "2022-04-16": 200,
       "2022-04-15": 260,
       "2022-04-14": 98,
@@ -29,7 +29,8 @@
       "2022-04-07": 231,
       "2022-04-06": 234,
       "2022-04-05": 207,
-      "2022-04-04": 54
+      "2022-04-04": 54,
+      "2022-04-03": 16
     }
   },
   {
@@ -39,9 +40,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "90.26%",
-    "uptimeWeek": "87.12%",
-    "uptimeMonth": "94.51%",
+    "uptimeDay": "90.76%",
+    "uptimeWeek": "87.19%",
+    "uptimeMonth": "94.49%",
     "uptimeYear": "99.41%",
     "time": 609,
     "timeDay": 355,
@@ -49,7 +50,7 @@
     "timeMonth": 657,
     "timeYear": 609,
     "dailyMinutesDown": {
-      "2022-04-17": 84,
+      "2022-04-17": 77,
       "2022-04-16": 196,
       "2022-04-15": 256,
       "2022-04-14": 97,
@@ -63,7 +64,7 @@
       "2022-04-06": 229,
       "2022-04-05": 205,
       "2022-04-04": 52,
-      "2022-04-03": 32
+      "2022-04-03": 51
     }
   },
   {
@@ -341,19 +342,19 @@
     "url": "http://ctdbase.org/",
     "icon": "https://favicons.githubusercontent.com/ctdbase.org",
     "slug": "comparative-toxicogenomics-database",
-    "status": "down",
-    "uptime": "97.36%",
-    "uptimeDay": "89.00%",
-    "uptimeWeek": "97.95%",
-    "uptimeMonth": "99.19%",
-    "uptimeYear": "97.36%",
-    "time": 1335,
-    "timeDay": 326,
-    "timeWeek": 4664,
-    "timeMonth": 1566,
-    "timeYear": 1335,
+    "status": "up",
+    "uptime": "97.35%",
+    "uptimeDay": "89.10%",
+    "uptimeWeek": "97.87%",
+    "uptimeMonth": "99.18%",
+    "uptimeYear": "97.35%",
+    "time": 1328,
+    "timeDay": 365,
+    "timeWeek": 4281,
+    "timeMonth": 1542,
+    "timeYear": 1328,
     "dailyMinutesDown": {
-      "2022-04-17": 142,
+      "2022-04-17": 151,
       "2022-04-16": 48,
       "2022-04-12": 16,
       "2022-04-07": 46,
@@ -588,7 +589,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-17": 843,
+      "2022-04-17": 852,
       "2022-04-16": 1440,
       "2022-04-15": 1440,
       "2022-04-14": 1440,
