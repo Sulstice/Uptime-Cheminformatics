@@ -6,9 +6,9 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "87.46%",
-    "uptimeWeek": "86.99%",
-    "uptimeMonth": "94.41%",
+    "uptimeDay": "88.00%",
+    "uptimeWeek": "87.07%",
+    "uptimeMonth": "94.38%",
     "uptimeYear": "99.40%",
     "time": 595,
     "timeDay": 432,
@@ -16,7 +16,7 @@
     "timeMonth": 652,
     "timeYear": 595,
     "dailyMinutesDown": {
-      "2022-04-17": 123,
+      "2022-04-17": 115,
       "2022-04-16": 200,
       "2022-04-15": 260,
       "2022-04-14": 98,
@@ -29,7 +29,7 @@
       "2022-04-07": 231,
       "2022-04-06": 234,
       "2022-04-05": 207,
-      "2022-04-04": 16
+      "2022-04-04": 35
     }
   },
   {
@@ -39,9 +39,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "87.74%",
-    "uptimeWeek": "87.54%",
-    "uptimeMonth": "94.50%",
+    "uptimeDay": "88.25%",
+    "uptimeWeek": "87.61%",
+    "uptimeMonth": "94.48%",
     "uptimeYear": "99.41%",
     "time": 608,
     "timeDay": 407,
@@ -49,7 +49,7 @@
     "timeMonth": 657,
     "timeYear": 608,
     "dailyMinutesDown": {
-      "2022-04-17": 120,
+      "2022-04-17": 113,
       "2022-04-16": 196,
       "2022-04-15": 256,
       "2022-04-14": 97,
@@ -62,7 +62,8 @@
       "2022-04-07": 225,
       "2022-04-06": 229,
       "2022-04-05": 205,
-      "2022-04-04": 52
+      "2022-04-04": 52,
+      "2022-04-03": 16
     }
   },
   {
@@ -228,19 +229,19 @@
     "url": "https://sdbs.db.aist.go.jp/sdbs/cgi-bin/cre_index.cgi?lang=eng",
     "icon": "https://favicons.githubusercontent.com/sdbs.db.aist.go.jp",
     "slug": "spectral-database-for-organic-compounds",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 2080,
-    "timeDay": 1611,
+    "time": 2078,
+    "timeDay": 1699,
     "timeWeek": 1871,
-    "timeMonth": 1746,
-    "timeYear": 2080,
+    "timeMonth": 1750,
+    "timeYear": 2078,
     "dailyMinutesDown": {
-      "2022-04-17": 1,
+      "2022-04-17": 9,
       "2022-03-07": 20
     }
   },
@@ -588,7 +589,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-17": 1261,
+      "2022-04-17": 1270,
       "2022-04-16": 1440,
       "2022-04-15": 1440,
       "2022-04-14": 1440,
