@@ -4,19 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
-    "uptime": "99.38%",
-    "uptimeDay": "81.63%",
-    "uptimeWeek": "84.91%",
-    "uptimeMonth": "94.19%",
-    "uptimeYear": "99.38%",
+    "status": "down",
+    "uptime": "99.39%",
+    "uptimeDay": "81.53%",
+    "uptimeWeek": "84.89%",
+    "uptimeMonth": "94.24%",
+    "uptimeYear": "99.39%",
     "time": 591,
-    "timeDay": 411,
+    "timeDay": 409,
     "timeWeek": 399,
     "timeMonth": 654,
     "timeYear": 591,
     "dailyMinutesDown": {
-      "2022-04-19": 260,
+      "2022-04-19": 261,
       "2022-04-18": 236,
       "2022-04-17": 154,
       "2022-04-16": 200,
@@ -28,8 +28,7 @@
       "2022-04-10": 137,
       "2022-04-09": 160,
       "2022-04-08": 173,
-      "2022-04-07": 231,
-      "2022-04-06": 24
+      "2022-04-07": 231
     }
   },
   {
@@ -37,19 +36,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "81.97%",
-    "uptimeWeek": "85.62%",
-    "uptimeMonth": "94.23%",
+    "uptimeDay": "81.90%",
+    "uptimeWeek": "85.61%",
+    "uptimeMonth": "94.27%",
     "uptimeYear": "99.39%",
     "time": 601,
-    "timeDay": 296,
+    "timeDay": 303,
     "timeWeek": 447,
     "timeMonth": 650,
     "timeYear": 601,
     "dailyMinutesDown": {
-      "2022-04-19": 257,
+      "2022-04-19": 258,
       "2022-04-18": 205,
       "2022-04-17": 151,
       "2022-04-16": 196,
@@ -62,7 +61,7 @@
       "2022-04-09": 157,
       "2022-04-08": 169,
       "2022-04-07": 225,
-      "2022-04-06": 117
+      "2022-04-06": 95
     }
   },
   {
@@ -589,7 +588,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-19": 1302,
+      "2022-04-19": 1320,
       "2022-04-18": 1440,
       "2022-04-17": 1440,
       "2022-04-16": 1440,
