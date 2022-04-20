@@ -12,7 +12,7 @@
     "uptimeYear": "99.39%",
     "time": 590,
     "timeDay": 456,
-    "timeWeek": 413,
+    "timeWeek": 412,
     "timeMonth": 658,
     "timeYear": 590,
     "dailyMinutesDown": {
@@ -45,7 +45,7 @@
     "uptimeYear": "99.39%",
     "time": 600,
     "timeDay": 334,
-    "timeWeek": 426,
+    "timeWeek": 423,
     "timeMonth": 653,
     "timeYear": 600,
     "dailyMinutesDown": {
@@ -88,9 +88,9 @@
     "url": "https://webbook.nist.gov/chemistry/",
     "icon": "https://favicons.githubusercontent.com/webbook.nist.gov",
     "slug": "nist-chemistry-webhook",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.49%",
+    "uptimeDay": "98.43%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
@@ -100,7 +100,7 @@
     "timeMonth": 404,
     "timeYear": 396,
     "dailyMinutesDown": {
-      "2022-04-20": 22
+      "2022-04-20": 23
     }
   },
   {
@@ -109,11 +109,11 @@
     "icon": "https://favicons.githubusercontent.com/www.chemexper.com",
     "slug": "chem-exper",
     "status": "up",
-    "uptime": "99.19%",
+    "uptime": "99.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
-    "uptimeYear": "99.19%",
+    "uptimeYear": "99.20%",
     "time": 661,
     "timeDay": 759,
     "timeWeek": 686,
@@ -591,7 +591,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-20": 817,
+      "2022-04-20": 839,
       "2022-04-19": 1440,
       "2022-04-18": 1440,
       "2022-04-17": 1440,
