@@ -6,8 +6,8 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "82.59%",
-    "uptimeWeek": "85.51%",
+    "uptimeDay": "83.58%",
+    "uptimeWeek": "85.72%",
     "uptimeMonth": "94.21%",
     "uptimeYear": "99.39%",
     "time": 593,
@@ -16,7 +16,7 @@
     "timeMonth": 664,
     "timeYear": 593,
     "dailyMinutesDown": {
-      "2022-04-20": 123,
+      "2022-04-20": 109,
       "2022-04-19": 293,
       "2022-04-18": 236,
       "2022-04-17": 154,
@@ -29,7 +29,7 @@
       "2022-04-10": 137,
       "2022-04-09": 160,
       "2022-04-08": 173,
-      "2022-04-07": 90
+      "2022-04-07": 106
     }
   },
   {
@@ -39,17 +39,17 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "82.95%",
-    "uptimeWeek": "86.22%",
-    "uptimeMonth": "94.25%",
+    "uptimeDay": "83.93%",
+    "uptimeWeek": "86.42%",
+    "uptimeMonth": "94.23%",
     "uptimeYear": "99.39%",
     "time": 601,
     "timeDay": 454,
-    "timeWeek": 439,
+    "timeWeek": 440,
     "timeMonth": 655,
     "timeYear": 601,
     "dailyMinutesDown": {
-      "2022-04-20": 120,
+      "2022-04-20": 106,
       "2022-04-19": 288,
       "2022-04-18": 205,
       "2022-04-17": 151,
@@ -62,7 +62,7 @@
       "2022-04-10": 132,
       "2022-04-09": 157,
       "2022-04-08": 169,
-      "2022-04-07": 180
+      "2022-04-07": 202
     }
   },
   {
@@ -88,10 +88,10 @@
     "url": "https://webbook.nist.gov/chemistry/",
     "icon": "https://favicons.githubusercontent.com/webbook.nist.gov",
     "slug": "nist-chemistry-webhook",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.49%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 393,
@@ -100,7 +100,7 @@
     "timeMonth": 394,
     "timeYear": 393,
     "dailyMinutesDown": {
-      "2022-04-20": 22
+      "2022-04-20": 23
     }
   },
   {
@@ -464,11 +464,11 @@
     "icon": "https://favicons.githubusercontent.com/csbg.cnb.csic.es",
     "slug": "metabolites-biological-role",
     "status": "up",
-    "uptime": "95.72%",
+    "uptime": "95.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
-    "uptimeYear": "95.72%",
+    "uptimeYear": "95.73%",
     "time": 656,
     "timeDay": 657,
     "timeWeek": 593,
@@ -591,7 +591,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-20": 938,
+      "2022-04-20": 950,
       "2022-04-19": 1440,
       "2022-04-18": 1440,
       "2022-04-17": 1440,
