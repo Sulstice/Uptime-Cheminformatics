@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "83.58%",
-    "uptimeWeek": "85.72%",
-    "uptimeMonth": "94.21%",
+    "uptimeDay": "83.50%",
+    "uptimeWeek": "85.71%",
+    "uptimeMonth": "94.24%",
     "uptimeYear": "99.39%",
     "time": 593,
     "timeDay": 705,
@@ -16,7 +16,7 @@
     "timeMonth": 664,
     "timeYear": 593,
     "dailyMinutesDown": {
-      "2022-04-20": 109,
+      "2022-04-20": 110,
       "2022-04-19": 293,
       "2022-04-18": 236,
       "2022-04-17": 154,
@@ -29,7 +29,7 @@
       "2022-04-10": 137,
       "2022-04-09": 160,
       "2022-04-08": 173,
-      "2022-04-07": 106
+      "2022-04-07": 90
     }
   },
   {
@@ -37,11 +37,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "83.93%",
+    "uptimeDay": "83.86%",
     "uptimeWeek": "86.42%",
-    "uptimeMonth": "94.23%",
+    "uptimeMonth": "94.28%",
     "uptimeYear": "99.39%",
     "time": 601,
     "timeDay": 469,
@@ -49,7 +49,7 @@
     "timeMonth": 655,
     "timeYear": 601,
     "dailyMinutesDown": {
-      "2022-04-20": 106,
+      "2022-04-20": 107,
       "2022-04-19": 288,
       "2022-04-18": 205,
       "2022-04-17": 151,
@@ -62,7 +62,7 @@
       "2022-04-10": 132,
       "2022-04-09": 157,
       "2022-04-08": 169,
-      "2022-04-07": 202
+      "2022-04-07": 180
     }
   },
   {
@@ -89,18 +89,18 @@
     "icon": "https://favicons.githubusercontent.com/webbook.nist.gov",
     "slug": "nist-chemistry-webhook",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "97.61%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
     "time": 395,
     "timeDay": 392,
     "timeWeek": 394,
     "timeMonth": 400,
     "timeYear": 395,
     "dailyMinutesDown": {
-      "2022-04-20": 35
+      "2022-04-20": 22
     }
   },
   {
@@ -591,7 +591,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-20": 963,
+      "2022-04-20": 970,
       "2022-04-19": 1440,
       "2022-04-18": 1440,
       "2022-04-17": 1440,
