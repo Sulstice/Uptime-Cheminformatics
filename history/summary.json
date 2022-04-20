@@ -6,17 +6,17 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "85.58%",
-    "uptimeWeek": "86.35%",
-    "uptimeMonth": "94.23%",
+    "uptimeDay": "87.80%",
+    "uptimeWeek": "86.44%",
+    "uptimeMonth": "94.21%",
     "uptimeYear": "99.39%",
     "time": 593,
-    "timeDay": 790,
-    "timeWeek": 454,
+    "timeDay": 810,
+    "timeWeek": 455,
     "timeMonth": 667,
     "timeYear": 593,
     "dailyMinutesDown": {
-      "2022-04-20": 134,
+      "2022-04-20": 124,
       "2022-04-19": 293,
       "2022-04-18": 236,
       "2022-04-17": 154,
@@ -29,7 +29,7 @@
       "2022-04-10": 137,
       "2022-04-09": 160,
       "2022-04-08": 173,
-      "2022-04-07": 71
+      "2022-04-07": 90
     }
   },
   {
@@ -39,17 +39,17 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "86.93%",
-    "uptimeWeek": "87.04%",
-    "uptimeMonth": "94.26%",
+    "uptimeDay": "89.09%",
+    "uptimeWeek": "87.14%",
+    "uptimeMonth": "94.23%",
     "uptimeYear": "99.39%",
     "time": 602,
-    "timeDay": 610,
-    "timeWeek": 453,
+    "timeDay": 619,
+    "timeWeek": 448,
     "timeMonth": 659,
     "timeYear": 602,
     "dailyMinutesDown": {
-      "2022-04-20": 115,
+      "2022-04-20": 106,
       "2022-04-19": 288,
       "2022-04-18": 205,
       "2022-04-17": 151,
@@ -62,7 +62,7 @@
       "2022-04-10": 132,
       "2022-04-09": 157,
       "2022-04-08": 169,
-      "2022-04-07": 180
+      "2022-04-07": 202
     }
   },
   {
@@ -88,10 +88,10 @@
     "url": "https://webbook.nist.gov/chemistry/",
     "icon": "https://favicons.githubusercontent.com/webbook.nist.gov",
     "slug": "nist-chemistry-webhook",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.49%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 395,
@@ -100,7 +100,7 @@
     "timeMonth": 400,
     "timeYear": 395,
     "dailyMinutesDown": {
-      "2022-04-20": 22
+      "2022-04-20": 23
     }
   },
   {
@@ -591,7 +591,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-20": 1149,
+      "2022-04-20": 1205,
       "2022-04-19": 1440,
       "2022-04-18": 1440,
       "2022-04-17": 1440,
@@ -804,11 +804,11 @@
     "icon": "https://favicons.githubusercontent.com/cactus.nci.nih.gov",
     "slug": "chemical-resolver",
     "status": "up",
-    "uptime": "97.48%",
+    "uptime": "97.49%",
     "uptimeDay": "98.09%",
     "uptimeWeek": "97.88%",
     "uptimeMonth": "97.67%",
-    "uptimeYear": "97.48%",
+    "uptimeYear": "97.49%",
     "time": 641,
     "timeDay": 425,
     "timeWeek": 367,
