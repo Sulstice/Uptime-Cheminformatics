@@ -6,9 +6,9 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "92.33%",
-    "uptimeWeek": "86.10%",
-    "uptimeMonth": "93.60%",
+    "uptimeDay": "93.13%",
+    "uptimeWeek": "86.22%",
+    "uptimeMonth": "93.58%",
     "uptimeYear": "99.34%",
     "time": 594,
     "timeDay": 406,
@@ -16,7 +16,7 @@
     "timeMonth": 608,
     "timeYear": 594,
     "dailyMinutesDown": {
-      "2022-04-27": 89,
+      "2022-04-27": 78,
       "2022-04-26": 157,
       "2022-04-25": 159,
       "2022-04-24": 134,
@@ -30,7 +30,7 @@
       "2022-04-16": 200,
       "2022-04-15": 260,
       "2022-04-14": 98,
-      "2022-04-13": 111
+      "2022-04-13": 129
     }
   },
   {
@@ -40,9 +40,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "92.48%",
-    "uptimeWeek": "86.82%",
-    "uptimeMonth": "93.43%",
+    "uptimeDay": "93.23%",
+    "uptimeWeek": "86.93%",
+    "uptimeMonth": "93.42%",
     "uptimeYear": "99.32%",
     "time": 601,
     "timeDay": 360,
@@ -50,7 +50,7 @@
     "timeMonth": 632,
     "timeYear": 601,
     "dailyMinutesDown": {
-      "2022-04-27": 88,
+      "2022-04-27": 77,
       "2022-04-26": 154,
       "2022-04-25": 158,
       "2022-04-24": 131,
@@ -65,7 +65,7 @@
       "2022-04-15": 256,
       "2022-04-14": 97,
       "2022-04-13": 286,
-      "2022-04-12": 26
+      "2022-04-12": 42
     }
   },
   {
@@ -434,11 +434,11 @@
     "url": "http://xundrug.cn/moltox",
     "icon": "https://favicons.githubusercontent.com/xundrug.cn",
     "slug": "drug-safety-analysis-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.93%",
     "time": 1412,
     "timeDay": 1028,
@@ -446,6 +446,7 @@
     "timeMonth": 851,
     "timeYear": 1412,
     "dailyMinutesDown": {
+      "2022-04-27": 2,
       "2022-04-24": 32,
       "2022-02-17": 39,
       "2022-02-09": 22
@@ -521,18 +522,19 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://favicons.githubusercontent.com/bioinf.xmu.edu.cn",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
-    "uptime": "97.23%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "84.58%",
+    "status": "down",
+    "uptime": "97.22%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "84.56%",
     "uptimeMonth": "96.33%",
-    "uptimeYear": "97.23%",
+    "uptimeYear": "97.22%",
     "time": 1338,
     "timeDay": 1448,
     "timeWeek": 1400,
     "timeMonth": 1375,
     "timeYear": 1338,
     "dailyMinutesDown": {
+      "2022-04-27": 2,
       "2022-04-24": 121,
       "2022-04-23": 845,
       "2022-04-22": 588,
@@ -605,7 +607,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-27": 556,
+      "2022-04-27": 591,
       "2022-04-26": 1440,
       "2022-04-25": 1440,
       "2022-04-24": 1440,
@@ -933,11 +935,11 @@
     "url": "https://www.lookchem.com/",
     "icon": "https://favicons.githubusercontent.com/www.lookchem.com",
     "slug": "look-chem",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
     "time": 649,
     "timeDay": 1375,
@@ -945,6 +947,7 @@
     "timeMonth": 947,
     "timeYear": 649,
     "dailyMinutesDown": {
+      "2022-04-27": 2,
       "2022-04-24": 33,
       "2022-03-10": 22
     }
