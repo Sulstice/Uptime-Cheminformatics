@@ -4,19 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
-    "uptime": "99.27%",
-    "uptimeDay": "71.65%",
-    "uptimeWeek": "84.84%",
-    "uptimeMonth": "92.87%",
-    "uptimeYear": "99.27%",
+    "status": "down",
+    "uptime": "99.28%",
+    "uptimeDay": "71.56%",
+    "uptimeWeek": "84.82%",
+    "uptimeMonth": "92.96%",
+    "uptimeYear": "99.28%",
     "time": 589,
     "timeDay": 342,
     "timeWeek": 405,
     "timeMonth": 473,
     "timeYear": 589,
     "dailyMinutesDown": {
-      "2022-04-30": 243,
+      "2022-04-30": 244,
       "2022-04-29": 187,
       "2022-04-28": 286,
       "2022-04-27": 184,
@@ -30,7 +30,7 @@
       "2022-04-19": 293,
       "2022-04-18": 236,
       "2022-04-17": 154,
-      "2022-04-16": 178
+      "2022-04-16": 138
     }
   },
   {
@@ -38,11 +38,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "71.84%",
-    "uptimeWeek": "85.20%",
-    "uptimeMonth": "92.76%",
+    "uptimeDay": "71.77%",
+    "uptimeWeek": "85.19%",
+    "uptimeMonth": "92.80%",
     "uptimeYear": "99.26%",
     "time": 597,
     "timeDay": 349,
@@ -50,7 +50,7 @@
     "timeMonth": 488,
     "timeYear": 597,
     "dailyMinutesDown": {
-      "2022-04-30": 243,
+      "2022-04-30": 244,
       "2022-04-29": 185,
       "2022-04-28": 280,
       "2022-04-27": 180,
@@ -65,7 +65,7 @@
       "2022-04-18": 205,
       "2022-04-17": 151,
       "2022-04-16": 196,
-      "2022-04-15": 157
+      "2022-04-15": 139
     }
   },
   {
@@ -525,7 +525,7 @@
     "status": "up",
     "uptime": "96.72%",
     "uptimeDay": "44.32%",
-    "uptimeWeek": "84.89%",
+    "uptimeWeek": "85.01%",
     "uptimeMonth": "94.50%",
     "uptimeYear": "96.72%",
     "time": 1329,
@@ -608,7 +608,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-30": 244,
+      "2022-04-30": 257,
       "2022-04-29": 1440,
       "2022-04-28": 1440,
       "2022-04-27": 1440,
