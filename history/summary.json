@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
     "status": "up",
-    "uptime": "99.28%",
-    "uptimeDay": "74.00%",
-    "uptimeWeek": "85.45%",
-    "uptimeMonth": "92.94%",
-    "uptimeYear": "99.28%",
+    "uptime": "99.27%",
+    "uptimeDay": "77.22%",
+    "uptimeWeek": "85.54%",
+    "uptimeMonth": "92.90%",
+    "uptimeYear": "99.27%",
     "time": 587,
     "timeDay": 412,
     "timeWeek": 411,
-    "timeMonth": 470,
+    "timeMonth": 472,
     "timeYear": 587,
     "dailyMinutesDown": {
-      "2022-04-30": 362,
+      "2022-04-30": 353,
       "2022-04-29": 187,
       "2022-04-28": 286,
       "2022-04-27": 184,
@@ -30,7 +30,7 @@
       "2022-04-19": 293,
       "2022-04-18": 236,
       "2022-04-17": 154,
-      "2022-04-16": 32
+      "2022-04-16": 58
     }
   },
   {
@@ -40,17 +40,17 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.27%",
-    "uptimeDay": "75.25%",
-    "uptimeWeek": "85.79%",
-    "uptimeMonth": "92.85%",
+    "uptimeDay": "78.43%",
+    "uptimeWeek": "85.88%",
+    "uptimeMonth": "92.84%",
     "uptimeYear": "99.27%",
     "time": 595,
     "timeDay": 366,
     "timeWeek": 387,
-    "timeMonth": 490,
+    "timeMonth": 493,
     "timeYear": 595,
     "dailyMinutesDown": {
-      "2022-04-30": 343,
+      "2022-04-30": 334,
       "2022-04-29": 185,
       "2022-04-28": 280,
       "2022-04-27": 180,
@@ -65,7 +65,7 @@
       "2022-04-18": 205,
       "2022-04-17": 151,
       "2022-04-16": 196,
-      "2022-04-15": 16
+      "2022-04-15": 32
     }
   },
   {
@@ -82,7 +82,7 @@
     "time": 801,
     "timeDay": 106,
     "timeWeek": 444,
-    "timeMonth": 629,
+    "timeMonth": 647,
     "timeYear": 801,
     "dailyMinutesDown": {}
   },
@@ -100,7 +100,7 @@
     "time": 385,
     "timeDay": 134,
     "timeWeek": 237,
-    "timeMonth": 358,
+    "timeMonth": 363,
     "timeYear": 385,
     "dailyMinutesDown": {
       "2022-04-20": 22
@@ -120,7 +120,7 @@
     "time": 660,
     "timeDay": 398,
     "timeWeek": 551,
-    "timeMonth": 642,
+    "timeMonth": 663,
     "timeYear": 660,
     "dailyMinutesDown": {
       "2022-04-01": 30,
@@ -170,7 +170,7 @@
     "time": 1420,
     "timeDay": 679,
     "timeWeek": 865,
-    "timeMonth": 2112,
+    "timeMonth": 2147,
     "timeYear": 1420,
     "dailyMinutesDown": {
       "2022-04-22": 109,
@@ -196,7 +196,7 @@
     "time": 358,
     "timeDay": 291,
     "timeWeek": 298,
-    "timeMonth": 350,
+    "timeMonth": 352,
     "timeYear": 358,
     "dailyMinutesDown": {}
   },
@@ -214,7 +214,7 @@
     "time": 578,
     "timeDay": 459,
     "timeWeek": 382,
-    "timeMonth": 466,
+    "timeMonth": 468,
     "timeYear": 578,
     "dailyMinutesDown": {
       "2022-04-19": 217,
@@ -244,7 +244,7 @@
     "time": 2043,
     "timeDay": 1882,
     "timeWeek": 1742,
-    "timeMonth": 1820,
+    "timeMonth": 1818,
     "timeYear": 2043,
     "dailyMinutesDown": {
       "2022-04-25": 44,
@@ -265,7 +265,7 @@
     "time": 777,
     "timeDay": 827,
     "timeWeek": 687,
-    "timeMonth": 789,
+    "timeMonth": 764,
     "timeYear": 777,
     "dailyMinutesDown": {}
   },
@@ -283,7 +283,7 @@
     "time": 7824,
     "timeDay": 788,
     "timeWeek": 848,
-    "timeMonth": 2923,
+    "timeMonth": 2392,
     "timeYear": 7824,
     "dailyMinutesDown": {
       "2022-03-25": 223,
@@ -318,7 +318,7 @@
     "time": 1129,
     "timeDay": 969,
     "timeWeek": 1043,
-    "timeMonth": 1121,
+    "timeMonth": 1132,
     "timeYear": 1129,
     "dailyMinutesDown": {}
   },
@@ -328,18 +328,19 @@
     "icon": "https://favicons.githubusercontent.com/bioanalysis.cau.ac.kr",
     "slug": "card-pred",
     "status": "down",
-    "uptime": "98.59%",
-    "uptimeDay": "36.35%",
-    "uptimeWeek": "90.91%",
-    "uptimeMonth": "97.91%",
-    "uptimeYear": "98.59%",
+    "uptime": "98.57%",
+    "uptimeDay": "33.77%",
+    "uptimeWeek": "90.54%",
+    "uptimeMonth": "97.82%",
+    "uptimeYear": "98.57%",
     "time": 867,
     "timeDay": 0,
     "timeWeek": 966,
-    "timeMonth": 902,
+    "timeMonth": 898,
     "timeYear": 867,
     "dailyMinutesDown": {
-      "2022-04-30": 917,
+      "2022-05-01": 25,
+      "2022-04-30": 929,
       "2022-02-06": 314,
       "2022-02-05": 716
     }
@@ -353,12 +354,12 @@
     "uptime": "96.75%",
     "uptimeDay": "93.94%",
     "uptimeWeek": "89.03%",
-    "uptimeMonth": "96.11%",
+    "uptimeMonth": "96.24%",
     "uptimeYear": "96.75%",
     "time": 1220,
     "timeDay": 373,
     "timeWeek": 1031,
-    "timeMonth": 1532,
+    "timeMonth": 1607,
     "timeYear": 1220,
     "dailyMinutesDown": {
       "2022-04-30": 87,
@@ -403,7 +404,7 @@
     "time": 1265,
     "timeDay": 1686,
     "timeWeek": 1472,
-    "timeMonth": 1301,
+    "timeMonth": 1300,
     "timeYear": 1265,
     "dailyMinutesDown": {
       "2022-03-04": 15
@@ -423,7 +424,7 @@
     "time": 330,
     "timeDay": 164,
     "timeWeek": 253,
-    "timeMonth": 341,
+    "timeMonth": 350,
     "timeYear": 330,
     "dailyMinutesDown": {
       "2022-04-22": 753,
@@ -446,7 +447,7 @@
     "time": 1385,
     "timeDay": 1268,
     "timeWeek": 997,
-    "timeMonth": 896,
+    "timeMonth": 893,
     "timeYear": 1385,
     "dailyMinutesDown": {
       "2022-04-24": 32,
@@ -468,7 +469,7 @@
     "time": 438,
     "timeDay": 507,
     "timeWeek": 350,
-    "timeMonth": 461,
+    "timeMonth": 467,
     "timeYear": 438,
     "dailyMinutesDown": {}
   },
@@ -486,7 +487,7 @@
     "time": 663,
     "timeDay": 605,
     "timeWeek": 612,
-    "timeMonth": 691,
+    "timeMonth": 700,
     "timeYear": 663,
     "dailyMinutesDown": {
       "2022-04-12": 57,
@@ -513,7 +514,7 @@
     "time": 345,
     "timeDay": 211,
     "timeWeek": 331,
-    "timeMonth": 355,
+    "timeMonth": 328,
     "timeYear": 345,
     "dailyMinutesDown": {
       "2022-03-11": 32
@@ -525,18 +526,19 @@
     "icon": "https://favicons.githubusercontent.com/bioinf.xmu.edu.cn",
     "slug": "adverse-drug-reaction-classification-system",
     "status": "down",
-    "uptime": "96.40%",
+    "uptime": "96.37%",
     "uptimeDay": "49.55%",
     "uptimeWeek": "85.92%",
-    "uptimeMonth": "93.39%",
-    "uptimeYear": "96.40%",
+    "uptimeMonth": "93.31%",
+    "uptimeYear": "96.37%",
     "time": 1329,
     "timeDay": 1117,
     "timeWeek": 1287,
-    "timeMonth": 1350,
+    "timeMonth": 1355,
     "timeYear": 1329,
     "dailyMinutesDown": {
-      "2022-04-30": 714,
+      "2022-05-01": 25,
+      "2022-04-30": 726,
       "2022-04-29": 572,
       "2022-04-24": 121,
       "2022-04-23": 845,
@@ -562,7 +564,7 @@
     "time": 2615,
     "timeDay": 381,
     "timeWeek": 3240,
-    "timeMonth": 6167,
+    "timeMonth": 5818,
     "timeYear": 2615,
     "dailyMinutesDown": {}
   },
@@ -580,7 +582,7 @@
     "time": 658,
     "timeDay": 159,
     "timeWeek": 378,
-    "timeMonth": 811,
+    "timeMonth": 446,
     "timeYear": 658,
     "dailyMinutesDown": {
       "2022-03-27": 540,
@@ -602,7 +604,7 @@
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -610,7 +612,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-04-30": 1428,
+      "2022-05-01": 25,
+      "2022-04-30": 1440,
       "2022-04-29": 1440,
       "2022-04-28": 1440,
       "2022-04-27": 1440,
@@ -741,7 +744,7 @@
     "time": 719,
     "timeDay": 1677,
     "timeWeek": 856,
-    "timeMonth": 735,
+    "timeMonth": 725,
     "timeYear": 719,
     "dailyMinutesDown": {}
   },
@@ -759,7 +762,7 @@
     "time": 448,
     "timeDay": 585,
     "timeWeek": 461,
-    "timeMonth": 432,
+    "timeMonth": 421,
     "timeYear": 448,
     "dailyMinutesDown": {}
   },
@@ -777,7 +780,7 @@
     "time": 496,
     "timeDay": 629,
     "timeWeek": 584,
-    "timeMonth": 505,
+    "timeMonth": 501,
     "timeYear": 496,
     "dailyMinutesDown": {
       "2022-04-04": 41
@@ -797,7 +800,7 @@
     "time": 885,
     "timeDay": 1040,
     "timeWeek": 948,
-    "timeMonth": 872,
+    "timeMonth": 866,
     "timeYear": 885,
     "dailyMinutesDown": {
       "2022-03-22": 37,
@@ -819,7 +822,7 @@
     "time": 2082,
     "timeDay": 2261,
     "timeWeek": 1989,
-    "timeMonth": 1770,
+    "timeMonth": 1752,
     "timeYear": 2082,
     "dailyMinutesDown": {
       "2022-02-08": 32,
@@ -836,12 +839,12 @@
     "uptime": "97.62%",
     "uptimeDay": "98.31%",
     "uptimeWeek": "98.48%",
-    "uptimeMonth": "98.04%",
+    "uptimeMonth": "98.12%",
     "uptimeYear": "97.62%",
     "time": 632,
     "timeDay": 253,
     "timeWeek": 622,
-    "timeMonth": 476,
+    "timeMonth": 484,
     "timeYear": 632,
     "dailyMinutesDown": {
       "2022-04-30": 24,
@@ -950,7 +953,7 @@
     "time": 702,
     "timeDay": 1194,
     "timeWeek": 1268,
-    "timeMonth": 1099,
+    "timeMonth": 1116,
     "timeYear": 702,
     "dailyMinutesDown": {
       "2022-04-24": 33,
@@ -971,7 +974,7 @@
     "time": 1269,
     "timeDay": 1044,
     "timeWeek": 1183,
-    "timeMonth": 1272,
+    "timeMonth": 1283,
     "timeYear": 1269,
     "dailyMinutesDown": {}
   }
