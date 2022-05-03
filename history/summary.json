@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "82.06%",
-    "uptimeWeek": "85.19%",
-    "uptimeMonth": "92.98%",
+    "uptimeDay": "81.98%",
+    "uptimeWeek": "85.18%",
+    "uptimeMonth": "93.03%",
     "uptimeYear": "99.29%",
     "time": 584,
     "timeDay": 475,
@@ -16,7 +16,7 @@
     "timeMonth": 459,
     "timeYear": 584,
     "dailyMinutesDown": {
-      "2022-05-03": 166,
+      "2022-05-03": 167,
       "2022-05-02": 138,
       "2022-05-01": 157,
       "2022-04-30": 353,
@@ -30,7 +30,7 @@
       "2022-04-22": 175,
       "2022-04-21": 295,
       "2022-04-20": 192,
-      "2022-04-19": 241
+      "2022-04-19": 219
     }
   },
   {
@@ -38,11 +38,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "82.41%",
-    "uptimeWeek": "85.56%",
-    "uptimeMonth": "92.89%",
+    "uptimeDay": "82.35%",
+    "uptimeWeek": "85.55%",
+    "uptimeMonth": "92.92%",
     "uptimeYear": "99.28%",
     "time": 592,
     "timeDay": 482,
@@ -50,7 +50,7 @@
     "timeMonth": 465,
     "timeYear": 592,
     "dailyMinutesDown": {
-      "2022-05-03": 166,
+      "2022-05-03": 167,
       "2022-05-02": 137,
       "2022-05-01": 154,
       "2022-04-30": 334,
@@ -65,7 +65,7 @@
       "2022-04-21": 289,
       "2022-04-20": 156,
       "2022-04-19": 288,
-      "2022-04-18": 106
+      "2022-04-18": 88
     }
   },
   {
@@ -163,7 +163,7 @@
     "slug": "nmr-shift-database",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "90.91%",
+    "uptimeDay": "92.34%",
     "uptimeWeek": "98.70%",
     "uptimeMonth": "99.41%",
     "uptimeYear": "99.57%",
@@ -617,7 +617,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-03": 528,
+      "2022-05-03": 560,
       "2022-05-02": 1440,
       "2022-05-01": 1440,
       "2022-04-30": 1440,
