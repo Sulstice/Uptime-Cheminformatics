@@ -4,19 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "80.42%",
-    "uptimeWeek": "84.47%",
-    "uptimeMonth": "93.03%",
+    "uptimeDay": "81.83%",
+    "uptimeWeek": "84.46%",
+    "uptimeMonth": "93.07%",
     "uptimeYear": "99.30%",
     "time": 583,
-    "timeDay": 477,
+    "timeDay": 476,
     "timeWeek": 431,
     "timeMonth": 460,
     "timeYear": 583,
     "dailyMinutesDown": {
-      "2022-05-03": 259,
+      "2022-05-03": 260,
       "2022-05-02": 138,
       "2022-05-01": 157,
       "2022-04-30": 353,
@@ -30,7 +30,7 @@
       "2022-04-22": 175,
       "2022-04-21": 295,
       "2022-04-20": 192,
-      "2022-04-19": 128
+      "2022-04-19": 110
     }
   },
   {
@@ -38,19 +38,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
-    "uptime": "99.28%",
-    "uptimeDay": "80.81%",
-    "uptimeWeek": "84.86%",
-    "uptimeMonth": "92.91%",
-    "uptimeYear": "99.28%",
+    "status": "down",
+    "uptime": "99.29%",
+    "uptimeDay": "82.20%",
+    "uptimeWeek": "84.85%",
+    "uptimeMonth": "92.96%",
+    "uptimeYear": "99.29%",
     "time": 591,
-    "timeDay": 474,
+    "timeDay": 487,
     "timeWeek": 420,
     "timeMonth": 468,
     "timeYear": 591,
     "dailyMinutesDown": {
-      "2022-05-03": 257,
+      "2022-05-03": 258,
       "2022-05-02": 137,
       "2022-05-01": 154,
       "2022-04-30": 334,
@@ -64,8 +64,7 @@
       "2022-04-22": 175,
       "2022-04-21": 289,
       "2022-04-20": 156,
-      "2022-04-19": 288,
-      "2022-04-18": 3
+      "2022-04-19": 269
     }
   },
   {
@@ -617,7 +616,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-03": 1388,
+      "2022-05-03": 1435,
       "2022-05-02": 1440,
       "2022-05-01": 1440,
       "2022-04-30": 1440,
