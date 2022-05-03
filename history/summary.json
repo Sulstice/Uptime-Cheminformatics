@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "82.93%",
-    "uptimeWeek": "84.83%",
-    "uptimeMonth": "92.97%",
+    "uptimeDay": "82.85%",
+    "uptimeWeek": "84.82%",
+    "uptimeMonth": "93.03%",
     "uptimeYear": "99.29%",
     "time": 584,
     "timeDay": 487,
@@ -16,7 +16,7 @@
     "timeMonth": 460,
     "timeYear": 584,
     "dailyMinutesDown": {
-      "2022-05-03": 223,
+      "2022-05-03": 224,
       "2022-05-02": 138,
       "2022-05-01": 157,
       "2022-04-30": 353,
@@ -30,7 +30,7 @@
       "2022-04-22": 175,
       "2022-04-21": 295,
       "2022-04-20": 192,
-      "2022-04-19": 191
+      "2022-04-19": 163
     }
   },
   {
@@ -38,19 +38,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
-    "uptime": "99.27%",
-    "uptimeDay": "83.24%",
-    "uptimeWeek": "85.21%",
-    "uptimeMonth": "92.84%",
-    "uptimeYear": "99.27%",
+    "status": "down",
+    "uptime": "99.29%",
+    "uptimeDay": "83.18%",
+    "uptimeWeek": "85.20%",
+    "uptimeMonth": "92.94%",
+    "uptimeYear": "99.29%",
     "time": 591,
     "timeDay": 453,
     "timeWeek": 420,
     "timeMonth": 467,
     "timeYear": 591,
     "dailyMinutesDown": {
-      "2022-05-03": 222,
+      "2022-05-03": 223,
       "2022-05-02": 137,
       "2022-05-01": 154,
       "2022-04-30": 334,
@@ -65,7 +65,7 @@
       "2022-04-21": 289,
       "2022-04-20": 156,
       "2022-04-19": 288,
-      "2022-04-18": 71
+      "2022-04-18": 22
     }
   },
   {
@@ -216,7 +216,7 @@
     "time": 670,
     "timeDay": 3300,
     "timeWeek": 2084,
-    "timeMonth": 675,
+    "timeMonth": 688,
     "timeYear": 670,
     "dailyMinutesDown": {
       "2022-05-03": 172,
@@ -617,7 +617,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-03": 997,
+      "2022-05-03": 1034,
       "2022-05-02": 1440,
       "2022-05-01": 1440,
       "2022-04-30": 1440,
