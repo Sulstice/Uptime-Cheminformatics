@@ -6,9 +6,9 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "89.77%",
-    "uptimeWeek": "85.43%",
-    "uptimeMonth": "93.03%",
+    "uptimeDay": "90.32%",
+    "uptimeWeek": "85.55%",
+    "uptimeMonth": "93.01%",
     "uptimeYear": "99.29%",
     "time": 584,
     "timeDay": 493,
@@ -16,7 +16,7 @@
     "timeMonth": 459,
     "timeYear": 584,
     "dailyMinutesDown": {
-      "2022-05-02": 146,
+      "2022-05-02": 138,
       "2022-05-01": 157,
       "2022-04-30": 353,
       "2022-04-29": 187,
@@ -30,7 +30,7 @@
       "2022-04-21": 295,
       "2022-04-20": 192,
       "2022-04-19": 293,
-      "2022-04-18": 87
+      "2022-04-18": 104
     }
   },
   {
@@ -40,9 +40,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.27%",
-    "uptimeDay": "89.98%",
-    "uptimeWeek": "85.79%",
-    "uptimeMonth": "92.85%",
+    "uptimeDay": "90.49%",
+    "uptimeWeek": "85.90%",
+    "uptimeMonth": "92.82%",
     "uptimeYear": "99.27%",
     "time": 592,
     "timeDay": 449,
@@ -50,7 +50,7 @@
     "timeMonth": 463,
     "timeYear": 592,
     "dailyMinutesDown": {
-      "2022-05-02": 144,
+      "2022-05-02": 137,
       "2022-05-01": 154,
       "2022-04-30": 334,
       "2022-04-29": 185,
@@ -65,7 +65,7 @@
       "2022-04-20": 156,
       "2022-04-19": 288,
       "2022-04-18": 205,
-      "2022-04-17": 74
+      "2022-04-17": 97
     }
   },
   {
@@ -353,11 +353,11 @@
     "icon": "https://favicons.githubusercontent.com/ctdbase.org",
     "slug": "comparative-toxicogenomics-database",
     "status": "up",
-    "uptime": "96.81%",
+    "uptime": "96.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.97%",
     "uptimeMonth": "96.30%",
-    "uptimeYear": "96.81%",
+    "uptimeYear": "96.82%",
     "time": 1214,
     "timeDay": 228,
     "timeWeek": 1407,
@@ -615,7 +615,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-02": 1438,
+      "2022-05-03": 20,
+      "2022-05-02": 1440,
       "2022-05-01": 1440,
       "2022-04-30": 1440,
       "2022-04-29": 1440,
