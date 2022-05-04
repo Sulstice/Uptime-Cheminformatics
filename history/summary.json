@@ -4,19 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
-    "uptime": "99.28%",
-    "uptimeDay": "78.40%",
-    "uptimeWeek": "83.09%",
-    "uptimeMonth": "92.87%",
-    "uptimeYear": "99.28%",
+    "status": "down",
+    "uptime": "99.29%",
+    "uptimeDay": "78.33%",
+    "uptimeWeek": "83.07%",
+    "uptimeMonth": "92.93%",
+    "uptimeYear": "99.29%",
     "time": 582,
     "timeDay": 460,
     "timeWeek": 430,
     "timeMonth": 460,
     "timeYear": 582,
     "dailyMinutesDown": {
-      "2022-05-04": 218,
+      "2022-05-04": 219,
       "2022-05-03": 259,
       "2022-05-02": 138,
       "2022-05-01": 157,
@@ -30,7 +30,7 @@
       "2022-04-23": 246,
       "2022-04-22": 175,
       "2022-04-21": 295,
-      "2022-04-20": 170
+      "2022-04-20": 143
     }
   },
   {
@@ -38,19 +38,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
-    "uptime": "99.27%",
-    "uptimeDay": "78.75%",
-    "uptimeWeek": "83.49%",
-    "uptimeMonth": "92.80%",
-    "uptimeYear": "99.27%",
+    "status": "down",
+    "uptime": "99.28%",
+    "uptimeDay": "78.69%",
+    "uptimeWeek": "83.48%",
+    "uptimeMonth": "92.84%",
+    "uptimeYear": "99.28%",
     "time": 590,
-    "timeDay": 482,
+    "timeDay": 484,
     "timeWeek": 430,
     "timeMonth": 467,
     "timeYear": 590,
     "dailyMinutesDown": {
-      "2022-05-04": 215,
+      "2022-05-04": 216,
       "2022-05-03": 257,
       "2022-05-02": 137,
       "2022-05-01": 154,
@@ -65,7 +65,7 @@
       "2022-04-22": 175,
       "2022-04-21": 289,
       "2022-04-20": 156,
-      "2022-04-19": 124
+      "2022-04-19": 106
     }
   },
   {
@@ -617,7 +617,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-04": 547,
+      "2022-05-04": 574,
       "2022-05-03": 1440,
       "2022-05-02": 1440,
       "2022-05-01": 1440,
