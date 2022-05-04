@@ -4,19 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
-    "uptime": "99.28%",
-    "uptimeDay": "75.70%",
-    "uptimeWeek": "82.64%",
-    "uptimeMonth": "92.88%",
-    "uptimeYear": "99.28%",
+    "status": "down",
+    "uptime": "99.29%",
+    "uptimeDay": "75.61%",
+    "uptimeWeek": "82.77%",
+    "uptimeMonth": "92.92%",
+    "uptimeYear": "99.29%",
     "time": 582,
     "timeDay": 453,
-    "timeWeek": 435,
+    "timeWeek": 436,
     "timeMonth": 460,
     "timeYear": 582,
     "dailyMinutesDown": {
-      "2022-05-04": 284,
+      "2022-05-04": 285,
       "2022-05-03": 259,
       "2022-05-02": 138,
       "2022-05-01": 157,
@@ -30,7 +30,7 @@
       "2022-04-23": 246,
       "2022-04-22": 175,
       "2022-04-21": 295,
-      "2022-04-20": 101
+      "2022-04-20": 83
     }
   },
   {
@@ -38,11 +38,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "76.11%",
-    "uptimeWeek": "83.06%",
-    "uptimeMonth": "92.82%",
+    "uptimeDay": "76.04%",
+    "uptimeWeek": "83.18%",
+    "uptimeMonth": "92.86%",
     "uptimeYear": "99.28%",
     "time": 590,
     "timeDay": 430,
@@ -50,7 +50,7 @@
     "timeMonth": 466,
     "timeYear": 590,
     "dailyMinutesDown": {
-      "2022-05-04": 278,
+      "2022-05-04": 279,
       "2022-05-03": 257,
       "2022-05-02": 137,
       "2022-05-01": 154,
@@ -65,7 +65,7 @@
       "2022-04-22": 175,
       "2022-04-21": 289,
       "2022-04-20": 156,
-      "2022-04-19": 50
+      "2022-04-19": 31
     }
   },
   {
@@ -617,7 +617,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-04": 750,
+      "2022-05-04": 774,
       "2022-05-03": 1440,
       "2022-05-02": 1440,
       "2022-05-01": 1440,
