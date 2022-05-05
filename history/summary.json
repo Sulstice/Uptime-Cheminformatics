@@ -6,9 +6,9 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.27%",
-    "uptimeDay": "64.93%",
-    "uptimeWeek": "81.16%",
-    "uptimeMonth": "92.80%",
+    "uptimeDay": "65.58%",
+    "uptimeWeek": "81.24%",
+    "uptimeMonth": "92.74%",
     "uptimeYear": "99.27%",
     "time": 581,
     "timeDay": 445,
@@ -16,7 +16,7 @@
     "timeMonth": 460,
     "timeYear": 581,
     "dailyMinutesDown": {
-      "2022-05-05": 139,
+      "2022-05-05": 131,
       "2022-05-04": 539,
       "2022-05-03": 259,
       "2022-05-02": 138,
@@ -30,7 +30,7 @@
       "2022-04-24": 134,
       "2022-04-23": 246,
       "2022-04-22": 175,
-      "2022-04-21": 40
+      "2022-04-21": 73
     }
   },
   {
@@ -39,18 +39,18 @@
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
     "status": "up",
-    "uptime": "99.29%",
-    "uptimeDay": "66.88%",
-    "uptimeWeek": "81.80%",
-    "uptimeMonth": "92.91%",
-    "uptimeYear": "99.29%",
+    "uptime": "99.27%",
+    "uptimeDay": "67.48%",
+    "uptimeWeek": "81.87%",
+    "uptimeMonth": "92.72%",
+    "uptimeYear": "99.27%",
     "time": 589,
     "timeDay": 445,
     "timeWeek": 434,
     "timeMonth": 466,
     "timeYear": 589,
     "dailyMinutesDown": {
-      "2022-05-05": 138,
+      "2022-05-05": 131,
       "2022-05-04": 510,
       "2022-05-03": 257,
       "2022-05-02": 137,
@@ -64,7 +64,7 @@
       "2022-04-24": 131,
       "2022-04-23": 227,
       "2022-04-22": 175,
-      "2022-04-21": 90
+      "2022-04-21": 178
     }
   },
   {
@@ -331,11 +331,11 @@
     "icon": "https://favicons.githubusercontent.com/bioanalysis.cau.ac.kr",
     "slug": "card-pred",
     "status": "up",
-    "uptime": "98.41%",
+    "uptime": "98.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "87.49%",
     "uptimeMonth": "97.12%",
-    "uptimeYear": "98.41%",
+    "uptimeYear": "98.42%",
     "time": 870,
     "timeDay": 933,
     "timeWeek": 956,
@@ -616,7 +616,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-05": 480,
+      "2022-05-05": 491,
       "2022-05-04": 1440,
       "2022-05-03": 1440,
       "2022-05-02": 1440,
@@ -843,18 +843,19 @@
     "url": "https://cactus.nci.nih.gov/chemical/structure",
     "icon": "https://favicons.githubusercontent.com/cactus.nci.nih.gov",
     "slug": "chemical-resolver",
-    "status": "up",
-    "uptime": "97.71%",
-    "uptimeDay": "97.31%",
-    "uptimeWeek": "98.23%",
+    "status": "down",
+    "uptime": "97.72%",
+    "uptimeDay": "97.29%",
+    "uptimeWeek": "98.21%",
     "uptimeMonth": "98.09%",
-    "uptimeYear": "97.71%",
+    "uptimeYear": "97.72%",
     "time": 628,
     "timeDay": 1161,
     "timeWeek": 405,
     "timeMonth": 469,
     "timeYear": 628,
     "dailyMinutesDown": {
+      "2022-05-05": 2,
       "2022-05-04": 39,
       "2022-05-03": 39,
       "2022-05-02": 29,
@@ -943,8 +944,7 @@
       "2022-02-04": 27,
       "2022-02-03": 20,
       "2022-02-02": 19,
-      "2022-02-01": 30,
-      "2022-01-31": 20
+      "2022-02-01": 30
     }
   },
   {
