@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "87.14%",
-    "uptimeWeek": "80.51%",
-    "uptimeMonth": "92.70%",
+    "uptimeDay": "87.05%",
+    "uptimeWeek": "80.50%",
+    "uptimeMonth": "92.73%",
     "uptimeYear": "99.27%",
     "time": 578,
     "timeDay": 373,
@@ -16,7 +16,7 @@
     "timeMonth": 460,
     "timeYear": 578,
     "dailyMinutesDown": {
-      "2022-05-06": 183,
+      "2022-05-06": 184,
       "2022-05-05": 279,
       "2022-05-04": 539,
       "2022-05-03": 259,
@@ -29,7 +29,7 @@
       "2022-04-26": 157,
       "2022-04-25": 159,
       "2022-04-24": 134,
-      "2022-04-23": 179
+      "2022-04-23": 163
     }
   },
   {
@@ -37,11 +37,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "87.38%",
-    "uptimeWeek": "81.14%",
-    "uptimeMonth": "92.87%",
+    "uptimeDay": "87.31%",
+    "uptimeWeek": "81.13%",
+    "uptimeMonth": "92.93%",
     "uptimeYear": "99.29%",
     "time": 586,
     "timeDay": 338,
@@ -49,7 +49,7 @@
     "timeMonth": 467,
     "timeYear": 586,
     "dailyMinutesDown": {
-      "2022-05-06": 180,
+      "2022-05-06": 181,
       "2022-05-05": 278,
       "2022-05-04": 510,
       "2022-05-03": 257,
@@ -62,7 +62,7 @@
       "2022-04-26": 154,
       "2022-04-25": 158,
       "2022-04-24": 131,
-      "2022-04-23": 185
+      "2022-04-23": 161
     }
   },
   {
@@ -533,7 +533,7 @@
     "status": "up",
     "uptime": "96.44%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.69%",
+    "uptimeWeek": "87.82%",
     "uptimeMonth": "92.86%",
     "uptimeYear": "96.44%",
     "time": 1308,
@@ -617,7 +617,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-06": 1148,
+      "2022-05-06": 1162,
       "2022-05-05": 1440,
       "2022-05-04": 1440,
       "2022-05-03": 1440,
