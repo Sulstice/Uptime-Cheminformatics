@@ -4,19 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
-    "uptime": "99.27%",
-    "uptimeDay": "90.81%",
-    "uptimeWeek": "83.43%",
-    "uptimeMonth": "92.71%",
-    "uptimeYear": "99.27%",
+    "status": "down",
+    "uptime": "99.28%",
+    "uptimeDay": "90.73%",
+    "uptimeWeek": "83.41%",
+    "uptimeMonth": "92.74%",
+    "uptimeYear": "99.28%",
     "time": 577,
-    "timeDay": 528,
+    "timeDay": 531,
     "timeWeek": 445,
     "timeMonth": 469,
     "timeYear": 577,
     "dailyMinutesDown": {
-      "2022-05-08": 116,
+      "2022-05-08": 117,
       "2022-05-07": 67,
       "2022-05-06": 212,
       "2022-05-05": 279,
@@ -30,7 +30,7 @@
       "2022-04-27": 184,
       "2022-04-26": 157,
       "2022-04-25": 159,
-      "2022-04-24": 98
+      "2022-04-24": 82
     }
   },
   {
@@ -38,19 +38,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
-    "uptime": "99.29%",
-    "uptimeDay": "91.02%",
-    "uptimeWeek": "83.91%",
-    "uptimeMonth": "92.90%",
-    "uptimeYear": "99.29%",
+    "status": "down",
+    "uptime": "99.30%",
+    "uptimeDay": "90.96%",
+    "uptimeWeek": "83.90%",
+    "uptimeMonth": "92.93%",
+    "uptimeYear": "99.30%",
     "time": 583,
-    "timeDay": 367,
+    "timeDay": 359,
     "timeWeek": 415,
     "timeMonth": 467,
     "timeYear": 583,
     "dailyMinutesDown": {
-      "2022-05-08": 115,
+      "2022-05-08": 116,
       "2022-05-07": 66,
       "2022-05-06": 209,
       "2022-05-05": 278,
@@ -64,7 +64,7 @@
       "2022-04-27": 180,
       "2022-04-26": 154,
       "2022-04-25": 158,
-      "2022-04-24": 96
+      "2022-04-24": 81
     }
   },
   {
@@ -541,7 +541,7 @@
     "uptimeYear": "96.51%",
     "time": 1318,
     "timeDay": 1980,
-    "timeWeek": 1290,
+    "timeWeek": 1320,
     "timeMonth": 1332,
     "timeYear": 1318,
     "dailyMinutesDown": {
@@ -620,7 +620,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-08": 1005,
+      "2022-05-08": 1044,
       "2022-05-07": 1440,
       "2022-05-06": 1440,
       "2022-05-05": 1440,
@@ -971,7 +971,7 @@
     "uptimeYear": "99.91%",
     "time": 757,
     "timeDay": 294,
-    "timeWeek": 1155,
+    "timeWeek": 1149,
     "timeMonth": 1203,
     "timeYear": 757,
     "dailyMinutesDown": {
