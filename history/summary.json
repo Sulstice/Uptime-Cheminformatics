@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "87.44%",
-    "uptimeWeek": "84.22%",
-    "uptimeMonth": "93.02%",
+    "uptimeDay": "87.37%",
+    "uptimeWeek": "84.31%",
+    "uptimeMonth": "93.06%",
     "uptimeYear": "99.31%",
     "time": 574,
     "timeDay": 351,
@@ -16,7 +16,7 @@
     "timeMonth": 473,
     "timeYear": 574,
     "dailyMinutesDown": {
-      "2022-05-10": 60,
+      "2022-05-10": 61,
       "2022-05-09": 177,
       "2022-05-08": 136,
       "2022-05-07": 67,
@@ -29,8 +29,7 @@
       "2022-04-30": 353,
       "2022-04-29": 187,
       "2022-04-28": 286,
-      "2022-04-27": 184,
-      "2022-04-26": 21
+      "2022-04-27": 184
     }
   },
   {
@@ -38,11 +37,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "87.69%",
-    "uptimeWeek": "84.70%",
-    "uptimeMonth": "93.21%",
+    "uptimeDay": "87.63%",
+    "uptimeWeek": "84.79%",
+    "uptimeMonth": "93.25%",
     "uptimeYear": "99.33%",
     "time": 580,
     "timeDay": 313,
@@ -50,7 +49,7 @@
     "timeMonth": 469,
     "timeYear": 580,
     "dailyMinutesDown": {
-      "2022-05-10": 59,
+      "2022-05-10": 60,
       "2022-05-09": 174,
       "2022-05-08": 135,
       "2022-05-07": 66,
@@ -63,8 +62,7 @@
       "2022-04-30": 334,
       "2022-04-29": 185,
       "2022-04-28": 280,
-      "2022-04-27": 180,
-      "2022-04-26": 20
+      "2022-04-27": 180
     }
   },
   {
@@ -359,7 +357,7 @@
     "slug": "comparative-toxicogenomics-database",
     "status": "up",
     "uptime": "96.50%",
-    "uptimeDay": "66.56%",
+    "uptimeDay": "67.25%",
     "uptimeWeek": "91.89%",
     "uptimeMonth": "94.58%",
     "uptimeYear": "96.50%",
@@ -622,7 +620,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-10": 454,
+      "2022-05-10": 464,
       "2022-05-09": 1440,
       "2022-05-08": 1440,
       "2022-05-07": 1440,
