@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "86.61%",
-    "uptimeWeek": "84.29%",
-    "uptimeMonth": "93.10%",
+    "uptimeDay": "86.58%",
+    "uptimeWeek": "84.28%",
+    "uptimeMonth": "93.14%",
     "uptimeYear": "99.32%",
     "time": 573,
     "timeDay": 389,
@@ -16,7 +16,7 @@
     "timeMonth": 475,
     "timeYear": 573,
     "dailyMinutesDown": {
-      "2022-05-11": 48,
+      "2022-05-11": 49,
       "2022-05-10": 145,
       "2022-05-09": 177,
       "2022-05-08": 136,
@@ -30,7 +30,7 @@
       "2022-04-30": 353,
       "2022-04-29": 187,
       "2022-04-28": 286,
-      "2022-04-27": 35
+      "2022-04-27": 17
     }
   },
   {
@@ -38,11 +38,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "86.81%",
-    "uptimeWeek": "84.76%",
-    "uptimeMonth": "93.29%",
+    "uptimeDay": "86.79%",
+    "uptimeWeek": "84.75%",
+    "uptimeMonth": "93.33%",
     "uptimeYear": "99.34%",
     "time": 580,
     "timeDay": 442,
@@ -50,7 +50,7 @@
     "timeMonth": 473,
     "timeYear": 580,
     "dailyMinutesDown": {
-      "2022-05-11": 48,
+      "2022-05-11": 49,
       "2022-05-10": 142,
       "2022-05-09": 174,
       "2022-05-08": 135,
@@ -64,7 +64,7 @@
       "2022-04-30": 334,
       "2022-04-29": 185,
       "2022-04-28": 280,
-      "2022-04-27": 33
+      "2022-04-27": 16
     }
   },
   {
@@ -280,11 +280,11 @@
     "icon": "https://favicons.githubusercontent.com/www.chemspider.com",
     "slug": "chem-spider",
     "status": "up",
-    "uptime": "99.14%",
+    "uptime": "99.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "99.14%",
+    "uptimeYear": "99.15%",
     "time": 7610,
     "timeDay": 755,
     "timeWeek": 2009,
@@ -622,7 +622,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-11": 49,
+      "2022-05-11": 85,
       "2022-05-10": 1440,
       "2022-05-09": 1440,
       "2022-05-08": 1440,
