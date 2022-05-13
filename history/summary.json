@@ -6,17 +6,17 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "77.35%",
-    "uptimeWeek": "86.03%",
-    "uptimeMonth": "93.38%",
+    "uptimeDay": "78.12%",
+    "uptimeWeek": "86.14%",
+    "uptimeMonth": "93.35%",
     "uptimeYear": "99.35%",
     "time": 570,
     "timeDay": 479,
-    "timeWeek": 441,
+    "timeWeek": 442,
     "timeMonth": 469,
     "timeYear": 570,
     "dailyMinutesDown": {
-      "2022-05-13": 325,
+      "2022-05-13": 314,
       "2022-05-12": 143,
       "2022-05-11": 386,
       "2022-05-10": 145,
@@ -28,7 +28,7 @@
       "2022-05-04": 539,
       "2022-05-03": 259,
       "2022-05-02": 138,
-      "2022-05-01": 89
+      "2022-05-01": 113
     }
   },
   {
@@ -38,9 +38,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "77.76%",
-    "uptimeWeek": "87.01%",
-    "uptimeMonth": "93.71%",
+    "uptimeDay": "78.50%",
+    "uptimeWeek": "87.12%",
+    "uptimeMonth": "93.68%",
     "uptimeYear": "99.38%",
     "time": 579,
     "timeDay": 598,
@@ -48,7 +48,7 @@
     "timeMonth": 467,
     "timeYear": 579,
     "dailyMinutesDown": {
-      "2022-05-13": 319,
+      "2022-05-13": 308,
       "2022-05-12": 139,
       "2022-05-11": 307,
       "2022-05-10": 142,
@@ -60,7 +60,7 @@
       "2022-05-04": 510,
       "2022-05-03": 257,
       "2022-05-02": 137,
-      "2022-05-01": 88
+      "2022-05-01": 111
     }
   },
   {
@@ -513,10 +513,10 @@
     "url": "https://www.metaboanalyst.ca/MetaboAnalyst/",
     "icon": "https://favicons.githubusercontent.com/www.metaboanalyst.ca",
     "slug": "metabo-analyst",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 344,
@@ -525,6 +525,7 @@
     "timeMonth": 331,
     "timeYear": 344,
     "dailyMinutesDown": {
+      "2022-05-13": 1,
       "2022-03-11": 32
     }
   },
@@ -621,7 +622,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-13": 1150,
+      "2022-05-13": 1171,
       "2022-05-12": 1440,
       "2022-05-11": 1440,
       "2022-05-10": 1440,
