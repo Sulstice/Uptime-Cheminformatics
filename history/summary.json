@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "90.19%",
+    "uptimeDay": "90.16%",
     "uptimeWeek": "87.14%",
-    "uptimeMonth": "93.27%",
+    "uptimeMonth": "93.33%",
     "uptimeYear": "99.35%",
     "time": 569,
     "timeDay": 399,
@@ -29,7 +29,7 @@
       "2022-05-06": 212,
       "2022-05-05": 279,
       "2022-05-04": 539,
-      "2022-05-03": 259
+      "2022-05-03": 236
     }
   },
   {
@@ -627,7 +627,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-16": 990,
+      "2022-05-16": 1040,
       "2022-05-15": 1440,
       "2022-05-14": 1440,
       "2022-05-13": 1440,
@@ -870,11 +870,11 @@
     "icon": "https://favicons.githubusercontent.com/cactus.nci.nih.gov",
     "slug": "chemical-resolver",
     "status": "up",
-    "uptime": "97.82%",
+    "uptime": "97.83%",
     "uptimeDay": "98.12%",
     "uptimeWeek": "96.27%",
     "uptimeMonth": "97.62%",
-    "uptimeYear": "97.82%",
+    "uptimeYear": "97.83%",
     "time": 602,
     "timeDay": 128,
     "timeWeek": 411,
