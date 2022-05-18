@@ -6,9 +6,9 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "77.49%",
-    "uptimeWeek": "85.58%",
-    "uptimeMonth": "93.08%",
+    "uptimeDay": "79.42%",
+    "uptimeWeek": "85.85%",
+    "uptimeMonth": "93.06%",
     "uptimeYear": "99.33%",
     "time": 568,
     "timeDay": 472,
@@ -16,7 +16,7 @@
     "timeMonth": 484,
     "timeYear": 568,
     "dailyMinutesDown": {
-      "2022-05-17": 321,
+      "2022-05-17": 313,
       "2022-05-16": 143,
       "2022-05-15": 90,
       "2022-05-14": 55,
@@ -30,7 +30,7 @@
       "2022-05-06": 212,
       "2022-05-05": 279,
       "2022-05-04": 539,
-      "2022-05-03": 20
+      "2022-05-03": 36
     }
   },
   {
@@ -40,9 +40,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "85.30%",
-    "uptimeWeek": "87.75%",
-    "uptimeMonth": "93.59%",
+    "uptimeDay": "87.17%",
+    "uptimeWeek": "88.02%",
+    "uptimeMonth": "93.54%",
     "uptimeYear": "99.38%",
     "time": 581,
     "timeDay": 452,
@@ -50,7 +50,7 @@
     "timeMonth": 489,
     "timeYear": 581,
     "dailyMinutesDown": {
-      "2022-05-17": 210,
+      "2022-05-17": 203,
       "2022-05-16": 126,
       "2022-05-15": 89,
       "2022-05-14": 54,
@@ -64,7 +64,7 @@
       "2022-05-06": 209,
       "2022-05-05": 278,
       "2022-05-04": 510,
-      "2022-05-03": 65
+      "2022-05-03": 91
     }
   },
   {
@@ -209,11 +209,11 @@
     "icon": "https://favicons.githubusercontent.com/www.bindingdb.org",
     "slug": "binding-database",
     "status": "up",
-    "uptime": "98.85%",
+    "uptime": "98.86%",
     "uptimeDay": "88.51%",
     "uptimeWeek": "98.21%",
     "uptimeMonth": "98.65%",
-    "uptimeYear": "98.85%",
+    "uptimeYear": "98.86%",
     "time": 616,
     "timeDay": 332,
     "timeWeek": 359,
@@ -631,7 +631,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-17": 1430,
+      "2022-05-18": 18,
+      "2022-05-17": 1440,
       "2022-05-16": 1440,
       "2022-05-15": 1440,
       "2022-05-14": 1440,
