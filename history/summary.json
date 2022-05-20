@@ -4,19 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
-    "uptime": "99.33%",
-    "uptimeDay": "76.24%",
-    "uptimeWeek": "88.06%",
-    "uptimeMonth": "93.00%",
-    "uptimeYear": "99.33%",
+    "status": "down",
+    "uptime": "99.34%",
+    "uptimeDay": "76.15%",
+    "uptimeWeek": "88.44%",
+    "uptimeMonth": "93.09%",
+    "uptimeYear": "99.34%",
     "time": 568,
     "timeDay": 515,
     "timeWeek": 516,
-    "timeMonth": 486,
+    "timeMonth": 482,
     "timeYear": 568,
     "dailyMinutesDown": {
-      "2022-05-20": 317,
+      "2022-05-20": 318,
       "2022-05-19": 107,
       "2022-05-18": 136,
       "2022-05-17": 313,
@@ -31,8 +31,7 @@
       "2022-05-08": 136,
       "2022-05-07": 67,
       "2022-05-06": 212,
-      "2022-05-05": 279,
-      "2022-05-04": 41
+      "2022-05-05": 279
     }
   },
   {
@@ -40,19 +39,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "76.48%",
-    "uptimeWeek": "89.61%",
-    "uptimeMonth": "93.37%",
+    "uptimeDay": "76.41%",
+    "uptimeWeek": "89.98%",
+    "uptimeMonth": "93.42%",
     "uptimeYear": "99.37%",
     "time": 579,
     "timeDay": 458,
-    "timeWeek": 575,
-    "timeMonth": 499,
+    "timeWeek": 576,
+    "timeMonth": 494,
     "timeYear": 579,
     "dailyMinutesDown": {
-      "2022-05-20": 315,
+      "2022-05-20": 316,
       "2022-05-19": 105,
       "2022-05-18": 121,
       "2022-05-17": 203,
@@ -68,7 +67,7 @@
       "2022-05-07": 66,
       "2022-05-06": 209,
       "2022-05-05": 278,
-      "2022-05-04": 137
+      "2022-05-04": 115
     }
   },
   {
@@ -635,7 +634,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-20": 1040,
+      "2022-05-20": 1125,
       "2022-05-19": 1440,
       "2022-05-18": 1440,
       "2022-05-17": 1440,
