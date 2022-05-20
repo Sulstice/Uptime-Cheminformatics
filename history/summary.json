@@ -4,19 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
-    "uptime": "99.33%",
-    "uptimeDay": "74.88%",
-    "uptimeWeek": "88.26%",
-    "uptimeMonth": "93.05%",
-    "uptimeYear": "99.33%",
+    "status": "down",
+    "uptime": "99.35%",
+    "uptimeDay": "74.81%",
+    "uptimeWeek": "88.24%",
+    "uptimeMonth": "93.19%",
+    "uptimeYear": "99.35%",
     "time": 568,
     "timeDay": 519,
-    "timeWeek": 517,
+    "timeWeek": 516,
     "timeMonth": 483,
     "timeYear": 568,
     "dailyMinutesDown": {
-      "2022-05-20": 336,
+      "2022-05-20": 337,
       "2022-05-19": 107,
       "2022-05-18": 136,
       "2022-05-17": 313,
@@ -31,7 +31,7 @@
       "2022-05-08": 136,
       "2022-05-07": 67,
       "2022-05-06": 212,
-      "2022-05-05": 279
+      "2022-05-05": 215
     }
   },
   {
@@ -39,19 +39,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "75.16%",
-    "uptimeWeek": "89.80%",
-    "uptimeMonth": "93.38%",
+    "uptimeDay": "75.10%",
+    "uptimeWeek": "89.79%",
+    "uptimeMonth": "93.42%",
     "uptimeYear": "99.37%",
     "time": 579,
     "timeDay": 464,
-    "timeWeek": 576,
-    "timeMonth": 494,
+    "timeWeek": 577,
+    "timeMonth": 495,
     "timeYear": 579,
     "dailyMinutesDown": {
-      "2022-05-20": 334,
+      "2022-05-20": 335,
       "2022-05-19": 105,
       "2022-05-18": 121,
       "2022-05-17": 203,
@@ -67,7 +67,7 @@
       "2022-05-07": 66,
       "2022-05-06": 209,
       "2022-05-05": 278,
-      "2022-05-04": 115
+      "2022-05-04": 97
     }
   },
   {
@@ -634,7 +634,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-20": 1144,
+      "2022-05-20": 1167,
       "2022-05-19": 1440,
       "2022-05-18": 1440,
       "2022-05-17": 1440,
