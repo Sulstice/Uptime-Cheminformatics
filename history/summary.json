@@ -4,19 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
-    "uptime": "99.34%",
-    "uptimeDay": "74.03%",
-    "uptimeWeek": "87.89%",
-    "uptimeMonth": "93.15%",
-    "uptimeYear": "99.34%",
+    "status": "down",
+    "uptime": "99.36%",
+    "uptimeDay": "73.94%",
+    "uptimeWeek": "87.88%",
+    "uptimeMonth": "93.26%",
+    "uptimeYear": "99.36%",
     "time": 574,
-    "timeDay": 1284,
-    "timeWeek": 634,
-    "timeMonth": 506,
+    "timeDay": 1324,
+    "timeWeek": 633,
+    "timeMonth": 496,
     "timeYear": 574,
     "dailyMinutesDown": {
-      "2022-05-20": 373,
+      "2022-05-20": 374,
       "2022-05-19": 107,
       "2022-05-18": 136,
       "2022-05-17": 313,
@@ -31,7 +31,7 @@
       "2022-05-08": 136,
       "2022-05-07": 67,
       "2022-05-06": 212,
-      "2022-05-05": 199
+      "2022-05-05": 148
     }
   },
   {
@@ -39,19 +39,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "74.34%",
-    "uptimeWeek": "89.44%",
-    "uptimeMonth": "93.39%",
+    "uptimeDay": "74.26%",
+    "uptimeWeek": "89.43%",
+    "uptimeMonth": "93.47%",
     "uptimeYear": "99.37%",
     "time": 580,
-    "timeDay": 643,
-    "timeWeek": 599,
-    "timeMonth": 489,
+    "timeDay": 649,
+    "timeWeek": 600,
+    "timeMonth": 484,
     "timeYear": 580,
     "dailyMinutesDown": {
-      "2022-05-20": 370,
+      "2022-05-20": 371,
       "2022-05-19": 105,
       "2022-05-18": 121,
       "2022-05-17": 203,
@@ -67,7 +67,7 @@
       "2022-05-07": 66,
       "2022-05-06": 209,
       "2022-05-05": 278,
-      "2022-05-04": 75
+      "2022-05-04": 40
     }
   },
   {
@@ -527,7 +527,7 @@
     "status": "up",
     "uptime": "99.38%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "91.32%",
+    "uptimeWeek": "91.69%",
     "uptimeMonth": "97.72%",
     "uptimeYear": "99.38%",
     "time": 341,
@@ -586,7 +586,7 @@
     "time": 3091,
     "timeDay": 17179,
     "timeWeek": 9625,
-    "timeMonth": 5723,
+    "timeMonth": 5208,
     "timeYear": 3091,
     "dailyMinutesDown": {}
   },
@@ -604,7 +604,7 @@
     "time": 633,
     "timeDay": 337,
     "timeWeek": 437,
-    "timeMonth": 446,
+    "timeMonth": 441,
     "timeYear": 633,
     "dailyMinutesDown": {
       "2022-03-27": 540,
@@ -634,7 +634,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-20": 1388,
+      "2022-05-20": 1426,
       "2022-05-19": 1440,
       "2022-05-18": 1440,
       "2022-05-17": 1440,
@@ -785,7 +785,7 @@
     "time": 726,
     "timeDay": 1255,
     "timeWeek": 809,
-    "timeMonth": 776,
+    "timeMonth": 780,
     "timeYear": 726,
     "dailyMinutesDown": {
       "2022-05-06": 26
@@ -805,7 +805,7 @@
     "time": 441,
     "timeDay": 611,
     "timeWeek": 376,
-    "timeMonth": 408,
+    "timeMonth": 414,
     "timeYear": 441,
     "dailyMinutesDown": {
       "2022-05-06": 90
@@ -825,7 +825,7 @@
     "time": 497,
     "timeDay": 538,
     "timeWeek": 500,
-    "timeMonth": 534,
+    "timeMonth": 535,
     "timeYear": 497,
     "dailyMinutesDown": {
       "2022-04-04": 41
@@ -845,7 +845,7 @@
     "time": 886,
     "timeDay": 1047,
     "timeWeek": 885,
-    "timeMonth": 909,
+    "timeMonth": 912,
     "timeYear": 886,
     "dailyMinutesDown": {
       "2022-03-22": 37,
@@ -867,7 +867,7 @@
     "time": 2057,
     "timeDay": 2502,
     "timeWeek": 1810,
-    "timeMonth": 1896,
+    "timeMonth": 1906,
     "timeYear": 2057,
     "dailyMinutesDown": {
       "2022-02-08": 32,
@@ -1002,7 +1002,7 @@
     "time": 728,
     "timeDay": 546,
     "timeWeek": 492,
-    "timeMonth": 1008,
+    "timeMonth": 999,
     "timeYear": 728,
     "dailyMinutesDown": {
       "2022-05-07": 42,
@@ -1026,7 +1026,7 @@
     "time": 1275,
     "timeDay": 976,
     "timeWeek": 1324,
-    "timeMonth": 1277,
+    "timeMonth": 1264,
     "timeYear": 1275,
     "dailyMinutesDown": {}
   }
