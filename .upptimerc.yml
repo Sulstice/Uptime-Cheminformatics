@@ -69,6 +69,8 @@ sites:
     url: https://www.lookchem.com/
   - name: Lipid Maps
     url: https://www.lipidmaps.org/
+  - name: IBM RXN For Chemistry
+    url: https://rxn.res.ibm.com/rxn/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
