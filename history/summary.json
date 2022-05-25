@@ -6,9 +6,9 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "88.36%",
-    "uptimeWeek": "87.22%",
-    "uptimeMonth": "93.20%",
+    "uptimeDay": "89.71%",
+    "uptimeWeek": "87.30%",
+    "uptimeMonth": "93.17%",
     "uptimeYear": "99.36%",
     "time": 576,
     "timeDay": 458,
@@ -16,7 +16,7 @@
     "timeMonth": 504,
     "timeYear": 576,
     "dailyMinutesDown": {
-      "2022-05-25": 73,
+      "2022-05-25": 65,
       "2022-05-24": 112,
       "2022-05-23": 164,
       "2022-05-22": 192,
@@ -32,7 +32,7 @@
       "2022-05-12": 143,
       "2022-05-11": 386,
       "2022-05-10": 145,
-      "2022-05-09": 61
+      "2022-05-09": 81
     }
   },
   {
@@ -42,9 +42,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "89.63%",
-    "uptimeWeek": "87.89%",
-    "uptimeMonth": "93.56%",
+    "uptimeDay": "90.94%",
+    "uptimeWeek": "87.96%",
+    "uptimeMonth": "93.51%",
     "uptimeYear": "99.39%",
     "time": 578,
     "timeDay": 537,
@@ -52,7 +52,7 @@
     "timeMonth": 474,
     "timeYear": 578,
     "dailyMinutesDown": {
-      "2022-05-25": 71,
+      "2022-05-25": 64,
       "2022-05-24": 94,
       "2022-05-23": 163,
       "2022-05-22": 186,
@@ -69,7 +69,7 @@
       "2022-05-11": 307,
       "2022-05-10": 142,
       "2022-05-09": 174,
-      "2022-05-08": 20
+      "2022-05-08": 51
     }
   },
   {
@@ -371,7 +371,7 @@
     "uptime": "96.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.57%",
+    "uptimeMonth": "97.61%",
     "uptimeYear": "96.93%",
     "time": 1092,
     "timeDay": 384,
@@ -637,7 +637,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-25": 473,
+      "2022-05-25": 493,
       "2022-05-24": 1440,
       "2022-05-23": 1440,
       "2022-05-22": 1440,
@@ -888,19 +888,19 @@
     "url": "https://cactus.nci.nih.gov/chemical/structure",
     "icon": "https://favicons.githubusercontent.com/cactus.nci.nih.gov",
     "slug": "chemical-resolver",
-    "status": "up",
-    "uptime": "98.24%",
-    "uptimeDay": "81.45%",
+    "status": "down",
+    "uptime": "98.25%",
+    "uptimeDay": "81.36%",
     "uptimeWeek": "95.27%",
     "uptimeMonth": "97.00%",
-    "uptimeYear": "98.24%",
+    "uptimeYear": "98.25%",
     "time": 699,
     "timeDay": 3348,
     "timeWeek": 1631,
     "timeMonth": 848,
     "timeYear": 699,
     "dailyMinutesDown": {
-      "2022-05-25": 142,
+      "2022-05-25": 144,
       "2022-05-24": 126,
       "2022-05-23": 65,
       "2022-05-22": 22,
@@ -988,8 +988,7 @@
       "2022-02-25": 31,
       "2022-02-24": 29,
       "2022-02-23": 27,
-      "2022-02-22": 20,
-      "2022-02-21": 20
+      "2022-02-22": 20
     }
   },
   {
