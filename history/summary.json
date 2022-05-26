@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "89.41%",
-    "uptimeWeek": "87.88%",
-    "uptimeMonth": "93.07%",
+    "uptimeDay": "89.30%",
+    "uptimeWeek": "87.86%",
+    "uptimeMonth": "93.12%",
     "uptimeYear": "99.35%",
     "time": 577,
     "timeDay": 876,
@@ -16,7 +16,7 @@
     "timeMonth": 514,
     "timeYear": 577,
     "dailyMinutesDown": {
-      "2022-05-26": 51,
+      "2022-05-26": 53,
       "2022-05-25": 118,
       "2022-05-24": 112,
       "2022-05-23": 164,
@@ -32,8 +32,7 @@
       "2022-05-13": 314,
       "2022-05-12": 143,
       "2022-05-11": 386,
-      "2022-05-10": 145,
-      "2022-05-09": 24
+      "2022-05-10": 145
     }
   },
   {
@@ -41,19 +40,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
-    "uptime": "99.38%",
-    "uptimeDay": "89.55%",
-    "uptimeWeek": "88.38%",
-    "uptimeMonth": "93.43%",
-    "uptimeYear": "99.38%",
+    "status": "down",
+    "uptime": "99.39%",
+    "uptimeDay": "89.45%",
+    "uptimeWeek": "88.36%",
+    "uptimeMonth": "93.47%",
+    "uptimeYear": "99.39%",
     "time": 577,
     "timeDay": 556,
     "timeWeek": 516,
     "timeMonth": 478,
     "timeYear": 577,
     "dailyMinutesDown": {
-      "2022-05-26": 51,
+      "2022-05-26": 52,
       "2022-05-25": 115,
       "2022-05-24": 94,
       "2022-05-23": 163,
@@ -70,7 +69,7 @@
       "2022-05-12": 139,
       "2022-05-11": 307,
       "2022-05-10": 142,
-      "2022-05-09": 155
+      "2022-05-09": 138
     }
   },
   {
@@ -370,9 +369,9 @@
     "slug": "comparative-toxicogenomics-database",
     "status": "up",
     "uptime": "96.94%",
-    "uptimeDay": "97.72%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "97.82%",
+    "uptimeDay": "98.23%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "97.84%",
     "uptimeYear": "96.94%",
     "time": 1211,
     "timeDay": 8252,
@@ -380,7 +379,7 @@
     "timeMonth": 1252,
     "timeYear": 1211,
     "dailyMinutesDown": {
-      "2022-05-26": 32,
+      "2022-05-26": 25,
       "2022-05-09": 817,
       "2022-04-30": 87,
       "2022-04-27": 17,
@@ -639,7 +638,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-26": 351,
+      "2022-05-26": 361,
       "2022-05-25": 1440,
       "2022-05-24": 1440,
       "2022-05-23": 1440,
