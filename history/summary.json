@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "95.28%",
-    "uptimeWeek": "87.88%",
-    "uptimeMonth": "93.07%",
+    "uptimeDay": "95.21%",
+    "uptimeWeek": "87.87%",
+    "uptimeMonth": "93.12%",
     "uptimeYear": "99.35%",
     "time": 578,
     "timeDay": 1095,
@@ -16,7 +16,7 @@
     "timeMonth": 518,
     "timeYear": 578,
     "dailyMinutesDown": {
-      "2022-05-26": 51,
+      "2022-05-26": 52,
       "2022-05-25": 118,
       "2022-05-24": 112,
       "2022-05-23": 164,
@@ -32,8 +32,7 @@
       "2022-05-13": 314,
       "2022-05-12": 143,
       "2022-05-11": 386,
-      "2022-05-10": 145,
-      "2022-05-09": 24
+      "2022-05-10": 145
     }
   },
   {
@@ -41,19 +40,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
-    "uptime": "99.38%",
-    "uptimeDay": "95.35%",
-    "uptimeWeek": "88.38%",
-    "uptimeMonth": "93.43%",
-    "uptimeYear": "99.38%",
+    "status": "down",
+    "uptime": "99.39%",
+    "uptimeDay": "95.28%",
+    "uptimeWeek": "88.37%",
+    "uptimeMonth": "93.47%",
+    "uptimeYear": "99.39%",
     "time": 578,
     "timeDay": 607,
     "timeWeek": 523,
     "timeMonth": 478,
     "timeYear": 578,
     "dailyMinutesDown": {
-      "2022-05-26": 51,
+      "2022-05-26": 52,
       "2022-05-25": 115,
       "2022-05-24": 94,
       "2022-05-23": 163,
@@ -70,7 +69,7 @@
       "2022-05-12": 139,
       "2022-05-11": 307,
       "2022-05-10": 142,
-      "2022-05-09": 155
+      "2022-05-09": 138
     }
   },
   {
@@ -639,7 +638,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-26": 685,
+      "2022-05-26": 713,
       "2022-05-25": 1440,
       "2022-05-24": 1440,
       "2022-05-23": 1440,
@@ -892,18 +891,18 @@
     "icon": "https://favicons.githubusercontent.com/cactus.nci.nih.gov",
     "slug": "chemical-resolver",
     "status": "up",
-    "uptime": "98.05%",
-    "uptimeDay": "71.71%",
-    "uptimeWeek": "91.55%",
-    "uptimeMonth": "96.10%",
-    "uptimeYear": "98.05%",
+    "uptime": "98.04%",
+    "uptimeDay": "72.56%",
+    "uptimeWeek": "91.67%",
+    "uptimeMonth": "96.13%",
+    "uptimeYear": "98.04%",
     "time": 736,
     "timeDay": 3571,
     "timeWeek": 1962,
     "timeMonth": 982,
     "timeYear": 736,
     "dailyMinutesDown": {
-      "2022-05-26": 92,
+      "2022-05-26": 80,
       "2022-05-25": 497,
       "2022-05-24": 126,
       "2022-05-23": 65,
@@ -989,7 +988,8 @@
       "2022-02-28": 20,
       "2022-02-27": 18,
       "2022-02-26": 19,
-      "2022-02-25": 31
+      "2022-02-25": 31,
+      "2022-02-24": 29
     }
   },
   {
