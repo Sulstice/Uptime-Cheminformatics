@@ -4,19 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "92.72%",
-    "uptimeWeek": "88.10%",
-    "uptimeMonth": "92.70%",
+    "uptimeDay": "92.64%",
+    "uptimeWeek": "88.27%",
+    "uptimeMonth": "92.75%",
     "uptimeYear": "99.32%",
     "time": 583,
-    "timeDay": 709,
-    "timeWeek": 797,
+    "timeDay": 712,
+    "timeWeek": 799,
     "timeMonth": 550,
     "timeYear": 583,
     "dailyMinutesDown": {
-      "2022-05-28": 23,
+      "2022-05-28": 24,
       "2022-05-27": 333,
       "2022-05-26": 205,
       "2022-05-25": 118,
@@ -33,7 +33,7 @@
       "2022-05-14": 55,
       "2022-05-13": 314,
       "2022-05-12": 143,
-      "2022-05-11": 207
+      "2022-05-11": 181
     }
   },
   {
@@ -41,19 +41,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
-    "uptime": "99.33%",
-    "uptimeDay": "92.90%",
-    "uptimeWeek": "88.43%",
-    "uptimeMonth": "92.86%",
-    "uptimeYear": "99.33%",
+    "status": "down",
+    "uptime": "99.34%",
+    "uptimeDay": "92.83%",
+    "uptimeWeek": "88.60%",
+    "uptimeMonth": "92.90%",
+    "uptimeYear": "99.34%",
     "time": 577,
-    "timeDay": 445,
-    "timeWeek": 515,
+    "timeDay": 454,
+    "timeWeek": 514,
     "timeMonth": 486,
     "timeYear": 577,
     "dailyMinutesDown": {
-      "2022-05-28": 23,
+      "2022-05-28": 24,
       "2022-05-27": 332,
       "2022-05-26": 203,
       "2022-05-25": 115,
@@ -71,7 +71,7 @@
       "2022-05-13": 308,
       "2022-05-12": 139,
       "2022-05-11": 307,
-      "2022-05-10": 42
+      "2022-05-10": 24
     }
   },
   {
@@ -640,7 +640,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-28": 520,
+      "2022-05-28": 575,
       "2022-05-27": 1440,
       "2022-05-26": 1440,
       "2022-05-25": 1440,
@@ -896,17 +896,17 @@
     "slug": "chemical-resolver",
     "status": "up",
     "uptime": "98.05%",
-    "uptimeDay": "93.32%",
-    "uptimeWeek": "90.99%",
-    "uptimeMonth": "95.96%",
+    "uptimeDay": "94.52%",
+    "uptimeWeek": "91.12%",
+    "uptimeMonth": "96.00%",
     "uptimeYear": "98.05%",
     "time": 725,
-    "timeDay": 182,
+    "timeDay": 168,
     "timeWeek": 1902,
-    "timeMonth": 951,
+    "timeMonth": 958,
     "timeYear": 725,
     "dailyMinutesDown": {
-      "2022-05-28": 93,
+      "2022-05-28": 79,
       "2022-05-27": 28,
       "2022-05-26": 80,
       "2022-05-25": 497,
@@ -992,7 +992,8 @@
       "2022-03-02": 21,
       "2022-03-01": 20,
       "2022-02-28": 20,
-      "2022-02-27": 18
+      "2022-02-27": 18,
+      "2022-02-26": 19
     }
   },
   {
