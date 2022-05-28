@@ -6,17 +6,17 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "92.14%",
-    "uptimeWeek": "87.76%",
-    "uptimeMonth": "92.74%",
+    "uptimeDay": "92.72%",
+    "uptimeWeek": "88.09%",
+    "uptimeMonth": "92.70%",
     "uptimeYear": "99.32%",
     "time": 583,
-    "timeDay": 738,
-    "timeWeek": 792,
+    "timeDay": 709,
+    "timeWeek": 797,
     "timeMonth": 550,
     "timeYear": 583,
     "dailyMinutesDown": {
-      "2022-05-28": 31,
+      "2022-05-28": 23,
       "2022-05-27": 333,
       "2022-05-26": 205,
       "2022-05-25": 118,
@@ -33,7 +33,7 @@
       "2022-05-14": 55,
       "2022-05-13": 314,
       "2022-05-12": 143,
-      "2022-05-11": 181
+      "2022-05-11": 207
     }
   },
   {
@@ -43,17 +43,17 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "92.36%",
-    "uptimeWeek": "88.11%",
-    "uptimeMonth": "92.88%",
+    "uptimeDay": "92.90%",
+    "uptimeWeek": "88.42%",
+    "uptimeMonth": "92.86%",
     "uptimeYear": "99.33%",
     "time": 577,
-    "timeDay": 467,
-    "timeWeek": 514,
+    "timeDay": 445,
+    "timeWeek": 515,
     "timeMonth": 486,
     "timeYear": 577,
     "dailyMinutesDown": {
-      "2022-05-28": 31,
+      "2022-05-28": 23,
       "2022-05-27": 332,
       "2022-05-26": 203,
       "2022-05-25": 115,
@@ -71,7 +71,7 @@
       "2022-05-13": 308,
       "2022-05-12": 139,
       "2022-05-11": 307,
-      "2022-05-10": 24
+      "2022-05-10": 42
     }
   },
   {
@@ -640,7 +640,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-28": 463,
+      "2022-05-28": 506,
       "2022-05-27": 1440,
       "2022-05-26": 1440,
       "2022-05-25": 1440,
@@ -894,19 +894,19 @@
     "url": "https://cactus.nci.nih.gov/chemical/structure",
     "icon": "https://favicons.githubusercontent.com/cactus.nci.nih.gov",
     "slug": "chemical-resolver",
-    "status": "up",
-    "uptime": "98.04%",
-    "uptimeDay": "92.61%",
-    "uptimeWeek": "91.12%",
-    "uptimeMonth": "95.94%",
-    "uptimeYear": "98.04%",
+    "status": "down",
+    "uptime": "98.05%",
+    "uptimeDay": "93.19%",
+    "uptimeWeek": "91.11%",
+    "uptimeMonth": "95.95%",
+    "uptimeYear": "98.05%",
     "time": 726,
     "timeDay": 142,
     "timeWeek": 1906,
     "timeMonth": 959,
     "timeYear": 726,
     "dailyMinutesDown": {
-      "2022-05-28": 79,
+      "2022-05-28": 81,
       "2022-05-27": 28,
       "2022-05-26": 80,
       "2022-05-25": 497,
@@ -992,8 +992,7 @@
       "2022-03-02": 21,
       "2022-03-01": 20,
       "2022-02-28": 20,
-      "2022-02-27": 18,
-      "2022-02-26": 19
+      "2022-02-27": 18
     }
   },
   {
