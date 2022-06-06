@@ -4,19 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
-    "uptime": "99.40%",
-    "uptimeDay": "83.61%",
-    "uptimeWeek": "88.69%",
-    "uptimeMonth": "93.40%",
-    "uptimeYear": "99.40%",
+    "status": "down",
+    "uptime": "99.41%",
+    "uptimeDay": "83.53%",
+    "uptimeWeek": "88.68%",
+    "uptimeMonth": "93.48%",
+    "uptimeYear": "99.41%",
     "time": 600,
-    "timeDay": 1164,
+    "timeDay": 1185,
     "timeWeek": 831,
     "timeMonth": 690,
     "timeYear": 600,
     "dailyMinutesDown": {
-      "2022-06-06": 235,
+      "2022-06-06": 236,
       "2022-06-05": 124,
       "2022-06-04": 176,
       "2022-06-03": 99,
@@ -33,7 +33,7 @@
       "2022-05-23": 164,
       "2022-05-22": 192,
       "2022-05-21": 169,
-      "2022-05-20": 155
+      "2022-05-20": 118
     }
   },
   {
@@ -41,19 +41,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "83.92%",
-    "uptimeWeek": "88.89%",
-    "uptimeMonth": "93.47%",
+    "uptimeDay": "83.86%",
+    "uptimeWeek": "88.88%",
+    "uptimeMonth": "93.53%",
     "uptimeYear": "99.41%",
     "time": 573,
-    "timeDay": 582,
+    "timeDay": 594,
     "timeWeek": 500,
     "timeMonth": 517,
     "timeYear": 573,
     "dailyMinutesDown": {
-      "2022-06-06": 231,
+      "2022-06-06": 232,
       "2022-06-05": 121,
       "2022-06-04": 174,
       "2022-06-03": 96,
@@ -70,7 +70,7 @@
       "2022-05-23": 163,
       "2022-05-22": 186,
       "2022-05-21": 151,
-      "2022-05-20": 201
+      "2022-05-20": 173
     }
   },
   {
@@ -293,7 +293,7 @@
     "slug": "chem-spider",
     "status": "up",
     "uptime": "97.37%",
-    "uptimeDay": "52.74%",
+    "uptimeDay": "54.24%",
     "uptimeWeek": "65.48%",
     "uptimeMonth": "91.48%",
     "uptimeYear": "97.37%",
@@ -657,7 +657,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-06": 1277,
+      "2022-06-06": 1299,
       "2022-06-05": 1440,
       "2022-06-04": 1440,
       "2022-06-03": 1440,
@@ -929,7 +929,7 @@
     "time": 749,
     "timeDay": 240,
     "timeWeek": 909,
-    "timeMonth": 1083,
+    "timeMonth": 1095,
     "timeYear": 749,
     "dailyMinutesDown": {
       "2022-06-05": 25,
@@ -1036,7 +1036,7 @@
     "time": 711,
     "timeDay": 330,
     "timeWeek": 384,
-    "timeMonth": 557,
+    "timeMonth": 524,
     "timeYear": 711,
     "dailyMinutesDown": {
       "2022-05-30": 20,
