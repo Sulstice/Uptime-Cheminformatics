@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
     "status": "up",
-    "uptime": "99.41%",
-    "uptimeDay": "96.19%",
-    "uptimeWeek": "90.13%",
-    "uptimeMonth": "93.44%",
-    "uptimeYear": "99.41%",
+    "uptime": "99.40%",
+    "uptimeDay": "97.03%",
+    "uptimeWeek": "90.25%",
+    "uptimeMonth": "93.41%",
+    "uptimeYear": "99.40%",
     "time": 602,
-    "timeDay": 819,
+    "timeDay": 831,
     "timeWeek": 796,
-    "timeMonth": 709,
+    "timeMonth": 710,
     "timeYear": 602,
     "dailyMinutesDown": {
-      "2022-06-08": 39,
+      "2022-06-08": 27,
       "2022-06-07": 216,
       "2022-06-06": 235,
       "2022-06-05": 124,
@@ -34,7 +34,7 @@
       "2022-05-24": 112,
       "2022-05-23": 164,
       "2022-05-22": 192,
-      "2022-05-21": 53
+      "2022-05-21": 78
     }
   },
   {
@@ -44,9 +44,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "96.30%",
-    "uptimeWeek": "90.62%",
-    "uptimeMonth": "93.43%",
+    "uptimeDay": "97.10%",
+    "uptimeWeek": "90.73%",
+    "uptimeMonth": "93.42%",
     "uptimeYear": "99.41%",
     "time": 572,
     "timeDay": 501,
@@ -54,7 +54,7 @@
     "timeMonth": 524,
     "timeYear": 572,
     "dailyMinutesDown": {
-      "2022-06-08": 37,
+      "2022-06-08": 26,
       "2022-06-07": 182,
       "2022-06-06": 231,
       "2022-06-05": 121,
@@ -72,7 +72,8 @@
       "2022-05-24": 94,
       "2022-05-23": 163,
       "2022-05-22": 186,
-      "2022-05-21": 151
+      "2022-05-21": 151,
+      "2022-05-20": 16
     }
   },
   {
@@ -118,10 +119,10 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://favicons.githubusercontent.com/www.chemexper.com",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.49%",
     "time": 659,
@@ -130,6 +131,7 @@
     "timeMonth": 650,
     "timeYear": 659,
     "dailyMinutesDown": {
+      "2022-06-08": 1,
       "2022-04-01": 30,
       "2022-03-30": 43,
       "2022-03-28": 15,
@@ -254,7 +256,7 @@
     "status": "up",
     "uptime": "99.35%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.11%",
+    "uptimeWeek": "98.30%",
     "uptimeMonth": "97.27%",
     "uptimeYear": "99.35%",
     "time": 1983,
@@ -660,7 +662,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-08": 1348,
+      "2022-06-08": 1368,
       "2022-06-07": 1440,
       "2022-06-06": 1440,
       "2022-06-05": 1440,
