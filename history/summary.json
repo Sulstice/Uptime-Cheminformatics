@@ -6,9 +6,9 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "90.48%",
-    "uptimeWeek": "87.56%",
-    "uptimeMonth": "94.02%",
+    "uptimeDay": "91.05%",
+    "uptimeWeek": "87.64%",
+    "uptimeMonth": "94.00%",
     "uptimeYear": "99.47%",
     "time": 607,
     "timeDay": 427,
@@ -16,7 +16,7 @@
     "timeMonth": 768,
     "timeYear": 607,
     "dailyMinutesDown": {
-      "2022-06-18": 51,
+      "2022-06-18": 43,
       "2022-06-17": 172,
       "2022-06-16": 154,
       "2022-06-15": 138,
@@ -33,7 +33,7 @@
       "2022-06-04": 176,
       "2022-06-03": 99,
       "2022-06-02": 109,
-      "2022-06-01": 24
+      "2022-06-01": 43
     }
   },
   {
@@ -43,9 +43,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "90.70%",
-    "uptimeWeek": "79.72%",
-    "uptimeMonth": "92.06%",
+    "uptimeDay": "91.22%",
+    "uptimeWeek": "79.79%",
+    "uptimeMonth": "92.04%",
     "uptimeYear": "99.30%",
     "time": 570,
     "timeDay": 413,
@@ -53,7 +53,7 @@
     "timeMonth": 517,
     "timeYear": 570,
     "dailyMinutesDown": {
-      "2022-06-18": 50,
+      "2022-06-18": 42,
       "2022-06-17": 170,
       "2022-06-16": 151,
       "2022-06-15": 937,
@@ -71,7 +71,7 @@
       "2022-06-03": 96,
       "2022-06-02": 103,
       "2022-06-01": 124,
-      "2022-05-31": 40
+      "2022-05-31": 58
     }
   },
   {
@@ -257,18 +257,18 @@
     "icon": "https://favicons.githubusercontent.com/sdbs.db.aist.go.jp",
     "slug": "spectral-database-for-organic-compounds",
     "status": "up",
-    "uptime": "94.99%",
+    "uptime": "94.97%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "9.02%",
-    "uptimeMonth": "76.33%",
-    "uptimeYear": "94.99%",
+    "uptimeWeek": "8.78%",
+    "uptimeMonth": "76.28%",
+    "uptimeYear": "94.97%",
     "time": 1978,
     "timeDay": 2671,
     "timeWeek": 1926,
     "timeMonth": 1844,
     "timeYear": 1978,
     "dailyMinutesDown": {
-      "2022-06-18": 478,
+      "2022-06-18": 503,
       "2022-06-17": 1440,
       "2022-06-16": 1440,
       "2022-06-15": 1440,
@@ -676,7 +676,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-18": 478,
+      "2022-06-18": 503,
       "2022-06-17": 1440,
       "2022-06-16": 1440,
       "2022-06-15": 1440,
@@ -954,18 +954,19 @@
     "url": "https://cactus.nci.nih.gov/chemical/structure",
     "icon": "https://favicons.githubusercontent.com/cactus.nci.nih.gov",
     "slug": "chemical-resolver",
-    "status": "up",
-    "uptime": "98.25%",
-    "uptimeDay": "98.06%",
-    "uptimeWeek": "96.28%",
-    "uptimeMonth": "96.13%",
-    "uptimeYear": "98.25%",
+    "status": "down",
+    "uptime": "98.27%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "96.27%",
+    "uptimeMonth": "96.15%",
+    "uptimeYear": "98.27%",
     "time": 776,
     "timeDay": 729,
     "timeWeek": 1328,
     "timeMonth": 1288,
     "timeYear": 776,
     "dailyMinutesDown": {
+      "2022-06-18": 1,
       "2022-06-17": 28,
       "2022-06-16": 29,
       "2022-06-15": 28,
@@ -1047,8 +1048,7 @@
       "2022-03-26": 22,
       "2022-03-25": 27,
       "2022-03-24": 24,
-      "2022-03-23": 35,
-      "2022-03-22": 36
+      "2022-03-23": 35
     }
   },
   {
