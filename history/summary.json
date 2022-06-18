@@ -6,9 +6,9 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "90.82%",
-    "uptimeWeek": "87.68%",
-    "uptimeMonth": "94.05%",
+    "uptimeDay": "91.63%",
+    "uptimeWeek": "87.80%",
+    "uptimeMonth": "94.03%",
     "uptimeYear": "99.48%",
     "time": 606,
     "timeDay": 463,
@@ -16,7 +16,7 @@
     "timeMonth": 768,
     "timeYear": 606,
     "dailyMinutesDown": {
-      "2022-06-18": 132,
+      "2022-06-18": 120,
       "2022-06-17": 172,
       "2022-06-16": 154,
       "2022-06-15": 138,
@@ -32,7 +32,7 @@
       "2022-06-05": 124,
       "2022-06-04": 176,
       "2022-06-03": 99,
-      "2022-06-02": 39
+      "2022-06-02": 60
     }
   },
   {
@@ -42,9 +42,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "92.11%",
-    "uptimeWeek": "79.84%",
-    "uptimeMonth": "92.05%",
+    "uptimeDay": "92.88%",
+    "uptimeWeek": "79.95%",
+    "uptimeMonth": "92.03%",
     "uptimeYear": "99.30%",
     "time": 570,
     "timeDay": 488,
@@ -52,7 +52,7 @@
     "timeMonth": 519,
     "timeYear": 570,
     "dailyMinutesDown": {
-      "2022-06-18": 113,
+      "2022-06-18": 102,
       "2022-06-17": 170,
       "2022-06-16": 151,
       "2022-06-15": 937,
@@ -69,7 +69,7 @@
       "2022-06-04": 174,
       "2022-06-03": 96,
       "2022-06-02": 103,
-      "2022-06-01": 103
+      "2022-06-01": 124
     }
   },
   {
@@ -165,10 +165,10 @@
     "url": "https://nmrshiftdb.nmr.uni-koeln.de/",
     "icon": "https://favicons.githubusercontent.com/nmrshiftdb.nmr.uni-koeln.de",
     "slug": "nmr-shift-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "96.92%",
-    "uptimeWeek": "99.05%",
+    "uptimeDay": "96.84%",
+    "uptimeWeek": "99.04%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.62%",
     "time": 1435,
@@ -177,7 +177,7 @@
     "timeMonth": 1023,
     "timeYear": 1435,
     "dailyMinutesDown": {
-      "2022-06-18": 44,
+      "2022-06-18": 45,
       "2022-06-15": 19,
       "2022-06-14": 17,
       "2022-06-12": 15,
@@ -255,18 +255,18 @@
     "icon": "https://favicons.githubusercontent.com/sdbs.db.aist.go.jp",
     "slug": "spectral-database-for-organic-compounds",
     "status": "up",
-    "uptime": "94.65%",
+    "uptime": "94.64%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "1.66%",
-    "uptimeMonth": "74.64%",
-    "uptimeYear": "94.65%",
+    "uptimeWeek": "1.54%",
+    "uptimeMonth": "74.61%",
+    "uptimeYear": "94.64%",
     "time": 1978,
     "timeDay": 2671,
     "timeWeek": 1967,
     "timeMonth": 1844,
     "timeYear": 1978,
     "dailyMinutesDown": {
-      "2022-06-18": 1220,
+      "2022-06-18": 1232,
       "2022-06-17": 1440,
       "2022-06-16": 1440,
       "2022-06-15": 1440,
@@ -674,7 +674,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-18": 1220,
+      "2022-06-18": 1233,
       "2022-06-17": 1440,
       "2022-06-16": 1440,
       "2022-06-15": 1440,
