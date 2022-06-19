@@ -6,9 +6,9 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "89.96%",
-    "uptimeWeek": "87.56%",
-    "uptimeMonth": "94.06%",
+    "uptimeDay": "90.51%",
+    "uptimeWeek": "87.63%",
+    "uptimeMonth": "94.04%",
     "uptimeYear": "99.48%",
     "time": 606,
     "timeDay": 453,
@@ -16,7 +16,7 @@
     "timeMonth": 764,
     "timeYear": 606,
     "dailyMinutesDown": {
-      "2022-06-18": 144,
+      "2022-06-18": 136,
       "2022-06-17": 172,
       "2022-06-16": 154,
       "2022-06-15": 138,
@@ -32,7 +32,7 @@
       "2022-06-05": 124,
       "2022-06-04": 176,
       "2022-06-03": 99,
-      "2022-06-02": 20
+      "2022-06-02": 39
     }
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
     "status": "up",
-    "uptime": "99.31%",
-    "uptimeDay": "91.29%",
-    "uptimeWeek": "79.72%",
-    "uptimeMonth": "92.13%",
-    "uptimeYear": "99.31%",
+    "uptime": "99.30%",
+    "uptimeDay": "91.80%",
+    "uptimeWeek": "79.79%",
+    "uptimeMonth": "92.04%",
+    "uptimeYear": "99.30%",
     "time": 569,
     "timeDay": 484,
     "timeWeek": 529,
     "timeMonth": 519,
     "timeYear": 569,
     "dailyMinutesDown": {
-      "2022-06-18": 125,
+      "2022-06-18": 118,
       "2022-06-17": 170,
       "2022-06-16": 151,
       "2022-06-15": 937,
@@ -69,7 +69,7 @@
       "2022-06-04": 174,
       "2022-06-03": 96,
       "2022-06-02": 103,
-      "2022-06-01": 59
+      "2022-06-01": 103
     }
   },
   {
@@ -255,18 +255,19 @@
     "icon": "https://favicons.githubusercontent.com/sdbs.db.aist.go.jp",
     "slug": "spectral-database-for-organic-compounds",
     "status": "up",
-    "uptime": "94.55%",
+    "uptime": "94.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "74.16%",
-    "uptimeYear": "94.55%",
+    "uptimeMonth": "74.09%",
+    "uptimeYear": "94.54%",
     "time": 1977,
     "timeDay": 1840,
     "timeWeek": 1949,
     "timeMonth": 1848,
     "timeYear": 1977,
     "dailyMinutesDown": {
-      "2022-06-18": 1431,
+      "2022-06-19": 20,
+      "2022-06-18": 1440,
       "2022-06-17": 1440,
       "2022-06-16": 1440,
       "2022-06-15": 1440,
@@ -674,7 +675,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-18": 1431,
+      "2022-06-19": 20,
+      "2022-06-18": 1440,
       "2022-06-17": 1440,
       "2022-06-16": 1440,
       "2022-06-15": 1440,
