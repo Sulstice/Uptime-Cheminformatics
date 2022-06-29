@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "87.95%",
-    "uptimeWeek": "87.82%",
-    "uptimeMonth": "93.90%",
+    "uptimeDay": "88.68%",
+    "uptimeWeek": "87.81%",
+    "uptimeMonth": "93.93%",
     "uptimeYear": "99.48%",
     "time": 621,
     "timeDay": 594,
@@ -16,7 +16,7 @@
     "timeMonth": 776,
     "timeYear": 621,
     "dailyMinutesDown": {
-      "2022-06-29": 76,
+      "2022-06-29": 77,
       "2022-06-28": 124,
       "2022-06-27": 207,
       "2022-06-26": 151,
@@ -31,7 +31,7 @@
       "2022-06-17": 172,
       "2022-06-16": 154,
       "2022-06-15": 138,
-      "2022-06-14": 32
+      "2022-06-14": 16
     }
   },
   {
@@ -39,11 +39,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.11%",
-    "uptimeDay": "88.16%",
-    "uptimeWeek": "77.99%",
-    "uptimeMonth": "89.50%",
+    "uptimeDay": "88.90%",
+    "uptimeWeek": "77.98%",
+    "uptimeMonth": "89.55%",
     "uptimeYear": "99.11%",
     "time": 574,
     "timeDay": 454,
@@ -51,7 +51,7 @@
     "timeMonth": 559,
     "timeYear": 574,
     "dailyMinutesDown": {
-      "2022-06-29": 76,
+      "2022-06-29": 77,
       "2022-06-28": 122,
       "2022-06-27": 203,
       "2022-06-26": 148,
@@ -67,7 +67,7 @@
       "2022-06-16": 151,
       "2022-06-15": 937,
       "2022-06-14": 147,
-      "2022-06-13": 73
+      "2022-06-13": 53
     }
   },
   {
@@ -257,18 +257,18 @@
     "icon": "https://favicons.githubusercontent.com/sdbs.db.aist.go.jp",
     "slug": "spectral-database-for-organic-compounds",
     "status": "up",
-    "uptime": "88.29%",
+    "uptime": "88.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "40.25%",
-    "uptimeYear": "88.29%",
+    "uptimeMonth": "40.22%",
+    "uptimeYear": "88.28%",
     "time": 1963,
     "timeDay": 1835,
     "timeWeek": 1819,
     "timeMonth": 1819,
     "timeYear": 1963,
     "dailyMinutesDown": {
-      "2022-06-29": 445,
+      "2022-06-29": 457,
       "2022-06-28": 1440,
       "2022-06-27": 1440,
       "2022-06-26": 1440,
@@ -409,8 +409,8 @@
     "slug": "comparative-toxicogenomics-database",
     "status": "up",
     "uptime": "92.76%",
-    "uptimeDay": "95.07%",
-    "uptimeWeek": "13.58%",
+    "uptimeDay": "95.91%",
+    "uptimeWeek": "13.70%",
     "uptimeMonth": "75.20%",
     "uptimeYear": "92.76%",
     "time": 1056,
@@ -699,7 +699,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-29": 446,
+      "2022-06-29": 458,
       "2022-06-28": 1440,
       "2022-06-27": 1440,
       "2022-06-26": 1440,
@@ -1140,18 +1140,16 @@
     "icon": "https://favicons.githubusercontent.com/rxn.res.ibm.com",
     "slug": "ibm-rxn-for-chemistry",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 792,
     "timeDay": 991,
     "timeWeek": 806,
     "timeMonth": 797,
     "timeYear": 792,
-    "dailyMinutesDown": {
-      "2022-06-29": 13
-    }
+    "dailyMinutesDown": {}
   }
 ]
