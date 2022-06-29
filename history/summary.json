@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "91.36%",
-    "uptimeWeek": "87.60%",
-    "uptimeMonth": "93.97%",
+    "uptimeDay": "91.28%",
+    "uptimeWeek": "87.59%",
+    "uptimeMonth": "94.03%",
     "uptimeYear": "99.49%",
     "time": 621,
     "timeDay": 602,
@@ -16,6 +16,7 @@
     "timeMonth": 775,
     "timeYear": 621,
     "dailyMinutesDown": {
+      "2022-06-29": 1,
       "2022-06-28": 124,
       "2022-06-27": 207,
       "2022-06-26": 151,
@@ -30,7 +31,7 @@
       "2022-06-17": 172,
       "2022-06-16": 154,
       "2022-06-15": 138,
-      "2022-06-14": 77
+      "2022-06-14": 50
     }
   },
   {
@@ -38,18 +39,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
-    "uptime": "99.11%",
-    "uptimeDay": "91.54%",
-    "uptimeWeek": "77.78%",
-    "uptimeMonth": "89.59%",
-    "uptimeYear": "99.11%",
+    "status": "down",
+    "uptime": "99.12%",
+    "uptimeDay": "91.45%",
+    "uptimeWeek": "77.77%",
+    "uptimeMonth": "89.63%",
+    "uptimeYear": "99.12%",
     "time": 574,
     "timeDay": 458,
     "timeWeek": 754,
     "timeMonth": 559,
     "timeYear": 574,
     "dailyMinutesDown": {
+      "2022-06-29": 1,
       "2022-06-28": 122,
       "2022-06-27": 203,
       "2022-06-26": 148,
@@ -65,7 +67,7 @@
       "2022-06-16": 151,
       "2022-06-15": 937,
       "2022-06-14": 147,
-      "2022-06-13": 110
+      "2022-06-13": 92
     }
   },
   {
@@ -258,7 +260,7 @@
     "uptime": "88.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "41.22%",
+    "uptimeMonth": "41.20%",
     "uptimeYear": "88.45%",
     "time": 1963,
     "timeDay": 1835,
@@ -266,7 +268,7 @@
     "timeMonth": 1819,
     "timeYear": 1963,
     "dailyMinutesDown": {
-      "2022-06-29": 20,
+      "2022-06-29": 28,
       "2022-06-28": 1440,
       "2022-06-27": 1440,
       "2022-06-26": 1440,
@@ -407,8 +409,8 @@
     "slug": "comparative-toxicogenomics-database",
     "status": "up",
     "uptime": "92.74%",
-    "uptimeDay": "65.51%",
-    "uptimeWeek": "9.36%",
+    "uptimeDay": "66.11%",
+    "uptimeWeek": "9.44%",
     "uptimeMonth": "75.20%",
     "uptimeYear": "92.74%",
     "time": 1056,
@@ -697,7 +699,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-29": 20,
+      "2022-06-29": 29,
       "2022-06-28": 1440,
       "2022-06-27": 1440,
       "2022-06-26": 1440,
