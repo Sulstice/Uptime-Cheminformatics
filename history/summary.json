@@ -6,9 +6,9 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "86.05%",
-    "uptimeWeek": "87.43%",
-    "uptimeMonth": "93.72%",
+    "uptimeDay": "88.79%",
+    "uptimeWeek": "87.50%",
+    "uptimeMonth": "93.70%",
     "uptimeYear": "99.47%",
     "time": 629,
     "timeDay": 886,
@@ -16,7 +16,7 @@
     "timeMonth": 792,
     "timeYear": 629,
     "dailyMinutesDown": {
-      "2022-07-02": 192,
+      "2022-07-02": 184,
       "2022-07-01": 180,
       "2022-06-30": 263,
       "2022-06-29": 150,
@@ -29,7 +29,8 @@
       "2022-06-22": 237,
       "2022-06-21": 193,
       "2022-06-20": 304,
-      "2022-06-19": 218
+      "2022-06-19": 218,
+      "2022-06-18": 16
     }
   },
   {
@@ -39,9 +40,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "90.68%",
-    "uptimeWeek": "88.57%",
-    "uptimeMonth": "91.50%",
+    "uptimeDay": "91.19%",
+    "uptimeWeek": "88.64%",
+    "uptimeMonth": "91.45%",
     "uptimeYear": "99.28%",
     "time": 572,
     "timeDay": 467,
@@ -49,7 +50,7 @@
     "timeMonth": 555,
     "timeYear": 572,
     "dailyMinutesDown": {
-      "2022-07-02": 134,
+      "2022-07-02": 127,
       "2022-07-01": 156,
       "2022-06-30": 244,
       "2022-06-29": 147,
@@ -63,7 +64,8 @@
       "2022-06-21": 173,
       "2022-06-20": 299,
       "2022-06-19": 215,
-      "2022-06-18": 118
+      "2022-06-18": 118,
+      "2022-06-17": 30
     }
   },
   {
@@ -257,18 +259,19 @@
     "icon": "https://favicons.githubusercontent.com/sdbs.db.aist.go.jp",
     "slug": "spectral-database-for-organic-compounds",
     "status": "up",
-    "uptime": "86.24%",
+    "uptime": "86.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "30.87%",
-    "uptimeYear": "86.24%",
+    "uptimeMonth": "30.79%",
+    "uptimeYear": "86.23%",
     "time": 1960,
     "timeDay": 1986,
     "timeWeek": 1793,
     "timeMonth": 1811,
     "timeYear": 1960,
     "dailyMinutesDown": {
-      "2022-07-02": 1432,
+      "2022-07-03": 23,
+      "2022-07-02": 1440,
       "2022-07-01": 1440,
       "2022-06-30": 1440,
       "2022-06-29": 1440,
@@ -413,7 +416,7 @@
     "status": "up",
     "uptime": "92.83%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "64.08%",
+    "uptimeWeek": "64.39%",
     "uptimeMonth": "74.71%",
     "uptimeYear": "92.83%",
     "time": 1037,
@@ -704,7 +707,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-02": 1432,
+      "2022-07-03": 23,
+      "2022-07-02": 1440,
       "2022-07-01": 1440,
       "2022-06-30": 1440,
       "2022-06-29": 1440,
