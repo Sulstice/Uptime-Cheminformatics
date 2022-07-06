@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "82.37%",
-    "uptimeWeek": "86.35%",
-    "uptimeMonth": "93.97%",
+    "uptimeDay": "82.26%",
+    "uptimeWeek": "86.41%",
+    "uptimeMonth": "94.02%",
     "uptimeYear": "99.50%",
     "time": 635,
     "timeDay": 756,
@@ -16,7 +16,7 @@
     "timeMonth": 799,
     "timeYear": 635,
     "dailyMinutesDown": {
-      "2022-07-06": 236,
+      "2022-07-06": 238,
       "2022-07-05": 240,
       "2022-07-04": 100,
       "2022-07-03": 137,
@@ -30,7 +30,7 @@
       "2022-06-25": 201,
       "2022-06-24": 125,
       "2022-06-23": 204,
-      "2022-06-22": 139
+      "2022-06-22": 116
     }
   },
   {
@@ -38,19 +38,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
-    "uptime": "99.30%",
-    "uptimeDay": "82.72%",
-    "uptimeWeek": "87.52%",
-    "uptimeMonth": "91.64%",
-    "uptimeYear": "99.30%",
+    "status": "down",
+    "uptime": "99.31%",
+    "uptimeDay": "82.60%",
+    "uptimeWeek": "87.59%",
+    "uptimeMonth": "91.69%",
+    "uptimeYear": "99.31%",
     "time": 570,
     "timeDay": 608,
     "timeWeek": 482,
     "timeMonth": 553,
     "timeYear": 570,
     "dailyMinutesDown": {
-      "2022-07-06": 231,
+      "2022-07-06": 233,
       "2022-07-05": 236,
       "2022-07-04": 99,
       "2022-07-03": 133,
@@ -65,7 +65,7 @@
       "2022-06-24": 107,
       "2022-06-23": 1184,
       "2022-06-22": 282,
-      "2022-06-21": 50
+      "2022-06-21": 26
     }
   },
   {
@@ -263,7 +263,7 @@
     "uptime": "84.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "18.04%",
+    "uptimeMonth": "18.01%",
     "uptimeYear": "84.18%",
     "time": 1958,
     "timeDay": 0,
@@ -271,7 +271,7 @@
     "timeMonth": 1812,
     "timeYear": 1958,
     "dailyMinutesDown": {
-      "2022-07-06": 1290,
+      "2022-07-06": 1301,
       "2022-07-05": 1440,
       "2022-07-04": 1440,
       "2022-07-03": 1440,
@@ -711,7 +711,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-06": 1290,
+      "2022-07-06": 1302,
       "2022-07-05": 1440,
       "2022-07-04": 1440,
       "2022-07-03": 1440,
