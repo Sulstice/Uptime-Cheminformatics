@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
     "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "87.20%",
-    "uptimeWeek": "85.48%",
-    "uptimeMonth": "93.73%",
-    "uptimeYear": "99.48%",
+    "uptime": "99.48%",
+    "uptimeDay": "87.75%",
+    "uptimeWeek": "85.56%",
+    "uptimeMonth": "93.66%",
+    "uptimeYear": "99.47%",
     "time": 661,
     "timeDay": 1014,
     "timeWeek": 1267,
     "timeMonth": 920,
     "timeYear": 662,
     "dailyMinutesDown": {
-      "2022-07-12": 184,
+      "2022-07-12": 176,
       "2022-07-11": 222,
       "2022-07-10": 147,
       "2022-07-09": 189,
@@ -30,7 +30,7 @@
       "2022-07-01": 180,
       "2022-06-30": 263,
       "2022-06-29": 150,
-      "2022-06-28": 26
+      "2022-06-28": 66
     }
   },
   {
@@ -40,9 +40,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "87.49%",
-    "uptimeWeek": "87.02%",
-    "uptimeMonth": "94.03%",
+    "uptimeDay": "88.00%",
+    "uptimeWeek": "87.10%",
+    "uptimeMonth": "94.00%",
     "uptimeYear": "99.50%",
     "time": 572,
     "timeDay": 521,
@@ -50,7 +50,7 @@
     "timeMonth": 575,
     "timeYear": 572,
     "dailyMinutesDown": {
-      "2022-07-12": 182,
+      "2022-07-12": 175,
       "2022-07-11": 203,
       "2022-07-10": 144,
       "2022-07-09": 186,
@@ -65,7 +65,7 @@
       "2022-06-30": 244,
       "2022-06-29": 147,
       "2022-06-28": 122,
-      "2022-06-27": 46
+      "2022-06-27": 67
     }
   },
   {
@@ -262,18 +262,18 @@
     "icon": "https://favicons.githubusercontent.com/sdbs.db.aist.go.jp",
     "slug": "spectral-database-for-organic-compounds",
     "status": "up",
-    "uptime": "81.15%",
+    "uptime": "81.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "81.15%",
+    "uptimeYear": "81.14%",
     "time": 1952,
     "timeDay": 1676,
     "timeWeek": 1797,
     "timeMonth": 1812,
     "timeYear": 1952,
     "dailyMinutesDown": {
-      "2022-07-13": 1,
+      "2022-07-13": 23,
       "2022-07-12": 1440,
       "2022-07-11": 1440,
       "2022-07-10": 1440,
@@ -721,7 +721,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-13": 1,
+      "2022-07-13": 24,
       "2022-07-12": 1440,
       "2022-07-11": 1440,
       "2022-07-10": 1440,
