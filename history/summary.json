@@ -6,9 +6,9 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "90.77%",
-    "uptimeWeek": "88.62%",
-    "uptimeMonth": "93.92%",
+    "uptimeDay": "91.31%",
+    "uptimeWeek": "88.70%",
+    "uptimeMonth": "93.90%",
     "uptimeYear": "99.49%",
     "time": 663,
     "timeDay": 622,
@@ -16,7 +16,7 @@
     "timeMonth": 923,
     "timeYear": 664,
     "dailyMinutesDown": {
-      "2022-07-15": 118,
+      "2022-07-15": 110,
       "2022-07-14": 92,
       "2022-07-13": 106,
       "2022-07-12": 176,
@@ -31,7 +31,7 @@
       "2022-07-03": 137,
       "2022-07-02": 184,
       "2022-07-01": 180,
-      "2022-06-30": 53
+      "2022-06-30": 68
     }
   },
   {
@@ -40,18 +40,18 @@
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
     "status": "up",
-    "uptime": "99.52%",
-    "uptimeDay": "90.99%",
-    "uptimeWeek": "89.14%",
-    "uptimeMonth": "94.06%",
-    "uptimeYear": "99.51%",
+    "uptime": "99.51%",
+    "uptimeDay": "91.49%",
+    "uptimeWeek": "89.22%",
+    "uptimeMonth": "94.04%",
+    "uptimeYear": "99.50%",
     "time": 571,
     "timeDay": 440,
     "timeWeek": 583,
     "timeMonth": 563,
     "timeYear": 571,
     "dailyMinutesDown": {
-      "2022-07-15": 114,
+      "2022-07-15": 107,
       "2022-07-14": 89,
       "2022-07-13": 103,
       "2022-07-12": 175,
@@ -66,7 +66,8 @@
       "2022-07-03": 133,
       "2022-07-02": 127,
       "2022-07-01": 156,
-      "2022-06-30": 244
+      "2022-06-30": 244,
+      "2022-06-29": 17
     }
   },
   {
@@ -276,7 +277,7 @@
     "timeMonth": 1824,
     "timeYear": 1953,
     "dailyMinutesDown": {
-      "2022-07-15": 958,
+      "2022-07-15": 969,
       "2022-07-14": 1440,
       "2022-07-13": 1440,
       "2022-07-12": 1440,
@@ -584,10 +585,10 @@
     "url": "http://csbg.cnb.csic.es/mbrole2/",
     "icon": "https://favicons.githubusercontent.com/csbg.cnb.csic.es",
     "slug": "metabolites-biological-role",
-    "status": "up",
+    "status": "down",
     "uptime": "97.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.87%",
     "time": 710,
@@ -596,6 +597,7 @@
     "timeMonth": 709,
     "timeYear": 710,
     "dailyMinutesDown": {
+      "2022-07-15": 2,
       "2022-04-12": 57,
       "2022-03-22": 33,
       "2022-03-10": 27,
@@ -727,7 +729,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-15": 958,
+      "2022-07-15": 969,
       "2022-07-14": 1440,
       "2022-07-13": 1440,
       "2022-07-12": 1440,
