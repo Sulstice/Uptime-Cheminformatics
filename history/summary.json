@@ -4,19 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
-    "uptime": "99.50%",
-    "uptimeDay": "89.69%",
-    "uptimeWeek": "88.61%",
-    "uptimeMonth": "93.92%",
-    "uptimeYear": "99.49%",
+    "status": "down",
+    "uptime": "99.51%",
+    "uptimeDay": "89.56%",
+    "uptimeWeek": "88.59%",
+    "uptimeMonth": "93.95%",
+    "uptimeYear": "99.50%",
     "time": 663,
     "timeDay": 680,
     "timeWeek": 1042,
     "timeMonth": 927,
     "timeYear": 664,
     "dailyMinutesDown": {
-      "2022-07-15": 57,
+      "2022-07-15": 59,
       "2022-07-14": 92,
       "2022-07-13": 106,
       "2022-07-12": 176,
@@ -31,7 +31,7 @@
       "2022-07-03": 137,
       "2022-07-02": 184,
       "2022-07-01": 180,
-      "2022-06-30": 114
+      "2022-06-30": 98
     }
   },
   {
@@ -39,11 +39,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "89.90%",
-    "uptimeWeek": "89.13%",
-    "uptimeMonth": "94.08%",
+    "uptimeDay": "89.75%",
+    "uptimeWeek": "89.10%",
+    "uptimeMonth": "94.11%",
     "uptimeYear": "99.51%",
     "time": 571,
     "timeDay": 511,
@@ -51,7 +51,7 @@
     "timeMonth": 566,
     "timeYear": 572,
     "dailyMinutesDown": {
-      "2022-07-15": 56,
+      "2022-07-15": 58,
       "2022-07-14": 89,
       "2022-07-13": 103,
       "2022-07-12": 175,
@@ -67,7 +67,7 @@
       "2022-07-02": 127,
       "2022-07-01": 156,
       "2022-06-30": 244,
-      "2022-06-29": 53
+      "2022-06-29": 34
     }
   },
   {
@@ -277,7 +277,7 @@
     "timeMonth": 1824,
     "timeYear": 1953,
     "dailyMinutesDown": {
-      "2022-07-15": 335,
+      "2022-07-15": 354,
       "2022-07-14": 1440,
       "2022-07-13": 1440,
       "2022-07-12": 1440,
@@ -516,11 +516,11 @@
     "icon": "https://favicons.githubusercontent.com/tripod.nih.gov",
     "slug": "tox21",
     "status": "up",
-    "uptime": "98.75%",
+    "uptime": "98.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "98.75%",
+    "uptimeYear": "98.76%",
     "time": 303,
     "timeDay": 74,
     "timeWeek": 216,
@@ -728,7 +728,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-15": 335,
+      "2022-07-15": 355,
       "2022-07-14": 1440,
       "2022-07-13": 1440,
       "2022-07-12": 1440,
