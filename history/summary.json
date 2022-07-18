@@ -6,17 +6,17 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "91.38%",
-    "uptimeWeek": "90.94%",
-    "uptimeMonth": "94.06%",
-    "uptimeYear": "99.51%",
+    "uptimeDay": "92.05%",
+    "uptimeWeek": "91.04%",
+    "uptimeMonth": "94.04%",
+    "uptimeYear": "99.50%",
     "time": 663,
     "timeDay": 632,
     "timeWeek": 845,
     "timeMonth": 953,
     "timeYear": 662,
     "dailyMinutesDown": {
-      "2022-07-18": 100,
+      "2022-07-18": 90,
       "2022-07-17": 108,
       "2022-07-16": 154,
       "2022-07-15": 110,
@@ -31,7 +31,8 @@
       "2022-07-06": 236,
       "2022-07-05": 240,
       "2022-07-04": 100,
-      "2022-07-03": 137
+      "2022-07-03": 137,
+      "2022-07-02": 21
     }
   },
   {
@@ -41,9 +42,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "91.63%",
-    "uptimeWeek": "91.13%",
-    "uptimeMonth": "94.22%",
+    "uptimeDay": "92.26%",
+    "uptimeWeek": "91.22%",
+    "uptimeMonth": "94.20%",
     "uptimeYear": "99.52%",
     "time": 569,
     "timeDay": 406,
@@ -51,7 +52,7 @@
     "timeMonth": 563,
     "timeYear": 567,
     "dailyMinutesDown": {
-      "2022-07-18": 98,
+      "2022-07-18": 89,
       "2022-07-17": 105,
       "2022-07-16": 151,
       "2022-07-15": 107,
@@ -67,7 +68,7 @@
       "2022-07-05": 236,
       "2022-07-04": 99,
       "2022-07-03": 133,
-      "2022-07-02": 111
+      "2022-07-02": 127
     }
   },
   {
@@ -278,7 +279,7 @@
     "timeMonth": 1821,
     "timeYear": 1954,
     "dailyMinutesDown": {
-      "2022-07-18": 1137,
+      "2022-07-18": 1148,
       "2022-07-17": 1440,
       "2022-07-16": 1440,
       "2022-07-15": 1440,
@@ -732,7 +733,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-18": 1137,
+      "2022-07-18": 1148,
       "2022-07-17": 1440,
       "2022-07-16": 1440,
       "2022-07-15": 1440,
@@ -1019,11 +1020,11 @@
     "url": "https://www.heterocycles.jp/newlibrary/natural_products/structure",
     "icon": "https://favicons.githubusercontent.com/www.heterocycles.jp",
     "slug": "hetereocycles",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
     "time": 2046,
     "timeDay": 1929,
@@ -1031,6 +1032,7 @@
     "timeMonth": 1994,
     "timeYear": 2046,
     "dailyMinutesDown": {
+      "2022-07-18": 2,
       "2022-02-08": 32,
       "2022-02-07": 35,
       "2022-02-06": 15
