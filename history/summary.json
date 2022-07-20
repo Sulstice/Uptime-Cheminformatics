@@ -4,18 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "89.40%",
-    "uptimeWeek": "91.90%",
-    "uptimeMonth": "94.03%",
-    "uptimeYear": "99.50%",
+    "uptimeDay": "89.75%",
+    "uptimeWeek": "91.89%",
+    "uptimeMonth": "94.08%",
+    "uptimeYear": "99.51%",
     "time": 664,
     "timeDay": 780,
     "timeWeek": 747,
     "timeMonth": 973,
     "timeYear": 663,
     "dailyMinutesDown": {
+      "2022-07-20": 2,
       "2022-07-19": 159,
       "2022-07-18": 90,
       "2022-07-17": 108,
@@ -31,7 +32,7 @@
       "2022-07-07": 254,
       "2022-07-06": 236,
       "2022-07-05": 240,
-      "2022-07-04": 100
+      "2022-07-04": 78
     }
   },
   {
@@ -39,11 +40,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "90.66%",
-    "uptimeWeek": "92.22%",
-    "uptimeMonth": "94.32%",
+    "status": "down",
+    "uptime": "99.55%",
+    "uptimeDay": "91.02%",
+    "uptimeWeek": "92.20%",
+    "uptimeMonth": "94.35%",
     "uptimeYear": "99.53%",
     "time": 568,
     "timeDay": 457,
@@ -51,6 +52,7 @@
     "timeMonth": 565,
     "timeYear": 567,
     "dailyMinutesDown": {
+      "2022-07-20": 2,
       "2022-07-19": 140,
       "2022-07-18": 89,
       "2022-07-17": 105,
@@ -67,7 +69,7 @@
       "2022-07-06": 231,
       "2022-07-05": 236,
       "2022-07-04": 99,
-      "2022-07-03": 71
+      "2022-07-03": 55
     }
   },
   {
@@ -278,7 +280,7 @@
     "timeMonth": 1828,
     "timeYear": 1954,
     "dailyMinutesDown": {
-      "2022-07-20": 19,
+      "2022-07-20": 27,
       "2022-07-19": 1440,
       "2022-07-18": 1440,
       "2022-07-17": 1440,
@@ -734,7 +736,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-20": 20,
+      "2022-07-20": 28,
       "2022-07-19": 1440,
       "2022-07-18": 1440,
       "2022-07-17": 1440,
