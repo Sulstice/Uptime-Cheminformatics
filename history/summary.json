@@ -279,7 +279,7 @@
     "timeMonth": 1828,
     "timeYear": 1954,
     "dailyMinutesDown": {
-      "2022-07-20": 908,
+      "2022-07-20": 914,
       "2022-07-19": 1440,
       "2022-07-18": 1440,
       "2022-07-17": 1440,
@@ -674,19 +674,19 @@
     "url": "http://www-metrabase.ch.cam.ac.uk/",
     "icon": "https://favicons.githubusercontent.com/www-metrabase.ch.cam.ac.uk",
     "slug": "metabolism-and-transport-database",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 4465,
-    "timeDay": 0,
-    "timeWeek": 7969,
-    "timeMonth": 7027,
-    "timeYear": 4465,
+    "time": 4444,
+    "timeDay": 763,
+    "timeWeek": 6768,
+    "timeMonth": 6811,
+    "timeYear": 4444,
     "dailyMinutesDown": {
-      "2022-07-20": 2
+      "2022-07-20": 6
     }
   },
   {
@@ -737,7 +737,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-20": 908,
+      "2022-07-20": 914,
       "2022-07-19": 1440,
       "2022-07-18": 1440,
       "2022-07-17": 1440,
