@@ -6,9 +6,9 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "86.80%",
-    "uptimeWeek": "91.58%",
-    "uptimeMonth": "94.04%",
+    "uptimeDay": "87.36%",
+    "uptimeWeek": "91.66%",
+    "uptimeMonth": "94.02%",
     "uptimeYear": "99.50%",
     "time": 664,
     "timeDay": 743,
@@ -16,7 +16,7 @@
     "timeMonth": 975,
     "timeYear": 663,
     "dailyMinutesDown": {
-      "2022-07-20": 53,
+      "2022-07-20": 45,
       "2022-07-19": 159,
       "2022-07-18": 90,
       "2022-07-17": 108,
@@ -32,7 +32,7 @@
       "2022-07-07": 254,
       "2022-07-06": 236,
       "2022-07-05": 240,
-      "2022-07-04": 44
+      "2022-07-04": 62
     }
   },
   {
@@ -42,17 +42,17 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "88.15%",
-    "uptimeWeek": "91.91%",
-    "uptimeMonth": "94.32%",
-    "uptimeYear": "99.53%",
+    "uptimeDay": "88.67%",
+    "uptimeWeek": "91.99%",
+    "uptimeMonth": "94.29%",
+    "uptimeYear": "99.52%",
     "time": 568,
     "timeDay": 434,
     "timeWeek": 458,
     "timeMonth": 565,
     "timeYear": 567,
     "dailyMinutesDown": {
-      "2022-07-20": 51,
+      "2022-07-20": 43,
       "2022-07-19": 140,
       "2022-07-18": 89,
       "2022-07-17": 105,
@@ -69,7 +69,7 @@
       "2022-07-06": 231,
       "2022-07-05": 236,
       "2022-07-04": 99,
-      "2022-07-03": 17
+      "2022-07-03": 39
     }
   },
   {
@@ -280,7 +280,7 @@
     "timeMonth": 1828,
     "timeYear": 1954,
     "dailyMinutesDown": {
-      "2022-07-20": 481,
+      "2022-07-20": 492,
       "2022-07-19": 1440,
       "2022-07-18": 1440,
       "2022-07-17": 1440,
@@ -736,7 +736,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-20": 481,
+      "2022-07-20": 493,
       "2022-07-19": 1440,
       "2022-07-18": 1440,
       "2022-07-17": 1440,
@@ -1047,18 +1047,19 @@
     "url": "https://cactus.nci.nih.gov/chemical/structure",
     "icon": "https://favicons.githubusercontent.com/cactus.nci.nih.gov",
     "slug": "chemical-resolver",
-    "status": "up",
-    "uptime": "98.58%",
-    "uptimeDay": "98.13%",
-    "uptimeWeek": "98.21%",
+    "status": "down",
+    "uptime": "98.59%",
+    "uptimeDay": "98.03%",
+    "uptimeWeek": "98.20%",
     "uptimeMonth": "98.16%",
-    "uptimeYear": "98.58%",
+    "uptimeYear": "98.59%",
     "time": 770,
     "timeDay": 216,
     "timeWeek": 578,
     "timeMonth": 747,
     "timeYear": 770,
     "dailyMinutesDown": {
+      "2022-07-20": 2,
       "2022-07-19": 27,
       "2022-07-18": 28,
       "2022-07-17": 24,
@@ -1142,8 +1143,7 @@
       "2022-04-21": 28,
       "2022-04-20": 28,
       "2022-04-19": 39,
-      "2022-04-18": 38,
-      "2022-04-17": 25
+      "2022-04-18": 38
     }
   },
   {
