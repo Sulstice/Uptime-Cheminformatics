@@ -12,7 +12,7 @@
     "uptimeYear": "99.50%",
     "time": 669,
     "timeDay": 1072,
-    "timeWeek": 812,
+    "timeWeek": 814,
     "timeMonth": 972,
     "timeYear": 668,
     "dailyMinutesDown": {
@@ -49,7 +49,7 @@
     "uptimeYear": "99.51%",
     "time": 567,
     "timeDay": 511,
-    "timeWeek": 479,
+    "timeWeek": 473,
     "timeMonth": 517,
     "timeYear": 566,
     "dailyMinutesDown": {
@@ -283,7 +283,7 @@
     "timeMonth": 1854,
     "timeYear": 1953,
     "dailyMinutesDown": {
-      "2022-07-23": 498,
+      "2022-07-23": 514,
       "2022-07-22": 1440,
       "2022-07-21": 1440,
       "2022-07-20": 1440,
@@ -450,7 +450,7 @@
     "uptime": "93.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "82.92%",
+    "uptimeMonth": "82.96%",
     "uptimeYear": "93.63%",
     "time": 968,
     "timeDay": 195,
@@ -743,7 +743,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-23": 498,
+      "2022-07-23": 514,
       "2022-07-22": 1440,
       "2022-07-21": 1440,
       "2022-07-20": 1440,
@@ -1057,18 +1057,19 @@
     "url": "https://cactus.nci.nih.gov/chemical/structure",
     "icon": "https://favicons.githubusercontent.com/cactus.nci.nih.gov",
     "slug": "chemical-resolver",
-    "status": "up",
-    "uptime": "98.61%",
-    "uptimeDay": "98.25%",
-    "uptimeWeek": "98.22%",
-    "uptimeMonth": "98.09%",
-    "uptimeYear": "98.61%",
+    "status": "down",
+    "uptime": "98.62%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "98.21%",
+    "uptimeMonth": "98.12%",
+    "uptimeYear": "98.62%",
     "time": 763,
     "timeDay": 119,
     "timeWeek": 506,
     "timeMonth": 677,
     "timeYear": 763,
     "dailyMinutesDown": {
+      "2022-07-23": 1,
       "2022-07-22": 29,
       "2022-07-21": 42,
       "2022-07-20": 29,
@@ -1151,8 +1152,7 @@
       "2022-04-25": 27,
       "2022-04-24": 26,
       "2022-04-23": 23,
-      "2022-04-22": 28,
-      "2022-04-21": 28
+      "2022-04-22": 28
     }
   },
   {
