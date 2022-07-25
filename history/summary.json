@@ -6,9 +6,9 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "94.72%",
-    "uptimeWeek": "90.55%",
-    "uptimeMonth": "94.09%",
+    "uptimeDay": "95.45%",
+    "uptimeWeek": "90.65%",
+    "uptimeMonth": "94.08%",
     "uptimeYear": "99.51%",
     "time": 672,
     "timeDay": 811,
@@ -16,7 +16,6 @@
     "timeMonth": 974,
     "timeYear": 672,
     "dailyMinutesDown": {
-      "2022-07-25": 11,
       "2022-07-24": 166,
       "2022-07-23": 156,
       "2022-07-22": 91,
@@ -34,7 +33,7 @@
       "2022-07-10": 147,
       "2022-07-09": 189,
       "2022-07-08": 228,
-      "2022-07-07": 70
+      "2022-07-07": 85
     }
   },
   {
@@ -44,9 +43,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "94.86%",
-    "uptimeWeek": "90.89%",
-    "uptimeMonth": "94.12%",
+    "uptimeDay": "95.56%",
+    "uptimeWeek": "90.99%",
+    "uptimeMonth": "94.10%",
     "uptimeYear": "99.51%",
     "time": 566,
     "timeDay": 467,
@@ -54,7 +53,6 @@
     "timeMonth": 511,
     "timeYear": 565,
     "dailyMinutesDown": {
-      "2022-07-25": 10,
       "2022-07-24": 163,
       "2022-07-23": 153,
       "2022-07-22": 88,
@@ -72,7 +70,8 @@
       "2022-07-10": 144,
       "2022-07-09": 186,
       "2022-07-08": 212,
-      "2022-07-07": 152
+      "2022-07-07": 152,
+      "2022-07-06": 22
     }
   },
   {
@@ -232,18 +231,19 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://favicons.githubusercontent.com/www.bindingdb.org",
     "slug": "binding-database",
-    "status": "up",
+    "status": "down",
     "uptime": "98.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "98.58%",
-    "time": 679,
-    "timeDay": 167,
-    "timeWeek": 263,
-    "timeMonth": 646,
-    "timeYear": 679,
+    "time": 677,
+    "timeDay": 192,
+    "timeWeek": 258,
+    "timeMonth": 639,
+    "timeYear": 677,
     "dailyMinutesDown": {
+      "2022-07-25": 2,
       "2022-07-05": 16,
       "2022-06-30": 60,
       "2022-06-28": 17,
@@ -284,7 +284,7 @@
     "timeMonth": 1866,
     "timeYear": 1953,
     "dailyMinutesDown": {
-      "2022-07-25": 536,
+      "2022-07-25": 544,
       "2022-07-24": 1440,
       "2022-07-23": 1440,
       "2022-07-22": 1440,
@@ -453,7 +453,7 @@
     "uptime": "93.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "89.58%",
+    "uptimeMonth": "89.60%",
     "uptimeYear": "93.70%",
     "time": 956,
     "timeDay": 269,
@@ -746,7 +746,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-25": 536,
+      "2022-07-25": 544,
       "2022-07-24": 1440,
       "2022-07-23": 1440,
       "2022-07-22": 1440,
