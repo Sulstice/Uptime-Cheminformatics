@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "90.32%",
-    "uptimeWeek": "89.87%",
-    "uptimeMonth": "94.36%",
+    "uptimeDay": "90.24%",
+    "uptimeWeek": "89.86%",
+    "uptimeMonth": "94.41%",
     "uptimeYear": "99.53%",
     "time": 678,
     "timeDay": 688,
@@ -16,7 +16,7 @@
     "timeMonth": 1010,
     "timeYear": 678,
     "dailyMinutesDown": {
-      "2022-07-29": 67,
+      "2022-07-29": 68,
       "2022-07-28": 101,
       "2022-07-27": 223,
       "2022-07-26": 192,
@@ -34,7 +34,7 @@
       "2022-07-14": 92,
       "2022-07-13": 106,
       "2022-07-12": 176,
-      "2022-07-11": 107
+      "2022-07-11": 84
     }
   },
   {
@@ -42,11 +42,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "91.60%",
-    "uptimeWeek": "90.24%",
-    "uptimeMonth": "94.46%",
+    "uptimeDay": "91.49%",
+    "uptimeWeek": "90.23%",
+    "uptimeMonth": "94.50%",
     "uptimeYear": "99.54%",
     "time": 566,
     "timeDay": 572,
@@ -54,7 +54,7 @@
     "timeMonth": 517,
     "timeYear": 565,
     "dailyMinutesDown": {
-      "2022-07-29": 51,
+      "2022-07-29": 53,
       "2022-07-28": 101,
       "2022-07-27": 215,
       "2022-07-26": 185,
@@ -72,7 +72,7 @@
       "2022-07-14": 89,
       "2022-07-13": 103,
       "2022-07-12": 175,
-      "2022-07-11": 143
+      "2022-07-11": 126
     }
   },
   {
@@ -288,7 +288,7 @@
     "timeMonth": 1903,
     "timeYear": 1955,
     "dailyMinutesDown": {
-      "2022-07-29": 608,
+      "2022-07-29": 623,
       "2022-07-28": 1440,
       "2022-07-27": 1440,
       "2022-07-26": 1440,
@@ -458,11 +458,11 @@
     "icon": "https://favicons.githubusercontent.com/ctdbase.org",
     "slug": "comparative-toxicogenomics-database",
     "status": "up",
-    "uptime": "93.83%",
+    "uptime": "93.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.40%",
-    "uptimeYear": "93.83%",
+    "uptimeYear": "93.84%",
     "time": 944,
     "timeDay": 206,
     "timeWeek": 194,
@@ -759,7 +759,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-29": 608,
+      "2022-07-29": 623,
       "2022-07-28": 1440,
       "2022-07-27": 1440,
       "2022-07-26": 1440,
