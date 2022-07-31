@@ -4,19 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "89.77%",
-    "uptimeWeek": "90.16%",
-    "uptimeMonth": "94.40%",
-    "uptimeYear": "99.53%",
+    "status": "down",
+    "uptime": "99.57%",
+    "uptimeDay": "90.88%",
+    "uptimeWeek": "90.15%",
+    "uptimeMonth": "94.44%",
+    "uptimeYear": "99.54%",
     "time": 678,
     "timeDay": 578,
     "timeWeek": 878,
-    "timeMonth": 984,
+    "timeMonth": 981,
     "timeYear": 670,
     "dailyMinutesDown": {
-      "2022-07-31": 127,
+      "2022-07-31": 128,
       "2022-07-30": 103,
       "2022-07-29": 159,
       "2022-07-28": 101,
@@ -34,7 +34,7 @@
       "2022-07-16": 154,
       "2022-07-15": 110,
       "2022-07-14": 92,
-      "2022-07-13": 51
+      "2022-07-13": 33
     }
   },
   {
@@ -42,11 +42,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "90.02%",
-    "uptimeWeek": "90.53%",
-    "uptimeMonth": "94.46%",
+    "uptimeDay": "91.13%",
+    "uptimeWeek": "90.52%",
+    "uptimeMonth": "94.50%",
     "uptimeYear": "99.54%",
     "time": 565,
     "timeDay": 485,
@@ -54,7 +54,7 @@
     "timeMonth": 518,
     "timeYear": 557,
     "dailyMinutesDown": {
-      "2022-07-31": 125,
+      "2022-07-31": 126,
       "2022-07-30": 101,
       "2022-07-29": 143,
       "2022-07-28": 101,
@@ -72,7 +72,7 @@
       "2022-07-16": 151,
       "2022-07-15": 107,
       "2022-07-14": 89,
-      "2022-07-13": 103
+      "2022-07-13": 83
     }
   },
   {
@@ -171,12 +171,12 @@
     "slug": "nmr-shift-database",
     "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "83.20%",
+    "uptimeDay": "83.38%",
     "uptimeWeek": "95.05%",
     "uptimeMonth": "98.51%",
     "uptimeYear": "99.47%",
     "time": 1810,
-    "timeDay": 7276,
+    "timeDay": 8005,
     "timeWeek": 4745,
     "timeMonth": 3078,
     "timeYear": 1810,
@@ -291,7 +291,7 @@
     "timeMonth": 1909,
     "timeYear": 1953,
     "dailyMinutesDown": {
-      "2022-07-31": 979,
+      "2022-07-31": 997,
       "2022-07-30": 1440,
       "2022-07-29": 1440,
       "2022-07-28": 1440,
@@ -764,7 +764,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-31": 980,
+      "2022-07-31": 998,
       "2022-07-30": 1440,
       "2022-07-29": 1440,
       "2022-07-28": 1440,
@@ -1024,9 +1024,9 @@
     "slug": "pesticide-info",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 511,
     "timeDay": 642,
@@ -1034,7 +1034,6 @@
     "timeMonth": 544,
     "timeYear": 511,
     "dailyMinutesDown": {
-      "2022-07-31": 13,
       "2022-04-04": 41
     }
   },
