@@ -4,18 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "90.24%",
-    "uptimeWeek": "90.04%",
-    "uptimeMonth": "94.43%",
+    "uptimeDay": "90.35%",
+    "uptimeWeek": "90.03%",
+    "uptimeMonth": "94.49%",
     "uptimeYear": "99.54%",
     "time": 678,
-    "timeDay": 601,
+    "timeDay": 602,
     "timeWeek": 858,
     "timeMonth": 977,
     "timeYear": 670,
     "dailyMinutesDown": {
+      "2022-08-01": 1,
       "2022-07-31": 164,
       "2022-07-30": 103,
       "2022-07-29": 159,
@@ -33,7 +34,7 @@
       "2022-07-17": 108,
       "2022-07-16": 154,
       "2022-07-15": 110,
-      "2022-07-14": 92
+      "2022-07-14": 63
     }
   },
   {
@@ -41,18 +42,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "90.55%",
-    "uptimeWeek": "90.42%",
-    "uptimeMonth": "94.50%",
+    "uptimeDay": "90.58%",
+    "uptimeWeek": "90.40%",
+    "uptimeMonth": "94.54%",
     "uptimeYear": "99.54%",
     "time": 565,
-    "timeDay": 532,
+    "timeDay": 531,
     "timeWeek": 511,
     "timeMonth": 518,
     "timeYear": 557,
     "dailyMinutesDown": {
+      "2022-08-01": 2,
       "2022-07-31": 160,
       "2022-07-30": 101,
       "2022-07-29": 143,
@@ -71,7 +73,7 @@
       "2022-07-16": 151,
       "2022-07-15": 107,
       "2022-07-14": 89,
-      "2022-07-13": 50
+      "2022-07-13": 32
     }
   },
   {
@@ -290,7 +292,7 @@
     "timeMonth": 1926,
     "timeYear": 1955,
     "dailyMinutesDown": {
-      "2022-08-01": 26,
+      "2022-08-01": 37,
       "2022-07-31": 1440,
       "2022-07-30": 1440,
       "2022-07-29": 1440,
@@ -764,7 +766,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-01": 26,
+      "2022-08-01": 37,
       "2022-07-31": 1440,
       "2022-07-30": 1440,
       "2022-07-29": 1440,
