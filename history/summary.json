@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "86.61%",
-    "uptimeWeek": "89.15%",
-    "uptimeMonth": "94.10%",
+    "status": "down",
+    "uptime": "99.55%",
+    "uptimeDay": "86.51%",
+    "uptimeWeek": "89.13%",
+    "uptimeMonth": "94.16%",
     "uptimeYear": "99.51%",
     "time": 682,
     "timeDay": 968,
@@ -16,7 +16,7 @@
     "timeMonth": 976,
     "timeYear": 672,
     "dailyMinutesDown": {
-      "2022-08-05": 193,
+      "2022-08-05": 194,
       "2022-08-04": 119,
       "2022-08-03": 170,
       "2022-08-02": 210,
@@ -32,8 +32,7 @@
       "2022-07-23": 156,
       "2022-07-22": 91,
       "2022-07-21": 194,
-      "2022-07-20": 119,
-      "2022-07-19": 31
+      "2022-07-20": 119
     }
   },
   {
@@ -41,11 +40,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "86.83%",
-    "uptimeWeek": "89.64%",
-    "uptimeMonth": "94.19%",
+    "status": "down",
+    "uptime": "99.56%",
+    "uptimeDay": "86.71%",
+    "uptimeWeek": "89.62%",
+    "uptimeMonth": "94.23%",
     "uptimeYear": "99.52%",
     "time": 562,
     "timeDay": 480,
@@ -53,7 +52,7 @@
     "timeMonth": 515,
     "timeYear": 553,
     "dailyMinutesDown": {
-      "2022-08-05": 189,
+      "2022-08-05": 191,
       "2022-08-04": 116,
       "2022-08-03": 168,
       "2022-08-02": 176,
@@ -70,7 +69,7 @@
       "2022-07-22": 88,
       "2022-07-21": 192,
       "2022-07-20": 115,
-      "2022-07-19": 86
+      "2022-07-19": 65
     }
   },
   {
@@ -296,7 +295,7 @@
     "timeMonth": 1939,
     "timeYear": 1955,
     "dailyMinutesDown": {
-      "2022-08-05": 1065,
+      "2022-08-05": 1077,
       "2022-08-04": 1440,
       "2022-08-03": 1440,
       "2022-08-02": 1440,
@@ -678,18 +677,18 @@
     "icon": "https://favicons.githubusercontent.com/bioinf.xmu.edu.cn",
     "slug": "adverse-drug-reaction-classification-system",
     "status": "down",
-    "uptime": "95.88%",
+    "uptime": "95.87%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "50.89%",
-    "uptimeMonth": "86.06%",
-    "uptimeYear": "95.88%",
+    "uptimeWeek": "50.77%",
+    "uptimeMonth": "86.03%",
+    "uptimeYear": "95.87%",
     "time": 1561,
     "timeDay": 2428,
     "timeWeek": 1558,
     "timeMonth": 1581,
     "timeYear": 1561,
     "dailyMinutesDown": {
-      "2022-08-05": 1065,
+      "2022-08-05": 1077,
       "2022-08-04": 1440,
       "2022-08-03": 1440,
       "2022-08-02": 1005,
@@ -779,7 +778,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-05": 1065,
+      "2022-08-05": 1077,
       "2022-08-04": 1440,
       "2022-08-03": 1440,
       "2022-08-02": 1440,
