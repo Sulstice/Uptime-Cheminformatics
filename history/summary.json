@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
     "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "88.02%",
-    "uptimeWeek": "91.06%",
-    "uptimeMonth": "94.31%",
-    "uptimeYear": "99.53%",
+    "uptime": "99.56%",
+    "uptimeDay": "88.75%",
+    "uptimeWeek": "91.16%",
+    "uptimeMonth": "94.24%",
+    "uptimeYear": "99.52%",
     "time": 685,
-    "timeDay": 1032,
+    "timeDay": 978,
     "timeWeek": 895,
     "timeMonth": 877,
     "timeYear": 676,
     "dailyMinutesDown": {
-      "2022-08-10": 48,
+      "2022-08-10": 37,
       "2022-08-09": 147,
       "2022-08-08": 120,
       "2022-08-07": 51,
@@ -33,7 +33,7 @@
       "2022-07-27": 223,
       "2022-07-26": 192,
       "2022-07-25": 63,
-      "2022-07-24": 122
+      "2022-07-24": 166
     }
   },
   {
@@ -43,9 +43,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "89.29%",
-    "uptimeWeek": "91.67%",
-    "uptimeMonth": "94.23%",
+    "uptimeDay": "89.99%",
+    "uptimeWeek": "91.77%",
+    "uptimeMonth": "94.21%",
     "uptimeYear": "99.52%",
     "time": 560,
     "timeDay": 545,
@@ -53,7 +53,7 @@
     "timeMonth": 487,
     "timeYear": 552,
     "dailyMinutesDown": {
-      "2022-08-10": 47,
+      "2022-08-10": 37,
       "2022-08-09": 131,
       "2022-08-08": 117,
       "2022-08-07": 50,
@@ -71,7 +71,7 @@
       "2022-07-26": 185,
       "2022-07-25": 61,
       "2022-07-24": 163,
-      "2022-07-23": 133
+      "2022-07-23": 153
     }
   },
   {
@@ -300,7 +300,7 @@
     "timeMonth": 1988,
     "timeYear": 1958,
     "dailyMinutesDown": {
-      "2022-08-10": 532,
+      "2022-08-10": 551,
       "2022-08-09": 1440,
       "2022-08-08": 1440,
       "2022-08-07": 1440,
@@ -686,10 +686,10 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://favicons.githubusercontent.com/bioinf.xmu.edu.cn",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
+    "status": "down",
     "uptime": "94.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "29.71%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "29.89%",
     "uptimeMonth": "77.67%",
     "uptimeYear": "94.68%",
     "time": 1564,
@@ -698,6 +698,7 @@
     "timeMonth": 1582,
     "timeYear": 1564,
     "dailyMinutesDown": {
+      "2022-08-10": 2,
       "2022-08-08": 417,
       "2022-08-07": 1440,
       "2022-08-06": 1440,
@@ -791,7 +792,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-10": 532,
+      "2022-08-10": 551,
       "2022-08-09": 1440,
       "2022-08-08": 1440,
       "2022-08-07": 1440,
