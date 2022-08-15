@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "91.07%",
-    "uptimeWeek": "90.25%",
-    "uptimeMonth": "93.98%",
+    "uptimeDay": "90.98%",
+    "uptimeWeek": "90.24%",
+    "uptimeMonth": "94.02%",
     "uptimeYear": "99.50%",
     "time": 686,
     "timeDay": 715,
@@ -16,7 +16,7 @@
     "timeMonth": 834,
     "timeYear": 677,
     "dailyMinutesDown": {
-      "2022-08-15": 130,
+      "2022-08-15": 131,
       "2022-08-14": 138,
       "2022-08-13": 139,
       "2022-08-12": 109,
@@ -34,8 +34,7 @@
       "2022-07-31": 164,
       "2022-07-30": 103,
       "2022-07-29": 159,
-      "2022-07-28": 101,
-      "2022-07-27": 6
+      "2022-07-28": 87
     }
   },
   {
@@ -43,11 +42,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "91.21%",
-    "uptimeWeek": "90.58%",
-    "uptimeMonth": "94.00%",
+    "uptimeDay": "91.10%",
+    "uptimeWeek": "90.56%",
+    "uptimeMonth": "94.04%",
     "uptimeYear": "99.50%",
     "time": 559,
     "timeDay": 531,
@@ -55,7 +54,7 @@
     "timeMonth": 479,
     "timeYear": 551,
     "dailyMinutesDown": {
-      "2022-08-15": 126,
+      "2022-08-15": 128,
       "2022-08-14": 136,
       "2022-08-13": 136,
       "2022-08-12": 107,
@@ -74,7 +73,7 @@
       "2022-07-30": 101,
       "2022-07-29": 143,
       "2022-07-28": 101,
-      "2022-07-27": 137
+      "2022-07-27": 119
     }
   },
   {
@@ -297,8 +296,8 @@
     "status": "up",
     "uptime": "70.26%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "73.37%",
-    "uptimeMonth": "14.98%",
+    "uptimeWeek": "73.60%",
+    "uptimeMonth": "15.03%",
     "uptimeYear": "70.26%",
     "time": 1956,
     "timeDay": 1570,
@@ -801,7 +800,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-15": 787,
+      "2022-08-15": 811,
       "2022-08-14": 1440,
       "2022-08-13": 1440,
       "2022-08-12": 1440,
@@ -1030,11 +1029,11 @@
     "url": "https://dra4.nihs.go.jp/mhlw_data/jsp/SearchPageENG.jsp",
     "icon": "https://favicons.githubusercontent.com/dra4.nihs.go.jp",
     "slug": "japan-exisiting-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "69.17%",
-    "uptimeWeek": "85.49%",
-    "uptimeMonth": "96.66%",
+    "uptimeDay": "68.93%",
+    "uptimeWeek": "85.46%",
+    "uptimeMonth": "96.65%",
     "uptimeYear": "99.47%",
     "time": 948,
     "timeDay": 1029,
@@ -1042,7 +1041,7 @@
     "timeMonth": 1243,
     "timeYear": 948,
     "dailyMinutesDown": {
-      "2022-08-15": 275,
+      "2022-08-15": 278,
       "2022-08-14": 367,
       "2022-08-13": 294,
       "2022-08-12": 526,
