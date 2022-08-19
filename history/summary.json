@@ -298,11 +298,11 @@
     "icon": "https://favicons.githubusercontent.com/sdbs.db.aist.go.jp",
     "slug": "spectral-database-for-organic-compounds",
     "status": "up",
-    "uptime": "70.80%",
+    "uptime": "70.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "27.32%",
-    "uptimeYear": "70.80%",
+    "uptimeMonth": "27.47%",
+    "uptimeYear": "70.81%",
     "time": 1954,
     "timeDay": 1716,
     "timeWeek": 1790,
@@ -804,7 +804,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-19": 434,
+      "2022-08-19": 499,
       "2022-08-18": 1440,
       "2022-08-17": 1440,
       "2022-08-16": 1440,
@@ -1045,7 +1045,7 @@
     "uptimeYear": "99.41%",
     "time": 962,
     "timeDay": 714,
-    "timeWeek": 1297,
+    "timeWeek": 1302,
     "timeMonth": 1219,
     "timeYear": 962,
     "dailyMinutesDown": {
@@ -1150,10 +1150,10 @@
     "url": "https://cactus.nci.nih.gov/chemical/structure",
     "icon": "https://favicons.githubusercontent.com/cactus.nci.nih.gov",
     "slug": "chemical-resolver",
-    "status": "up",
+    "status": "down",
     "uptime": "98.87%",
-    "uptimeDay": "96.07%",
-    "uptimeWeek": "97.87%",
+    "uptimeDay": "96.66%",
+    "uptimeWeek": "97.85%",
     "uptimeMonth": "98.18%",
     "uptimeYear": "98.87%",
     "time": 721,
@@ -1162,6 +1162,7 @@
     "timeMonth": 423,
     "timeYear": 721,
     "dailyMinutesDown": {
+      "2022-08-19": 2,
       "2022-08-18": 56,
       "2022-08-17": 61,
       "2022-08-16": 22,
@@ -1241,8 +1242,7 @@
       "2022-05-20": 27,
       "2022-05-19": 52,
       "2022-05-18": 45,
-      "2022-05-17": 28,
-      "2022-05-16": 27
+      "2022-05-17": 28
     }
   },
   {
