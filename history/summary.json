@@ -4,19 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "84.87%",
-    "uptimeWeek": "90.49%",
-    "uptimeMonth": "93.54%",
-    "uptimeYear": "99.46%",
-    "time": 677,
+    "uptimeDay": "84.79%",
+    "uptimeWeek": "90.48%",
+    "uptimeMonth": "93.59%",
+    "uptimeYear": "99.47%",
+    "time": 675,
     "timeDay": 434,
     "timeWeek": 469,
     "timeMonth": 684,
     "timeYear": 666,
     "dailyMinutesDown": {
-      "2022-08-29": 155,
+      "2022-08-29": 156,
       "2022-08-28": 120,
       "2022-08-27": 59,
       "2022-08-26": 113,
@@ -36,7 +36,7 @@
       "2022-08-12": 109,
       "2022-08-11": 207,
       "2022-08-10": 62,
-      "2022-08-09": 147
+      "2022-08-09": 124
     }
   },
   {
@@ -44,11 +44,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "85.16%",
-    "uptimeWeek": "90.67%",
-    "uptimeMonth": "93.85%",
+    "status": "down",
+    "uptime": "99.56%",
+    "uptimeDay": "85.05%",
+    "uptimeWeek": "90.66%",
+    "uptimeMonth": "93.92%",
     "uptimeYear": "99.49%",
     "time": 559,
     "timeDay": 431,
@@ -56,7 +56,7 @@
     "timeMonth": 516,
     "timeYear": 554,
     "dailyMinutesDown": {
-      "2022-08-29": 151,
+      "2022-08-29": 153,
       "2022-08-28": 117,
       "2022-08-27": 58,
       "2022-08-26": 112,
@@ -76,8 +76,7 @@
       "2022-08-12": 107,
       "2022-08-11": 202,
       "2022-08-10": 61,
-      "2022-08-09": 131,
-      "2022-08-08": 32
+      "2022-08-09": 131
     }
   },
   {
@@ -309,7 +308,7 @@
     "uptime": "72.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "60.92%",
+    "uptimeMonth": "60.97%",
     "uptimeYear": "72.18%",
     "time": 1947,
     "timeDay": 1481,
@@ -822,7 +821,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-29": 751,
+      "2022-08-29": 776,
       "2022-08-28": 1440,
       "2022-08-27": 1440,
       "2022-08-26": 1440,
