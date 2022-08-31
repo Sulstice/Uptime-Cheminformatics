@@ -4,19 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "84.60%",
-    "uptimeWeek": "91.04%",
-    "uptimeMonth": "93.50%",
+    "uptimeDay": "84.51%",
+    "uptimeWeek": "91.02%",
+    "uptimeMonth": "93.56%",
     "uptimeYear": "99.46%",
     "time": 677,
     "timeDay": 424,
-    "timeWeek": 451,
+    "timeWeek": 450,
     "timeMonth": 670,
     "timeYear": 665,
     "dailyMinutesDown": {
-      "2022-08-31": 221,
+      "2022-08-31": 222,
       "2022-08-30": 87,
       "2022-08-29": 197,
       "2022-08-28": 120,
@@ -36,7 +36,7 @@
       "2022-08-14": 138,
       "2022-08-13": 139,
       "2022-08-12": 109,
-      "2022-08-11": 86
+      "2022-08-11": 57
     }
   },
   {
@@ -44,11 +44,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "84.86%",
-    "uptimeWeek": "91.21%",
-    "uptimeMonth": "93.85%",
+    "uptimeDay": "84.72%",
+    "uptimeWeek": "91.19%",
+    "uptimeMonth": "93.91%",
     "uptimeYear": "99.49%",
     "time": 551,
     "timeDay": 447,
@@ -56,7 +56,7 @@
     "timeMonth": 514,
     "timeYear": 553,
     "dailyMinutesDown": {
-      "2022-08-31": 219,
+      "2022-08-31": 221,
       "2022-08-30": 85,
       "2022-08-29": 192,
       "2022-08-28": 117,
@@ -76,7 +76,7 @@
       "2022-08-14": 136,
       "2022-08-13": 136,
       "2022-08-12": 107,
-      "2022-08-11": 84
+      "2022-08-11": 56
     }
   },
   {
@@ -182,7 +182,7 @@
     "uptimeYear": "99.26%",
     "time": 2384,
     "timeDay": 0,
-    "timeWeek": 3726,
+    "timeWeek": 3658,
     "timeMonth": 4157,
     "timeYear": 2384,
     "dailyMinutesDown": {
@@ -309,7 +309,7 @@
     "uptime": "72.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "68.75%",
+    "uptimeMonth": "68.85%",
     "uptimeYear": "72.48%",
     "time": 1946,
     "timeDay": 0,
@@ -823,7 +823,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-31": 1303,
+      "2022-08-31": 1346,
       "2022-08-30": 1440,
       "2022-08-29": 1440,
       "2022-08-28": 1440,
