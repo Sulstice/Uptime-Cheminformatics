@@ -5,10 +5,10 @@
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
     "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "88.07%",
-    "uptimeWeek": "91.53%",
-    "uptimeMonth": "93.45%",
+    "uptime": "99.52%",
+    "uptimeDay": "89.00%",
+    "uptimeWeek": "91.67%",
+    "uptimeMonth": "93.43%",
     "uptimeYear": "99.45%",
     "time": 677,
     "timeDay": 717,
@@ -16,7 +16,7 @@
     "timeMonth": 677,
     "timeYear": 666,
     "dailyMinutesDown": {
-      "2022-08-31": 121,
+      "2022-08-31": 108,
       "2022-08-30": 87,
       "2022-08-29": 197,
       "2022-08-28": 120,
@@ -36,7 +36,8 @@
       "2022-08-14": 138,
       "2022-08-13": 139,
       "2022-08-12": 109,
-      "2022-08-11": 207
+      "2022-08-11": 207,
+      "2022-08-10": 25
     }
   },
   {
@@ -46,17 +47,17 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "88.25%",
-    "uptimeWeek": "91.69%",
-    "uptimeMonth": "93.80%",
+    "uptimeDay": "89.14%",
+    "uptimeWeek": "91.82%",
+    "uptimeMonth": "93.78%",
     "uptimeYear": "99.48%",
     "time": 552,
     "timeDay": 428,
     "timeWeek": 533,
-    "timeMonth": 514,
+    "timeMonth": 515,
     "timeYear": 553,
     "dailyMinutesDown": {
-      "2022-08-31": 121,
+      "2022-08-31": 108,
       "2022-08-30": 85,
       "2022-08-29": 192,
       "2022-08-28": 117,
@@ -76,7 +77,8 @@
       "2022-08-14": 136,
       "2022-08-13": 136,
       "2022-08-12": 107,
-      "2022-08-11": 202
+      "2022-08-11": 202,
+      "2022-08-10": 24
     }
   },
   {
@@ -309,7 +311,7 @@
     "uptime": "72.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "66.86%",
+    "uptimeMonth": "66.92%",
     "uptimeYear": "72.41%",
     "time": 1946,
     "timeDay": 0,
@@ -779,7 +781,7 @@
     "slug": "ecology-toxicity",
     "status": "up",
     "uptime": "98.10%",
-    "uptimeDay": "77.65%",
+    "uptimeDay": "79.34%",
     "uptimeWeek": "92.18%",
     "uptimeMonth": "98.20%",
     "uptimeYear": "98.10%",
@@ -823,7 +825,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-31": 477,
+      "2022-08-31": 501,
       "2022-08-30": 1440,
       "2022-08-29": 1440,
       "2022-08-28": 1440,
@@ -1182,10 +1184,10 @@
     "url": "https://cactus.nci.nih.gov/chemical/structure",
     "icon": "https://favicons.githubusercontent.com/cactus.nci.nih.gov",
     "slug": "chemical-resolver",
-    "status": "up",
+    "status": "down",
     "uptime": "98.94%",
-    "uptimeDay": "98.11%",
-    "uptimeWeek": "98.50%",
+    "uptimeDay": "98.14%",
+    "uptimeWeek": "98.48%",
     "uptimeMonth": "98.23%",
     "uptimeYear": "98.94%",
     "time": 715,
@@ -1194,6 +1196,7 @@
     "timeMonth": 541,
     "timeYear": 715,
     "dailyMinutesDown": {
+      "2022-08-31": 3,
       "2022-08-30": 27,
       "2022-08-29": 27,
       "2022-08-28": 26,
@@ -1276,7 +1279,7 @@
       "2022-05-27": 28,
       "2022-05-26": 80,
       "2022-05-25": 497,
-      "2022-05-24": 98
+      "2022-05-24": 82
     }
   },
   {
