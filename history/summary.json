@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
-    "uptime": "99.10%",
-    "uptimeDay": "31.16%",
-    "uptimeWeek": "64.11%",
-    "uptimeMonth": "87.36%",
+    "status": "down",
+    "uptime": "99.11%",
+    "uptimeDay": "31.59%",
+    "uptimeWeek": "64.10%",
+    "uptimeMonth": "87.40%",
     "uptimeYear": "98.95%",
     "time": 671,
     "timeDay": 420,
@@ -16,6 +16,7 @@
     "timeMonth": 597,
     "timeYear": 663,
     "dailyMinutesDown": {
+      "2022-09-09": 1,
       "2022-09-08": 1015,
       "2022-09-07": 1440,
       "2022-09-06": 219,
@@ -36,7 +37,7 @@
       "2022-08-22": 146,
       "2022-08-21": 110,
       "2022-08-20": 52,
-      "2022-08-19": 168
+      "2022-08-19": 150
     }
   },
   {
@@ -44,11 +45,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.13%",
-    "uptimeDay": "31.23%",
-    "uptimeWeek": "64.27%",
-    "uptimeMonth": "87.71%",
+    "uptimeDay": "31.66%",
+    "uptimeWeek": "64.25%",
+    "uptimeMonth": "87.74%",
     "uptimeYear": "98.98%",
     "time": 551,
     "timeDay": 531,
@@ -56,6 +57,7 @@
     "timeMonth": 527,
     "timeYear": 548,
     "dailyMinutesDown": {
+      "2022-09-09": 2,
       "2022-09-08": 1015,
       "2022-09-07": 1440,
       "2022-09-06": 219,
@@ -76,7 +78,7 @@
       "2022-08-22": 145,
       "2022-08-21": 109,
       "2022-08-20": 50,
-      "2022-08-19": 79
+      "2022-08-19": 62
     }
   },
   {
@@ -315,7 +317,7 @@
     "uptime": "73.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.42%",
+    "uptimeMonth": "95.44%",
     "uptimeYear": "73.46%",
     "time": 1949,
     "timeDay": 2061,
@@ -832,7 +834,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-09": 25,
+      "2022-09-09": 35,
       "2022-09-08": 1440,
       "2022-09-07": 1440,
       "2022-09-06": 1440,
@@ -1203,7 +1205,7 @@
     "status": "up",
     "uptime": "98.98%",
     "uptimeDay": "96.34%",
-    "uptimeWeek": "92.80%",
+    "uptimeWeek": "92.89%",
     "uptimeMonth": "96.77%",
     "uptimeYear": "98.98%",
     "time": 698,
