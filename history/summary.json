@@ -6,9 +6,9 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.12%",
-    "uptimeDay": "93.78%",
-    "uptimeWeek": "66.49%",
-    "uptimeMonth": "87.55%",
+    "uptimeDay": "94.33%",
+    "uptimeWeek": "66.57%",
+    "uptimeMonth": "87.51%",
     "uptimeYear": "98.96%",
     "time": 658,
     "timeDay": 413,
@@ -16,7 +16,7 @@
     "timeMonth": 565,
     "timeYear": 661,
     "dailyMinutesDown": {
-      "2022-09-11": 69,
+      "2022-09-11": 61,
       "2022-09-10": 137,
       "2022-09-09": 168,
       "2022-09-08": 1015,
@@ -36,7 +36,7 @@
       "2022-08-25": 107,
       "2022-08-24": 115,
       "2022-08-23": 185,
-      "2022-08-22": 21
+      "2022-08-22": 47
     }
   },
   {
@@ -46,9 +46,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.13%",
-    "uptimeDay": "93.89%",
-    "uptimeWeek": "66.77%",
-    "uptimeMonth": "87.62%",
+    "uptimeDay": "94.40%",
+    "uptimeWeek": "66.84%",
+    "uptimeMonth": "87.60%",
     "uptimeYear": "98.97%",
     "time": 550,
     "timeDay": 379,
@@ -56,7 +56,7 @@
     "timeMonth": 518,
     "timeYear": 539,
     "dailyMinutesDown": {
-      "2022-09-11": 67,
+      "2022-09-11": 60,
       "2022-09-10": 136,
       "2022-09-09": 147,
       "2022-09-08": 1015,
@@ -76,7 +76,7 @@
       "2022-08-25": 105,
       "2022-08-24": 112,
       "2022-08-23": 183,
-      "2022-08-22": 70
+      "2022-08-22": 85
     }
   },
   {
@@ -174,19 +174,19 @@
     "url": "https://nmrshiftdb.nmr.uni-koeln.de/",
     "icon": "https://favicons.githubusercontent.com/nmrshiftdb.nmr.uni-koeln.de",
     "slug": "nmr-shift-database",
-    "status": "down",
+    "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.22%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.16%",
     "uptimeMonth": "98.98%",
     "uptimeYear": "99.25%",
-    "time": 2471,
-    "timeDay": 865,
-    "timeWeek": 5786,
-    "timeMonth": 3320,
-    "timeYear": 2471,
+    "time": 2468,
+    "timeDay": 1160,
+    "timeWeek": 5392,
+    "timeMonth": 3286,
+    "timeYear": 2468,
     "dailyMinutesDown": {
-      "2022-09-11": 10,
+      "2022-09-11": 16,
       "2022-09-08": 51,
       "2022-09-06": 18,
       "2022-09-03": 26,
@@ -837,7 +837,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-11": 1322,
+      "2022-09-11": 1331,
       "2022-09-10": 1440,
       "2022-09-09": 1440,
       "2022-09-08": 1440,
