@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.12%",
-    "uptimeDay": "94.33%",
-    "uptimeWeek": "66.57%",
-    "uptimeMonth": "87.51%",
+    "uptimeDay": "94.25%",
+    "uptimeWeek": "66.56%",
+    "uptimeMonth": "87.56%",
     "uptimeYear": "98.96%",
     "time": 658,
     "timeDay": 413,
@@ -16,7 +16,7 @@
     "timeMonth": 565,
     "timeYear": 661,
     "dailyMinutesDown": {
-      "2022-09-11": 61,
+      "2022-09-11": 62,
       "2022-09-10": 137,
       "2022-09-09": 168,
       "2022-09-08": 1015,
@@ -36,7 +36,7 @@
       "2022-08-25": 107,
       "2022-08-24": 115,
       "2022-08-23": 185,
-      "2022-08-22": 47
+      "2022-08-22": 21
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.13%",
-    "uptimeDay": "94.40%",
-    "uptimeWeek": "66.84%",
-    "uptimeMonth": "87.60%",
+    "uptimeDay": "94.29%",
+    "uptimeWeek": "66.83%",
+    "uptimeMonth": "87.63%",
     "uptimeYear": "98.97%",
     "time": 550,
     "timeDay": 379,
-    "timeWeek": 430,
+    "timeWeek": 429,
     "timeMonth": 518,
     "timeYear": 539,
     "dailyMinutesDown": {
-      "2022-09-11": 60,
+      "2022-09-11": 62,
       "2022-09-10": 136,
       "2022-09-09": 147,
       "2022-09-08": 1015,
@@ -76,7 +76,7 @@
       "2022-08-25": 105,
       "2022-08-24": 112,
       "2022-08-23": 183,
-      "2022-08-22": 85
+      "2022-08-22": 70
     }
   },
   {
@@ -178,7 +178,7 @@
     "uptime": "99.25%",
     "uptimeDay": "98.87%",
     "uptimeWeek": "99.16%",
-    "uptimeMonth": "98.98%",
+    "uptimeMonth": "99.05%",
     "uptimeYear": "99.25%",
     "time": 2468,
     "timeDay": 1160,
@@ -837,7 +837,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-11": 1331,
+      "2022-09-11": 1359,
       "2022-09-10": 1440,
       "2022-09-09": 1440,
       "2022-09-08": 1440,
