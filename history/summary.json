@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
-    "uptime": "99.10%",
-    "uptimeDay": "86.39%",
-    "uptimeWeek": "75.97%",
-    "uptimeMonth": "87.18%",
+    "status": "down",
+    "uptime": "99.11%",
+    "uptimeDay": "86.29%",
+    "uptimeWeek": "76.30%",
+    "uptimeMonth": "87.21%",
     "uptimeYear": "98.93%",
     "time": 661,
     "timeDay": 342,
@@ -16,7 +16,7 @@
     "timeMonth": 523,
     "timeYear": 658,
     "dailyMinutesDown": {
-      "2022-09-14": 174,
+      "2022-09-14": 175,
       "2022-09-13": 215,
       "2022-09-12": 257,
       "2022-09-11": 80,
@@ -35,7 +35,7 @@
       "2022-08-29": 197,
       "2022-08-28": 120,
       "2022-08-27": 59,
-      "2022-08-26": 45
+      "2022-08-26": 29
     }
   },
   {
@@ -43,11 +43,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.11%",
-    "uptimeDay": "86.61%",
-    "uptimeWeek": "76.30%",
-    "uptimeMonth": "87.28%",
+    "uptimeDay": "86.47%",
+    "uptimeWeek": "76.62%",
+    "uptimeMonth": "87.32%",
     "uptimeYear": "98.94%",
     "time": 548,
     "timeDay": 399,
@@ -55,7 +55,7 @@
     "timeMonth": 509,
     "timeYear": 538,
     "dailyMinutesDown": {
-      "2022-09-14": 170,
+      "2022-09-14": 172,
       "2022-09-13": 212,
       "2022-09-12": 255,
       "2022-09-11": 79,
@@ -74,7 +74,7 @@
       "2022-08-29": 192,
       "2022-08-28": 117,
       "2022-08-27": 58,
-      "2022-08-26": 83
+      "2022-08-26": 64
     }
   },
   {
@@ -267,14 +267,14 @@
     "slug": "binding-database",
     "status": "up",
     "uptime": "98.75%",
-    "uptimeDay": "98.85%",
+    "uptimeDay": "99.16%",
     "uptimeWeek": "98.93%",
     "uptimeMonth": "99.04%",
     "uptimeYear": "98.75%",
     "time": 587,
-    "timeDay": 227,
+    "timeDay": 250,
     "timeWeek": 290,
-    "timeMonth": 295,
+    "timeMonth": 293,
     "timeYear": 587,
     "dailyMinutesDown": {
       "2022-09-13": 36,
@@ -314,11 +314,11 @@
     "icon": "https://favicons.githubusercontent.com/sdbs.db.aist.go.jp",
     "slug": "spectral-database-for-organic-compounds",
     "status": "up",
-    "uptime": "74.11%",
+    "uptime": "74.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "74.11%",
+    "uptimeYear": "74.12%",
     "time": 1948,
     "timeDay": 1910,
     "timeWeek": 1916,
@@ -837,7 +837,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-14": 1067,
+      "2022-09-14": 1103,
       "2022-09-13": 1440,
       "2022-09-12": 1440,
       "2022-09-11": 1440,
@@ -1105,7 +1105,7 @@
     "time": 954,
     "timeDay": 677,
     "timeWeek": 820,
-    "timeMonth": 1001,
+    "timeMonth": 997,
     "timeYear": 954,
     "dailyMinutesDown": {
       "2022-08-16": 75,
