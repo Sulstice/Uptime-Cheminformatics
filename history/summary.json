@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.11%",
-    "uptimeDay": "84.35%",
-    "uptimeWeek": "67.69%",
-    "uptimeMonth": "87.29%",
+    "uptimeDay": "84.27%",
+    "uptimeWeek": "68.25%",
+    "uptimeMonth": "87.32%",
     "uptimeYear": "98.94%",
     "time": 661,
     "timeDay": 387,
@@ -16,7 +16,7 @@
     "timeMonth": 533,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2022-09-14": 41,
+      "2022-09-14": 42,
       "2022-09-13": 215,
       "2022-09-12": 257,
       "2022-09-11": 80,
@@ -36,7 +36,7 @@
       "2022-08-28": 120,
       "2022-08-27": 59,
       "2022-08-26": 113,
-      "2022-08-25": 18
+      "2022-08-25": 1
     }
   },
   {
@@ -44,11 +44,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.12%",
-    "uptimeDay": "84.57%",
-    "uptimeWeek": "68.00%",
-    "uptimeMonth": "87.39%",
+    "uptimeDay": "84.44%",
+    "uptimeWeek": "68.56%",
+    "uptimeMonth": "87.42%",
     "uptimeYear": "98.95%",
     "time": 549,
     "timeDay": 387,
@@ -56,7 +56,7 @@
     "timeMonth": 515,
     "timeYear": 538,
     "dailyMinutesDown": {
-      "2022-09-14": 40,
+      "2022-09-14": 42,
       "2022-09-13": 212,
       "2022-09-12": 255,
       "2022-09-11": 79,
@@ -76,7 +76,7 @@
       "2022-08-28": 117,
       "2022-08-27": 58,
       "2022-08-26": 112,
-      "2022-08-25": 54
+      "2022-08-25": 36
     }
   },
   {
@@ -515,11 +515,11 @@
     "icon": "https://favicons.githubusercontent.com/ctdbase.org",
     "slug": "comparative-toxicogenomics-database",
     "status": "up",
-    "uptime": "94.98%",
+    "uptime": "94.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.31%",
-    "uptimeYear": "94.98%",
+    "uptimeYear": "94.99%",
     "time": 842,
     "timeDay": 373,
     "timeWeek": 288,
@@ -839,7 +839,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-14": 100,
+      "2022-09-14": 158,
       "2022-09-13": 1440,
       "2022-09-12": 1440,
       "2022-09-11": 1440,
