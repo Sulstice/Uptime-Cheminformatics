@@ -4,19 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.12%",
-    "uptimeDay": "86.38%",
-    "uptimeWeek": "86.39%",
-    "uptimeMonth": "87.34%",
-    "uptimeYear": "98.94%",
+    "uptimeDay": "87.66%",
+    "uptimeWeek": "86.38%",
+    "uptimeMonth": "87.38%",
+    "uptimeYear": "98.95%",
     "time": 658,
-    "timeDay": 410,
+    "timeDay": 407,
     "timeWeek": 403,
     "timeMonth": 485,
     "timeYear": 656,
     "dailyMinutesDown": {
-      "2022-09-17": 176,
+      "2022-09-17": 177,
       "2022-09-16": 153,
       "2022-09-15": 217,
       "2022-09-14": 238,
@@ -33,7 +33,7 @@
       "2022-09-03": 143,
       "2022-09-02": 149,
       "2022-09-01": 216,
-      "2022-08-31": 75
+      "2022-08-31": 56
     }
   },
   {
@@ -41,19 +41,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
-    "uptime": "99.11%",
-    "uptimeDay": "87.73%",
-    "uptimeWeek": "87.06%",
-    "uptimeMonth": "87.24%",
-    "uptimeYear": "98.94%",
+    "status": "down",
+    "uptime": "99.13%",
+    "uptimeDay": "88.94%",
+    "uptimeWeek": "87.05%",
+    "uptimeMonth": "87.43%",
+    "uptimeYear": "98.95%",
     "time": 547,
-    "timeDay": 550,
+    "timeDay": 559,
     "timeWeek": 437,
-    "timeMonth": 475,
+    "timeMonth": 476,
     "timeYear": 538,
     "dailyMinutesDown": {
-      "2022-09-17": 156,
+      "2022-09-17": 158,
       "2022-09-16": 150,
       "2022-09-15": 182,
       "2022-09-14": 233,
@@ -70,7 +70,7 @@
       "2022-09-03": 140,
       "2022-09-02": 147,
       "2022-09-01": 196,
-      "2022-08-31": 241
+      "2022-08-31": 155
     }
   },
   {
@@ -839,7 +839,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-17": 992,
+      "2022-09-17": 1027,
       "2022-09-16": 1440,
       "2022-09-15": 1440,
       "2022-09-14": 1440,
