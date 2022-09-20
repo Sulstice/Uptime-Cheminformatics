@@ -6,9 +6,9 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.09%",
-    "uptimeDay": "88.16%",
-    "uptimeWeek": "85.12%",
-    "uptimeMonth": "86.86%",
+    "uptimeDay": "89.07%",
+    "uptimeWeek": "85.28%",
+    "uptimeMonth": "86.78%",
     "uptimeYear": "98.90%",
     "time": 656,
     "timeDay": 544,
@@ -16,7 +16,7 @@
     "timeMonth": 481,
     "timeYear": 655,
     "dailyMinutesDown": {
-      "2022-09-20": 114,
+      "2022-09-20": 101,
       "2022-09-19": 318,
       "2022-09-18": 243,
       "2022-09-17": 195,
@@ -33,7 +33,7 @@
       "2022-09-06": 219,
       "2022-09-05": 331,
       "2022-09-04": 321,
-      "2022-09-03": 96
+      "2022-09-03": 143
     }
   },
   {
@@ -43,9 +43,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.09%",
-    "uptimeDay": "89.39%",
-    "uptimeWeek": "85.96%",
-    "uptimeMonth": "86.81%",
+    "uptimeDay": "90.27%",
+    "uptimeWeek": "86.11%",
+    "uptimeMonth": "86.79%",
     "uptimeYear": "98.90%",
     "time": 544,
     "timeDay": 459,
@@ -53,7 +53,7 @@
     "timeMonth": 471,
     "timeYear": 537,
     "dailyMinutesDown": {
-      "2022-09-20": 98,
+      "2022-09-20": 85,
       "2022-09-19": 316,
       "2022-09-18": 239,
       "2022-09-17": 175,
@@ -71,7 +71,7 @@
       "2022-09-05": 325,
       "2022-09-04": 317,
       "2022-09-03": 140,
-      "2022-09-02": 101
+      "2022-09-02": 122
     }
   },
   {
@@ -263,19 +263,19 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://favicons.githubusercontent.com/www.bindingdb.org",
     "slug": "binding-database",
-    "status": "up",
+    "status": "down",
     "uptime": "98.72%",
-    "uptimeDay": "95.86%",
-    "uptimeWeek": "97.67%",
+    "uptimeDay": "95.74%",
+    "uptimeWeek": "97.65%",
     "uptimeMonth": "98.50%",
     "uptimeYear": "98.72%",
-    "time": 703,
-    "timeDay": 1964,
-    "timeWeek": 1644,
-    "timeMonth": 927,
-    "timeYear": 703,
+    "time": 702,
+    "timeDay": 1845,
+    "timeWeek": 1620,
+    "timeMonth": 921,
+    "timeYear": 702,
     "dailyMinutesDown": {
-      "2022-09-20": 60,
+      "2022-09-20": 62,
       "2022-09-19": 41,
       "2022-09-16": 23,
       "2022-09-15": 112,
@@ -844,7 +844,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-20": 1133,
+      "2022-09-20": 1144,
       "2022-09-19": 1440,
       "2022-09-18": 1440,
       "2022-09-17": 1440,
