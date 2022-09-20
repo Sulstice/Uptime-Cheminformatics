@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.09%",
-    "uptimeDay": "89.75%",
-    "uptimeWeek": "85.49%",
-    "uptimeMonth": "86.76%",
+    "uptimeDay": "89.67%",
+    "uptimeWeek": "85.48%",
+    "uptimeMonth": "86.81%",
     "uptimeYear": "98.90%",
     "time": 656,
     "timeDay": 507,
@@ -16,7 +16,7 @@
     "timeMonth": 480,
     "timeYear": 655,
     "dailyMinutesDown": {
-      "2022-09-20": 27,
+      "2022-09-20": 28,
       "2022-09-19": 318,
       "2022-09-18": 243,
       "2022-09-17": 195,
@@ -34,7 +34,7 @@
       "2022-09-05": 331,
       "2022-09-04": 321,
       "2022-09-03": 143,
-      "2022-09-02": 85
+      "2022-09-02": 62
     }
   },
   {
@@ -42,11 +42,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.09%",
-    "uptimeDay": "89.93%",
-    "uptimeWeek": "86.17%",
-    "uptimeMonth": "86.82%",
+    "uptimeDay": "89.81%",
+    "uptimeWeek": "86.16%",
+    "uptimeMonth": "86.86%",
     "uptimeYear": "98.90%",
     "time": 545,
     "timeDay": 489,
@@ -54,7 +54,7 @@
     "timeMonth": 472,
     "timeYear": 538,
     "dailyMinutesDown": {
-      "2022-09-20": 27,
+      "2022-09-20": 29,
       "2022-09-19": 316,
       "2022-09-18": 239,
       "2022-09-17": 175,
@@ -72,8 +72,7 @@
       "2022-09-05": 325,
       "2022-09-04": 317,
       "2022-09-03": 140,
-      "2022-09-02": 147,
-      "2022-09-01": 21
+      "2022-09-02": 147
     }
   },
   {
@@ -267,9 +266,9 @@
     "slug": "binding-database",
     "status": "up",
     "uptime": "98.72%",
-    "uptimeDay": "96.30%",
-    "uptimeWeek": "97.54%",
-    "uptimeMonth": "98.56%",
+    "uptimeDay": "96.89%",
+    "uptimeWeek": "97.62%",
+    "uptimeMonth": "98.58%",
     "uptimeYear": "98.72%",
     "time": 663,
     "timeDay": 2677,
@@ -277,7 +276,7 @@
     "timeMonth": 760,
     "timeYear": 663,
     "dailyMinutesDown": {
-      "2022-09-20": 38,
+      "2022-09-20": 29,
       "2022-09-19": 41,
       "2022-09-16": 23,
       "2022-09-15": 112,
@@ -846,7 +845,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-20": 718,
+      "2022-09-20": 733,
       "2022-09-19": 1440,
       "2022-09-18": 1440,
       "2022-09-17": 1440,
