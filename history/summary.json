@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
-    "uptime": "99.09%",
-    "uptimeDay": "84.40%",
-    "uptimeWeek": "85.95%",
-    "uptimeMonth": "86.78%",
+    "status": "down",
+    "uptime": "99.10%",
+    "uptimeDay": "84.28%",
+    "uptimeWeek": "85.94%",
+    "uptimeMonth": "86.84%",
     "uptimeYear": "98.90%",
     "time": 651,
     "timeDay": 469,
@@ -16,7 +16,7 @@
     "timeMonth": 469,
     "timeYear": 654,
     "dailyMinutesDown": {
-      "2022-09-22": 225,
+      "2022-09-22": 227,
       "2022-09-21": 131,
       "2022-09-20": 102,
       "2022-09-19": 318,
@@ -34,7 +34,7 @@
       "2022-09-07": 1440,
       "2022-09-06": 219,
       "2022-09-05": 331,
-      "2022-09-04": 107
+      "2022-09-04": 82
     }
   },
   {
@@ -42,11 +42,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "85.65%",
-    "uptimeWeek": "86.76%",
-    "uptimeMonth": "86.53%",
+    "status": "down",
+    "uptime": "99.08%",
+    "uptimeDay": "85.48%",
+    "uptimeWeek": "86.74%",
+    "uptimeMonth": "86.56%",
     "uptimeYear": "98.88%",
     "time": 537,
     "timeDay": 474,
@@ -54,7 +54,7 @@
     "timeMonth": 478,
     "timeYear": 538,
     "dailyMinutesDown": {
-      "2022-09-22": 207,
+      "2022-09-22": 209,
       "2022-09-21": 130,
       "2022-09-20": 85,
       "2022-09-19": 316,
@@ -73,7 +73,7 @@
       "2022-09-06": 219,
       "2022-09-05": 325,
       "2022-09-04": 317,
-      "2022-09-03": 41
+      "2022-09-03": 24
     }
   },
   {
@@ -582,18 +582,18 @@
     "icon": "https://favicons.githubusercontent.com/drugdesign.riken.jp",
     "slug": "amed-cardiotoxicity-database",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.94%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.94%",
     "time": 1316,
     "timeDay": 1679,
     "timeWeek": 1435,
     "timeMonth": 1334,
     "timeYear": 1316,
     "dailyMinutesDown": {
-      "2022-09-22": 2,
+      "2022-09-22": 23,
       "2022-09-09": 15,
       "2022-06-25": 113,
       "2022-05-06": 27,
@@ -850,7 +850,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-22": 1004,
+      "2022-09-22": 1025,
       "2022-09-21": 1440,
       "2022-09-20": 1440,
       "2022-09-19": 1440,
