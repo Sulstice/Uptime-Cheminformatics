@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc15.docking.org",
     "slug": "zinc-15",
-    "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "76.18%",
-    "uptimeWeek": "84.61%",
-    "uptimeMonth": "92.52%",
+    "status": "down",
+    "uptime": "99.50%",
+    "uptimeDay": "76.00%",
+    "uptimeWeek": "84.59%",
+    "uptimeMonth": "92.57%",
     "uptimeYear": "99.38%",
     "time": 645,
     "timeDay": 370,
@@ -16,7 +16,7 @@
     "timeMonth": 453,
     "timeYear": 650,
     "dailyMinutesDown": {
-      "2022-09-27": 344,
+      "2022-09-27": 347,
       "2022-09-26": 174,
       "2022-09-25": 172,
       "2022-09-24": 120,
@@ -31,7 +31,7 @@
       "2022-09-15": 217,
       "2022-09-14": 238,
       "2022-09-13": 215,
-      "2022-09-12": 47
+      "2022-09-12": 21
     }
   },
   {
@@ -39,19 +39,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "76.54%",
-    "uptimeWeek": "85.00%",
-    "uptimeMonth": "92.43%",
-    "uptimeYear": "99.37%",
+    "uptimeDay": "76.32%",
+    "uptimeWeek": "84.97%",
+    "uptimeMonth": "92.56%",
+    "uptimeYear": "99.38%",
     "time": 535,
     "timeDay": 440,
     "timeWeek": 445,
-    "timeMonth": 456,
+    "timeMonth": 455,
     "timeYear": 536,
     "dailyMinutesDown": {
-      "2022-09-27": 337,
+      "2022-09-27": 340,
       "2022-09-26": 172,
       "2022-09-25": 172,
       "2022-09-24": 119,
@@ -66,7 +66,7 @@
       "2022-09-15": 182,
       "2022-09-14": 233,
       "2022-09-13": 212,
-      "2022-09-12": 213
+      "2022-09-12": 150
     }
   },
   {
@@ -166,8 +166,8 @@
     "slug": "nmr-shift-database",
     "status": "down",
     "uptime": "99.21%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "98.13%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "98.00%",
     "uptimeMonth": "98.86%",
     "uptimeYear": "99.21%",
     "time": 2442,
@@ -176,7 +176,7 @@
     "timeMonth": 2635,
     "timeYear": 2442,
     "dailyMinutesDown": {
-      "2022-09-27": 2,
+      "2022-09-27": 15,
       "2022-09-24": 78,
       "2022-09-23": 89,
       "2022-09-21": 20,
@@ -491,7 +491,7 @@
     "uptime": "98.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.34%",
+    "uptimeMonth": "98.37%",
     "uptimeYear": "98.57%",
     "time": 931,
     "timeDay": 942,
@@ -852,7 +852,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-27": 1321,
+      "2022-09-27": 1334,
       "2022-09-26": 1440,
       "2022-09-25": 1440,
       "2022-09-24": 1440,
