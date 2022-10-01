@@ -6,9 +6,9 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "83.55%",
-    "uptimeWeek": "74.66%",
-    "uptimeMonth": "90.40%",
+    "uptimeDay": "84.51%",
+    "uptimeWeek": "74.88%",
+    "uptimeMonth": "90.39%",
     "uptimeYear": "99.20%",
     "time": 646,
     "timeDay": 659,
@@ -16,7 +16,7 @@
     "timeMonth": 456,
     "timeYear": 649,
     "dailyMinutesDown": {
-      "2022-10-01": 155,
+      "2022-10-01": 141,
       "2022-09-30": 254,
       "2022-09-29": 183,
       "2022-09-28": 1151,
@@ -31,7 +31,7 @@
       "2022-09-19": 318,
       "2022-09-18": 243,
       "2022-09-17": 195,
-      "2022-09-16": 21
+      "2022-09-16": 40
     }
   },
   {
@@ -40,10 +40,10 @@
     "icon": "https://favicons.githubusercontent.com/zinc20.docking.org",
     "slug": "zinc-20",
     "status": "up",
-    "uptime": "99.36%",
-    "uptimeDay": "83.87%",
-    "uptimeWeek": "75.40%",
-    "uptimeMonth": "90.43%",
+    "uptime": "99.35%",
+    "uptimeDay": "84.80%",
+    "uptimeWeek": "75.60%",
+    "uptimeMonth": "90.38%",
     "uptimeYear": "99.20%",
     "time": 536,
     "timeDay": 529,
@@ -51,7 +51,7 @@
     "timeMonth": 464,
     "timeYear": 537,
     "dailyMinutesDown": {
-      "2022-10-01": 151,
+      "2022-10-01": 138,
       "2022-09-30": 233,
       "2022-09-29": 161,
       "2022-09-28": 1131,
@@ -66,7 +66,8 @@
       "2022-09-19": 316,
       "2022-09-18": 239,
       "2022-09-17": 175,
-      "2022-09-16": 150
+      "2022-09-16": 150,
+      "2022-09-15": 34
     }
   },
   {
@@ -746,11 +747,11 @@
     "icon": "https://favicons.githubusercontent.com/bioinf.xmu.edu.cn",
     "slug": "adverse-drug-reaction-classification-system",
     "status": "up",
-    "uptime": "95.21%",
+    "uptime": "95.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "95.21%",
+    "uptimeYear": "95.22%",
     "time": 1543,
     "timeDay": 1432,
     "timeWeek": 1402,
@@ -857,7 +858,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-01": 869,
+      "2022-10-01": 882,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
       "2022-09-28": 1440,
@@ -1348,10 +1349,10 @@
     "url": "https://www.lookchem.com/",
     "icon": "https://favicons.githubusercontent.com/www.lookchem.com",
     "slug": "look-chem",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 610,
@@ -1360,6 +1361,7 @@
     "timeMonth": 395,
     "timeYear": 610,
     "dailyMinutesDown": {
+      "2022-10-01": 2,
       "2022-07-21": 51,
       "2022-07-14": 16,
       "2022-07-01": 26,
