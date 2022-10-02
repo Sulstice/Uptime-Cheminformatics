@@ -6,17 +6,17 @@
     "slug": "zinc-15",
     "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "86.18%",
-    "uptimeWeek": "75.01%",
-    "uptimeMonth": "90.36%",
+    "uptimeDay": "85.05%",
+    "uptimeWeek": "75.24%",
+    "uptimeMonth": "90.35%",
     "uptimeYear": "99.20%",
     "time": 644,
-    "timeDay": 423,
-    "timeWeek": 458,
+    "timeDay": 420,
+    "timeWeek": 457,
     "timeMonth": 455,
     "timeYear": 648,
     "dailyMinutesDown": {
-      "2022-10-02": 137,
+      "2022-10-02": 158,
       "2022-10-01": 183,
       "2022-09-30": 254,
       "2022-09-29": 183,
@@ -31,7 +31,7 @@
       "2022-09-20": 102,
       "2022-09-19": 318,
       "2022-09-18": 243,
-      "2022-09-17": 67
+      "2022-09-17": 52
     }
   },
   {
@@ -40,18 +40,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
     "status": "down",
-    "uptime": "99.35%",
-    "uptimeDay": "86.39%",
-    "uptimeWeek": "75.74%",
-    "uptimeMonth": "90.40%",
+    "uptime": "99.36%",
+    "uptimeDay": "85.33%",
+    "uptimeWeek": "75.97%",
+    "uptimeMonth": "90.42%",
     "uptimeYear": "99.20%",
     "time": 535,
     "timeDay": 537,
-    "timeWeek": 501,
-    "timeMonth": 464,
+    "timeWeek": 502,
+    "timeMonth": 465,
     "timeYear": 537,
     "dailyMinutesDown": {
-      "2022-10-02": 135,
+      "2022-10-02": 156,
       "2022-10-01": 179,
       "2022-09-30": 233,
       "2022-09-29": 161,
@@ -66,8 +66,7 @@
       "2022-09-20": 85,
       "2022-09-19": 316,
       "2022-09-18": 239,
-      "2022-09-17": 175,
-      "2022-09-16": 1
+      "2022-09-17": 148
     }
   },
   {
@@ -861,7 +860,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-02": 751,
+      "2022-10-02": 812,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
