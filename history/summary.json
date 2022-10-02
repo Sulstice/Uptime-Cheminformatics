@@ -6,17 +6,17 @@
     "slug": "zinc-15",
     "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "83.88%",
-    "uptimeWeek": "74.90%",
+    "uptimeDay": "82.56%",
+    "uptimeWeek": "74.71%",
     "uptimeMonth": "90.31%",
     "uptimeYear": "99.19%",
     "time": 644,
-    "timeDay": 441,
-    "timeWeek": 458,
-    "timeMonth": 455,
+    "timeDay": 464,
+    "timeWeek": 461,
+    "timeMonth": 456,
     "timeYear": 648,
     "dailyMinutesDown": {
-      "2022-10-02": 207,
+      "2022-10-02": 226,
       "2022-10-01": 183,
       "2022-09-30": 254,
       "2022-09-29": 183,
@@ -30,8 +30,7 @@
       "2022-09-21": 131,
       "2022-09-20": 102,
       "2022-09-19": 318,
-      "2022-09-18": 243,
-      "2022-09-17": 19
+      "2022-09-18": 243
     }
   },
   {
@@ -41,17 +40,17 @@
     "slug": "zinc-20",
     "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "84.12%",
-    "uptimeWeek": "75.63%",
-    "uptimeMonth": "90.43%",
+    "uptimeDay": "82.83%",
+    "uptimeWeek": "75.45%",
+    "uptimeMonth": "90.44%",
     "uptimeYear": "99.20%",
     "time": 535,
-    "timeDay": 564,
-    "timeWeek": 509,
+    "timeDay": 561,
+    "timeWeek": 510,
     "timeMonth": 466,
     "timeYear": 537,
     "dailyMinutesDown": {
-      "2022-10-02": 204,
+      "2022-10-02": 223,
       "2022-10-01": 179,
       "2022-09-30": 233,
       "2022-09-29": 161,
@@ -66,7 +65,7 @@
       "2022-09-20": 85,
       "2022-09-19": 316,
       "2022-09-18": 239,
-      "2022-09-17": 95
+      "2022-09-17": 72
     }
   },
   {
@@ -271,7 +270,7 @@
     "uptimeMonth": "97.92%",
     "uptimeYear": "98.62%",
     "time": 728,
-    "timeDay": 298,
+    "timeDay": 293,
     "timeWeek": 1097,
     "timeMonth": 994,
     "timeYear": 728,
@@ -644,7 +643,7 @@
     "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.29%",
+    "uptimeMonth": "99.37%",
     "uptimeYear": "99.69%",
     "time": 1323,
     "timeDay": 770,
@@ -860,7 +859,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-02": 1197,
+      "2022-10-02": 1231,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
