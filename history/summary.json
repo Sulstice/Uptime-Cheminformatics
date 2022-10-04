@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "80.08%",
-    "uptimeWeek": "72.17%",
-    "uptimeMonth": "90.27%",
+    "uptimeDay": "80.00%",
+    "uptimeWeek": "72.16%",
+    "uptimeMonth": "90.33%",
     "uptimeYear": "99.19%",
     "time": 645,
     "timeDay": 699,
@@ -16,7 +16,7 @@
     "timeMonth": 466,
     "timeYear": 648,
     "dailyMinutesDown": {
-      "2022-10-04": 113,
+      "2022-10-04": 114,
       "2022-10-03": 407,
       "2022-10-02": 288,
       "2022-10-01": 183,
@@ -30,7 +30,7 @@
       "2022-09-23": 351,
       "2022-09-22": 260,
       "2022-09-21": 131,
-      "2022-09-20": 102
+      "2022-09-20": 75
     }
   },
   {
@@ -38,11 +38,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "81.47%",
-    "uptimeWeek": "73.09%",
-    "uptimeMonth": "90.26%",
+    "uptimeDay": "81.34%",
+    "uptimeWeek": "73.07%",
+    "uptimeMonth": "90.32%",
     "uptimeYear": "99.19%",
     "time": 535,
     "timeDay": 488,
@@ -50,7 +50,7 @@
     "timeMonth": 467,
     "timeYear": 537,
     "dailyMinutesDown": {
-      "2022-10-04": 112,
+      "2022-10-04": 114,
       "2022-10-03": 386,
       "2022-10-02": 283,
       "2022-10-01": 179,
@@ -65,7 +65,7 @@
       "2022-09-22": 241,
       "2022-09-21": 130,
       "2022-09-20": 85,
-      "2022-09-19": 148
+      "2022-09-19": 118
     }
   },
   {
@@ -645,7 +645,7 @@
     "slug": "drug-safety-analysis-system",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "88.22%",
+    "uptimeDay": "89.42%",
     "uptimeWeek": "95.83%",
     "uptimeMonth": "99.01%",
     "uptimeYear": "99.58%",
@@ -865,7 +865,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-04": 366,
+      "2022-10-04": 383,
       "2022-10-03": 1440,
       "2022-10-02": 1440,
       "2022-10-01": 1440,
