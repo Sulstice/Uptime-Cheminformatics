@@ -326,11 +326,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sdbs.db.aist.go.jp.ico",
     "slug": "spectral-database-for-organic-compounds",
     "status": "up",
-    "uptime": "76.28%",
+    "uptime": "76.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "76.28%",
+    "uptimeYear": "76.29%",
     "time": 1944,
     "timeDay": 1735,
     "timeWeek": 1888,
@@ -864,7 +864,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-06": 106,
+      "2022-10-06": 203,
       "2022-10-05": 1440,
       "2022-10-04": 1440,
       "2022-10-03": 1440,
@@ -1261,11 +1261,11 @@
     "url": "https://cactus.nci.nih.gov/chemical/structure",
     "icon": "https://icons.duckduckgo.com/ip3/cactus.nci.nih.gov.ico",
     "slug": "chemical-resolver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.01%",
-    "uptimeDay": "76.93%",
-    "uptimeWeek": "94.06%",
-    "uptimeMonth": "96.10%",
+    "uptimeDay": "76.76%",
+    "uptimeWeek": "94.04%",
+    "uptimeMonth": "96.09%",
     "uptimeYear": "99.01%",
     "time": 651,
     "timeDay": 741,
@@ -1273,6 +1273,7 @@
     "timeMonth": 361,
     "timeYear": 651,
     "dailyMinutesDown": {
+      "2022-10-06": 2,
       "2022-10-05": 332,
       "2022-10-04": 18,
       "2022-10-03": 76,
@@ -1346,8 +1347,7 @@
       "2022-07-18": 28,
       "2022-07-17": 24,
       "2022-07-15": 30,
-      "2022-07-14": 46,
-      "2022-07-13": 25
+      "2022-07-14": 46
     }
   },
   {
