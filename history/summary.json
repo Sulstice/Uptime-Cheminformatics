@@ -4,19 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
-    "uptime": "99.37%",
-    "uptimeDay": "86.66%",
-    "uptimeWeek": "82.10%",
-    "uptimeMonth": "90.52%",
-    "uptimeYear": "99.21%",
+    "status": "down",
+    "uptime": "99.38%",
+    "uptimeDay": "86.58%",
+    "uptimeWeek": "82.09%",
+    "uptimeMonth": "90.68%",
+    "uptimeYear": "99.22%",
     "time": 644,
     "timeDay": 471,
     "timeWeek": 527,
     "timeMonth": 457,
     "timeYear": 646,
     "dailyMinutesDown": {
-      "2022-10-08": 83,
+      "2022-10-08": 84,
       "2022-10-07": 243,
       "2022-10-06": 127,
       "2022-10-05": 151,
@@ -29,7 +29,7 @@
       "2022-09-28": 1151,
       "2022-09-27": 381,
       "2022-09-26": 174,
-      "2022-09-25": 86
+      "2022-09-25": 17
     }
   },
   {
@@ -37,19 +37,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
-    "uptime": "99.36%",
-    "uptimeDay": "86.87%",
-    "uptimeWeek": "82.83%",
-    "uptimeMonth": "90.43%",
-    "uptimeYear": "99.20%",
+    "status": "down",
+    "uptime": "99.37%",
+    "uptimeDay": "86.75%",
+    "uptimeWeek": "82.81%",
+    "uptimeMonth": "90.48%",
+    "uptimeYear": "99.21%",
     "time": 534,
     "timeDay": 353,
     "timeWeek": 460,
     "timeMonth": 462,
     "timeYear": 536,
     "dailyMinutesDown": {
-      "2022-10-08": 81,
+      "2022-10-08": 83,
       "2022-10-07": 241,
       "2022-10-06": 109,
       "2022-10-05": 149,
@@ -63,7 +63,7 @@
       "2022-09-27": 373,
       "2022-09-26": 172,
       "2022-09-25": 172,
-      "2022-09-24": 101
+      "2022-09-24": 78
     }
   },
   {
@@ -869,7 +869,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-08": 672,
+      "2022-10-08": 699,
       "2022-10-07": 1440,
       "2022-10-06": 1440,
       "2022-10-05": 1440,
@@ -1270,18 +1270,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cactus.nci.nih.gov.ico",
     "slug": "chemical-resolver",
     "status": "up",
-    "uptime": "98.92%",
-    "uptimeDay": "97.01%",
-    "uptimeWeek": "89.76%",
-    "uptimeMonth": "95.19%",
-    "uptimeYear": "98.92%",
+    "uptime": "98.91%",
+    "uptimeDay": "97.73%",
+    "uptimeWeek": "89.86%",
+    "uptimeMonth": "95.21%",
+    "uptimeYear": "98.91%",
     "time": 651,
     "timeDay": 778,
     "timeWeek": 505,
     "timeMonth": 378,
     "timeYear": 651,
     "dailyMinutesDown": {
-      "2022-10-08": 43,
+      "2022-10-08": 33,
       "2022-10-07": 235,
       "2022-10-06": 260,
       "2022-10-05": 332,
@@ -1352,7 +1352,8 @@
       "2022-07-25": 31,
       "2022-07-22": 29,
       "2022-07-21": 42,
-      "2022-07-20": 29
+      "2022-07-20": 29,
+      "2022-07-19": 27
     }
   },
   {
