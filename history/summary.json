@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
     "status": "up",
-    "uptime": "99.38%",
-    "uptimeDay": "85.66%",
-    "uptimeWeek": "81.96%",
-    "uptimeMonth": "90.65%",
-    "uptimeYear": "99.22%",
+    "uptime": "99.37%",
+    "uptimeDay": "86.66%",
+    "uptimeWeek": "82.10%",
+    "uptimeMonth": "90.52%",
+    "uptimeYear": "99.21%",
     "time": 644,
     "timeDay": 471,
     "timeWeek": 528,
     "timeMonth": 457,
     "timeYear": 646,
     "dailyMinutesDown": {
-      "2022-10-08": 97,
+      "2022-10-08": 83,
       "2022-10-07": 243,
       "2022-10-06": 127,
       "2022-10-05": 151,
@@ -29,7 +29,7 @@
       "2022-09-28": 1151,
       "2022-09-27": 381,
       "2022-09-26": 174,
-      "2022-09-25": 17
+      "2022-09-25": 86
     }
   },
   {
@@ -38,10 +38,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
     "status": "up",
-    "uptime": "99.37%",
-    "uptimeDay": "85.90%",
-    "uptimeWeek": "82.69%",
-    "uptimeMonth": "90.45%",
+    "uptime": "99.36%",
+    "uptimeDay": "86.87%",
+    "uptimeWeek": "82.83%",
+    "uptimeMonth": "90.43%",
     "uptimeYear": "99.20%",
     "time": 534,
     "timeDay": 353,
@@ -49,7 +49,7 @@
     "timeMonth": 462,
     "timeYear": 536,
     "dailyMinutesDown": {
-      "2022-10-08": 95,
+      "2022-10-08": 81,
       "2022-10-07": 241,
       "2022-10-06": 109,
       "2022-10-05": 149,
@@ -63,7 +63,7 @@
       "2022-09-27": 373,
       "2022-09-26": 172,
       "2022-09-25": 172,
-      "2022-09-24": 78
+      "2022-09-24": 101
     }
   },
   {
@@ -869,7 +869,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-08": 641,
+      "2022-10-08": 661,
       "2022-10-07": 1440,
       "2022-10-06": 1440,
       "2022-10-05": 1440,
@@ -1269,19 +1269,19 @@
     "url": "https://cactus.nci.nih.gov/chemical/structure",
     "icon": "https://icons.duckduckgo.com/ip3/cactus.nci.nih.gov.ico",
     "slug": "chemical-resolver",
-    "status": "up",
-    "uptime": "98.91%",
-    "uptimeDay": "97.73%",
-    "uptimeWeek": "89.86%",
+    "status": "down",
+    "uptime": "98.92%",
+    "uptimeDay": "97.58%",
+    "uptimeWeek": "89.84%",
     "uptimeMonth": "95.21%",
-    "uptimeYear": "98.91%",
+    "uptimeYear": "98.92%",
     "time": 652,
     "timeDay": 1031,
-    "timeWeek": 504,
+    "timeWeek": 513,
     "timeMonth": 379,
     "timeYear": 652,
     "dailyMinutesDown": {
-      "2022-10-08": 33,
+      "2022-10-08": 35,
       "2022-10-07": 235,
       "2022-10-06": 260,
       "2022-10-05": 332,
@@ -1352,8 +1352,7 @@
       "2022-07-25": 31,
       "2022-07-22": 29,
       "2022-07-21": 42,
-      "2022-07-20": 29,
-      "2022-07-19": 27
+      "2022-07-20": 29
     }
   },
   {
