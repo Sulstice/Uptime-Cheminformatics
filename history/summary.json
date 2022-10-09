@@ -4,19 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "76.47%",
-    "uptimeWeek": "81.58%",
-    "uptimeMonth": "90.31%",
+    "uptimeDay": "76.36%",
+    "uptimeWeek": "81.65%",
+    "uptimeMonth": "90.34%",
     "uptimeYear": "99.19%",
     "time": 642,
     "timeDay": 534,
     "timeWeek": 546,
-    "timeMonth": 463,
+    "timeMonth": 464,
     "timeYear": 646,
     "dailyMinutesDown": {
-      "2022-10-09": 285,
+      "2022-10-09": 287,
       "2022-10-08": 138,
       "2022-10-07": 243,
       "2022-10-06": 127,
@@ -28,8 +28,7 @@
       "2022-09-30": 254,
       "2022-09-29": 183,
       "2022-09-28": 1151,
-      "2022-09-27": 381,
-      "2022-09-26": 17
+      "2022-09-27": 381
     }
   },
   {
@@ -37,11 +36,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "76.68%",
-    "uptimeWeek": "82.29%",
-    "uptimeMonth": "90.24%",
+    "status": "down",
+    "uptime": "99.36%",
+    "uptimeDay": "76.53%",
+    "uptimeWeek": "82.36%",
+    "uptimeMonth": "90.27%",
     "uptimeYear": "99.19%",
     "time": 533,
     "timeDay": 377,
@@ -49,7 +48,7 @@
     "timeMonth": 459,
     "timeYear": 535,
     "dailyMinutesDown": {
-      "2022-10-09": 282,
+      "2022-10-09": 284,
       "2022-10-08": 135,
       "2022-10-07": 241,
       "2022-10-06": 109,
@@ -62,8 +61,7 @@
       "2022-09-29": 161,
       "2022-09-28": 1131,
       "2022-09-27": 373,
-      "2022-09-26": 172,
-      "2022-09-25": 17
+      "2022-09-26": 172
     }
   },
   {
@@ -870,7 +868,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-09": 1222,
+      "2022-10-09": 1238,
       "2022-10-08": 1440,
       "2022-10-07": 1440,
       "2022-10-06": 1440,
@@ -1280,7 +1278,7 @@
     "time": 650,
     "timeDay": 340,
     "timeWeek": 505,
-    "timeMonth": 380,
+    "timeMonth": 381,
     "timeYear": 650,
     "dailyMinutesDown": {
       "2022-10-09": 30,
