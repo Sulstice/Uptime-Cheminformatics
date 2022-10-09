@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
-    "uptime": "99.36%",
-    "uptimeDay": "83.24%",
-    "uptimeWeek": "80.89%",
-    "uptimeMonth": "90.37%",
+    "status": "down",
+    "uptime": "99.37%",
+    "uptimeDay": "83.04%",
+    "uptimeWeek": "80.86%",
+    "uptimeMonth": "90.43%",
     "uptimeYear": "99.20%",
     "time": 644,
     "timeDay": 486,
@@ -16,7 +16,7 @@
     "timeMonth": 460,
     "timeYear": 646,
     "dailyMinutesDown": {
-      "2022-10-09": 187,
+      "2022-10-09": 190,
       "2022-10-08": 138,
       "2022-10-07": 243,
       "2022-10-06": 127,
@@ -29,7 +29,7 @@
       "2022-09-29": 183,
       "2022-09-28": 1151,
       "2022-09-27": 381,
-      "2022-09-26": 85
+      "2022-09-26": 56
     }
   },
   {
@@ -37,11 +37,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
-    "uptime": "99.34%",
-    "uptimeDay": "83.34%",
-    "uptimeWeek": "81.61%",
-    "uptimeMonth": "90.11%",
+    "status": "down",
+    "uptime": "99.35%",
+    "uptimeDay": "83.11%",
+    "uptimeWeek": "81.58%",
+    "uptimeMonth": "90.22%",
     "uptimeYear": "99.18%",
     "time": 534,
     "timeDay": 395,
@@ -49,7 +49,7 @@
     "timeMonth": 460,
     "timeYear": 536,
     "dailyMinutesDown": {
-      "2022-10-09": 186,
+      "2022-10-09": 189,
       "2022-10-08": 135,
       "2022-10-07": 241,
       "2022-10-06": 109,
@@ -63,7 +63,7 @@
       "2022-09-28": 1131,
       "2022-09-27": 373,
       "2022-09-26": 172,
-      "2022-09-25": 172
+      "2022-09-25": 119
     }
   },
   {
@@ -530,9 +530,9 @@
     "slug": "comparative-toxicogenomics-database",
     "status": "down",
     "uptime": "95.31%",
-    "uptimeDay": "99.85%",
+    "uptimeDay": "98.76%",
     "uptimeWeek": "96.37%",
-    "uptimeMonth": "98.61%",
+    "uptimeMonth": "98.57%",
     "uptimeYear": "95.31%",
     "time": 871,
     "timeDay": 203,
@@ -540,7 +540,7 @@
     "timeMonth": 1060,
     "timeYear": 871,
     "dailyMinutesDown": {
-      "2022-10-09": 2,
+      "2022-10-09": 18,
       "2022-10-06": 39,
       "2022-10-02": 485,
       "2022-09-23": 83,
@@ -870,7 +870,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-09": 412,
+      "2022-10-09": 428,
       "2022-10-08": 1440,
       "2022-10-07": 1440,
       "2022-10-06": 1440,
