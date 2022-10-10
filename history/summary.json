@@ -4,19 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
-    "uptime": "99.36%",
-    "uptimeDay": "90.08%",
-    "uptimeWeek": "84.87%",
-    "uptimeMonth": "90.33%",
-    "uptimeYear": "99.19%",
+    "status": "down",
+    "uptime": "99.37%",
+    "uptimeDay": "90.00%",
+    "uptimeWeek": "85.02%",
+    "uptimeMonth": "90.41%",
+    "uptimeYear": "99.20%",
     "time": 642,
     "timeDay": 522,
-    "timeWeek": 515,
+    "timeWeek": 516,
     "timeMonth": 467,
     "timeYear": 646,
     "dailyMinutesDown": {
-      "2022-10-10": 121,
+      "2022-10-10": 122,
       "2022-10-09": 285,
       "2022-10-08": 138,
       "2022-10-07": 243,
@@ -29,7 +29,7 @@
       "2022-09-30": 254,
       "2022-09-29": 183,
       "2022-09-28": 1151,
-      "2022-09-27": 266
+      "2022-09-27": 231
     }
   },
   {
@@ -37,11 +37,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "90.22%",
-    "uptimeWeek": "85.38%",
-    "uptimeMonth": "90.27%",
+    "uptimeDay": "90.09%",
+    "uptimeWeek": "85.52%",
+    "uptimeMonth": "90.32%",
     "uptimeYear": "99.19%",
     "time": 533,
     "timeDay": 379,
@@ -49,7 +49,7 @@
     "timeMonth": 460,
     "timeYear": 535,
     "dailyMinutesDown": {
-      "2022-10-10": 118,
+      "2022-10-10": 120,
       "2022-10-09": 282,
       "2022-10-08": 135,
       "2022-10-07": 241,
@@ -63,7 +63,7 @@
       "2022-09-29": 161,
       "2022-09-28": 1131,
       "2022-09-27": 373,
-      "2022-09-26": 55
+      "2022-09-26": 32
     }
   },
   {
@@ -328,11 +328,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sdbs.db.aist.go.jp.ico",
     "slug": "spectral-database-for-organic-compounds",
     "status": "up",
-    "uptime": "76.71%",
+    "uptime": "76.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "76.71%",
+    "uptimeYear": "76.72%",
     "time": 1943,
     "timeDay": 2054,
     "timeWeek": 1917,
@@ -871,7 +871,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-10": 1086,
+      "2022-10-10": 1139,
       "2022-10-09": 1440,
       "2022-10-08": 1440,
       "2022-10-07": 1440,
