@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "78.35%",
-    "uptimeWeek": "80.02%",
-    "uptimeMonth": "91.70%",
+    "uptimeDay": "78.26%",
+    "uptimeWeek": "80.01%",
+    "uptimeMonth": "91.73%",
     "uptimeYear": "99.31%",
     "time": 639,
     "timeDay": 406,
@@ -16,7 +16,7 @@
     "timeMonth": 466,
     "timeYear": 641,
     "dailyMinutesDown": {
-      "2022-10-17": 312,
+      "2022-10-17": 313,
       "2022-10-16": 270,
       "2022-10-15": 119,
       "2022-10-14": 570,
@@ -30,7 +30,7 @@
       "2022-10-06": 127,
       "2022-10-05": 151,
       "2022-10-04": 446,
-      "2022-10-03": 116
+      "2022-10-03": 99
     }
   },
   {
@@ -38,19 +38,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "78.56%",
-    "uptimeWeek": "80.27%",
-    "uptimeMonth": "91.78%",
-    "uptimeYear": "99.31%",
+    "uptimeDay": "78.42%",
+    "uptimeWeek": "80.25%",
+    "uptimeMonth": "91.82%",
+    "uptimeYear": "99.32%",
     "time": 531,
     "timeDay": 365,
     "timeWeek": 381,
     "timeMonth": 444,
     "timeYear": 532,
     "dailyMinutesDown": {
-      "2022-10-17": 309,
+      "2022-10-17": 311,
       "2022-10-16": 267,
       "2022-10-15": 117,
       "2022-10-14": 564,
@@ -64,7 +64,7 @@
       "2022-10-06": 109,
       "2022-10-05": 149,
       "2022-10-04": 424,
-      "2022-10-03": 155
+      "2022-10-03": 136
     }
   },
   {
@@ -537,8 +537,8 @@
     "status": "down",
     "uptime": "94.27%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "56.30%",
-    "uptimeMonth": "88.21%",
+    "uptimeWeek": "55.98%",
+    "uptimeMonth": "88.13%",
     "uptimeYear": "94.27%",
     "time": 906,
     "timeDay": 0,
@@ -546,7 +546,7 @@
     "timeMonth": 1466,
     "timeYear": 906,
     "dailyMinutesDown": {
-      "2022-10-17": 1332,
+      "2022-10-17": 1363,
       "2022-10-16": 1440,
       "2022-10-15": 1440,
       "2022-10-14": 194,
@@ -883,7 +883,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-17": 1332,
+      "2022-10-17": 1364,
       "2022-10-16": 1440,
       "2022-10-15": 1440,
       "2022-10-14": 1440,
