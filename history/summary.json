@@ -282,7 +282,7 @@
     "time": 720,
     "timeDay": 297,
     "timeWeek": 1040,
-    "timeMonth": 871,
+    "timeMonth": 875,
     "timeYear": 720,
     "dailyMinutesDown": {
       "2022-10-20": 51,
@@ -894,7 +894,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-20": 480,
+      "2022-10-20": 492,
       "2022-10-19": 1440,
       "2022-10-18": 1440,
       "2022-10-17": 1440,
@@ -1307,18 +1307,19 @@
     "url": "https://cactus.nci.nih.gov/chemical/structure",
     "icon": "https://icons.duckduckgo.com/ip3/cactus.nci.nih.gov.ico",
     "slug": "chemical-resolver",
-    "status": "up",
-    "uptime": "98.81%",
-    "uptimeDay": "98.70%",
-    "uptimeWeek": "92.13%",
+    "status": "down",
+    "uptime": "98.82%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "92.12%",
     "uptimeMonth": "94.53%",
-    "uptimeYear": "98.81%",
+    "uptimeYear": "98.82%",
     "time": 640,
     "timeDay": 1137,
     "timeWeek": 414,
     "timeMonth": 415,
     "timeYear": 640,
     "dailyMinutesDown": {
+      "2022-10-20": 3,
       "2022-10-19": 19,
       "2022-10-18": 37,
       "2022-10-17": 557,
@@ -1389,8 +1390,7 @@
       "2022-08-09": 27,
       "2022-08-07": 24,
       "2022-08-06": 27,
-      "2022-08-04": 62,
-      "2022-08-03": 16
+      "2022-08-04": 62
     }
   },
   {
