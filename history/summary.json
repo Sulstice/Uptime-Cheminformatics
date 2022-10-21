@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "99.46%",
     "uptimeDay": "90.51%",
-    "uptimeWeek": "81.44%",
+    "uptimeWeek": "81.51%",
     "uptimeMonth": "91.61%",
     "uptimeYear": "99.30%",
     "time": 641,
@@ -39,18 +39,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "92.79%",
-    "uptimeWeek": "81.98%",
-    "uptimeMonth": "91.67%",
+    "uptimeDay": "92.67%",
+    "uptimeWeek": "82.03%",
+    "uptimeMonth": "91.71%",
     "uptimeYear": "99.31%",
     "time": 533,
     "timeDay": 1752,
     "timeWeek": 561,
-    "timeMonth": 478,
+    "timeMonth": 477,
     "timeYear": 535,
     "dailyMinutesDown": {
+      "2022-10-21": 2,
       "2022-10-20": 104,
       "2022-10-19": 229,
       "2022-10-18": 253,
@@ -67,7 +68,7 @@
       "2022-10-07": 241,
       "2022-10-06": 109,
       "2022-10-05": 149,
-      "2022-10-04": 44
+      "2022-10-04": 24
     }
   },
   {
@@ -893,7 +894,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-21": 30,
+      "2022-10-21": 36,
       "2022-10-20": 1440,
       "2022-10-19": 1440,
       "2022-10-18": 1440,
