@@ -6,17 +6,17 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "90.09%",
-    "uptimeWeek": "85.38%",
-    "uptimeMonth": "91.66%",
-    "uptimeYear": "99.31%",
+    "uptimeDay": "91.00%",
+    "uptimeWeek": "85.65%",
+    "uptimeMonth": "91.65%",
+    "uptimeYear": "99.30%",
     "time": 641,
     "timeDay": 353,
     "timeWeek": 647,
     "timeMonth": 503,
     "timeYear": 643,
     "dailyMinutesDown": {
-      "2022-10-23": 82,
+      "2022-10-23": 69,
       "2022-10-22": 157,
       "2022-10-21": 101,
       "2022-10-20": 136,
@@ -32,7 +32,7 @@
       "2022-10-10": 151,
       "2022-10-09": 285,
       "2022-10-08": 138,
-      "2022-10-07": 132
+      "2022-10-07": 149
     }
   },
   {
@@ -42,9 +42,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "91.31%",
-    "uptimeWeek": "85.60%",
-    "uptimeMonth": "91.63%",
+    "uptimeDay": "92.19%",
+    "uptimeWeek": "85.88%",
+    "uptimeMonth": "91.56%",
     "uptimeYear": "99.30%",
     "time": 533,
     "timeDay": 401,
@@ -52,7 +52,7 @@
     "timeMonth": 471,
     "timeYear": 534,
     "dailyMinutesDown": {
-      "2022-10-23": 81,
+      "2022-10-23": 68,
       "2022-10-22": 156,
       "2022-10-21": 125,
       "2022-10-20": 104,
@@ -68,7 +68,7 @@
       "2022-10-10": 148,
       "2022-10-09": 282,
       "2022-10-08": 135,
-      "2022-10-07": 195
+      "2022-10-07": 241
     }
   },
   {
@@ -167,10 +167,10 @@
     "url": "https://nmrshiftdb.nmr.uni-koeln.de/",
     "icon": "https://icons.duckduckgo.com/ip3/nmrshiftdb.nmr.uni-koeln.de.ico",
     "slug": "nmr-shift-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.07%",
-    "uptimeDay": "95.96%",
-    "uptimeWeek": "97.22%",
+    "uptimeDay": "95.83%",
+    "uptimeWeek": "97.20%",
     "uptimeMonth": "97.72%",
     "uptimeYear": "99.07%",
     "time": 2414,
@@ -179,7 +179,7 @@
     "timeMonth": 2024,
     "timeYear": 2414,
     "dailyMinutesDown": {
-      "2022-10-23": 16,
+      "2022-10-23": 18,
       "2022-10-22": 42,
       "2022-10-19": 42,
       "2022-10-18": 180,
@@ -548,7 +548,7 @@
     "status": "up",
     "uptime": "94.15%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "67.50%",
+    "uptimeWeek": "67.65%",
     "uptimeMonth": "86.08%",
     "uptimeYear": "94.15%",
     "time": 891,
@@ -645,8 +645,8 @@
     "status": "down",
     "uptime": "98.36%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "67.78%",
-    "uptimeMonth": "92.59%",
+    "uptimeWeek": "67.64%",
+    "uptimeMonth": "92.55%",
     "uptimeYear": "98.36%",
     "time": 295,
     "timeDay": 344,
@@ -654,7 +654,7 @@
     "timeMonth": 294,
     "timeYear": 295,
     "dailyMinutesDown": {
-      "2022-10-23": 426,
+      "2022-10-23": 441,
       "2022-10-22": 1440,
       "2022-10-21": 1381,
       "2022-09-09": 19,
@@ -900,7 +900,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-23": 427,
+      "2022-10-23": 442,
       "2022-10-22": 1440,
       "2022-10-21": 1440,
       "2022-10-20": 1440,
