@@ -6,17 +6,17 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "91.20%",
-    "uptimeWeek": "86.46%",
-    "uptimeMonth": "91.66%",
-    "uptimeYear": "99.31%",
+    "uptimeDay": "92.05%",
+    "uptimeWeek": "86.64%",
+    "uptimeMonth": "91.65%",
+    "uptimeYear": "99.30%",
     "time": 640,
     "timeDay": 756,
     "timeWeek": 713,
-    "timeMonth": 516,
+    "timeMonth": 515,
     "timeYear": 644,
     "dailyMinutesDown": {
-      "2022-10-23": 81,
+      "2022-10-23": 69,
       "2022-10-22": 157,
       "2022-10-21": 101,
       "2022-10-20": 136,
@@ -32,7 +32,7 @@
       "2022-10-10": 151,
       "2022-10-09": 285,
       "2022-10-08": 138,
-      "2022-10-07": 132
+      "2022-10-07": 149
     }
   },
   {
@@ -42,9 +42,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "91.36%",
-    "uptimeWeek": "86.67%",
-    "uptimeMonth": "91.63%",
+    "uptimeDay": "92.19%",
+    "uptimeWeek": "86.85%",
+    "uptimeMonth": "91.56%",
     "uptimeYear": "99.30%",
     "time": 535,
     "timeDay": 1098,
@@ -52,7 +52,7 @@
     "timeMonth": 490,
     "timeYear": 536,
     "dailyMinutesDown": {
-      "2022-10-23": 80,
+      "2022-10-23": 68,
       "2022-10-22": 156,
       "2022-10-21": 125,
       "2022-10-20": 104,
@@ -68,7 +68,7 @@
       "2022-10-10": 148,
       "2022-10-09": 282,
       "2022-10-08": 135,
-      "2022-10-07": 195
+      "2022-10-07": 241
     }
   },
   {
@@ -275,19 +275,19 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
-    "status": "up",
-    "uptime": "98.80%",
-    "uptimeDay": "96.97%",
-    "uptimeWeek": "98.30%",
+    "status": "down",
+    "uptime": "98.81%",
+    "uptimeDay": "96.80%",
+    "uptimeWeek": "98.27%",
     "uptimeMonth": "97.40%",
-    "uptimeYear": "98.80%",
-    "time": 723,
-    "timeDay": 1277,
-    "timeWeek": 676,
-    "timeMonth": 798,
-    "timeYear": 723,
+    "uptimeYear": "98.81%",
+    "time": 722,
+    "timeDay": 1149,
+    "timeWeek": 659,
+    "timeMonth": 795,
+    "timeYear": 722,
     "dailyMinutesDown": {
-      "2022-10-23": 43,
+      "2022-10-23": 45,
       "2022-10-21": 30,
       "2022-10-20": 51,
       "2022-10-17": 47,
@@ -335,7 +335,7 @@
       "2022-04-05": 17,
       "2022-03-22": 88,
       "2022-03-17": 40,
-      "2022-03-08": 81
+      "2022-03-08": 50
     }
   },
   {
@@ -548,7 +548,7 @@
     "status": "up",
     "uptime": "94.16%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "72.40%",
+    "uptimeWeek": "72.55%",
     "uptimeMonth": "86.27%",
     "uptimeYear": "94.16%",
     "time": 891,
@@ -645,8 +645,8 @@
     "status": "down",
     "uptime": "98.24%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "62.89%",
-    "uptimeMonth": "91.46%",
+    "uptimeWeek": "62.74%",
+    "uptimeMonth": "91.43%",
     "uptimeYear": "98.24%",
     "time": 295,
     "timeDay": 344,
@@ -654,7 +654,7 @@
     "timeMonth": 294,
     "timeYear": 295,
     "dailyMinutesDown": {
-      "2022-10-23": 920,
+      "2022-10-23": 935,
       "2022-10-22": 1440,
       "2022-10-21": 1381,
       "2022-09-09": 19,
@@ -900,7 +900,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-23": 920,
+      "2022-10-23": 935,
       "2022-10-22": 1440,
       "2022-10-21": 1440,
       "2022-10-20": 1440,
