@@ -6,9 +6,9 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "91.04%",
-    "uptimeWeek": "93.13%",
-    "uptimeMonth": "93.39%",
+    "uptimeDay": "91.80%",
+    "uptimeWeek": "93.24%",
+    "uptimeMonth": "93.38%",
     "uptimeYear": "99.45%",
     "time": 650,
     "timeDay": 738,
@@ -16,7 +16,7 @@
     "timeMonth": 667,
     "timeYear": 653,
     "dailyMinutesDown": {
-      "2022-11-03": 83,
+      "2022-11-03": 72,
       "2022-11-02": 77,
       "2022-11-01": 68,
       "2022-10-31": 111,
@@ -36,7 +36,7 @@
       "2022-10-17": 312,
       "2022-10-16": 270,
       "2022-10-15": 119,
-      "2022-10-14": 50
+      "2022-10-14": 67
     }
   },
   {
@@ -45,10 +45,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
     "status": "up",
-    "uptime": "99.58%",
-    "uptimeDay": "90.05%",
-    "uptimeWeek": "92.38%",
-    "uptimeMonth": "93.26%",
+    "uptime": "99.57%",
+    "uptimeDay": "90.78%",
+    "uptimeWeek": "92.49%",
+    "uptimeMonth": "93.22%",
     "uptimeYear": "99.44%",
     "time": 550,
     "timeDay": 2131,
@@ -56,7 +56,7 @@
     "timeMonth": 672,
     "timeYear": 551,
     "dailyMinutesDown": {
-      "2022-11-03": 99,
+      "2022-11-03": 88,
       "2022-11-02": 75,
       "2022-11-01": 121,
       "2022-10-31": 94,
@@ -76,7 +76,7 @@
       "2022-10-17": 309,
       "2022-10-16": 267,
       "2022-10-15": 117,
-      "2022-10-14": 82
+      "2022-10-14": 107
     }
   },
   {
@@ -88,7 +88,7 @@
     "uptime": "96.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "65.74%",
+    "uptimeMonth": "65.69%",
     "uptimeYear": "96.31%",
     "time": 666,
     "timeDay": 569,
@@ -96,7 +96,7 @@
     "timeMonth": 754,
     "timeYear": 666,
     "dailyMinutesDown": {
-      "2022-11-03": 558,
+      "2022-11-03": 579,
       "2022-11-02": 1440,
       "2022-11-01": 1440,
       "2022-10-31": 1440,
@@ -930,7 +930,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-03": 559,
+      "2022-11-03": 580,
       "2022-11-02": 1440,
       "2022-11-01": 1440,
       "2022-10-31": 1440,
@@ -1445,19 +1445,19 @@
     "url": "https://www.lookchem.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.lookchem.com.ico",
     "slug": "look-chem",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.89%",
     "time": 583,
-    "timeDay": 422,
-    "timeWeek": 367,
-    "timeMonth": 366,
+    "timeDay": 436,
+    "timeWeek": 378,
+    "timeMonth": 370,
     "timeYear": 583,
     "dailyMinutesDown": {
-      "2022-11-03": 3,
+      "2022-11-03": 22,
       "2022-10-16": 18,
       "2022-07-21": 51,
       "2022-07-14": 16,
