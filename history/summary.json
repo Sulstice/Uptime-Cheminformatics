@@ -12,7 +12,7 @@
     "uptimeYear": "99.45%",
     "time": 650,
     "timeDay": 421,
-    "timeWeek": 1029,
+    "timeWeek": 1037,
     "timeMonth": 658,
     "timeYear": 652,
     "dailyMinutesDown": {
@@ -52,7 +52,7 @@
     "uptimeYear": "99.43%",
     "time": 549,
     "timeDay": 1786,
-    "timeWeek": 1156,
+    "timeWeek": 1165,
     "timeMonth": 669,
     "timeYear": 551,
     "dailyMinutesDown": {
@@ -84,11 +84,11 @@
     "url": "https://pubchem.ncbi.nlm.nih.gov",
     "icon": "https://icons.duckduckgo.com/ip3/pubchem.ncbi.nlm.nih.gov.ico",
     "slug": "pub-chem",
-    "status": "up",
+    "status": "down",
     "uptime": "96.14%",
-    "uptimeDay": "0.66%",
-    "uptimeWeek": "0.09%",
-    "uptimeMonth": "64.03%",
+    "uptimeDay": "2.55%",
+    "uptimeWeek": "0.36%",
+    "uptimeMonth": "64.04%",
     "uptimeYear": "96.14%",
     "time": 668,
     "timeDay": 888,
@@ -96,7 +96,7 @@
     "timeMonth": 774,
     "timeYear": 668,
     "dailyMinutesDown": {
-      "2022-11-03": 1307,
+      "2022-11-03": 1301,
       "2022-11-02": 1440,
       "2022-11-01": 1440,
       "2022-10-31": 1440,
@@ -302,9 +302,9 @@
     "slug": "binding-database",
     "status": "up",
     "uptime": "98.88%",
-    "uptimeDay": "97.74%",
-    "uptimeWeek": "98.62%",
-    "uptimeMonth": "97.64%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "97.65%",
     "uptimeYear": "98.88%",
     "time": 722,
     "timeDay": 892,
@@ -312,7 +312,7 @@
     "timeMonth": 714,
     "timeYear": 722,
     "dailyMinutesDown": {
-      "2022-11-03": 33,
+      "2022-11-03": 25,
       "2022-11-02": 49,
       "2022-11-01": 58,
       "2022-10-27": 21,
@@ -361,7 +361,8 @@
       "2022-05-17": 166,
       "2022-05-16": 15,
       "2022-05-08": 23,
-      "2022-05-03": 172
+      "2022-05-03": 172,
+      "2022-04-19": 18
     }
   },
   {
@@ -931,7 +932,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-03": 1316,
+      "2022-11-03": 1339,
       "2022-11-02": 1440,
       "2022-11-01": 1440,
       "2022-10-31": 1440,
@@ -1453,7 +1454,7 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.87%",
     "time": 644,
-    "timeDay": 3333,
+    "timeDay": 3840,
     "timeWeek": 1843,
     "timeMonth": 940,
     "timeYear": 644,
