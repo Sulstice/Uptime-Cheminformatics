@@ -88,7 +88,7 @@
     "uptime": "96.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "65.69%",
+    "uptimeMonth": "65.67%",
     "uptimeYear": "96.31%",
     "time": 666,
     "timeDay": 569,
@@ -96,7 +96,7 @@
     "timeMonth": 754,
     "timeYear": 666,
     "dailyMinutesDown": {
-      "2022-11-03": 579,
+      "2022-11-03": 588,
       "2022-11-02": 1440,
       "2022-11-01": 1440,
       "2022-10-31": 1440,
@@ -300,18 +300,19 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
-    "status": "up",
-    "uptime": "98.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.94%",
-    "uptimeMonth": "97.60%",
-    "uptimeYear": "98.87%",
+    "status": "down",
+    "uptime": "98.88%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "97.59%",
+    "uptimeYear": "98.88%",
     "time": 719,
-    "timeDay": 631,
+    "timeDay": 632,
     "timeWeek": 639,
     "timeMonth": 689,
     "timeYear": 719,
     "dailyMinutesDown": {
+      "2022-11-03": 2,
       "2022-11-02": 49,
       "2022-11-01": 58,
       "2022-10-27": 21,
@@ -361,7 +362,7 @@
       "2022-05-16": 15,
       "2022-05-08": 23,
       "2022-05-03": 172,
-      "2022-04-19": 64
+      "2022-04-19": 18
     }
   },
   {
@@ -930,7 +931,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-03": 580,
+      "2022-11-03": 589,
       "2022-11-02": 1440,
       "2022-11-01": 1440,
       "2022-10-31": 1440,
