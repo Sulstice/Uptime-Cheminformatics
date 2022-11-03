@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
     "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "91.16%",
-    "uptimeWeek": "93.15%",
-    "uptimeMonth": "93.40%",
+    "uptime": "99.58%",
+    "uptimeDay": "91.80%",
+    "uptimeWeek": "93.24%",
+    "uptimeMonth": "93.38%",
     "uptimeYear": "99.45%",
     "time": 650,
     "timeDay": 725,
@@ -16,7 +16,7 @@
     "timeMonth": 667,
     "timeYear": 653,
     "dailyMinutesDown": {
-      "2022-11-03": 81,
+      "2022-11-03": 72,
       "2022-11-02": 77,
       "2022-11-01": 68,
       "2022-10-31": 111,
@@ -36,7 +36,7 @@
       "2022-10-17": 312,
       "2022-10-16": 270,
       "2022-10-15": 119,
-      "2022-10-14": 50
+      "2022-10-14": 67
     }
   },
   {
@@ -45,10 +45,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
     "status": "up",
-    "uptime": "99.58%",
-    "uptimeDay": "90.17%",
-    "uptimeWeek": "92.40%",
-    "uptimeMonth": "93.26%",
+    "uptime": "99.57%",
+    "uptimeDay": "90.78%",
+    "uptimeWeek": "92.49%",
+    "uptimeMonth": "93.22%",
     "uptimeYear": "99.44%",
     "time": 550,
     "timeDay": 2026,
@@ -56,7 +56,7 @@
     "timeMonth": 672,
     "timeYear": 551,
     "dailyMinutesDown": {
-      "2022-11-03": 97,
+      "2022-11-03": 88,
       "2022-11-02": 75,
       "2022-11-01": 121,
       "2022-10-31": 94,
@@ -76,7 +76,7 @@
       "2022-10-17": 309,
       "2022-10-16": 267,
       "2022-10-15": 117,
-      "2022-10-14": 82
+      "2022-10-14": 107
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pubchem.ncbi.nlm.nih.gov.ico",
     "slug": "pub-chem",
     "status": "up",
-    "uptime": "96.29%",
+    "uptime": "96.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "65.48%",
-    "uptimeYear": "96.29%",
+    "uptimeMonth": "65.46%",
+    "uptimeYear": "96.28%",
     "time": 666,
     "timeDay": 569,
     "timeWeek": 664,
     "timeMonth": 754,
     "timeYear": 666,
     "dailyMinutesDown": {
-      "2022-11-03": 667,
+      "2022-11-03": 679,
       "2022-11-02": 1440,
       "2022-11-01": 1440,
       "2022-10-31": 1440,
@@ -300,18 +300,19 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
-    "status": "up",
-    "uptime": "98.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.94%",
-    "uptimeMonth": "97.60%",
-    "uptimeYear": "98.87%",
+    "status": "down",
+    "uptime": "98.88%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "97.59%",
+    "uptimeYear": "98.88%",
     "time": 719,
-    "timeDay": 634,
-    "timeWeek": 640,
+    "timeDay": 654,
+    "timeWeek": 641,
     "timeMonth": 689,
     "timeYear": 719,
     "dailyMinutesDown": {
+      "2022-11-03": 3,
       "2022-11-02": 49,
       "2022-11-01": 58,
       "2022-10-27": 21,
@@ -361,7 +362,7 @@
       "2022-05-16": 15,
       "2022-05-08": 23,
       "2022-05-03": 172,
-      "2022-04-19": 64
+      "2022-04-19": 18
     }
   },
   {
@@ -930,7 +931,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-03": 669,
+      "2022-11-03": 680,
       "2022-11-02": 1440,
       "2022-11-01": 1440,
       "2022-10-31": 1440,
