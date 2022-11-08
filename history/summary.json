@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
     "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "88.76%",
-    "uptimeWeek": "91.08%",
-    "uptimeMonth": "93.74%",
-    "uptimeYear": "99.48%",
+    "uptime": "99.60%",
+    "uptimeDay": "89.58%",
+    "uptimeWeek": "91.19%",
+    "uptimeMonth": "93.61%",
+    "uptimeYear": "99.47%",
     "time": 659,
-    "timeDay": 1154,
+    "timeDay": 1198,
     "timeWeek": 1160,
     "timeMonth": 795,
     "timeYear": 662,
     "dailyMinutesDown": {
-      "2022-11-08": 57,
+      "2022-11-08": 45,
       "2022-11-07": 336,
       "2022-11-06": 151,
       "2022-11-05": 57,
@@ -37,7 +37,7 @@
       "2022-10-21": 101,
       "2022-10-20": 136,
       "2022-10-19": 231,
-      "2022-10-18": 129
+      "2022-10-18": 197
     }
   },
   {
@@ -47,17 +47,17 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "89.01%",
-    "uptimeWeek": "91.13%",
-    "uptimeMonth": "93.39%",
-    "uptimeYear": "99.45%",
+    "uptimeDay": "89.79%",
+    "uptimeWeek": "91.24%",
+    "uptimeMonth": "93.33%",
+    "uptimeYear": "99.44%",
     "time": 557,
-    "timeDay": 894,
+    "timeDay": 922,
     "timeWeek": 1118,
     "timeMonth": 769,
     "timeYear": 558,
     "dailyMinutesDown": {
-      "2022-11-08": 55,
+      "2022-11-08": 44,
       "2022-11-07": 317,
       "2022-11-06": 148,
       "2022-11-05": 57,
@@ -79,7 +79,7 @@
       "2022-10-20": 104,
       "2022-10-19": 229,
       "2022-10-18": 253,
-      "2022-10-17": 19
+      "2022-10-17": 55
     }
   },
   {
@@ -90,7 +90,7 @@
     "status": "up",
     "uptime": "96.20%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "64.68%",
+    "uptimeWeek": "64.83%",
     "uptimeMonth": "64.04%",
     "uptimeYear": "96.20%",
     "time": 663,
@@ -300,19 +300,19 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
-    "status": "up",
-    "uptime": "98.88%",
-    "uptimeDay": "97.64%",
-    "uptimeWeek": "93.75%",
+    "status": "down",
+    "uptime": "98.91%",
+    "uptimeDay": "97.48%",
+    "uptimeWeek": "93.73%",
     "uptimeMonth": "97.23%",
-    "uptimeYear": "98.88%",
+    "uptimeYear": "98.91%",
     "time": 719,
-    "timeDay": 583,
+    "timeDay": 596,
     "timeWeek": 707,
     "timeMonth": 726,
     "timeYear": 719,
     "dailyMinutesDown": {
-      "2022-11-08": 16,
+      "2022-11-08": 18,
       "2022-11-07": 344,
       "2022-11-06": 88,
       "2022-11-05": 44,
@@ -362,7 +362,7 @@
       "2022-06-28": 17,
       "2022-06-21": 44,
       "2022-06-14": 784,
-      "2022-05-31": 825
+      "2022-05-31": 721
     }
   },
   {
@@ -938,7 +938,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-08": 619,
+      "2022-11-08": 635,
       "2022-11-07": 1440,
       "2022-11-06": 1440,
       "2022-11-05": 1440,
