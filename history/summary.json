@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "95.85%",
-    "uptimeWeek": "91.20%",
-    "uptimeMonth": "93.74%",
+    "uptimeDay": "95.77%",
+    "uptimeWeek": "91.18%",
+    "uptimeMonth": "93.79%",
     "uptimeYear": "99.48%",
     "time": 660,
     "timeDay": 843,
@@ -16,7 +16,7 @@
     "timeMonth": 806,
     "timeYear": 662,
     "dailyMinutesDown": {
-      "2022-11-08": 60,
+      "2022-11-08": 61,
       "2022-11-07": 336,
       "2022-11-06": 151,
       "2022-11-05": 57,
@@ -37,7 +37,7 @@
       "2022-10-21": 101,
       "2022-10-20": 136,
       "2022-10-19": 231,
-      "2022-10-18": 129
+      "2022-10-18": 104
     }
   },
   {
@@ -45,19 +45,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "96.98%",
-    "uptimeWeek": "91.46%",
-    "uptimeMonth": "93.33%",
-    "uptimeYear": "99.44%",
+    "uptimeDay": "96.88%",
+    "uptimeWeek": "91.44%",
+    "uptimeMonth": "93.41%",
+    "uptimeYear": "99.45%",
     "time": 556,
     "timeDay": 683,
     "timeWeek": 1141,
     "timeMonth": 777,
     "timeYear": 558,
     "dailyMinutesDown": {
-      "2022-11-08": 44,
+      "2022-11-08": 46,
       "2022-11-07": 317,
       "2022-11-06": 148,
       "2022-11-05": 57,
@@ -79,7 +79,7 @@
       "2022-10-20": 104,
       "2022-10-19": 229,
       "2022-10-18": 253,
-      "2022-10-17": 55
+      "2022-10-17": 19
     }
   },
   {
@@ -90,7 +90,7 @@
     "status": "up",
     "uptime": "96.21%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "71.79%",
+    "uptimeWeek": "71.94%",
     "uptimeMonth": "64.04%",
     "uptimeYear": "96.21%",
     "time": 663,
@@ -303,12 +303,12 @@
     "status": "up",
     "uptime": "98.89%",
     "uptimeDay": "98.86%",
-    "uptimeWeek": "93.95%",
+    "uptimeWeek": "94.07%",
     "uptimeMonth": "97.23%",
     "uptimeYear": "98.89%",
     "time": 719,
     "timeDay": 716,
-    "timeWeek": 710,
+    "timeWeek": 711,
     "timeMonth": 730,
     "timeYear": 719,
     "dailyMinutesDown": {
@@ -938,7 +938,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-08": 1336,
+      "2022-11-08": 1351,
       "2022-11-07": 1440,
       "2022-11-06": 1440,
       "2022-11-05": 1440,
