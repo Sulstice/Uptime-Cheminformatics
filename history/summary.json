@@ -13,7 +13,7 @@
     "time": 662,
     "timeDay": 1702,
     "timeWeek": 1250,
-    "timeMonth": 840,
+    "timeMonth": 841,
     "timeYear": 660,
     "dailyMinutesDown": {
       "2022-11-09": 176,
@@ -54,7 +54,7 @@
     "time": 559,
     "timeDay": 1994,
     "timeWeek": 1024,
-    "timeMonth": 825,
+    "timeMonth": 826,
     "timeYear": 558,
     "dailyMinutesDown": {
       "2022-11-09": 168,
@@ -90,7 +90,7 @@
     "status": "up",
     "uptime": "96.22%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "86.73%",
+    "uptimeWeek": "86.86%",
     "uptimeMonth": "64.04%",
     "uptimeYear": "96.22%",
     "time": 663,
@@ -193,9 +193,9 @@
     "slug": "nmr-shift-database",
     "status": "up",
     "uptime": "99.15%",
-    "uptimeDay": "96.29%",
-    "uptimeWeek": "97.28%",
-    "uptimeMonth": "97.79%",
+    "uptimeDay": "97.11%",
+    "uptimeWeek": "97.40%",
+    "uptimeMonth": "97.81%",
     "uptimeYear": "99.15%",
     "time": 2514,
     "timeDay": 1238,
@@ -203,7 +203,7 @@
     "timeMonth": 3070,
     "timeYear": 2514,
     "dailyMinutesDown": {
-      "2022-11-09": 54,
+      "2022-11-09": 42,
       "2022-11-08": 27,
       "2022-11-07": 26,
       "2022-11-06": 78,
@@ -268,7 +268,8 @@
       "2022-06-18": 44,
       "2022-06-15": 19,
       "2022-06-14": 17,
-      "2022-06-12": 15
+      "2022-06-12": 15,
+      "2022-06-08": 24
     }
   },
   {
@@ -298,19 +299,19 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
-    "status": "up",
-    "uptime": "98.91%",
-    "uptimeDay": "98.59%",
-    "uptimeWeek": "94.40%",
-    "uptimeMonth": "97.19%",
-    "uptimeYear": "98.91%",
+    "status": "down",
+    "uptime": "98.92%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "94.38%",
+    "uptimeMonth": "97.18%",
+    "uptimeYear": "98.92%",
     "time": 719,
-    "timeDay": 773,
-    "timeWeek": 721,
-    "timeMonth": 734,
+    "timeDay": 742,
+    "timeWeek": 720,
+    "timeMonth": 733,
     "timeYear": 719,
     "dailyMinutesDown": {
-      "2022-11-09": 20,
+      "2022-11-09": 22,
       "2022-11-08": 16,
       "2022-11-07": 344,
       "2022-11-06": 88,
@@ -361,7 +362,7 @@
       "2022-06-28": 17,
       "2022-06-21": 44,
       "2022-06-14": 784,
-      "2022-05-31": 721
+      "2022-05-31": 673
     }
   },
   {
@@ -937,7 +938,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-09": 1402,
+      "2022-11-09": 1414,
       "2022-11-08": 1440,
       "2022-11-07": 1440,
       "2022-11-06": 1440,
