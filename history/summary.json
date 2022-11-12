@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "85.38%",
-    "uptimeWeek": "89.59%",
-    "uptimeMonth": "93.62%",
+    "uptimeDay": "85.54%",
+    "uptimeWeek": "89.58%",
+    "uptimeMonth": "93.68%",
     "uptimeYear": "99.47%",
     "time": 663,
     "timeDay": 478,
@@ -16,7 +16,7 @@
     "timeMonth": 841,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2022-11-12": 148,
+      "2022-11-12": 149,
       "2022-11-11": 102,
       "2022-11-10": 80,
       "2022-11-09": 176,
@@ -39,7 +39,7 @@
       "2022-10-23": 85,
       "2022-10-22": 157,
       "2022-10-21": 101,
-      "2022-10-20": 46
+      "2022-10-20": 15
     }
   },
   {
@@ -47,19 +47,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "85.58%",
-    "uptimeWeek": "90.09%",
-    "uptimeMonth": "93.43%",
-    "uptimeYear": "99.45%",
+    "uptimeDay": "85.75%",
+    "uptimeWeek": "90.07%",
+    "uptimeMonth": "93.47%",
+    "uptimeYear": "99.46%",
     "time": 560,
     "timeDay": 446,
     "timeWeek": 1039,
     "timeMonth": 839,
     "timeYear": 558,
     "dailyMinutesDown": {
-      "2022-11-12": 145,
+      "2022-11-12": 147,
       "2022-11-11": 98,
       "2022-11-10": 78,
       "2022-11-09": 168,
@@ -82,7 +82,7 @@
       "2022-10-23": 84,
       "2022-10-22": 156,
       "2022-10-21": 125,
-      "2022-10-20": 104
+      "2022-10-20": 86
     }
   },
   {
@@ -303,18 +303,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
     "status": "up",
-    "uptime": "98.94%",
-    "uptimeDay": "97.00%",
-    "uptimeWeek": "94.01%",
-    "uptimeMonth": "97.09%",
-    "uptimeYear": "98.94%",
+    "uptime": "98.91%",
+    "uptimeDay": "97.79%",
+    "uptimeWeek": "94.12%",
+    "uptimeMonth": "97.11%",
+    "uptimeYear": "98.91%",
     "time": 719,
     "timeDay": 735,
     "timeWeek": 704,
     "timeMonth": 760,
     "timeYear": 719,
     "dailyMinutesDown": {
-      "2022-11-12": 43,
+      "2022-11-12": 32,
       "2022-11-10": 92,
       "2022-11-09": 20,
       "2022-11-08": 16,
@@ -367,7 +367,7 @@
       "2022-06-28": 17,
       "2022-06-21": 44,
       "2022-06-14": 784,
-      "2022-05-31": 518
+      "2022-05-31": 625
     }
   },
   {
@@ -657,7 +657,7 @@
     "status": "up",
     "uptime": "99.02%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "81.48%",
+    "uptimeWeek": "81.63%",
     "uptimeMonth": "91.24%",
     "uptimeYear": "99.02%",
     "time": 1309,
@@ -944,7 +944,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-12": 1036,
+      "2022-11-12": 1050,
       "2022-11-11": 1440,
       "2022-11-10": 1440,
       "2022-11-09": 1440,
@@ -1265,7 +1265,7 @@
     "status": "up",
     "uptime": "98.61%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "79.18%",
+    "uptimeWeek": "79.33%",
     "uptimeMonth": "90.85%",
     "uptimeYear": "98.61%",
     "time": 945,
@@ -1385,19 +1385,19 @@
     "url": "https://cactus.nci.nih.gov/chemical/structure",
     "icon": "https://icons.duckduckgo.com/ip3/cactus.nci.nih.gov.ico",
     "slug": "chemical-resolver",
-    "status": "up",
-    "uptime": "98.91%",
-    "uptimeDay": "97.44%",
-    "uptimeWeek": "97.75%",
-    "uptimeMonth": "95.07%",
-    "uptimeYear": "98.91%",
+    "status": "down",
+    "uptime": "98.92%",
+    "uptimeDay": "97.22%",
+    "uptimeWeek": "97.72%",
+    "uptimeMonth": "95.06%",
+    "uptimeYear": "98.92%",
     "time": 636,
     "timeDay": 2821,
     "timeWeek": 749,
     "timeMonth": 565,
     "timeYear": 636,
     "dailyMinutesDown": {
-      "2022-11-12": 37,
+      "2022-11-12": 40,
       "2022-11-10": 22,
       "2022-11-09": 67,
       "2022-11-08": 33,
@@ -1462,8 +1462,7 @@
       "2022-09-09": 43,
       "2022-09-08": 53,
       "2022-09-07": 43,
-      "2022-09-06": 44,
-      "2022-09-05": 40
+      "2022-09-06": 44
     }
   },
   {
