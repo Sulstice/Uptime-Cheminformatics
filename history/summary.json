@@ -194,10 +194,10 @@
     "url": "https://nmrshiftdb.nmr.uni-koeln.de/",
     "icon": "https://icons.duckduckgo.com/ip3/nmrshiftdb.nmr.uni-koeln.de.ico",
     "slug": "nmr-shift-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.15%",
-    "uptimeDay": "97.21%",
-    "uptimeWeek": "96.56%",
+    "uptimeDay": "97.08%",
+    "uptimeWeek": "96.54%",
     "uptimeMonth": "97.71%",
     "uptimeYear": "99.15%",
     "time": 2504,
@@ -206,7 +206,7 @@
     "timeMonth": 2993,
     "timeYear": 2504,
     "dailyMinutesDown": {
-      "2022-11-12": 19,
+      "2022-11-12": 21,
       "2022-11-11": 21,
       "2022-11-10": 44,
       "2022-11-09": 42,
@@ -271,8 +271,7 @@
       "2022-07-13": 27,
       "2022-07-11": 17,
       "2022-07-02": 32,
-      "2022-06-18": 44,
-      "2022-06-15": 19
+      "2022-06-18": 44
     }
   },
   {
@@ -303,18 +302,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
     "status": "up",
-    "uptime": "98.94%",
-    "uptimeDay": "96.95%",
-    "uptimeWeek": "94.00%",
-    "uptimeMonth": "97.09%",
-    "uptimeYear": "98.94%",
+    "uptime": "98.91%",
+    "uptimeDay": "97.79%",
+    "uptimeWeek": "94.12%",
+    "uptimeMonth": "97.11%",
+    "uptimeYear": "98.91%",
     "time": 719,
     "timeDay": 719,
     "timeWeek": 703,
     "timeMonth": 759,
     "timeYear": 719,
     "dailyMinutesDown": {
-      "2022-11-12": 44,
+      "2022-11-12": 32,
       "2022-11-10": 92,
       "2022-11-09": 20,
       "2022-11-08": 16,
@@ -367,7 +366,7 @@
       "2022-06-28": 17,
       "2022-06-21": 44,
       "2022-06-14": 784,
-      "2022-05-31": 518
+      "2022-05-31": 625
     }
   },
   {
@@ -657,7 +656,7 @@
     "status": "up",
     "uptime": "99.02%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "82.09%",
+    "uptimeWeek": "82.25%",
     "uptimeMonth": "91.24%",
     "uptimeYear": "99.02%",
     "time": 1309,
@@ -944,7 +943,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-12": 1096,
+      "2022-11-12": 1113,
       "2022-11-11": 1440,
       "2022-11-10": 1440,
       "2022-11-09": 1440,
@@ -1265,7 +1264,7 @@
     "status": "up",
     "uptime": "98.61%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "79.79%",
+    "uptimeWeek": "79.95%",
     "uptimeMonth": "90.85%",
     "uptimeYear": "98.61%",
     "time": 945,
