@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "98.60%",
-    "uptimeWeek": "91.45%",
-    "uptimeMonth": "93.50%",
+    "status": "down",
+    "uptime": "99.61%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "91.54%",
+    "uptimeMonth": "93.57%",
     "uptimeYear": "99.46%",
     "time": 660,
     "timeDay": 412,
@@ -16,6 +16,7 @@
     "timeMonth": 827,
     "timeYear": 658,
     "dailyMinutesDown": {
+      "2022-11-14": 2,
       "2022-11-13": 94,
       "2022-11-12": 246,
       "2022-11-11": 102,
@@ -38,8 +39,7 @@
       "2022-10-25": 70,
       "2022-10-24": 165,
       "2022-10-23": 85,
-      "2022-10-22": 157,
-      "2022-10-21": 5
+      "2022-10-22": 131
     }
   },
   {
@@ -47,11 +47,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "96.98%",
-    "uptimeWeek": "91.56%",
-    "uptimeMonth": "93.38%",
+    "status": "down",
+    "uptime": "99.60%",
+    "uptimeDay": "97.29%",
+    "uptimeWeek": "91.65%",
+    "uptimeMonth": "93.42%",
     "uptimeYear": "99.45%",
     "time": 559,
     "timeDay": 418,
@@ -59,6 +59,7 @@
     "timeMonth": 820,
     "timeYear": 557,
     "dailyMinutesDown": {
+      "2022-11-14": 2,
       "2022-11-13": 117,
       "2022-11-12": 241,
       "2022-11-11": 98,
@@ -82,7 +83,7 @@
       "2022-10-24": 164,
       "2022-10-23": 84,
       "2022-10-22": 156,
-      "2022-10-21": 39
+      "2022-10-21": 21
     }
   },
   {
@@ -946,7 +947,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-14": 739,
+      "2022-11-14": 758,
       "2022-11-13": 1440,
       "2022-11-12": 1440,
       "2022-11-11": 1440,
@@ -1300,11 +1301,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/npic.orst.edu.ico",
     "slug": "national-pesticide-center",
     "status": "up",
-    "uptime": "99.69%",
+    "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.69%",
+    "uptimeYear": "99.70%",
     "time": 400,
     "timeDay": 236,
     "timeWeek": 338,
@@ -1391,9 +1392,9 @@
     "slug": "chemical-resolver",
     "status": "down",
     "uptime": "98.93%",
-    "uptimeDay": "97.44%",
-    "uptimeWeek": "97.86%",
-    "uptimeMonth": "95.09%",
+    "uptimeDay": "96.10%",
+    "uptimeWeek": "97.66%",
+    "uptimeMonth": "95.05%",
     "uptimeYear": "98.93%",
     "time": 633,
     "timeDay": 236,
@@ -1401,7 +1402,7 @@
     "timeMonth": 558,
     "timeYear": 633,
     "dailyMinutesDown": {
-      "2022-11-14": 36,
+      "2022-11-14": 56,
       "2022-11-13": 20,
       "2022-11-12": 37,
       "2022-11-10": 22,
