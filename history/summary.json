@@ -6,17 +6,17 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "92.84%",
-    "uptimeWeek": "89.10%",
-    "uptimeMonth": "93.55%",
+    "uptimeDay": "93.46%",
+    "uptimeWeek": "89.18%",
+    "uptimeMonth": "93.50%",
     "uptimeYear": "99.46%",
     "time": 660,
-    "timeDay": 384,
+    "timeDay": 383,
     "timeWeek": 807,
     "timeMonth": 825,
     "timeYear": 658,
     "dailyMinutesDown": {
-      "2022-11-13": 102,
+      "2022-11-13": 94,
       "2022-11-12": 246,
       "2022-11-11": 102,
       "2022-11-10": 80,
@@ -38,7 +38,8 @@
       "2022-10-25": 70,
       "2022-10-24": 165,
       "2022-10-23": 85,
-      "2022-10-22": 131
+      "2022-10-22": 157,
+      "2022-10-21": 5
     }
   },
   {
@@ -48,9 +49,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "91.37%",
-    "uptimeWeek": "89.38%",
-    "uptimeMonth": "93.40%",
+    "uptimeDay": "91.91%",
+    "uptimeWeek": "89.45%",
+    "uptimeMonth": "93.38%",
     "uptimeYear": "99.45%",
     "time": 559,
     "timeDay": 381,
@@ -58,7 +59,7 @@
     "timeMonth": 819,
     "timeYear": 557,
     "dailyMinutesDown": {
-      "2022-11-13": 124,
+      "2022-11-13": 117,
       "2022-11-12": 241,
       "2022-11-11": 98,
       "2022-11-10": 78,
@@ -81,7 +82,7 @@
       "2022-10-24": 164,
       "2022-10-23": 84,
       "2022-10-22": 156,
-      "2022-10-21": 21
+      "2022-10-21": 39
     }
   },
   {
@@ -656,12 +657,12 @@
     "status": "up",
     "uptime": "99.03%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.78%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "91.24%",
     "uptimeYear": "99.03%",
     "time": 1308,
     "timeDay": 1357,
-    "timeWeek": 1346,
+    "timeWeek": 1330,
     "timeMonth": 1236,
     "timeYear": 1308,
     "dailyMinutesDown": {
@@ -944,7 +945,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-13": 1439,
+      "2022-11-14": 23,
+      "2022-11-13": 1440,
       "2022-11-12": 1440,
       "2022-11-11": 1440,
       "2022-11-10": 1440,
@@ -1266,7 +1268,7 @@
     "status": "up",
     "uptime": "98.62%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.48%",
+    "uptimeWeek": "97.71%",
     "uptimeMonth": "90.85%",
     "uptimeYear": "98.62%",
     "time": 943,
