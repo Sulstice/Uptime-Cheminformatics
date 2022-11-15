@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "77.70%",
-    "uptimeWeek": "89.51%",
-    "uptimeMonth": "93.51%",
+    "uptimeDay": "77.59%",
+    "uptimeWeek": "89.50%",
+    "uptimeMonth": "93.54%",
     "uptimeYear": "99.46%",
     "time": 660,
     "timeDay": 403,
@@ -16,7 +16,7 @@
     "timeMonth": 828,
     "timeYear": 657,
     "dailyMinutesDown": {
-      "2022-11-15": 172,
+      "2022-11-15": 174,
       "2022-11-14": 174,
       "2022-11-13": 94,
       "2022-11-12": 246,
@@ -38,7 +38,7 @@
       "2022-10-27": 181,
       "2022-10-26": 95,
       "2022-10-25": 70,
-      "2022-10-24": 63
+      "2022-10-24": 46
     }
   },
   {
@@ -46,19 +46,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "79.05%",
-    "uptimeWeek": "89.78%",
-    "uptimeMonth": "93.27%",
-    "uptimeYear": "99.44%",
+    "uptimeDay": "78.92%",
+    "uptimeWeek": "89.76%",
+    "uptimeMonth": "93.36%",
+    "uptimeYear": "99.45%",
     "time": 558,
     "timeDay": 362,
     "timeWeek": 590,
     "timeMonth": 819,
     "timeYear": 556,
     "dailyMinutesDown": {
-      "2022-11-15": 170,
+      "2022-11-15": 172,
       "2022-11-14": 155,
       "2022-11-13": 117,
       "2022-11-12": 241,
@@ -80,7 +80,7 @@
       "2022-10-27": 163,
       "2022-10-26": 93,
       "2022-10-25": 70,
-      "2022-10-24": 164
+      "2022-10-24": 123
     }
   },
   {
@@ -582,7 +582,7 @@
     "uptime": "94.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "89.41%",
+    "uptimeMonth": "89.45%",
     "uptimeYear": "94.54%",
     "time": 849,
     "timeDay": 0,
@@ -944,7 +944,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-15": 808,
+      "2022-11-15": 827,
       "2022-11-14": 1440,
       "2022-11-13": 1440,
       "2022-11-12": 1440,
