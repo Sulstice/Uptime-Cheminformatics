@@ -6,17 +6,17 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "79.24%",
-    "uptimeWeek": "89.43%",
-    "uptimeMonth": "93.53%",
+    "uptimeDay": "79.79%",
+    "uptimeWeek": "89.51%",
+    "uptimeMonth": "93.51%",
     "uptimeYear": "99.46%",
     "time": 660,
-    "timeDay": 395,
+    "timeDay": 390,
     "timeWeek": 552,
     "timeMonth": 826,
     "timeYear": 657,
     "dailyMinutesDown": {
-      "2022-11-15": 180,
+      "2022-11-15": 172,
       "2022-11-14": 174,
       "2022-11-13": 94,
       "2022-11-12": 246,
@@ -38,7 +38,7 @@
       "2022-10-27": 181,
       "2022-10-26": 95,
       "2022-10-25": 70,
-      "2022-10-24": 46
+      "2022-10-24": 63
     }
   },
   {
@@ -48,17 +48,17 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "80.59%",
-    "uptimeWeek": "89.71%",
-    "uptimeMonth": "93.35%",
-    "uptimeYear": "99.45%",
+    "uptimeDay": "81.11%",
+    "uptimeWeek": "89.78%",
+    "uptimeMonth": "93.27%",
+    "uptimeYear": "99.44%",
     "time": 558,
-    "timeDay": 365,
+    "timeDay": 362,
     "timeWeek": 585,
     "timeMonth": 818,
     "timeYear": 556,
     "dailyMinutesDown": {
-      "2022-11-15": 177,
+      "2022-11-15": 170,
       "2022-11-14": 155,
       "2022-11-13": 117,
       "2022-11-12": 241,
@@ -80,7 +80,7 @@
       "2022-10-27": 163,
       "2022-10-26": 93,
       "2022-10-25": 70,
-      "2022-10-24": 123
+      "2022-10-24": 164
     }
   },
   {
@@ -192,10 +192,10 @@
     "url": "https://nmrshiftdb.nmr.uni-koeln.de/",
     "icon": "https://icons.duckduckgo.com/ip3/nmrshiftdb.nmr.uni-koeln.de.ico",
     "slug": "nmr-shift-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "94.72%",
-    "uptimeWeek": "97.56%",
+    "uptimeDay": "94.49%",
+    "uptimeWeek": "97.53%",
     "uptimeMonth": "97.57%",
     "uptimeYear": "99.16%",
     "time": 2537,
@@ -204,7 +204,7 @@
     "timeMonth": 3188,
     "timeYear": 2537,
     "dailyMinutesDown": {
-      "2022-11-15": 34,
+      "2022-11-15": 37,
       "2022-11-14": 42,
       "2022-11-12": 36,
       "2022-11-11": 21,
@@ -268,8 +268,7 @@
       "2022-07-21": 29,
       "2022-07-16": 20,
       "2022-07-14": 27,
-      "2022-07-13": 27,
-      "2022-07-11": 17
+      "2022-07-13": 27
     }
   },
   {
@@ -300,18 +299,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
     "status": "up",
-    "uptime": "98.95%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "97.67%",
-    "uptimeMonth": "97.05%",
-    "uptimeYear": "98.95%",
+    "uptime": "98.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.74%",
+    "uptimeMonth": "97.07%",
+    "uptimeYear": "98.94%",
     "time": 729,
     "timeDay": 655,
     "timeWeek": 920,
     "timeMonth": 794,
     "timeYear": 729,
     "dailyMinutesDown": {
-      "2022-11-15": 8,
       "2022-11-14": 37,
       "2022-11-13": 46,
       "2022-11-12": 32,
@@ -367,7 +365,7 @@
       "2022-06-28": 17,
       "2022-06-21": 44,
       "2022-06-14": 784,
-      "2022-05-31": 431
+      "2022-05-31": 472
     }
   },
   {
@@ -583,7 +581,7 @@
     "uptime": "94.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "89.75%",
+    "uptimeMonth": "89.80%",
     "uptimeYear": "94.54%",
     "time": 849,
     "timeDay": 0,
@@ -945,7 +943,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-15": 958,
+      "2022-11-15": 982,
       "2022-11-14": 1440,
       "2022-11-13": 1440,
       "2022-11-12": 1440,
