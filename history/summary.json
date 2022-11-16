@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
     "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "94.27%",
-    "uptimeWeek": "89.91%",
-    "uptimeMonth": "93.55%",
+    "uptime": "99.60%",
+    "uptimeDay": "94.88%",
+    "uptimeWeek": "90.20%",
+    "uptimeMonth": "93.50%",
     "uptimeYear": "99.46%",
     "time": 662,
     "timeDay": 1261,
@@ -16,7 +16,7 @@
     "timeMonth": 860,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2022-11-16": 22,
+      "2022-11-16": 13,
       "2022-11-15": 194,
       "2022-11-14": 174,
       "2022-11-13": 94,
@@ -38,7 +38,8 @@
       "2022-10-28": 105,
       "2022-10-27": 181,
       "2022-10-26": 95,
-      "2022-10-25": 70
+      "2022-10-25": 70,
+      "2022-10-24": 30
     }
   },
   {
@@ -48,9 +49,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "94.41%",
-    "uptimeWeek": "90.04%",
-    "uptimeMonth": "93.45%",
+    "uptimeDay": "94.98%",
+    "uptimeWeek": "90.33%",
+    "uptimeMonth": "93.43%",
     "uptimeYear": "99.45%",
     "time": 558,
     "timeDay": 358,
@@ -58,7 +59,7 @@
     "timeMonth": 821,
     "timeYear": 556,
     "dailyMinutesDown": {
-      "2022-11-16": 21,
+      "2022-11-16": 13,
       "2022-11-15": 191,
       "2022-11-14": 155,
       "2022-11-13": 117,
@@ -81,7 +82,7 @@
       "2022-10-27": 163,
       "2022-10-26": 93,
       "2022-10-25": 70,
-      "2022-10-24": 46
+      "2022-10-24": 63
     }
   },
   {
@@ -299,19 +300,19 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
-    "status": "up",
-    "uptime": "98.95%",
-    "uptimeDay": "98.86%",
-    "uptimeWeek": "97.58%",
-    "uptimeMonth": "97.12%",
-    "uptimeYear": "98.95%",
+    "status": "down",
+    "uptime": "98.97%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "97.55%",
+    "uptimeMonth": "97.11%",
+    "uptimeYear": "98.97%",
     "time": 727,
-    "timeDay": 639,
-    "timeWeek": 873,
-    "timeMonth": 735,
+    "timeDay": 628,
+    "timeWeek": 865,
+    "timeMonth": 734,
     "timeYear": 727,
     "dailyMinutesDown": {
-      "2022-11-16": 16,
+      "2022-11-16": 19,
       "2022-11-14": 37,
       "2022-11-13": 46,
       "2022-11-12": 32,
@@ -367,7 +368,7 @@
       "2022-06-28": 17,
       "2022-06-21": 44,
       "2022-06-14": 784,
-      "2022-05-31": 431
+      "2022-05-31": 334
     }
   },
   {
@@ -580,11 +581,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ctdbase.org.ico",
     "slug": "comparative-toxicogenomics-database",
     "status": "up",
-    "uptime": "94.55%",
+    "uptime": "94.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.22%",
-    "uptimeYear": "94.55%",
+    "uptimeMonth": "92.27%",
+    "uptimeYear": "94.56%",
     "time": 847,
     "timeDay": 286,
     "timeWeek": 230,
@@ -945,7 +946,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-16": 599,
+      "2022-11-16": 620,
       "2022-11-15": 1440,
       "2022-11-14": 1440,
       "2022-11-13": 1440,
