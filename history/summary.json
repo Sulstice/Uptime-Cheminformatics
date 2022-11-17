@@ -4,19 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "86.45%",
-    "uptimeWeek": "89.84%",
-    "uptimeMonth": "93.47%",
+    "uptimeDay": "87.10%",
+    "uptimeWeek": "89.82%",
+    "uptimeMonth": "93.52%",
     "uptimeYear": "99.46%",
     "time": 660,
-    "timeDay": 429,
+    "timeDay": 421,
     "timeWeek": 534,
     "timeMonth": 853,
     "timeYear": 658,
     "dailyMinutesDown": {
-      "2022-11-17": 144,
+      "2022-11-17": 145,
       "2022-11-16": 72,
       "2022-11-15": 194,
       "2022-11-14": 174,
@@ -37,8 +37,7 @@
       "2022-10-30": 106,
       "2022-10-29": 113,
       "2022-10-28": 105,
-      "2022-10-27": 181,
-      "2022-10-26": 5
+      "2022-10-27": 165
     }
   },
   {
@@ -46,19 +45,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "86.74%",
-    "uptimeWeek": "89.92%",
-    "uptimeMonth": "93.40%",
+    "uptimeDay": "87.30%",
+    "uptimeWeek": "89.90%",
+    "uptimeMonth": "93.43%",
     "uptimeYear": "99.45%",
     "time": 557,
-    "timeDay": 400,
+    "timeDay": 412,
     "timeWeek": 414,
     "timeMonth": 815,
     "timeYear": 555,
     "dailyMinutesDown": {
-      "2022-11-17": 140,
+      "2022-11-17": 142,
       "2022-11-16": 72,
       "2022-11-15": 191,
       "2022-11-14": 155,
@@ -80,7 +79,7 @@
       "2022-10-29": 128,
       "2022-10-28": 89,
       "2022-10-27": 163,
-      "2022-10-26": 38
+      "2022-10-26": 22
     }
   },
   {
@@ -582,7 +581,7 @@
     "uptime": "94.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.99%",
+    "uptimeMonth": "96.13%",
     "uptimeYear": "94.58%",
     "time": 912,
     "timeDay": 12898,
@@ -944,7 +943,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-17": 810,
+      "2022-11-17": 872,
       "2022-11-16": 1440,
       "2022-11-15": 1440,
       "2022-11-14": 1440,
