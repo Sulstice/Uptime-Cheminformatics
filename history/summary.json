@@ -4,19 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "95.00%",
-    "uptimeWeek": "90.69%",
-    "uptimeMonth": "93.48%",
+    "status": "down",
+    "uptime": "99.61%",
+    "uptimeDay": "94.92%",
+    "uptimeWeek": "90.86%",
+    "uptimeMonth": "93.51%",
     "uptimeYear": "99.46%",
     "time": 661,
     "timeDay": 507,
     "timeWeek": 579,
-    "timeMonth": 873,
+    "timeMonth": 874,
     "timeYear": 658,
     "dailyMinutesDown": {
-      "2022-11-19": 72,
+      "2022-11-19": 73,
       "2022-11-18": 137,
       "2022-11-17": 175,
       "2022-11-16": 72,
@@ -38,7 +38,7 @@
       "2022-10-31": 111,
       "2022-10-30": 106,
       "2022-10-29": 113,
-      "2022-10-28": 50
+      "2022-10-28": 33
     }
   },
   {
@@ -46,19 +46,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "95.07%",
-    "uptimeWeek": "90.76%",
-    "uptimeMonth": "93.41%",
+    "uptimeDay": "94.97%",
+    "uptimeWeek": "90.93%",
+    "uptimeMonth": "93.45%",
     "uptimeYear": "99.45%",
     "time": 558,
     "timeDay": 1066,
     "timeWeek": 460,
-    "timeMonth": 827,
+    "timeMonth": 828,
     "timeYear": 556,
     "dailyMinutesDown": {
-      "2022-11-19": 71,
+      "2022-11-19": 73,
       "2022-11-18": 134,
       "2022-11-17": 171,
       "2022-11-16": 72,
@@ -80,7 +80,7 @@
       "2022-10-31": 94,
       "2022-10-30": 133,
       "2022-10-29": 128,
-      "2022-10-28": 49
+      "2022-10-28": 33
     }
   },
   {
@@ -194,18 +194,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nmrshiftdb.nmr.uni-koeln.de.ico",
     "slug": "nmr-shift-database",
     "status": "up",
-    "uptime": "99.18%",
-    "uptimeDay": "95.99%",
-    "uptimeWeek": "97.80%",
-    "uptimeMonth": "97.75%",
-    "uptimeYear": "99.18%",
+    "uptime": "99.17%",
+    "uptimeDay": "96.55%",
+    "uptimeWeek": "97.88%",
+    "uptimeMonth": "97.77%",
+    "uptimeYear": "99.17%",
     "time": 2572,
     "timeDay": 5443,
     "timeWeek": 4009,
     "timeMonth": 3277,
     "timeYear": 2572,
     "dailyMinutesDown": {
-      "2022-11-19": 58,
+      "2022-11-19": 50,
       "2022-11-18": 26,
       "2022-11-17": 24,
       "2022-11-16": 22,
@@ -267,7 +267,8 @@
       "2022-07-31": 185,
       "2022-07-30": 99,
       "2022-07-29": 99,
-      "2022-07-28": 54
+      "2022-07-28": 54,
+      "2022-07-27": 25
     }
   },
   {
@@ -305,7 +306,7 @@
     "uptimeYear": "98.96%",
     "time": 730,
     "timeDay": 727,
-    "timeWeek": 982,
+    "timeWeek": 994,
     "timeMonth": 751,
     "timeYear": 730,
     "dailyMinutesDown": {
@@ -946,7 +947,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-19": 1420,
+      "2022-11-19": 1438,
       "2022-11-18": 1440,
       "2022-11-17": 1440,
       "2022-11-16": 1440,
@@ -1402,7 +1403,7 @@
     "uptimeYear": "98.97%",
     "time": 628,
     "timeDay": 329,
-    "timeWeek": 400,
+    "timeWeek": 398,
     "timeMonth": 549,
     "timeYear": 628,
     "dailyMinutesDown": {
