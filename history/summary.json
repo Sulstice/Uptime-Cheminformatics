@@ -6,17 +6,17 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "96.05%",
-    "uptimeWeek": "90.08%",
-    "uptimeMonth": "93.51%",
+    "uptimeDay": "96.79%",
+    "uptimeWeek": "90.18%",
+    "uptimeMonth": "93.50%",
     "uptimeYear": "99.46%",
     "time": 661,
     "timeDay": 488,
     "timeWeek": 575,
-    "timeMonth": 869,
+    "timeMonth": 870,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2022-11-19": 57,
+      "2022-11-19": 46,
       "2022-11-18": 137,
       "2022-11-17": 175,
       "2022-11-16": 72,
@@ -38,7 +38,7 @@
       "2022-10-31": 111,
       "2022-10-30": 106,
       "2022-10-29": 113,
-      "2022-10-28": 50
+      "2022-10-28": 65
     }
   },
   {
@@ -48,17 +48,17 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "96.12%",
-    "uptimeWeek": "90.16%",
-    "uptimeMonth": "93.45%",
+    "uptimeDay": "96.83%",
+    "uptimeWeek": "90.26%",
+    "uptimeMonth": "93.38%",
     "uptimeYear": "99.45%",
     "time": 557,
     "timeDay": 763,
     "timeWeek": 424,
-    "timeMonth": 825,
+    "timeMonth": 826,
     "timeYear": 556,
     "dailyMinutesDown": {
-      "2022-11-19": 56,
+      "2022-11-19": 46,
       "2022-11-18": 134,
       "2022-11-17": 171,
       "2022-11-16": 72,
@@ -80,7 +80,7 @@
       "2022-10-31": 94,
       "2022-10-30": 133,
       "2022-10-29": 128,
-      "2022-10-28": 49
+      "2022-10-28": 89
     }
   },
   {
@@ -193,18 +193,19 @@
     "url": "https://nmrshiftdb.nmr.uni-koeln.de/",
     "icon": "https://icons.duckduckgo.com/ip3/nmrshiftdb.nmr.uni-koeln.de.ico",
     "slug": "nmr-shift-database",
-    "status": "up",
-    "uptime": "99.17%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.21%",
+    "status": "down",
+    "uptime": "99.18%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "98.19%",
     "uptimeMonth": "97.88%",
-    "uptimeYear": "99.17%",
+    "uptimeYear": "99.18%",
     "time": 2543,
     "timeDay": 1096,
     "timeWeek": 3303,
     "timeMonth": 3129,
     "timeYear": 2543,
     "dailyMinutesDown": {
+      "2022-11-19": 2,
       "2022-11-18": 26,
       "2022-11-17": 24,
       "2022-11-16": 22,
@@ -268,8 +269,7 @@
       "2022-07-29": 99,
       "2022-07-28": 54,
       "2022-07-27": 25,
-      "2022-07-26": 36,
-      "2022-07-21": 29
+      "2022-07-26": 36
     }
   },
   {
@@ -948,7 +948,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-19": 935,
+      "2022-11-19": 954,
       "2022-11-18": 1440,
       "2022-11-17": 1440,
       "2022-11-16": 1440,
@@ -1533,7 +1533,7 @@
     "slug": "ibm-rxn-for-chemistry",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "98.42%",
+    "uptimeDay": "99.69%",
     "uptimeWeek": "98.35%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.91%",
