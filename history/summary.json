@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "94.20%",
-    "uptimeWeek": "91.26%",
-    "uptimeMonth": "93.46%",
+    "status": "down",
+    "uptime": "99.61%",
+    "uptimeDay": "94.12%",
+    "uptimeWeek": "91.25%",
+    "uptimeMonth": "93.51%",
     "uptimeYear": "99.46%",
     "time": 661,
     "timeDay": 455,
@@ -16,7 +16,7 @@
     "timeMonth": 871,
     "timeYear": 658,
     "dailyMinutesDown": {
-      "2022-11-20": 53,
+      "2022-11-20": 54,
       "2022-11-19": 78,
       "2022-11-18": 137,
       "2022-11-17": 175,
@@ -38,7 +38,7 @@
       "2022-11-01": 68,
       "2022-10-31": 111,
       "2022-10-30": 106,
-      "2022-10-29": 113
+      "2022-10-29": 90
     }
   },
   {
@@ -46,11 +46,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "94.30%",
-    "uptimeWeek": "91.32%",
-    "uptimeMonth": "93.39%",
+    "uptimeDay": "94.19%",
+    "uptimeWeek": "91.30%",
+    "uptimeMonth": "93.44%",
     "uptimeYear": "99.45%",
     "time": 558,
     "timeDay": 726,
@@ -58,7 +58,7 @@
     "timeMonth": 826,
     "timeYear": 556,
     "dailyMinutesDown": {
-      "2022-11-20": 52,
+      "2022-11-20": 54,
       "2022-11-19": 76,
       "2022-11-18": 134,
       "2022-11-17": 171,
@@ -80,7 +80,7 @@
       "2022-11-01": 121,
       "2022-10-31": 94,
       "2022-10-30": 133,
-      "2022-10-29": 128
+      "2022-10-29": 106
     }
   },
   {
@@ -195,7 +195,7 @@
     "slug": "nmr-shift-database",
     "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "96.94%",
+    "uptimeDay": "97.73%",
     "uptimeWeek": "97.88%",
     "uptimeMonth": "97.77%",
     "uptimeYear": "99.18%",
@@ -299,18 +299,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
     "status": "up",
-    "uptime": "98.99%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.38%",
-    "uptimeMonth": "97.32%",
-    "uptimeYear": "98.99%",
+    "uptime": "98.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.47%",
+    "uptimeMonth": "97.34%",
+    "uptimeYear": "98.96%",
     "time": 730,
     "timeDay": 767,
     "timeWeek": 749,
     "timeMonth": 759,
     "timeYear": 730,
     "dailyMinutesDown": {
-      "2022-11-20": 8,
       "2022-11-16": 16,
       "2022-11-14": 37,
       "2022-11-13": 46,
@@ -367,7 +366,7 @@
       "2022-06-28": 17,
       "2022-06-21": 44,
       "2022-06-14": 784,
-      "2022-05-31": 334
+      "2022-05-31": 431
     }
   },
   {
@@ -948,7 +947,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-20": 957,
+      "2022-11-20": 969,
       "2022-11-19": 1440,
       "2022-11-18": 1440,
       "2022-11-17": 1440,
