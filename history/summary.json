@@ -6,17 +6,17 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "91.74%",
-    "uptimeWeek": "90.65%",
-    "uptimeMonth": "93.47%",
-    "uptimeYear": "99.46%",
+    "uptimeDay": "92.29%",
+    "uptimeWeek": "90.73%",
+    "uptimeMonth": "93.45%",
+    "uptimeYear": "99.45%",
     "time": 660,
     "timeDay": 457,
-    "timeWeek": 596,
-    "timeMonth": 866,
+    "timeWeek": 597,
+    "timeMonth": 847,
     "timeYear": 658,
     "dailyMinutesDown": {
-      "2022-11-20": 115,
+      "2022-11-20": 107,
       "2022-11-19": 78,
       "2022-11-18": 137,
       "2022-11-17": 175,
@@ -38,7 +38,7 @@
       "2022-11-01": 68,
       "2022-10-31": 111,
       "2022-10-30": 106,
-      "2022-10-29": 46
+      "2022-10-29": 64
     }
   },
   {
@@ -48,17 +48,17 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "91.91%",
-    "uptimeWeek": "90.96%",
-    "uptimeMonth": "93.41%",
+    "uptimeDay": "92.42%",
+    "uptimeWeek": "91.04%",
+    "uptimeMonth": "93.38%",
     "uptimeYear": "99.45%",
     "time": 558,
     "timeDay": 645,
-    "timeWeek": 469,
-    "timeMonth": 821,
+    "timeWeek": 467,
+    "timeMonth": 816,
     "timeYear": 556,
     "dailyMinutesDown": {
-      "2022-11-20": 111,
+      "2022-11-20": 104,
       "2022-11-19": 76,
       "2022-11-18": 134,
       "2022-11-17": 171,
@@ -80,7 +80,7 @@
       "2022-11-01": 121,
       "2022-10-31": 94,
       "2022-10-30": 133,
-      "2022-10-29": 63
+      "2022-10-29": 80
     }
   },
   {
@@ -580,11 +580,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ctdbase.org.ico",
     "slug": "comparative-toxicogenomics-database",
     "status": "up",
-    "uptime": "94.63%",
+    "uptime": "94.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.30%",
-    "uptimeYear": "94.63%",
+    "uptimeYear": "94.64%",
     "time": 906,
     "timeDay": 76,
     "timeWeek": 3791,
@@ -947,7 +947,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-20": 1198,
+      "2022-11-20": 1207,
       "2022-11-19": 1440,
       "2022-11-18": 1440,
       "2022-11-17": 1440,
@@ -1396,10 +1396,10 @@
     "url": "https://cactus.nci.nih.gov/chemical/structure",
     "icon": "https://icons.duckduckgo.com/ip3/cactus.nci.nih.gov.ico",
     "slug": "chemical-resolver",
-    "status": "up",
+    "status": "down",
     "uptime": "98.97%",
-    "uptimeDay": "98.73%",
-    "uptimeWeek": "96.62%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "96.60%",
     "uptimeMonth": "96.13%",
     "uptimeYear": "98.97%",
     "time": 626,
@@ -1408,7 +1408,7 @@
     "timeMonth": 523,
     "timeYear": 626,
     "dailyMinutesDown": {
-      "2022-11-20": 18,
+      "2022-11-20": 21,
       "2022-11-19": 59,
       "2022-11-18": 48,
       "2022-11-17": 51,
@@ -1471,8 +1471,7 @@
       "2022-09-19": 34,
       "2022-09-18": 42,
       "2022-09-17": 83,
-      "2022-09-16": 42,
-      "2022-09-15": 17
+      "2022-09-16": 42
     }
   },
   {
