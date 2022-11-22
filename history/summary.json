@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "84.13%",
-    "uptimeWeek": "91.05%",
-    "uptimeMonth": "93.36%",
+    "uptimeDay": "83.95%",
+    "uptimeWeek": "91.17%",
+    "uptimeMonth": "93.41%",
     "uptimeYear": "99.45%",
     "time": 663,
     "timeDay": 1195,
@@ -16,7 +16,7 @@
     "timeMonth": 845,
     "timeYear": 661,
     "dailyMinutesDown": {
-      "2022-11-22": 188,
+      "2022-11-22": 191,
       "2022-11-21": 86,
       "2022-11-20": 107,
       "2022-11-19": 78,
@@ -38,7 +38,7 @@
       "2022-11-03": 126,
       "2022-11-02": 77,
       "2022-11-01": 68,
-      "2022-10-31": 45
+      "2022-10-31": 22
     }
   },
   {
@@ -46,11 +46,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "85.52%",
-    "uptimeWeek": "91.37%",
-    "uptimeMonth": "93.29%",
+    "status": "down",
+    "uptime": "99.60%",
+    "uptimeDay": "85.29%",
+    "uptimeWeek": "91.49%",
+    "uptimeMonth": "93.32%",
     "uptimeYear": "99.44%",
     "time": 558,
     "timeDay": 565,
@@ -58,7 +58,7 @@
     "timeMonth": 791,
     "timeYear": 557,
     "dailyMinutesDown": {
-      "2022-11-22": 187,
+      "2022-11-22": 190,
       "2022-11-21": 68,
       "2022-11-20": 104,
       "2022-11-19": 76,
@@ -80,7 +80,7 @@
       "2022-11-03": 142,
       "2022-11-02": 75,
       "2022-11-01": 121,
-      "2022-10-31": 94
+      "2022-10-31": 78
     }
   },
   {
@@ -581,11 +581,11 @@
     "url": "http://ctdbase.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ctdbase.org.ico",
     "slug": "comparative-toxicogenomics-database",
-    "status": "up",
+    "status": "down",
     "uptime": "94.65%",
-    "uptimeDay": "94.83%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "99.13%",
+    "uptimeDay": "94.59%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "99.12%",
     "uptimeYear": "94.65%",
     "time": 900,
     "timeDay": 267,
@@ -593,7 +593,7 @@
     "timeMonth": 977,
     "timeYear": 900,
     "dailyMinutesDown": {
-      "2022-11-22": 74,
+      "2022-11-22": 78,
       "2022-11-07": 23,
       "2022-11-05": 283,
       "2022-10-19": 159,
@@ -689,7 +689,7 @@
     "uptime": "98.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.73%",
+    "uptimeMonth": "95.78%",
     "uptimeYear": "98.35%",
     "time": 295,
     "timeDay": 975,
@@ -950,7 +950,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-22": 760,
+      "2022-11-22": 784,
       "2022-11-21": 1440,
       "2022-11-20": 1440,
       "2022-11-19": 1440,
