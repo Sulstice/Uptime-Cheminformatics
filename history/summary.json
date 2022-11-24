@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "93.61%",
-    "uptimeWeek": "91.69%",
-    "uptimeMonth": "93.36%",
+    "uptimeDay": "93.52%",
+    "uptimeWeek": "91.68%",
+    "uptimeMonth": "93.39%",
     "uptimeYear": "99.45%",
     "time": 662,
     "timeDay": 453,
@@ -16,7 +16,7 @@
     "timeMonth": 831,
     "timeYear": 660,
     "dailyMinutesDown": {
-      "2022-11-24": 28,
+      "2022-11-24": 29,
       "2022-11-23": 111,
       "2022-11-22": 223,
       "2022-11-21": 86,
@@ -38,7 +38,7 @@
       "2022-11-05": 57,
       "2022-11-04": 82,
       "2022-11-03": 126,
-      "2022-11-02": 21
+      "2022-11-02": 3
     }
   },
   {
@@ -46,19 +46,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "93.75%",
-    "uptimeWeek": "92.01%",
-    "uptimeMonth": "93.40%",
-    "uptimeYear": "99.45%",
+    "status": "down",
+    "uptime": "99.61%",
+    "uptimeDay": "93.63%",
+    "uptimeWeek": "91.99%",
+    "uptimeMonth": "93.46%",
+    "uptimeYear": "99.46%",
     "time": 555,
     "timeDay": 438,
     "timeWeek": 548,
     "timeMonth": 764,
     "timeYear": 556,
     "dailyMinutesDown": {
-      "2022-11-24": 28,
+      "2022-11-24": 30,
       "2022-11-23": 108,
       "2022-11-22": 220,
       "2022-11-21": 68,
@@ -80,7 +80,7 @@
       "2022-11-05": 57,
       "2022-11-04": 80,
       "2022-11-03": 142,
-      "2022-11-02": 75
+      "2022-11-02": 45
     }
   },
   {
@@ -92,7 +92,7 @@
     "uptime": "96.36%",
     "uptimeDay": "98.85%",
     "uptimeWeek": "98.10%",
-    "uptimeMonth": "65.06%",
+    "uptimeMonth": "65.08%",
     "uptimeYear": "96.36%",
     "time": 711,
     "timeDay": 336,
@@ -301,18 +301,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
     "status": "up",
-    "uptime": "99.00%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "97.79%",
-    "uptimeYear": "99.00%",
+    "uptime": "98.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "97.82%",
+    "uptimeYear": "98.98%",
     "time": 736,
     "timeDay": 730,
     "timeWeek": 849,
     "timeMonth": 780,
     "timeYear": 736,
     "dailyMinutesDown": {
-      "2022-11-24": 9,
       "2022-11-16": 16,
       "2022-11-14": 37,
       "2022-11-13": 46,
@@ -369,7 +368,7 @@
       "2022-06-28": 17,
       "2022-06-21": 44,
       "2022-06-14": 784,
-      "2022-05-31": 334
+      "2022-05-31": 431
     }
   },
   {
@@ -835,7 +834,7 @@
     "slug": "adverse-drug-reaction-classification-system",
     "status": "up",
     "uptime": "95.71%",
-    "uptimeDay": "89.76%",
+    "uptimeDay": "90.47%",
     "uptimeWeek": "97.69%",
     "uptimeMonth": "99.26%",
     "uptimeYear": "95.71%",
@@ -955,7 +954,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-24": 584,
+      "2022-11-24": 594,
       "2022-11-23": 1440,
       "2022-11-22": 1440,
       "2022-11-21": 1440,
