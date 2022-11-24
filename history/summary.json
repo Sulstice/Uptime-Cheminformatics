@@ -6,9 +6,9 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "92.80%",
-    "uptimeWeek": "91.34%",
-    "uptimeMonth": "93.37%",
+    "uptimeDay": "93.61%",
+    "uptimeWeek": "91.46%",
+    "uptimeMonth": "93.36%",
     "uptimeYear": "99.45%",
     "time": 662,
     "timeDay": 438,
@@ -16,7 +16,7 @@
     "timeMonth": 833,
     "timeYear": 660,
     "dailyMinutesDown": {
-      "2022-11-24": 40,
+      "2022-11-24": 28,
       "2022-11-23": 111,
       "2022-11-22": 223,
       "2022-11-21": 86,
@@ -38,7 +38,7 @@
       "2022-11-05": 57,
       "2022-11-04": 82,
       "2022-11-03": 126,
-      "2022-11-02": 3
+      "2022-11-02": 21
     }
   },
   {
@@ -47,10 +47,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
     "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "92.97%",
-    "uptimeWeek": "91.67%",
-    "uptimeMonth": "93.44%",
+    "uptime": "99.60%",
+    "uptimeDay": "93.75%",
+    "uptimeWeek": "91.78%",
+    "uptimeMonth": "93.40%",
     "uptimeYear": "99.45%",
     "time": 555,
     "timeDay": 411,
@@ -58,7 +58,7 @@
     "timeMonth": 764,
     "timeYear": 556,
     "dailyMinutesDown": {
-      "2022-11-24": 39,
+      "2022-11-24": 28,
       "2022-11-23": 108,
       "2022-11-22": 220,
       "2022-11-21": 68,
@@ -80,7 +80,7 @@
       "2022-11-05": 57,
       "2022-11-04": 80,
       "2022-11-03": 142,
-      "2022-11-02": 45
+      "2022-11-02": 75
     }
   },
   {
@@ -92,7 +92,7 @@
     "uptime": "96.35%",
     "uptimeDay": "98.85%",
     "uptimeWeek": "98.10%",
-    "uptimeMonth": "64.46%",
+    "uptimeMonth": "64.52%",
     "uptimeYear": "96.35%",
     "time": 711,
     "timeDay": 336,
@@ -300,18 +300,19 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
-    "status": "up",
-    "uptime": "98.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.82%",
-    "uptimeYear": "98.98%",
+    "status": "down",
+    "uptime": "99.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "97.81%",
+    "uptimeYear": "99.00%",
     "time": 735,
-    "timeDay": 660,
-    "timeWeek": 966,
-    "timeMonth": 780,
+    "timeDay": 663,
+    "timeWeek": 958,
+    "timeMonth": 779,
     "timeYear": 735,
     "dailyMinutesDown": {
+      "2022-11-24": 2,
       "2022-11-16": 16,
       "2022-11-14": 37,
       "2022-11-13": 46,
@@ -368,7 +369,7 @@
       "2022-06-28": 17,
       "2022-06-21": 44,
       "2022-06-14": 784,
-      "2022-05-31": 431
+      "2022-05-31": 334
     }
   },
   {
@@ -377,11 +378,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sdbs.db.aist.go.jp.ico",
     "slug": "spectral-database-for-organic-compounds",
     "status": "up",
-    "uptime": "80.12%",
+    "uptime": "80.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "80.12%",
+    "uptimeYear": "80.13%",
     "time": 1966,
     "timeDay": 1792,
     "timeWeek": 2862,
@@ -954,7 +955,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-24": 322,
+      "2022-11-24": 350,
       "2022-11-23": 1440,
       "2022-11-22": 1440,
       "2022-11-21": 1440,
