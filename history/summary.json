@@ -4,19 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "86.89%",
-    "uptimeWeek": "92.04%",
-    "uptimeMonth": "93.95%",
+    "uptimeDay": "86.80%",
+    "uptimeWeek": "92.02%",
+    "uptimeMonth": "94.01%",
     "uptimeYear": "99.50%",
     "time": 657,
     "timeDay": 495,
     "timeWeek": 480,
-    "timeMonth": 751,
+    "timeMonth": 734,
     "timeYear": 655,
     "dailyMinutesDown": {
-      "2022-11-30": 169,
+      "2022-11-30": 170,
       "2022-11-29": 188,
       "2022-11-28": 86,
       "2022-11-27": 121,
@@ -36,7 +36,7 @@
       "2022-11-13": 94,
       "2022-11-12": 246,
       "2022-11-11": 102,
-      "2022-11-10": 80
+      "2022-11-10": 54
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "87.13%",
-    "uptimeWeek": "92.34%",
-    "uptimeMonth": "94.01%",
+    "status": "down",
+    "uptime": "99.65%",
+    "uptimeDay": "87.00%",
+    "uptimeWeek": "92.33%",
+    "uptimeMonth": "94.04%",
     "uptimeYear": "99.50%",
     "time": 553,
     "timeDay": 422,
     "timeWeek": 445,
-    "timeMonth": 674,
+    "timeMonth": 668,
     "timeYear": 552,
     "dailyMinutesDown": {
-      "2022-11-30": 169,
+      "2022-11-30": 171,
       "2022-11-29": 170,
       "2022-11-28": 84,
       "2022-11-27": 118,
@@ -77,7 +77,7 @@
       "2022-11-12": 241,
       "2022-11-11": 98,
       "2022-11-10": 78,
-      "2022-11-09": 48
+      "2022-11-09": 31
     }
   },
   {
@@ -89,7 +89,7 @@
     "uptime": "96.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.26%",
+    "uptimeMonth": "86.30%",
     "uptimeYear": "96.43%",
     "time": 709,
     "timeDay": 0,
@@ -298,18 +298,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
     "status": "up",
-    "uptime": "99.24%",
-    "uptimeDay": "96.17%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "97.71%",
-    "uptimeYear": "99.24%",
+    "uptime": "99.07%",
+    "uptimeDay": "97.00%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "97.74%",
+    "uptimeYear": "99.07%",
     "time": 733,
     "timeDay": 658,
-    "timeWeek": 681,
+    "timeWeek": 683,
     "timeMonth": 763,
     "timeYear": 733,
     "dailyMinutesDown": {
-      "2022-11-30": 55,
+      "2022-11-30": 43,
       "2022-11-28": 33,
       "2022-11-24": 18,
       "2022-11-16": 16,
@@ -367,7 +367,7 @@
       "2022-06-30": 60,
       "2022-06-28": 17,
       "2022-06-21": 44,
-      "2022-06-14": 16
+      "2022-06-14": 784
     }
   },
   {
@@ -955,7 +955,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-30": 1232,
+      "2022-11-30": 1251,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
       "2022-11-27": 1440,
