@@ -194,10 +194,10 @@
     "url": "https://nmrshiftdb.nmr.uni-koeln.de/",
     "icon": "https://icons.duckduckgo.com/ip3/nmrshiftdb.nmr.uni-koeln.de.ico",
     "slug": "nmr-shift-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "97.77%",
-    "uptimeWeek": "98.95%",
+    "uptimeDay": "97.63%",
+    "uptimeWeek": "98.93%",
     "uptimeMonth": "98.60%",
     "uptimeYear": "99.30%",
     "time": 2705,
@@ -206,7 +206,7 @@
     "timeMonth": 3758,
     "timeYear": 2705,
     "dailyMinutesDown": {
-      "2022-12-18": 32,
+      "2022-12-18": 34,
       "2022-12-17": 19,
       "2022-12-13": 38,
       "2022-12-12": 17,
@@ -274,8 +274,7 @@
       "2022-08-06": 17,
       "2022-08-05": 48,
       "2022-08-04": 40,
-      "2022-08-03": 34,
-      "2022-08-02": 4
+      "2022-08-03": 17
     }
   },
   {
@@ -314,7 +313,7 @@
     "time": 729,
     "timeDay": 743,
     "timeWeek": 731,
-    "timeMonth": 722,
+    "timeMonth": 725,
     "timeYear": 729,
     "dailyMinutesDown": {
       "2022-12-05": 49,
@@ -560,7 +559,7 @@
     "uptime": "95.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "61.18%",
+    "uptimeMonth": "61.14%",
     "uptimeYear": "95.32%",
     "time": 949,
     "timeDay": 813,
@@ -568,7 +567,7 @@
     "timeMonth": 1061,
     "timeYear": 949,
     "dailyMinutesDown": {
-      "2022-12-18": 1185,
+      "2022-12-18": 1202,
       "2022-12-17": 1440,
       "2022-12-16": 1440,
       "2022-12-15": 1440,
@@ -987,7 +986,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-18": 1185,
+      "2022-12-18": 1202,
       "2022-12-17": 1440,
       "2022-12-16": 1440,
       "2022-12-15": 1440,
