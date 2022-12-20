@@ -194,10 +194,10 @@
     "url": "https://nmrshiftdb.nmr.uni-koeln.de/",
     "icon": "https://icons.duckduckgo.com/ip3/nmrshiftdb.nmr.uni-koeln.de.ico",
     "slug": "nmr-shift-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "69.40%",
-    "uptimeWeek": "94.54%",
+    "uptimeDay": "69.21%",
+    "uptimeWeek": "94.51%",
     "uptimeMonth": "97.66%",
     "uptimeYear": "99.23%",
     "time": 2740,
@@ -206,6 +206,7 @@
     "timeMonth": 3815,
     "timeYear": 2740,
     "dailyMinutesDown": {
+      "2022-12-20": 3,
       "2022-12-19": 441,
       "2022-12-18": 53,
       "2022-12-17": 19,
@@ -271,8 +272,7 @@
       "2022-08-11": 74,
       "2022-08-10": 17,
       "2022-08-09": 19,
-      "2022-08-08": 65,
-      "2022-08-06": 17
+      "2022-08-08": 65
     }
   },
   {
@@ -554,18 +554,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bioanalysis.cau.ac.kr.ico",
     "slug": "card-pred",
     "status": "up",
-    "uptime": "94.98%",
+    "uptime": "94.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "57.26%",
-    "uptimeYear": "94.98%",
+    "uptimeMonth": "57.12%",
+    "uptimeYear": "94.97%",
     "time": 950,
     "timeDay": 921,
     "timeWeek": 948,
     "timeMonth": 1053,
     "timeYear": 950,
     "dailyMinutesDown": {
-      "2022-12-20": 22,
+      "2022-12-20": 84,
       "2022-12-19": 1440,
       "2022-12-18": 1440,
       "2022-12-17": 1440,
@@ -986,7 +986,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-20": 22,
+      "2022-12-20": 85,
       "2022-12-19": 1440,
       "2022-12-18": 1440,
       "2022-12-17": 1440,
