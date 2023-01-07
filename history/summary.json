@@ -144,9 +144,9 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "46.76%",
-    "uptimeWeek": "70.28%",
-    "uptimeMonth": "93.16%",
+    "uptimeDay": "48.44%",
+    "uptimeWeek": "70.03%",
+    "uptimeMonth": "93.10%",
     "uptimeYear": "99.40%",
     "time": 882,
     "timeDay": 1103,
@@ -154,12 +154,11 @@
     "timeMonth": 1535,
     "timeYear": 882,
     "dailyMinutesDown": {
-      "2023-01-07": 1,
-      "2023-01-06": 769,
+      "2023-01-06": 762,
       "2023-01-05": 612,
       "2023-01-04": 528,
       "2023-01-03": 462,
-      "2023-01-02": 626
+      "2023-01-02": 659
     }
   },
   {
@@ -520,18 +519,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bioanalysis.cau.ac.kr.ico",
     "slug": "card-pred",
     "status": "up",
-    "uptime": "90.06%",
+    "uptime": "90.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "90.06%",
+    "uptimeYear": "90.05%",
     "time": 949,
     "timeDay": 808,
     "timeWeek": 949,
     "timeMonth": 1081,
     "timeYear": 949,
     "dailyMinutesDown": {
-      "2023-01-07": 4,
+      "2023-01-07": 20,
       "2023-01-06": 1440,
       "2023-01-05": 1440,
       "2023-01-04": 1440,
@@ -980,7 +979,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-07": 5,
+      "2023-01-07": 20,
       "2023-01-06": 1440,
       "2023-01-05": 1440,
       "2023-01-04": 1440,
