@@ -4,18 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.12%",
+    "status": "down",
+    "uptime": "99.54%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "95.11%",
     "uptimeMonth": "97.21%",
-    "uptimeYear": "99.28%",
+    "uptimeYear": "99.29%",
     "time": 661,
     "timeDay": 299,
     "timeWeek": 347,
     "timeMonth": 1408,
     "timeYear": 660,
     "dailyMinutesDown": {
+      "2023-01-18": 1,
       "2023-01-13": 492,
       "2023-01-10": 731,
       "2022-12-01": 18,
@@ -38,7 +39,7 @@
       "2022-11-14": 174,
       "2022-11-13": 94,
       "2022-11-12": 246,
-      "2022-11-11": 64
+      "2022-11-11": 42
     }
   },
   {
@@ -46,18 +47,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.68%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.50%",
     "time": 563,
-    "timeDay": 207,
-    "timeWeek": 286,
-    "timeMonth": 609,
+    "timeDay": 1233,
+    "timeWeek": 533,
+    "timeMonth": 658,
     "timeYear": 560,
     "dailyMinutesDown": {
+      "2023-01-18": 1,
       "2023-01-10": 33,
       "2022-12-01": 17,
       "2022-11-30": 169,
@@ -80,7 +82,7 @@
       "2022-11-13": 117,
       "2022-11-12": 241,
       "2022-11-11": 98,
-      "2022-11-10": 78
+      "2022-11-10": 53
     }
   },
   {
@@ -145,7 +147,7 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "42.59%",
+    "uptimeDay": "42.97%",
     "uptimeWeek": "63.85%",
     "uptimeMonth": "91.68%",
     "uptimeYear": "99.30%",
@@ -537,7 +539,7 @@
     "timeMonth": 949,
     "timeYear": 949,
     "dailyMinutesDown": {
-      "2023-01-18": 1050,
+      "2023-01-18": 1060,
       "2023-01-17": 1440,
       "2023-01-16": 1440,
       "2023-01-15": 1440,
@@ -1005,7 +1007,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-18": 1050,
+      "2023-01-18": 1060,
       "2023-01-17": 1440,
       "2023-01-16": 1440,
       "2023-01-15": 1440,
