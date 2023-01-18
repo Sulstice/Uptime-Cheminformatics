@@ -145,13 +145,13 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "50.36%",
+    "uptimeDay": "50.59%",
     "uptimeWeek": "62.97%",
     "uptimeMonth": "91.48%",
     "uptimeYear": "99.28%",
     "time": 1033,
     "timeDay": 784,
-    "timeWeek": 1621,
+    "timeWeek": 1610,
     "timeMonth": 1480,
     "timeYear": 1033,
     "dailyMinutesDown": {
@@ -538,7 +538,7 @@
     "timeMonth": 949,
     "timeYear": 949,
     "dailyMinutesDown": {
-      "2023-01-18": 351,
+      "2023-01-18": 360,
       "2023-01-17": 1440,
       "2023-01-16": 1440,
       "2023-01-15": 1440,
@@ -955,10 +955,10 @@
     "url": "https://cfpub.epa.gov/ecotox/",
     "icon": "https://icons.duckduckgo.com/ip3/cfpub.epa.gov.ico",
     "slug": "ecology-toxicity",
-    "status": "up",
+    "status": "down",
     "uptime": "98.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "98.83%",
     "time": 500,
@@ -967,6 +967,7 @@
     "timeMonth": 489,
     "timeYear": 500,
     "dailyMinutesDown": {
+      "2023-01-18": 3,
       "2023-01-13": 16,
       "2022-12-22": 17,
       "2022-12-16": 17,
@@ -1005,7 +1006,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-18": 351,
+      "2023-01-18": 361,
       "2023-01-17": 1440,
       "2023-01-16": 1440,
       "2023-01-15": 1440,
@@ -1516,9 +1517,9 @@
     "slug": "chemical-resolver",
     "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "96.40%",
-    "uptimeWeek": "97.27%",
-    "uptimeMonth": "98.06%",
+    "uptimeDay": "96.89%",
+    "uptimeWeek": "97.34%",
+    "uptimeMonth": "98.07%",
     "uptimeYear": "99.26%",
     "time": 603,
     "timeDay": 223,
@@ -1526,7 +1527,6 @@
     "timeMonth": 420,
     "timeYear": 603,
     "dailyMinutesDown": {
-      "2023-01-18": 7,
       "2023-01-17": 45,
       "2023-01-16": 44,
       "2023-01-15": 25,
@@ -1606,7 +1606,7 @@
       "2022-10-29": 43,
       "2022-10-28": 32,
       "2022-10-27": 42,
-      "2022-10-26": 52
+      "2022-10-26": 80
     }
   },
   {
