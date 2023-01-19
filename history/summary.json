@@ -147,23 +147,23 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "53.16%",
-    "uptimeWeek": "63.67%",
-    "uptimeMonth": "91.64%",
+    "uptimeDay": "53.98%",
+    "uptimeWeek": "63.51%",
+    "uptimeMonth": "91.60%",
     "uptimeYear": "99.29%",
     "time": 1039,
-    "timeDay": 1305,
+    "timeDay": 1328,
     "timeWeek": 1525,
     "timeMonth": 1466,
     "timeYear": 1039,
     "dailyMinutesDown": {
-      "2023-01-19": 156,
+      "2023-01-19": 148,
       "2023-01-18": 812,
       "2023-01-17": 751,
       "2023-01-16": 472,
       "2023-01-15": 620,
       "2023-01-14": 778,
-      "2023-01-13": 70
+      "2023-01-13": 95
     }
   },
   {
@@ -540,7 +540,7 @@
     "timeMonth": 950,
     "timeYear": 950,
     "dailyMinutesDown": {
-      "2023-01-19": 542,
+      "2023-01-19": 552,
       "2023-01-18": 1440,
       "2023-01-17": 1440,
       "2023-01-16": 1440,
@@ -1009,7 +1009,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-19": 542,
+      "2023-01-19": 553,
       "2023-01-18": 1440,
       "2023-01-17": 1440,
       "2023-01-16": 1440,
@@ -1519,18 +1519,19 @@
     "url": "https://cactus.nci.nih.gov/chemical/structure",
     "icon": "https://icons.duckduckgo.com/ip3/cactus.nci.nih.gov.ico",
     "slug": "chemical-resolver",
-    "status": "up",
-    "uptime": "99.26%",
-    "uptimeDay": "97.52%",
-    "uptimeWeek": "97.37%",
+    "status": "down",
+    "uptime": "99.27%",
+    "uptimeDay": "97.32%",
+    "uptimeWeek": "97.34%",
     "uptimeMonth": "98.05%",
-    "uptimeYear": "99.26%",
+    "uptimeYear": "99.27%",
     "time": 602,
     "timeDay": 284,
     "timeWeek": 278,
     "timeMonth": 423,
     "timeYear": 602,
     "dailyMinutesDown": {
+      "2023-01-19": 3,
       "2023-01-18": 36,
       "2023-01-17": 45,
       "2023-01-16": 44,
@@ -1610,8 +1611,7 @@
       "2022-10-30": 25,
       "2022-10-29": 43,
       "2022-10-28": 32,
-      "2022-10-27": 42,
-      "2022-10-26": 52
+      "2022-10-27": 42
     }
   },
   {
