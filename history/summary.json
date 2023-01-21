@@ -49,9 +49,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "95.33%",
-    "uptimeWeek": "98.27%",
-    "uptimeMonth": "99.53%",
+    "uptimeDay": "96.43%",
+    "uptimeWeek": "98.34%",
+    "uptimeMonth": "99.54%",
     "uptimeYear": "99.48%",
     "time": 563,
     "timeDay": 407,
@@ -59,7 +59,6 @@
     "timeMonth": 606,
     "timeYear": 560,
     "dailyMinutesDown": {
-      "2023-01-21": 7,
       "2023-01-20": 100,
       "2023-01-18": 67,
       "2023-01-10": 33,
@@ -83,7 +82,8 @@
       "2022-11-14": 155,
       "2022-11-13": 117,
       "2022-11-12": 241,
-      "2022-11-11": 98
+      "2022-11-11": 98,
+      "2022-11-10": 15
     }
   },
   {
@@ -146,11 +146,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "51.09%",
-    "uptimeWeek": "65.29%",
-    "uptimeMonth": "92.01%",
+    "uptimeDay": "51.39%",
+    "uptimeWeek": "65.54%",
+    "uptimeMonth": "92.07%",
     "uptimeYear": "99.33%",
     "time": 1036,
     "timeDay": 906,
@@ -158,12 +158,12 @@
     "timeMonth": 1404,
     "timeYear": 1036,
     "dailyMinutesDown": {
-      "2023-01-21": 575,
+      "2023-01-21": 578,
       "2023-01-20": 611,
       "2023-01-19": 477,
       "2023-01-18": 812,
       "2023-01-17": 751,
-      "2023-01-16": 273
+      "2023-01-16": 245
     }
   },
   {
@@ -455,7 +455,7 @@
     "status": "up",
     "uptime": "98.70%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "86.65%",
+    "uptimeWeek": "86.74%",
     "uptimeMonth": "96.65%",
     "uptimeYear": "98.70%",
     "time": 4459,
@@ -529,18 +529,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bioanalysis.cau.ac.kr.ico",
     "slug": "card-pred",
     "status": "up",
-    "uptime": "86.37%",
+    "uptime": "86.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "86.37%",
+    "uptimeYear": "86.36%",
     "time": 950,
     "timeDay": 1218,
     "timeWeek": 1043,
     "timeMonth": 958,
     "timeYear": 950,
     "dailyMinutesDown": {
-      "2023-01-21": 1195,
+      "2023-01-21": 1204,
       "2023-01-20": 1440,
       "2023-01-19": 1440,
       "2023-01-18": 1440,
@@ -1012,7 +1012,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-21": 1195,
+      "2023-01-21": 1205,
       "2023-01-20": 1440,
       "2023-01-19": 1440,
       "2023-01-18": 1440,
