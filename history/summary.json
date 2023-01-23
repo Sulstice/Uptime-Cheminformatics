@@ -153,8 +153,8 @@
     "uptimeMonth": "92.52%",
     "uptimeYear": "99.37%",
     "time": 1065,
-    "timeDay": 1983,
-    "timeWeek": 1221,
+    "timeDay": 2023,
+    "timeWeek": 1205,
     "timeMonth": 1436,
     "timeYear": 1065,
     "dailyMinutesDown": {
@@ -171,10 +171,10 @@
     "url": "https://nmrshiftdb.nmr.uni-koeln.de/",
     "icon": "https://icons.duckduckgo.com/ip3/nmrshiftdb.nmr.uni-koeln.de.ico",
     "slug": "nmr-shift-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.05%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.03%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.16%",
     "time": 2882,
@@ -183,6 +183,7 @@
     "timeMonth": 2213,
     "timeYear": 2882,
     "dailyMinutesDown": {
+      "2023-01-23": 2,
       "2023-01-19": 67,
       "2023-01-17": 29,
       "2022-12-22": 295,
@@ -242,8 +243,7 @@
       "2022-09-03": 26,
       "2022-09-01": 24,
       "2022-08-31": 16,
-      "2022-08-30": 16,
-      "2022-08-28": 16
+      "2022-08-30": 16
     }
   },
   {
@@ -282,7 +282,7 @@
     "time": 727,
     "timeDay": 0,
     "timeWeek": 644,
-    "timeMonth": 679,
+    "timeMonth": 681,
     "timeYear": 727,
     "dailyMinutesDown": {
       "2022-12-05": 49,
@@ -350,11 +350,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sdbs.db.aist.go.jp.ico",
     "slug": "spectral-database-for-organic-compounds",
     "status": "up",
-    "uptime": "83.41%",
+    "uptime": "83.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "83.41%",
+    "uptimeYear": "83.42%",
     "time": 1958,
     "timeDay": 0,
     "timeWeek": 1927,
@@ -540,7 +540,7 @@
     "timeMonth": 946,
     "timeYear": 949,
     "dailyMinutesDown": {
-      "2023-01-23": 649,
+      "2023-01-23": 668,
       "2023-01-22": 1440,
       "2023-01-21": 1440,
       "2023-01-20": 1440,
@@ -1016,7 +1016,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-23": 649,
+      "2023-01-23": 668,
       "2023-01-22": 1440,
       "2023-01-21": 1440,
       "2023-01-20": 1440,
