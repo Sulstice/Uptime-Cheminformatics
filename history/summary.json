@@ -146,11 +146,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "50.45%",
-    "uptimeWeek": "66.02%",
-    "uptimeMonth": "92.18%",
+    "uptimeDay": "52.04%",
+    "uptimeWeek": "66.35%",
+    "uptimeMonth": "92.26%",
     "uptimeYear": "99.35%",
     "time": 1081,
     "timeDay": 2520,
@@ -158,12 +158,12 @@
     "timeMonth": 1459,
     "timeYear": 1081,
     "dailyMinutesDown": {
-      "2023-01-23": 605,
+      "2023-01-23": 608,
       "2023-01-22": 797,
       "2023-01-21": 706,
       "2023-01-20": 611,
       "2023-01-19": 477,
-      "2023-01-18": 228
+      "2023-01-18": 193
     }
   },
   {
@@ -540,7 +540,7 @@
     "timeMonth": 946,
     "timeYear": 949,
     "dailyMinutesDown": {
-      "2023-01-23": 1235,
+      "2023-01-23": 1260,
       "2023-01-22": 1440,
       "2023-01-21": 1440,
       "2023-01-20": 1440,
@@ -609,7 +609,7 @@
     "slug": "comparative-toxicogenomics-database",
     "status": "up",
     "uptime": "94.88%",
-    "uptimeDay": "74.27%",
+    "uptimeDay": "76.03%",
     "uptimeWeek": "95.75%",
     "uptimeMonth": "98.71%",
     "uptimeYear": "94.88%",
@@ -1016,7 +1016,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-23": 1235,
+      "2023-01-23": 1261,
       "2023-01-22": 1440,
       "2023-01-21": 1440,
       "2023-01-20": 1440,
