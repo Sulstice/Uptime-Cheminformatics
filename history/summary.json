@@ -147,18 +147,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
     "status": "down",
-    "uptime": "99.29%",
-    "uptimeDay": "44.11%",
-    "uptimeWeek": "62.41%",
-    "uptimeMonth": "91.35%",
-    "uptimeYear": "99.28%",
+    "uptime": "99.28%",
+    "uptimeDay": "43.81%",
+    "uptimeWeek": "62.11%",
+    "uptimeMonth": "91.28%",
+    "uptimeYear": "99.27%",
     "time": 1133,
     "timeDay": 1744,
     "timeWeek": 1680,
     "timeMonth": 1498,
     "timeYear": 1143,
     "dailyMinutesDown": {
-      "2023-01-27": 798,
+      "2023-01-28": 20,
+      "2023-01-27": 809,
       "2023-01-26": 790,
       "2023-01-25": 726,
       "2023-01-24": 775,
@@ -347,7 +348,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sdbs.db.aist.go.jp.ico",
     "slug": "spectral-database-for-organic-compounds",
     "status": "up",
-    "uptime": "83.61%",
+    "uptime": "83.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
@@ -501,8 +502,7 @@
       "2022-02-02": 77,
       "2022-02-01": 22,
       "2022-01-31": 45,
-      "2022-01-30": 140,
-      "2022-01-28": 78
+      "2022-01-30": 140
     }
   },
   {
@@ -531,10 +531,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/bioanalysis.cau.ac.kr.ico",
     "slug": "card-pred",
     "status": "up",
-    "uptime": "85.63%",
+    "uptime": "85.64%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "37.63%",
-    "uptimeMonth": "6.75%",
+    "uptimeWeek": "37.94%",
+    "uptimeMonth": "6.82%",
     "uptimeYear": "85.52%",
     "time": 952,
     "timeDay": 1121,
@@ -757,8 +757,7 @@
       "2022-05-17": 32,
       "2022-04-22": 753,
       "2022-03-18": 672,
-      "2022-02-18": 771,
-      "2022-01-28": 827
+      "2022-02-18": 771
     }
   },
   {
@@ -892,16 +891,17 @@
     "status": "up",
     "uptime": "95.54%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "62.53%",
-    "uptimeMonth": "89.18%",
-    "uptimeYear": "95.51%",
+    "uptimeWeek": "62.22%",
+    "uptimeMonth": "89.11%",
+    "uptimeYear": "95.50%",
     "time": 1706,
     "timeDay": 1237,
     "timeWeek": 1227,
     "timeMonth": 2340,
     "timeYear": 1719,
     "dailyMinutesDown": {
-      "2023-01-27": 1430,
+      "2023-01-28": 21,
+      "2023-01-27": 1440,
       "2023-01-26": 1440,
       "2023-01-25": 907,
       "2023-01-17": 64,
@@ -958,10 +958,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www-metrabase.ch.cam.ac.uk.ico",
     "slug": "metabolism-and-transport-database",
     "status": "up",
-    "uptime": "99.29%",
+    "uptime": "99.28%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "62.53%",
-    "uptimeMonth": "91.38%",
+    "uptimeWeek": "62.23%",
+    "uptimeMonth": "91.31%",
     "uptimeYear": "99.28%",
     "time": 4870,
     "timeDay": 676,
@@ -969,7 +969,8 @@
     "timeMonth": 1357,
     "timeYear": 4995,
     "dailyMinutesDown": {
-      "2023-01-27": 1430,
+      "2023-01-28": 21,
+      "2023-01-27": 1440,
       "2023-01-26": 1440,
       "2023-01-25": 906
     }
@@ -1030,7 +1031,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-27": 1430,
+      "2023-01-28": 21,
+      "2023-01-27": 1440,
       "2023-01-26": 1440,
       "2023-01-25": 1440,
       "2023-01-24": 1440,
@@ -1393,8 +1395,7 @@
       "2022-02-01": 1440,
       "2022-01-31": 1440,
       "2022-01-30": 1440,
-      "2022-01-29": 1440,
-      "2022-01-28": 1440
+      "2022-01-29": 1440
     }
   },
   {
@@ -1531,7 +1532,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 2046,
-    "timeDay": 2128,
+    "timeDay": 1675,
     "timeWeek": 1807,
     "timeMonth": 2030,
     "timeYear": 2045,
