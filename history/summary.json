@@ -146,19 +146,20 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "down",
+    "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "59.70%",
-    "uptimeWeek": "68.81%",
-    "uptimeMonth": "92.82%",
+    "uptimeDay": "59.62%",
+    "uptimeWeek": "68.71%",
+    "uptimeMonth": "92.80%",
     "uptimeYear": "99.40%",
-    "time": 1139,
-    "timeDay": 1015,
-    "timeWeek": 1062,
+    "time": 1138,
+    "timeDay": 998,
+    "timeWeek": 1060,
     "timeMonth": 1369,
     "timeYear": 1166,
     "dailyMinutesDown": {
-      "2023-02-06": 582,
+      "2023-02-07": 6,
+      "2023-02-06": 586,
       "2023-02-05": 647,
       "2023-02-04": 415,
       "2023-02-03": 657,
@@ -173,7 +174,7 @@
     "slug": "nmr-shift-database",
     "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "91.28%",
+    "uptimeDay": "91.82%",
     "uptimeWeek": "98.13%",
     "uptimeMonth": "99.07%",
     "uptimeYear": "99.15%",
@@ -492,8 +493,7 @@
       "2022-02-11": 42,
       "2022-02-10": 70,
       "2022-02-09": 31,
-      "2022-02-08": 26,
-      "2022-02-07": 15
+      "2022-02-08": 26
     }
   },
   {
@@ -525,7 +525,7 @@
     "uptime": "85.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "82.30%",
-    "uptimeMonth": "35.57%",
+    "uptimeMonth": "35.60%",
     "uptimeYear": "85.37%",
     "time": 951,
     "timeDay": 867,
@@ -688,8 +688,7 @@
       "2022-02-25": 15,
       "2022-02-20": 47,
       "2022-02-13": 317,
-      "2022-02-08": 46,
-      "2022-02-07": 157
+      "2022-02-08": 46
     }
   },
   {
@@ -727,18 +726,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tripod.nih.gov.ico",
     "slug": "tox21",
     "status": "down",
-    "uptime": "97.02%",
+    "uptime": "97.01%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "10.91%",
-    "uptimeMonth": "79.43%",
-    "uptimeYear": "97.07%",
+    "uptimeWeek": "10.79%",
+    "uptimeMonth": "79.40%",
+    "uptimeYear": "97.06%",
     "time": 300,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 273,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2023-02-06": 1437,
+      "2023-02-07": 10,
+      "2023-02-06": 1440,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
@@ -967,7 +967,7 @@
     "uptime": "96.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "58.49%",
+    "uptimeMonth": "58.46%",
     "uptimeYear": "96.54%",
     "time": 4777,
     "timeDay": 706,
@@ -975,7 +975,8 @@
     "timeMonth": 861,
     "timeYear": 5005,
     "dailyMinutesDown": {
-      "2023-02-06": 1437,
+      "2023-02-07": 10,
+      "2023-02-06": 1440,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
@@ -995,19 +996,20 @@
     "url": "https://cfpub.epa.gov/ecotox/",
     "icon": "https://icons.duckduckgo.com/ip3/cfpub.epa.gov.ico",
     "slug": "ecology-toxicity",
-    "status": "down",
+    "status": "up",
     "uptime": "98.88%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.11%",
-    "time": 525,
-    "timeDay": 1311,
-    "timeWeek": 601,
-    "timeMonth": 819,
-    "timeYear": 526,
+    "time": 524,
+    "timeDay": 947,
+    "timeWeek": 546,
+    "timeMonth": 800,
+    "timeYear": 525,
     "dailyMinutesDown": {
-      "2023-02-06": 4,
+      "2023-02-07": 7,
+      "2023-02-06": 6,
       "2023-01-18": 24,
       "2023-01-13": 16,
       "2022-12-22": 17,
@@ -1045,7 +1047,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-06": 1438,
+      "2023-02-07": 10,
+      "2023-02-06": 1440,
       "2023-02-05": 1440,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
@@ -1408,8 +1411,7 @@
       "2022-02-11": 1440,
       "2022-02-10": 1440,
       "2022-02-09": 1440,
-      "2022-02-08": 1440,
-      "2022-02-07": 1440
+      "2022-02-08": 1440
     }
   },
   {
@@ -1550,8 +1552,7 @@
     "timeMonth": 2018,
     "timeYear": 2056,
     "dailyMinutesDown": {
-      "2022-02-08": 32,
-      "2022-02-07": 35
+      "2022-02-08": 32
     }
   },
   {
