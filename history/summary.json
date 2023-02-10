@@ -8,7 +8,7 @@
     "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.06%",
+    "uptimeMonth": "97.09%",
     "uptimeYear": "99.27%",
     "time": 665,
     "timeDay": 28459,
@@ -148,13 +148,13 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "53.52%",
+    "uptimeDay": "56.25%",
     "uptimeWeek": "67.97%",
     "uptimeMonth": "92.63%",
     "uptimeYear": "99.39%",
     "time": 1151,
-    "timeDay": 1116,
-    "timeWeek": 1120,
+    "timeDay": 1153,
+    "timeWeek": 1122,
     "timeMonth": 1375,
     "timeYear": 1163,
     "dailyMinutesDown": {
@@ -489,8 +489,7 @@
       "2022-05-06": 21,
       "2022-05-02": 27,
       "2022-03-25": 223,
-      "2022-02-11": 42,
-      "2022-02-10": 70
+      "2022-02-11": 42
     }
   },
   {
@@ -522,7 +521,7 @@
     "uptime": "85.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "82.30%",
-    "uptimeMonth": "45.36%",
+    "uptimeMonth": "45.49%",
     "uptimeYear": "85.37%",
     "time": 951,
     "timeDay": 1006,
@@ -724,7 +723,7 @@
     "status": "up",
     "uptime": "96.81%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "30.11%",
+    "uptimeWeek": "30.68%",
     "uptimeMonth": "76.56%",
     "uptimeYear": "96.83%",
     "time": 300,
@@ -960,18 +959,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www-metrabase.ch.cam.ac.uk.ico",
     "slug": "metabolism-and-transport-database",
     "status": "up",
-    "uptime": "95.90%",
+    "uptime": "95.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "48.70%",
-    "uptimeYear": "95.72%",
+    "uptimeMonth": "48.57%",
+    "uptimeYear": "95.71%",
     "time": 4743,
     "timeDay": 875,
     "timeWeek": 812,
     "timeMonth": 854,
     "timeYear": 4985,
     "dailyMinutesDown": {
-      "2023-02-09": 1406,
+      "2023-02-10": 24,
+      "2023-02-09": 1440,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
       "2023-02-06": 1440,
@@ -1022,8 +1022,7 @@
       "2022-03-26": 1440,
       "2022-03-25": 1440,
       "2022-03-24": 50,
-      "2022-02-11": 107,
-      "2022-02-10": 16
+      "2022-02-11": 107
     }
   },
   {
@@ -1043,7 +1042,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-09": 1406,
+      "2023-02-10": 24,
+      "2023-02-09": 1440,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
       "2023-02-06": 1440,
@@ -1406,8 +1406,7 @@
       "2022-02-14": 1440,
       "2022-02-13": 1440,
       "2022-02-12": 1440,
-      "2022-02-11": 1440,
-      "2022-02-10": 1440
+      "2022-02-11": 1440
     }
   },
   {
@@ -1564,7 +1563,7 @@
     "timeDay": 1028,
     "timeWeek": 985,
     "timeMonth": 576,
-    "timeYear": 602,
+    "timeYear": 603,
     "dailyMinutesDown": {
       "2023-02-09": 36,
       "2023-02-08": 38,
