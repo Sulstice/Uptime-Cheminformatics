@@ -148,13 +148,13 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "57.09%",
+    "uptimeDay": "57.39%",
     "uptimeWeek": "70.59%",
     "uptimeMonth": "93.23%",
     "uptimeYear": "99.44%",
     "time": 1132,
-    "timeDay": 970,
-    "timeWeek": 979,
+    "timeDay": 979,
+    "timeWeek": 981,
     "timeMonth": 1293,
     "timeYear": 1153,
     "dailyMinutesDown": {
@@ -518,7 +518,7 @@
     "uptime": "85.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "58.59%",
+    "uptimeMonth": "58.64%",
     "uptimeYear": "85.37%",
     "time": 952,
     "timeDay": 810,
@@ -719,7 +719,7 @@
     "status": "up",
     "uptime": "96.84%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.58%",
+    "uptimeWeek": "87.81%",
     "uptimeMonth": "76.56%",
     "uptimeYear": "96.83%",
     "time": 299,
@@ -958,8 +958,8 @@
     "slug": "metabolism-and-transport-database",
     "status": "up",
     "uptime": "95.02%",
-    "uptimeDay": "43.96%",
-    "uptimeWeek": "6.28%",
+    "uptimeDay": "45.55%",
+    "uptimeWeek": "6.51%",
     "uptimeMonth": "36.92%",
     "uptimeYear": "94.74%",
     "time": 4737,
@@ -1003,7 +1003,7 @@
     "uptimeYear": "99.14%",
     "time": 522,
     "timeDay": 459,
-    "timeWeek": 389,
+    "timeWeek": 413,
     "timeMonth": 789,
     "timeYear": 502,
     "dailyMinutesDown": {
@@ -1042,6 +1042,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2023-02-14": 23,
       "2023-02-13": 1440,
       "2023-02-12": 1440,
       "2023-02-11": 1440,
@@ -1405,8 +1406,7 @@
       "2022-02-18": 1440,
       "2022-02-17": 1440,
       "2022-02-16": 1440,
-      "2022-02-15": 1440,
-      "2022-02-14": 1440
+      "2022-02-15": 1440
     }
   },
   {
