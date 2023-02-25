@@ -150,19 +150,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "down",
-    "uptime": "99.43%",
-    "uptimeDay": "57.72%",
-    "uptimeWeek": "67.53%",
-    "uptimeMonth": "92.53%",
-    "uptimeYear": "99.38%",
-    "time": 1141,
-    "timeDay": 1604,
-    "timeWeek": 1238,
-    "timeMonth": 1141,
-    "timeYear": 1159,
+    "status": "up",
+    "uptime": "99.42%",
+    "uptimeDay": "54.89%",
+    "uptimeWeek": "67.12%",
+    "uptimeMonth": "92.43%",
+    "uptimeYear": "99.37%",
+    "time": 1143,
+    "timeDay": 1716,
+    "timeWeek": 1261,
+    "timeMonth": 1146,
+    "timeYear": 1161,
     "dailyMinutesDown": {
-      "2023-02-24": 609,
+      "2023-02-24": 650,
       "2023-02-23": 725,
       "2023-02-22": 633,
       "2023-02-21": 611,
@@ -176,18 +176,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nmrshiftdb.nmr.uni-koeln.de.ico",
     "slug": "nmr-shift-database",
     "status": "down",
-    "uptime": "99.28%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "93.03%",
-    "uptimeMonth": "97.40%",
-    "uptimeYear": "99.21%",
+    "uptime": "99.27%",
+    "uptimeDay": "95.85%",
+    "uptimeWeek": "92.58%",
+    "uptimeMonth": "97.30%",
+    "uptimeYear": "99.20%",
     "time": 2860,
     "timeDay": 1106,
     "timeWeek": 2539,
     "timeMonth": 2734,
     "timeYear": 2971,
     "dailyMinutesDown": {
-      "2023-02-24": 15,
+      "2023-02-25": 4,
+      "2023-02-24": 56,
       "2023-02-23": 60,
       "2023-02-22": 170,
       "2023-02-21": 350,
@@ -523,7 +524,7 @@
     "uptime": "86.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.65%",
+    "uptimeMonth": "94.76%",
     "uptimeYear": "85.37%",
     "time": 952,
     "timeDay": 0,
@@ -683,8 +684,7 @@
       "2022-03-02": 481,
       "2022-03-01": 499,
       "2022-02-27": 240,
-      "2022-02-26": 429,
-      "2022-02-25": 15
+      "2022-02-26": 429
     }
   },
   {
@@ -846,8 +846,7 @@
       "2022-03-01": 808,
       "2022-02-28": 1440,
       "2022-02-27": 1440,
-      "2022-02-26": 1440,
-      "2022-02-25": 31
+      "2022-02-26": 1440
     }
   },
   {
@@ -894,7 +893,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.42%",
     "uptimeMonth": "85.36%",
-    "uptimeYear": "95.37%",
+    "uptimeYear": "95.38%",
     "time": 1708,
     "timeDay": 0,
     "timeWeek": 1460,
@@ -951,8 +950,7 @@
       "2022-04-24": 121,
       "2022-04-23": 845,
       "2022-04-22": 588,
-      "2022-04-14": 53,
-      "2022-02-25": 123
+      "2022-04-14": 53
     }
   },
   {
@@ -1048,7 +1046,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-24": 1399,
+      "2023-02-25": 5,
+      "2023-02-24": 1440,
       "2023-02-23": 1440,
       "2023-02-22": 1440,
       "2023-02-21": 1440,
@@ -1411,8 +1410,7 @@
       "2022-03-01": 1440,
       "2022-02-28": 1440,
       "2022-02-27": 1440,
-      "2022-02-26": 1440,
-      "2022-02-25": 1440
+      "2022-02-26": 1440
     }
   },
   {
