@@ -154,14 +154,14 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "48.77%",
+    "uptimeDay": "50.23%",
     "uptimeWeek": "62.53%",
     "uptimeMonth": "91.38%",
     "uptimeYear": "99.28%",
     "time": 1249,
-    "timeDay": 1701,
-    "timeWeek": 1697,
-    "timeMonth": 1358,
+    "timeDay": 1640,
+    "timeWeek": 1702,
+    "timeMonth": 1354,
     "timeYear": 1265,
     "dailyMinutesDown": {
       "2023-03-11": 682,
@@ -178,10 +178,10 @@
     "url": "https://nmrshiftdb.nmr.uni-koeln.de/",
     "icon": "https://icons.duckduckgo.com/ip3/nmrshiftdb.nmr.uni-koeln.de.ico",
     "slug": "nmr-shift-database",
-    "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "46.31%",
-    "uptimeWeek": "90.82%",
+    "status": "down",
+    "uptime": "99.08%",
+    "uptimeDay": "46.17%",
+    "uptimeWeek": "90.80%",
     "uptimeMonth": "93.14%",
     "uptimeYear": "98.96%",
     "time": 2987,
@@ -190,7 +190,7 @@
     "timeMonth": 3559,
     "timeYear": 3139,
     "dailyMinutesDown": {
-      "2023-03-11": 614,
+      "2023-03-11": 616,
       "2023-03-10": 277,
       "2023-03-09": 19,
       "2023-03-08": 15,
@@ -233,7 +233,7 @@
       "2022-12-06": 85,
       "2022-12-05": 57,
       "2022-12-04": 30,
-      "2022-11-22": 97
+      "2022-11-22": 68
     }
   },
   {
@@ -762,7 +762,7 @@
     "timeDay": 961,
     "timeWeek": 1801,
     "timeMonth": 1143,
-    "timeYear": 1145,
+    "timeYear": 1146,
     "dailyMinutesDown": {
       "2023-02-26": 148,
       "2023-02-25": 708,
@@ -884,7 +884,7 @@
     "timeDay": 1398,
     "timeWeek": 1447,
     "timeMonth": 1552,
-    "timeYear": 1725,
+    "timeYear": 1726,
     "dailyMinutesDown": {
       "2023-03-11": 63,
       "2023-03-10": 63,
@@ -960,7 +960,7 @@
     "uptime": "95.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.29%",
+    "uptimeMonth": "94.38%",
     "uptimeYear": "94.74%",
     "time": 4534,
     "timeDay": 800,
@@ -1044,7 +1044,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-11": 1186,
+      "2023-03-11": 1226,
       "2023-03-10": 1440,
       "2023-03-09": 1440,
       "2023-03-08": 1440,
