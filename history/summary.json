@@ -154,14 +154,14 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "55.37%",
+    "uptimeDay": "55.56%",
     "uptimeWeek": "65.94%",
     "uptimeMonth": "92.16%",
     "uptimeYear": "99.35%",
     "time": 1243,
-    "timeDay": 609,
+    "timeDay": 615,
     "timeWeek": 1573,
-    "timeMonth": 1349,
+    "timeMonth": 1350,
     "timeYear": 1256,
     "dailyMinutesDown": {
       "2023-03-13": 640,
@@ -179,7 +179,7 @@
     "slug": "nmr-shift-database",
     "status": "up",
     "uptime": "98.96%",
-    "uptimeDay": "53.29%",
+    "uptimeDay": "54.71%",
     "uptimeWeek": "80.96%",
     "uptimeMonth": "90.95%",
     "uptimeYear": "98.83%",
@@ -338,7 +338,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sdbs.db.aist.go.jp.ico",
     "slug": "spectral-database-for-organic-compounds",
     "status": "up",
-    "uptime": "85.39%",
+    "uptime": "85.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
@@ -668,8 +668,7 @@
       "2022-04-05": 16,
       "2022-04-01": 26,
       "2022-03-31": 57,
-      "2022-03-17": 17,
-      "2022-03-14": 513
+      "2022-03-17": 17
     }
   },
   {
@@ -1040,7 +1039,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-13": 1437,
+      "2023-03-14": 22,
+      "2023-03-13": 1440,
       "2023-03-12": 1440,
       "2023-03-11": 1440,
       "2023-03-10": 1440,
@@ -1403,8 +1403,7 @@
       "2022-03-18": 1440,
       "2022-03-17": 1440,
       "2022-03-16": 1440,
-      "2022-03-15": 1440,
-      "2022-03-14": 1440
+      "2022-03-15": 1440
     }
   },
   {
