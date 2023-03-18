@@ -154,19 +154,20 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "50.98%",
-    "uptimeWeek": "65.82%",
-    "uptimeMonth": "92.14%",
-    "uptimeYear": "99.34%",
+    "uptimeDay": "52.06%",
+    "uptimeWeek": "65.87%",
+    "uptimeMonth": "92.15%",
+    "uptimeYear": "99.35%",
     "time": 1240,
     "timeDay": 1145,
     "timeWeek": 1107,
     "timeMonth": 1409,
     "timeYear": 1260,
     "dailyMinutesDown": {
-      "2023-03-17": 699,
+      "2023-03-18": 3,
+      "2023-03-17": 691,
       "2023-03-16": 697,
       "2023-03-15": 550,
       "2023-03-14": 740,
@@ -182,7 +183,7 @@
     "status": "up",
     "uptime": "98.95%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "82.09%",
+    "uptimeWeek": "82.21%",
     "uptimeMonth": "90.64%",
     "uptimeYear": "98.80%",
     "time": 3000,
@@ -742,8 +743,7 @@
       "2022-08-01": 17,
       "2022-06-17": 16,
       "2022-05-17": 32,
-      "2022-04-22": 753,
-      "2022-03-18": 672
+      "2022-04-22": 753
     }
   },
   {
@@ -874,11 +874,11 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
+    "status": "down",
     "uptime": "95.32%",
-    "uptimeDay": "96.27%",
-    "uptimeWeek": "98.28%",
-    "uptimeMonth": "95.64%",
+    "uptimeDay": "95.97%",
+    "uptimeWeek": "98.24%",
+    "uptimeMonth": "95.63%",
     "uptimeYear": "95.05%",
     "time": 1679,
     "timeDay": 1623,
@@ -886,6 +886,7 @@
     "timeMonth": 1507,
     "timeYear": 1723,
     "dailyMinutesDown": {
+      "2023-03-18": 4,
       "2023-03-17": 54,
       "2023-03-16": 56,
       "2023-03-11": 63,
@@ -1047,7 +1048,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-17": 1435,
+      "2023-03-18": 7,
+      "2023-03-17": 1440,
       "2023-03-16": 1440,
       "2023-03-15": 1440,
       "2023-03-14": 1440,
@@ -1410,8 +1412,7 @@
       "2022-03-22": 1440,
       "2022-03-21": 1440,
       "2022-03-20": 1440,
-      "2022-03-19": 1440,
-      "2022-03-18": 1440
+      "2022-03-19": 1440
     }
   },
   {
