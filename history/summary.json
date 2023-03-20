@@ -50,10 +50,10 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.68%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.66%",
     "uptimeMonth": "96.73%",
     "uptimeYear": "99.08%",
     "time": 596,
@@ -62,6 +62,7 @@
     "timeMonth": 2277,
     "timeYear": 600,
     "dailyMinutesDown": {
+      "2023-03-20": 2,
       "2023-03-14": 32,
       "2023-02-25": 376,
       "2023-02-23": 1023,
@@ -89,8 +90,7 @@
       "2022-11-15": 191,
       "2022-11-14": 155,
       "2022-11-13": 117,
-      "2022-11-12": 241,
-      "2022-11-11": 16
+      "2022-11-12": 241
     }
   },
   {
@@ -154,24 +154,24 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
-    "uptime": "99.42%",
-    "uptimeDay": "47.53%",
-    "uptimeWeek": "65.39%",
-    "uptimeMonth": "92.04%",
+    "status": "down",
+    "uptime": "99.43%",
+    "uptimeDay": "48.96%",
+    "uptimeWeek": "65.83%",
+    "uptimeMonth": "92.14%",
     "uptimeYear": "99.34%",
     "time": 1240,
     "timeDay": 1138,
-    "timeWeek": 1112,
-    "timeMonth": 1384,
+    "timeWeek": 1098,
+    "timeMonth": 1385,
     "timeYear": 1257,
     "dailyMinutesDown": {
-      "2023-03-20": 232,
+      "2023-03-20": 234,
       "2023-03-19": 742,
       "2023-03-18": 882,
       "2023-03-17": 691,
       "2023-03-16": 697,
-      "2023-03-15": 244
+      "2023-03-15": 197
     }
   },
   {
@@ -445,7 +445,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chemspider.com.ico",
     "slug": "chem-spider",
     "status": "up",
-    "uptime": "98.85%",
+    "uptime": "98.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
@@ -843,7 +843,7 @@
     "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.88%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.68%",
     "time": 447,
     "timeDay": 0,
@@ -1048,7 +1048,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-20": 539,
+      "2023-03-20": 562,
       "2023-03-19": 1440,
       "2023-03-18": 1440,
       "2023-03-17": 1440,
