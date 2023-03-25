@@ -50,10 +50,10 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "98.47%",
-    "uptimeWeek": "99.63%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.62%",
     "uptimeMonth": "98.98%",
     "uptimeYear": "99.09%",
     "time": 606,
@@ -62,7 +62,7 @@
     "timeMonth": 2886,
     "timeYear": 608,
     "dailyMinutesDown": {
-      "2023-03-25": 22,
+      "2023-03-25": 23,
       "2023-03-21": 15,
       "2023-03-14": 32,
       "2023-02-25": 376,
@@ -91,7 +91,7 @@
       "2022-11-15": 191,
       "2022-11-14": 155,
       "2022-11-13": 117,
-      "2022-11-12": 197
+      "2022-11-12": 159
     }
   },
   {
@@ -157,22 +157,22 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "58.31%",
-    "uptimeWeek": "68.43%",
-    "uptimeMonth": "92.74%",
+    "uptimeDay": "59.62%",
+    "uptimeWeek": "68.25%",
+    "uptimeMonth": "92.69%",
     "uptimeYear": "99.39%",
     "time": 1244,
     "timeDay": 1969,
-    "timeWeek": 1194,
+    "timeWeek": 1197,
     "timeMonth": 1391,
     "timeYear": 1265,
     "dailyMinutesDown": {
-      "2023-03-25": 119,
+      "2023-03-25": 111,
       "2023-03-24": 584,
       "2023-03-23": 534,
       "2023-03-22": 693,
       "2023-03-21": 726,
-      "2023-03-20": 525
+      "2023-03-20": 552
     }
   },
   {
@@ -184,7 +184,7 @@
     "uptime": "98.97%",
     "uptimeDay": "95.32%",
     "uptimeWeek": "99.33%",
-    "uptimeMonth": "92.60%",
+    "uptimeMonth": "92.62%",
     "uptimeYear": "98.80%",
     "time": 2980,
     "timeDay": 1170,
@@ -1050,7 +1050,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-25": 181,
+      "2023-03-25": 191,
       "2023-03-24": 1440,
       "2023-03-23": 1440,
       "2023-03-22": 1440,
