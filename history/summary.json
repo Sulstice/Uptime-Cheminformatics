@@ -157,7 +157,7 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "39.92%",
+    "uptimeDay": "40.47%",
     "uptimeWeek": "66.50%",
     "uptimeMonth": "92.29%",
     "uptimeYear": "99.36%",
@@ -180,10 +180,10 @@
     "url": "https://nmrshiftdb.nmr.uni-koeln.de/",
     "icon": "https://icons.duckduckgo.com/ip3/nmrshiftdb.nmr.uni-koeln.de.ico",
     "slug": "nmr-shift-database",
-    "status": "up",
+    "status": "down",
     "uptime": "98.98%",
-    "uptimeDay": "91.20%",
-    "uptimeWeek": "97.52%",
+    "uptimeDay": "91.07%",
+    "uptimeWeek": "97.50%",
     "uptimeMonth": "93.82%",
     "uptimeYear": "98.81%",
     "time": 2966,
@@ -192,7 +192,7 @@
     "timeMonth": 3415,
     "timeYear": 3146,
     "dailyMinutesDown": {
-      "2023-03-27": 127,
+      "2023-03-27": 129,
       "2023-03-26": 39,
       "2023-03-25": 48,
       "2023-03-24": 37,
@@ -232,7 +232,7 @@
       "2022-12-22": 295,
       "2022-12-21": 402,
       "2022-12-20": 379,
-      "2022-12-19": 277
+      "2022-12-19": 261
     }
   },
   {
@@ -1052,7 +1052,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-27": 1059,
+      "2023-03-27": 1067,
       "2023-03-26": 1440,
       "2023-03-25": 1440,
       "2023-03-24": 1440,
