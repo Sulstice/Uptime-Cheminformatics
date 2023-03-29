@@ -155,24 +155,24 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "54.28%",
-    "uptimeWeek": "64.98%",
-    "uptimeMonth": "91.94%",
+    "uptimeDay": "54.13%",
+    "uptimeWeek": "65.20%",
+    "uptimeMonth": "91.99%",
     "uptimeYear": "99.33%",
     "time": 1269,
     "timeDay": 797,
     "timeWeek": 1580,
-    "timeMonth": 1354,
+    "timeMonth": 1355,
     "timeYear": 1282,
     "dailyMinutesDown": {
-      "2023-03-29": 658,
+      "2023-03-29": 660,
       "2023-03-28": 598,
       "2023-03-27": 790,
       "2023-03-26": 785,
       "2023-03-25": 579,
-      "2023-03-24": 115
+      "2023-03-24": 90
     }
   },
   {
@@ -181,10 +181,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/nmrshiftdb.nmr.uni-koeln.de.ico",
     "slug": "nmr-shift-database",
     "status": "up",
-    "uptime": "98.99%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "97.27%",
-    "uptimeMonth": "94.35%",
+    "uptime": "98.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.35%",
+    "uptimeMonth": "94.37%",
     "uptimeYear": "98.81%",
     "time": 2987,
     "timeDay": 15557,
@@ -192,7 +192,6 @@
     "timeMonth": 3339,
     "timeYear": 3174,
     "dailyMinutesDown": {
-      "2023-03-29": 8,
       "2023-03-27": 144,
       "2023-03-26": 39,
       "2023-03-25": 48,
@@ -233,7 +232,7 @@
       "2022-12-22": 295,
       "2022-12-21": 402,
       "2022-12-20": 379,
-      "2022-12-19": 235
+      "2022-12-19": 261
     }
   },
   {
@@ -884,7 +883,7 @@
     "uptimeMonth": "94.75%",
     "uptimeYear": "94.94%",
     "time": 1732,
-    "timeDay": 2343,
+    "timeDay": 1665,
     "timeWeek": 1780,
     "timeMonth": 1823,
     "timeYear": 1789,
@@ -1055,7 +1054,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-29": 1408,
+      "2023-03-29": 1418,
       "2023-03-28": 1440,
       "2023-03-27": 1440,
       "2023-03-26": 1440,
