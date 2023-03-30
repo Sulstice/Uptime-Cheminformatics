@@ -157,22 +157,22 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "49.31%",
-    "uptimeWeek": "64.42%",
-    "uptimeMonth": "91.81%",
+    "uptimeDay": "51.14%",
+    "uptimeWeek": "64.33%",
+    "uptimeMonth": "91.79%",
     "uptimeYear": "99.32%",
     "time": 1264,
-    "timeDay": 1160,
+    "timeDay": 1185,
     "timeWeek": 1605,
-    "timeMonth": 1350,
+    "timeMonth": 1351,
     "timeYear": 1284,
     "dailyMinutesDown": {
-      "2023-03-30": 307,
+      "2023-03-30": 299,
       "2023-03-29": 666,
       "2023-03-28": 598,
       "2023-03-27": 790,
       "2023-03-26": 785,
-      "2023-03-25": 434
+      "2023-03-25": 451
     }
   },
   {
@@ -180,18 +180,19 @@
     "url": "https://nmrshiftdb.nmr.uni-koeln.de/",
     "icon": "https://icons.duckduckgo.com/ip3/nmrshiftdb.nmr.uni-koeln.de.ico",
     "slug": "nmr-shift-database",
-    "status": "up",
+    "status": "down",
     "uptime": "98.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.35%",
-    "uptimeMonth": "94.15%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "97.32%",
+    "uptimeMonth": "94.18%",
     "uptimeYear": "98.81%",
-    "time": 2987,
-    "timeDay": 15557,
-    "timeWeek": 3087,
-    "timeMonth": 3397,
-    "timeYear": 3174,
+    "time": 2985,
+    "timeDay": 10666,
+    "timeWeek": 2950,
+    "timeMonth": 3374,
+    "timeYear": 3172,
     "dailyMinutesDown": {
+      "2023-03-30": 3,
       "2023-03-27": 144,
       "2023-03-26": 39,
       "2023-03-25": 48,
@@ -232,7 +233,7 @@
       "2022-12-22": 295,
       "2022-12-21": 402,
       "2022-12-20": 379,
-      "2022-12-19": 261
+      "2022-12-19": 235
     }
   },
   {
@@ -455,7 +456,7 @@
     "time": 2328,
     "timeDay": 604,
     "timeWeek": 773,
-    "timeMonth": 867,
+    "timeMonth": 880,
     "timeYear": 1424,
     "dailyMinutesDown": {
       "2023-02-22": 18,
@@ -1054,7 +1055,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-30": 655,
+      "2023-03-30": 674,
       "2023-03-29": 1440,
       "2023-03-28": 1440,
       "2023-03-27": 1440,
