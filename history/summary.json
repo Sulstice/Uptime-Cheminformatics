@@ -158,7 +158,7 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "60.07%",
+    "uptimeDay": "61.52%",
     "uptimeWeek": "64.17%",
     "uptimeMonth": "91.76%",
     "uptimeYear": "99.31%",
@@ -428,11 +428,11 @@
     "url": "http://sideeffects.embl.de/download/",
     "icon": "https://icons.duckduckgo.com/ip3/sideeffects.embl.de.ico",
     "slug": "sider",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 970,
     "timeDay": 809,
@@ -440,6 +440,7 @@
     "timeMonth": 1802,
     "timeYear": 1013,
     "dailyMinutesDown": {
+      "2023-04-03": 3,
       "2023-01-25": 69
     }
   },
@@ -881,7 +882,7 @@
     "status": "up",
     "uptime": "95.36%",
     "uptimeDay": "91.46%",
-    "uptimeWeek": "95.36%",
+    "uptimeWeek": "95.57%",
     "uptimeMonth": "94.46%",
     "uptimeYear": "94.89%",
     "time": 1724,
@@ -1059,7 +1060,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-02": 1437,
+      "2023-04-03": 18,
+      "2023-04-02": 1440,
       "2023-04-01": 1440,
       "2023-03-31": 1440,
       "2023-03-30": 1440,
@@ -1422,8 +1424,7 @@
       "2022-04-07": 1440,
       "2022-04-06": 1440,
       "2022-04-05": 1440,
-      "2022-04-04": 1440,
-      "2022-04-03": 1440
+      "2022-04-04": 1440
     }
   },
   {
@@ -1748,7 +1749,7 @@
     "uptime": "99.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.99%",
+    "uptimeMonth": "98.04%",
     "uptimeYear": "99.26%",
     "time": 918,
     "timeDay": 642,
