@@ -165,7 +165,7 @@
     "uptimeYear": "99.31%",
     "time": 1237,
     "timeDay": 523,
-    "timeWeek": 800,
+    "timeWeek": 801,
     "timeMonth": 1245,
     "timeYear": 1252,
     "dailyMinutesDown": {
@@ -803,9 +803,9 @@
     "slug": "open-fda",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "43.18%",
-    "uptimeWeek": "91.88%",
-    "uptimeMonth": "98.13%",
+    "uptimeDay": "42.28%",
+    "uptimeWeek": "91.75%",
+    "uptimeMonth": "98.10%",
     "uptimeYear": "99.84%",
     "time": 414,
     "timeDay": 0,
@@ -813,7 +813,7 @@
     "timeMonth": 338,
     "timeYear": 411,
     "dailyMinutesDown": {
-      "2023-04-04": 483,
+      "2023-04-04": 496,
       "2023-04-03": 336
     }
   },
@@ -1066,7 +1066,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-04": 483,
+      "2023-04-04": 496,
       "2023-04-03": 1440,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
@@ -1580,11 +1580,11 @@
     "url": "https://cactus.nci.nih.gov/chemical/structure",
     "icon": "https://icons.duckduckgo.com/ip3/cactus.nci.nih.gov.ico",
     "slug": "chemical-resolver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "96.74%",
-    "uptimeWeek": "97.02%",
-    "uptimeMonth": "96.94%",
+    "uptimeDay": "96.73%",
+    "uptimeWeek": "96.98%",
+    "uptimeMonth": "96.93%",
     "uptimeYear": "99.13%",
     "time": 597,
     "timeDay": 1158,
@@ -1592,6 +1592,7 @@
     "timeMonth": 498,
     "timeYear": 595,
     "dailyMinutesDown": {
+      "2023-04-04": 4,
       "2023-04-03": 47,
       "2023-04-02": 34,
       "2023-04-01": 47,
@@ -1684,8 +1685,7 @@
       "2022-12-29": 27,
       "2022-12-28": 17,
       "2022-12-27": 26,
-      "2022-12-26": 16,
-      "2022-12-25": 17
+      "2022-12-26": 16
     }
   },
   {
@@ -1693,11 +1693,11 @@
     "url": "https://www.lookchem.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.lookchem.com.ico",
     "slug": "look-chem",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.89%",
     "time": 621,
     "timeDay": 299,
@@ -1705,6 +1705,7 @@
     "timeMonth": 750,
     "timeYear": 649,
     "dailyMinutesDown": {
+      "2023-04-04": 3,
       "2023-02-17": 15,
       "2023-01-01": 29,
       "2022-12-05": 16,
