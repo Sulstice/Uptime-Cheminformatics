@@ -158,18 +158,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
     "status": "down",
-    "uptime": "99.43%",
-    "uptimeDay": "74.10%",
-    "uptimeWeek": "64.69%",
-    "uptimeMonth": "91.88%",
+    "uptime": "99.42%",
+    "uptimeDay": "72.36%",
+    "uptimeWeek": "64.29%",
+    "uptimeMonth": "91.78%",
     "uptimeYear": "99.32%",
     "time": 1237,
     "timeDay": 518,
-    "timeWeek": 829,
-    "timeMonth": 1251,
+    "timeWeek": 830,
+    "timeMonth": 1248,
     "timeYear": 1255,
     "dailyMinutesDown": {
-      "2023-04-03": 356,
+      "2023-04-04": 19,
+      "2023-04-03": 377,
       "2023-04-02": 571,
       "2023-04-01": 725,
       "2023-03-31": 726,
@@ -431,7 +432,7 @@
     "slug": "sider",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.73%",
+    "uptimeDay": "99.11%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
@@ -801,18 +802,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/open.fda.gov.ico",
     "slug": "open-fda",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "78.07%",
-    "uptimeWeek": "96.87%",
-    "uptimeMonth": "99.28%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.94%",
+    "uptimeDay": "75.28%",
+    "uptimeWeek": "96.47%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "99.93%",
     "time": 414,
     "timeDay": 0,
     "timeWeek": 387,
     "timeMonth": 338,
     "timeYear": 411,
     "dailyMinutesDown": {
-      "2023-04-03": 316
+      "2023-04-04": 20,
+      "2023-04-03": 336
     }
   },
   {
@@ -1064,7 +1066,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-03": 1421,
+      "2023-04-04": 21,
+      "2023-04-03": 1440,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
       "2023-03-31": 1440,
@@ -1427,8 +1430,7 @@
       "2022-04-08": 1440,
       "2022-04-07": 1440,
       "2022-04-06": 1440,
-      "2022-04-05": 1440,
-      "2022-04-04": 1440
+      "2022-04-05": 1440
     }
   },
   {
@@ -1527,8 +1529,7 @@
       "2022-11-12": 34,
       "2022-10-07": 44,
       "2022-09-13": 64,
-      "2022-08-26": 29,
-      "2022-04-04": 41
+      "2022-08-26": 29
     }
   },
   {
