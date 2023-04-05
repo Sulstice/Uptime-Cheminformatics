@@ -50,10 +50,10 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.88%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "97.87%",
     "uptimeMonth": "99.35%",
     "uptimeYear": "99.10%",
     "time": 606,
@@ -62,6 +62,7 @@
     "timeMonth": 3619,
     "timeYear": 605,
     "dailyMinutesDown": {
+      "2023-04-05": 1,
       "2023-04-04": 71,
       "2023-04-03": 143,
       "2023-03-25": 22,
@@ -92,7 +93,7 @@
       "2022-11-16": 72,
       "2022-11-15": 191,
       "2022-11-14": 155,
-      "2022-11-13": 44
+      "2022-11-13": 24
     }
   },
   {
@@ -166,7 +167,7 @@
     "time": 1228,
     "timeDay": 600,
     "timeWeek": 690,
-    "timeMonth": 1212,
+    "timeMonth": 1213,
     "timeYear": 1245,
     "dailyMinutesDown": {
       "2023-04-05": 150,
@@ -518,7 +519,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bioanalysis.cau.ac.kr.ico",
     "slug": "card-pred",
     "status": "up",
-    "uptime": "87.57%",
+    "uptime": "87.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -803,7 +804,7 @@
     "slug": "open-fda",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "63.57%",
+    "uptimeDay": "64.51%",
     "uptimeWeek": "85.40%",
     "uptimeMonth": "96.64%",
     "uptimeYear": "99.72%",
@@ -1067,7 +1068,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-05": 612,
+      "2023-04-05": 625,
       "2023-04-04": 1440,
       "2023-04-03": 1440,
       "2023-04-02": 1440,
