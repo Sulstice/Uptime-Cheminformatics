@@ -52,9 +52,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "97.81%",
-    "uptimeMonth": "99.34%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.88%",
+    "uptimeMonth": "99.35%",
     "uptimeYear": "99.10%",
     "time": 607,
     "timeDay": 6889,
@@ -62,7 +62,6 @@
     "timeMonth": 3776,
     "timeYear": 610,
     "dailyMinutesDown": {
-      "2023-04-05": 7,
       "2023-04-04": 71,
       "2023-04-03": 143,
       "2023-03-25": 22,
@@ -93,7 +92,7 @@
       "2022-11-16": 72,
       "2022-11-15": 191,
       "2022-11-14": 155,
-      "2022-11-13": 24
+      "2022-11-13": 44
     }
   },
   {
@@ -158,24 +157,24 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "68.50%",
-    "uptimeWeek": "68.66%",
-    "uptimeMonth": "92.79%",
+    "uptimeDay": "68.33%",
+    "uptimeWeek": "68.82%",
+    "uptimeMonth": "92.82%",
     "uptimeYear": "99.40%",
     "time": 1228,
-    "timeDay": 762,
+    "timeDay": 769,
     "timeWeek": 706,
-    "timeMonth": 1205,
+    "timeMonth": 1202,
     "timeYear": 1244,
     "dailyMinutesDown": {
-      "2023-04-05": 351,
+      "2023-04-05": 353,
       "2023-04-04": 717,
       "2023-04-03": 377,
       "2023-04-02": 571,
       "2023-04-01": 725,
-      "2023-03-31": 419
+      "2023-03-31": 401
     }
   },
   {
@@ -830,7 +829,7 @@
     "uptimeYear": "99.80%",
     "time": 860,
     "timeDay": 540,
-    "timeWeek": 694,
+    "timeWeek": 670,
     "timeMonth": 845,
     "timeYear": 906,
     "dailyMinutesDown": {
@@ -885,10 +884,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
     "status": "down",
-    "uptime": "95.57%",
+    "uptime": "95.56%",
     "uptimeDay": "86.92%",
-    "uptimeWeek": "94.35%",
-    "uptimeMonth": "94.15%",
+    "uptimeWeek": "94.16%",
+    "uptimeMonth": "94.10%",
     "uptimeYear": "94.83%",
     "time": 1719,
     "timeDay": 1487,
@@ -896,7 +895,7 @@
     "timeMonth": 1756,
     "timeYear": 1778,
     "dailyMinutesDown": {
-      "2023-04-05": 139,
+      "2023-04-05": 159,
       "2023-04-04": 62,
       "2023-04-03": 123,
       "2023-04-02": 123,
@@ -1068,7 +1067,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-05": 1250,
+      "2023-04-05": 1269,
       "2023-04-04": 1440,
       "2023-04-03": 1440,
       "2023-04-02": 1440,
