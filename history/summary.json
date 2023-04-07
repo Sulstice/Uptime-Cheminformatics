@@ -159,9 +159,9 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "63.97%",
-    "uptimeWeek": "68.31%",
-    "uptimeMonth": "92.71%",
+    "uptimeDay": "65.12%",
+    "uptimeWeek": "68.12%",
+    "uptimeMonth": "92.67%",
     "uptimeYear": "99.39%",
     "time": 1220,
     "timeDay": 652,
@@ -169,13 +169,13 @@
     "timeMonth": 1159,
     "timeYear": 1232,
     "dailyMinutesDown": {
-      "2023-04-07": 421,
+      "2023-04-07": 413,
       "2023-04-06": 561,
       "2023-04-05": 385,
       "2023-04-04": 717,
       "2023-04-03": 377,
       "2023-04-02": 571,
-      "2023-04-01": 159
+      "2023-04-01": 186
     }
   },
   {
@@ -885,19 +885,19 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
-    "uptime": "95.89%",
-    "uptimeDay": "81.11%",
-    "uptimeWeek": "91.23%",
-    "uptimeMonth": "95.17%",
-    "uptimeYear": "95.07%",
+    "status": "down",
+    "uptime": "96.01%",
+    "uptimeDay": "80.94%",
+    "uptimeWeek": "91.21%",
+    "uptimeMonth": "95.19%",
+    "uptimeYear": "95.22%",
     "time": 1714,
-    "timeDay": 1480,
-    "timeWeek": 1448,
-    "timeMonth": 1794,
-    "timeYear": 1774,
+    "timeDay": 1444,
+    "timeWeek": 1440,
+    "timeMonth": 1792,
+    "timeYear": 1773,
     "dailyMinutesDown": {
-      "2023-04-07": 211,
+      "2023-04-07": 213,
       "2023-04-06": 120,
       "2023-04-05": 183,
       "2023-04-04": 62,
@@ -973,8 +973,7 @@
       "2022-06-02": 54,
       "2022-05-13": 33,
       "2022-05-01": 223,
-      "2022-04-30": 726,
-      "2022-04-29": 572
+      "2022-04-30": 497
     }
   },
   {
@@ -1067,7 +1066,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-07": 1167,
+      "2023-04-07": 1176,
       "2023-04-06": 1440,
       "2023-04-05": 1440,
       "2023-04-04": 1440,
