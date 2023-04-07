@@ -51,10 +51,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
     "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "97.78%",
-    "uptimeMonth": "99.33%",
+    "uptime": "99.48%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.88%",
+    "uptimeMonth": "99.35%",
     "uptimeYear": "99.10%",
     "time": 610,
     "timeDay": 2164,
@@ -62,7 +62,6 @@
     "timeMonth": 3780,
     "timeYear": 613,
     "dailyMinutesDown": {
-      "2023-04-07": 10,
       "2023-04-04": 71,
       "2023-04-03": 143,
       "2023-03-25": 22,
@@ -93,7 +92,7 @@
       "2022-11-16": 72,
       "2022-11-15": 191,
       "2022-11-14": 155,
-      "2022-11-13": 24
+      "2022-11-13": 44
     }
   },
   {
@@ -158,25 +157,25 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "66.56%",
-    "uptimeWeek": "67.56%",
-    "uptimeMonth": "92.54%",
-    "uptimeYear": "99.38%",
+    "status": "down",
+    "uptime": "99.49%",
+    "uptimeDay": "66.44%",
+    "uptimeWeek": "68.19%",
+    "uptimeMonth": "92.68%",
+    "uptimeYear": "99.39%",
     "time": 1219,
     "timeDay": 490,
     "timeWeek": 647,
     "timeMonth": 1176,
     "timeYear": 1235,
     "dailyMinutesDown": {
-      "2023-04-07": 51,
+      "2023-04-07": 53,
       "2023-04-06": 561,
       "2023-04-05": 385,
       "2023-04-04": 717,
       "2023-04-03": 377,
       "2023-04-02": 571,
-      "2023-04-01": 606
+      "2023-04-01": 541
     }
   },
   {
@@ -889,7 +888,7 @@
     "uptime": "95.67%",
     "uptimeDay": "91.63%",
     "uptimeWeek": "93.33%",
-    "uptimeMonth": "94.56%",
+    "uptimeMonth": "94.58%",
     "uptimeYear": "94.81%",
     "time": 1717,
     "timeDay": 1625,
@@ -1069,7 +1068,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-07": 207,
+      "2023-04-07": 216,
       "2023-04-06": 1440,
       "2023-04-05": 1440,
       "2023-04-04": 1440,
