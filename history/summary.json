@@ -14,7 +14,7 @@
     "timeDay": 2685,
     "timeWeek": 2717,
     "timeMonth": 2790,
-    "timeYear": 720,
+    "timeYear": 721,
     "dailyMinutesDown": {
       "2023-04-04": 74,
       "2023-04-03": 106,
@@ -157,11 +157,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
-    "uptime": "99.50%",
-    "uptimeDay": "52.35%",
-    "uptimeWeek": "68.79%",
-    "uptimeMonth": "92.82%",
+    "status": "down",
+    "uptime": "99.51%",
+    "uptimeDay": "52.96%",
+    "uptimeWeek": "68.93%",
+    "uptimeMonth": "92.85%",
     "uptimeYear": "99.40%",
     "time": 1213,
     "timeDay": 612,
@@ -169,13 +169,13 @@
     "timeMonth": 1078,
     "timeYear": 1224,
     "dailyMinutesDown": {
-      "2023-04-09": 126,
+      "2023-04-09": 128,
       "2023-04-08": 733,
       "2023-04-07": 531,
       "2023-04-06": 561,
       "2023-04-05": 385,
       "2023-04-04": 717,
-      "2023-04-03": 92
+      "2023-04-03": 76
     }
   },
   {
@@ -353,7 +353,7 @@
     "time": 1989,
     "timeDay": 2230,
     "timeWeek": 2022,
-    "timeMonth": 2353,
+    "timeMonth": 2372,
     "timeYear": 1960,
     "dailyMinutesDown": {
       "2023-02-21": 24,
@@ -600,7 +600,7 @@
     "slug": "comparative-toxicogenomics-database",
     "status": "up",
     "uptime": "95.31%",
-    "uptimeDay": "97.21%",
+    "uptimeDay": "98.48%",
     "uptimeWeek": "95.14%",
     "uptimeMonth": "97.34%",
     "uptimeYear": "94.91%",
@@ -890,8 +890,8 @@
     "status": "up",
     "uptime": "96.10%",
     "uptimeDay": "86.78%",
-    "uptimeWeek": "88.61%",
-    "uptimeMonth": "95.00%",
+    "uptimeWeek": "88.79%",
+    "uptimeMonth": "95.04%",
     "uptimeYear": "95.31%",
     "time": 1714,
     "timeDay": 1533,
@@ -1066,7 +1066,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-09": 432,
+      "2023-04-09": 450,
       "2023-04-08": 1440,
       "2023-04-07": 1440,
       "2023-04-06": 1440,
@@ -1702,7 +1702,7 @@
     "timeDay": 499,
     "timeWeek": 497,
     "timeMonth": 728,
-    "timeYear": 645,
+    "timeYear": 643,
     "dailyMinutesDown": {
       "2023-02-17": 15,
       "2023-01-01": 29,
