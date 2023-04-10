@@ -157,11 +157,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "60.41%",
-    "uptimeWeek": "68.54%",
-    "uptimeMonth": "92.76%",
+    "uptimeDay": "60.68%",
+    "uptimeWeek": "68.67%",
+    "uptimeMonth": "92.79%",
     "uptimeYear": "99.40%",
     "time": 1206,
     "timeDay": 702,
@@ -169,13 +169,13 @@
     "timeMonth": 1045,
     "timeYear": 1218,
     "dailyMinutesDown": {
-      "2023-04-10": 213,
+      "2023-04-10": 216,
       "2023-04-09": 517,
       "2023-04-08": 733,
       "2023-04-07": 531,
       "2023-04-06": 561,
       "2023-04-05": 385,
-      "2023-04-04": 232
+      "2023-04-04": 215
     }
   },
   {
@@ -1064,7 +1064,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-10": 486,
+      "2023-04-10": 500,
       "2023-04-09": 1440,
       "2023-04-08": 1440,
       "2023-04-07": 1440,
@@ -1578,11 +1578,11 @@
     "url": "https://cactus.nci.nih.gov/chemical/structure",
     "icon": "https://icons.duckduckgo.com/ip3/cactus.nci.nih.gov.ico",
     "slug": "chemical-resolver",
-    "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "96.88%",
-    "uptimeWeek": "92.75%",
-    "uptimeMonth": "96.41%",
+    "status": "down",
+    "uptime": "99.20%",
+    "uptimeDay": "97.17%",
+    "uptimeWeek": "92.80%",
+    "uptimeMonth": "96.40%",
     "uptimeYear": "99.03%",
     "time": 593,
     "timeDay": 364,
@@ -1590,6 +1590,7 @@
     "timeMonth": 460,
     "timeYear": 593,
     "dailyMinutesDown": {
+      "2023-04-10": 4,
       "2023-04-09": 45,
       "2023-04-08": 45,
       "2023-04-07": 482,
@@ -1681,8 +1682,7 @@
       "2023-01-05": 17,
       "2023-01-04": 26,
       "2023-01-03": 26,
-      "2023-01-02": 16,
-      "2023-01-01": 16
+      "2023-01-02": 16
     }
   },
   {
@@ -1700,7 +1700,7 @@
     "timeDay": 219,
     "timeWeek": 464,
     "timeMonth": 726,
-    "timeYear": 641,
+    "timeYear": 639,
     "dailyMinutesDown": {
       "2023-02-17": 15,
       "2023-01-01": 29,
