@@ -6,12 +6,12 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "86.70%",
+    "uptimeDay": "86.90%",
     "uptimeWeek": "96.89%",
     "uptimeMonth": "98.88%",
     "uptimeYear": "98.92%",
     "time": 770,
-    "timeDay": 3868,
+    "timeDay": 3876,
     "timeWeek": 3941,
     "timeMonth": 3394,
     "timeYear": 775,
@@ -165,9 +165,9 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "57.12%",
-    "uptimeWeek": "70.96%",
-    "uptimeMonth": "93.32%",
+    "uptimeDay": "58.87%",
+    "uptimeWeek": "70.80%",
+    "uptimeMonth": "93.28%",
     "uptimeYear": "99.44%",
     "time": 1174,
     "timeDay": 495,
@@ -175,13 +175,12 @@
     "timeMonth": 965,
     "timeYear": 1189,
     "dailyMinutesDown": {
-      "2023-04-15": 7,
-      "2023-04-14": 619,
+      "2023-04-14": 613,
       "2023-04-13": 483,
       "2023-04-12": 514,
       "2023-04-11": 581,
       "2023-04-10": 498,
-      "2023-04-09": 223
+      "2023-04-09": 253
     }
   },
   {
@@ -1055,7 +1054,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-15": 10,
+      "2023-04-15": 22,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
