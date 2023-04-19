@@ -56,7 +56,7 @@
     "status": "up",
     "uptime": "99.38%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.30%",
+    "uptimeWeek": "87.38%",
     "uptimeMonth": "96.33%",
     "uptimeYear": "98.90%",
     "time": 660,
@@ -163,19 +163,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "down",
+    "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "63.04%",
-    "uptimeWeek": "68.12%",
-    "uptimeMonth": "92.66%",
+    "uptimeDay": "62.64%",
+    "uptimeWeek": "68.06%",
+    "uptimeMonth": "92.65%",
     "uptimeYear": "99.39%",
     "time": 1148,
-    "timeDay": 495,
+    "timeDay": 493,
     "timeWeek": 540,
     "timeMonth": 873,
     "timeYear": 1163,
     "dailyMinutesDown": {
-      "2023-04-18": 530,
+      "2023-04-18": 536,
       "2023-04-17": 690,
       "2023-04-16": 611,
       "2023-04-15": 590,
@@ -684,8 +684,7 @@
       "2022-04-25": 421,
       "2022-04-24": 581,
       "2022-04-23": 33,
-      "2022-04-22": 80,
-      "2022-04-19": 124
+      "2022-04-22": 80
     }
   },
   {
@@ -856,10 +855,10 @@
     "url": "https://www.metaboanalyst.ca/MetaboAnalyst/",
     "icon": "https://icons.duckduckgo.com/ip3/www.metaboanalyst.ca.ico",
     "slug": "metabo-analyst",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.67%",
     "time": 449,
@@ -868,6 +867,8 @@
     "timeMonth": 471,
     "timeYear": 477,
     "dailyMinutesDown": {
+      "2023-04-19": 1,
+      "2023-04-18": 1,
       "2023-04-06": 30,
       "2023-04-01": 18,
       "2023-02-27": 20,
@@ -1054,7 +1055,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-18": 1434,
+      "2023-04-19": 1,
+      "2023-04-18": 1440,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
@@ -1417,8 +1419,7 @@
       "2022-04-23": 1440,
       "2022-04-22": 1440,
       "2022-04-21": 1440,
-      "2022-04-20": 1440,
-      "2022-04-19": 1440
+      "2022-04-20": 1440
     }
   },
   {
