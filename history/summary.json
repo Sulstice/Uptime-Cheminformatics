@@ -162,23 +162,23 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "46.05%",
-    "uptimeWeek": "69.41%",
-    "uptimeMonth": "92.96%",
-    "uptimeYear": "99.41%",
+    "uptimeDay": "45.89%",
+    "uptimeWeek": "69.55%",
+    "uptimeMonth": "92.99%",
+    "uptimeYear": "99.42%",
     "time": 1175,
     "timeDay": 3153,
     "timeWeek": 1329,
     "timeMonth": 978,
     "timeYear": 1187,
     "dailyMinutesDown": {
-      "2023-04-23": 675,
+      "2023-04-23": 677,
       "2023-04-22": 634,
       "2023-04-21": 560,
       "2023-04-20": 735,
-      "2023-04-19": 477
+      "2023-04-19": 460
     }
   },
   {
@@ -1053,7 +1053,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-23": 1237,
+      "2023-04-23": 1255,
       "2023-04-22": 1440,
       "2023-04-21": 1440,
       "2023-04-20": 1440,
@@ -1444,7 +1444,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dra4.nihs.go.jp.ico",
     "slug": "japan-exisiting-database",
     "status": "up",
-    "uptime": "99.10%",
+    "uptime": "99.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
