@@ -173,7 +173,7 @@
     "uptimeYear": "99.42%",
     "time": 1243,
     "timeDay": 1444,
-    "timeWeek": 2608,
+    "timeWeek": 2600,
     "timeMonth": 1155,
     "timeYear": 1254,
     "dailyMinutesDown": {
@@ -279,18 +279,19 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.37%",
     "time": 752,
-    "timeDay": 838,
-    "timeWeek": 773,
-    "timeMonth": 1504,
+    "timeDay": 725,
+    "timeWeek": 753,
+    "timeMonth": 1479,
     "timeYear": 769,
     "dailyMinutesDown": {
+      "2023-04-29": 2,
       "2022-12-05": 49,
       "2022-12-04": 41,
       "2022-12-03": 50,
@@ -346,8 +347,7 @@
       "2022-09-10": 52,
       "2022-09-02": 24,
       "2022-08-29": 30,
-      "2022-08-25": 257,
-      "2022-08-02": 15
+      "2022-08-25": 257
     }
   },
   {
@@ -897,17 +897,17 @@
     "slug": "adverse-drug-reaction-classification-system",
     "status": "up",
     "uptime": "98.12%",
-    "uptimeDay": "95.28%",
-    "uptimeWeek": "96.89%",
-    "uptimeMonth": "93.79%",
-    "uptimeYear": "97.64%",
+    "uptimeDay": "95.84%",
+    "uptimeWeek": "96.97%",
+    "uptimeMonth": "93.81%",
+    "uptimeYear": "97.63%",
     "time": 1694,
     "timeDay": 1444,
     "timeWeek": 1427,
     "timeMonth": 1479,
     "timeYear": 1750,
     "dailyMinutesDown": {
-      "2023-04-29": 68,
+      "2023-04-29": 60,
       "2023-04-28": 183,
       "2023-04-26": 63,
       "2023-04-18": 60,
@@ -962,7 +962,7 @@
       "2023-01-12": 17,
       "2023-01-11": 35,
       "2023-01-10": 711,
-      "2023-01-06": 41
+      "2023-01-06": 63
     }
   },
   {
@@ -1055,7 +1055,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-29": 1275,
+      "2023-04-29": 1292,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
       "2023-04-26": 1440,
@@ -1677,7 +1677,7 @@
     "slug": "look-chem",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "76.27%",
+    "uptimeDay": "77.47%",
     "uptimeWeek": "92.69%",
     "uptimeMonth": "98.32%",
     "uptimeYear": "99.76%",
