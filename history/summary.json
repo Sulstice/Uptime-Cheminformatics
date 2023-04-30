@@ -53,10 +53,10 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
-    "uptime": "99.39%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.62%",
+    "status": "down",
+    "uptime": "99.40%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.61%",
     "uptimeMonth": "96.33%",
     "uptimeYear": "98.90%",
     "time": 668,
@@ -65,6 +65,7 @@
     "timeMonth": 3459,
     "timeYear": 675,
     "dailyMinutesDown": {
+      "2023-04-30": 1,
       "2023-04-24": 38,
       "2023-04-14": 141,
       "2023-04-13": 76,
@@ -99,7 +100,7 @@
       "2022-11-18": 134,
       "2022-11-17": 171,
       "2022-11-16": 72,
-      "2022-11-15": 21
+      "2022-11-15": 5
     }
   },
   {
@@ -174,7 +175,7 @@
     "time": 1243,
     "timeDay": 1141,
     "timeWeek": 2550,
-    "timeMonth": 1155,
+    "timeMonth": 1156,
     "timeYear": 1253,
     "dailyMinutesDown": {
       "2023-04-30": 26,
@@ -1054,7 +1055,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-30": 29,
+      "2023-04-30": 88,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
@@ -1676,7 +1677,7 @@
     "slug": "look-chem",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "86.48%",
+    "uptimeDay": "90.60%",
     "uptimeWeek": "92.69%",
     "uptimeMonth": "98.32%",
     "uptimeYear": "99.76%",
