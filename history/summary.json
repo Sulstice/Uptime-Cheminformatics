@@ -169,8 +169,8 @@
     "status": "down",
     "uptime": "99.50%",
     "uptimeDay": "61.61%",
-    "uptimeWeek": "67.19%",
-    "uptimeMonth": "92.45%",
+    "uptimeWeek": "66.98%",
+    "uptimeMonth": "92.40%",
     "uptimeYear": "99.37%",
     "time": 1249,
     "timeDay": 1390,
@@ -178,7 +178,8 @@
     "timeMonth": 1238,
     "timeYear": 1261,
     "dailyMinutesDown": {
-      "2023-05-02": 551,
+      "2023-05-03": 19,
+      "2023-05-02": 553,
       "2023-05-01": 704,
       "2023-04-30": 754,
       "2023-04-29": 690,
@@ -449,7 +450,7 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
     "time": 995,
     "timeDay": 0,
@@ -533,7 +534,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bioanalysis.cau.ac.kr.ico",
     "slug": "card-pred",
     "status": "up",
-    "uptime": "88.31%",
+    "uptime": "88.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1055,7 +1056,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-02": 1439,
+      "2023-05-03": 20,
+      "2023-05-02": 1440,
       "2023-05-01": 1440,
       "2023-04-30": 1440,
       "2023-04-29": 1440,
@@ -1418,8 +1420,7 @@
       "2022-05-07": 1440,
       "2022-05-06": 1440,
       "2022-05-05": 1440,
-      "2022-05-04": 1440,
-      "2022-05-03": 1440
+      "2022-05-04": 1440
     }
   },
   {
