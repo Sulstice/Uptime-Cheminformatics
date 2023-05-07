@@ -61,7 +61,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.75%",
     "uptimeYear": "98.90%",
-    "time": 682,
+    "time": 685,
     "timeDay": 2895,
     "timeWeek": 1425,
     "timeMonth": 3086,
@@ -168,11 +168,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "59.13%",
-    "uptimeWeek": "68.29%",
-    "uptimeMonth": "92.70%",
+    "uptimeDay": "59.84%",
+    "uptimeWeek": "68.43%",
+    "uptimeMonth": "92.74%",
     "uptimeYear": "99.39%",
     "time": 1248,
     "timeDay": 1426,
@@ -180,13 +180,13 @@
     "timeMonth": 1319,
     "timeYear": 1259,
     "dailyMinutesDown": {
-      "2023-05-07": 245,
+      "2023-05-07": 248,
       "2023-05-06": 513,
       "2023-05-05": 604,
       "2023-05-04": 553,
       "2023-05-03": 517,
       "2023-05-02": 553,
-      "2023-05-01": 210
+      "2023-05-01": 193
     }
   },
   {
@@ -903,7 +903,7 @@
     "time": 1708,
     "timeDay": 1726,
     "timeWeek": 1769,
-    "timeMonth": 1534,
+    "timeMonth": 1531,
     "timeYear": 1765,
     "dailyMinutesDown": {
       "2023-05-07": 83,
@@ -1057,7 +1057,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-07": 486,
+      "2023-05-07": 499,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
       "2023-05-04": 1440,
@@ -1569,18 +1569,19 @@
     "url": "https://cactus.nci.nih.gov/chemical/structure",
     "icon": "https://icons.duckduckgo.com/ip3/cactus.nci.nih.gov.ico",
     "slug": "chemical-resolver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.12%",
-    "uptimeDay": "96.98%",
-    "uptimeWeek": "97.19%",
+    "uptimeDay": "96.97%",
+    "uptimeWeek": "97.15%",
     "uptimeMonth": "93.99%",
-    "uptimeYear": "98.87%",
+    "uptimeYear": "98.88%",
     "time": 610,
     "timeDay": 379,
     "timeWeek": 446,
     "timeMonth": 819,
     "timeYear": 621,
     "dailyMinutesDown": {
+      "2023-05-07": 4,
       "2023-05-06": 43,
       "2023-05-05": 46,
       "2023-05-04": 37,
@@ -1666,8 +1667,7 @@
       "2023-02-09": 36,
       "2023-02-08": 38,
       "2023-02-07": 45,
-      "2023-02-06": 47,
-      "2023-02-05": 42
+      "2023-02-06": 47
     }
   },
   {
