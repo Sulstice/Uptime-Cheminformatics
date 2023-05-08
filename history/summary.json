@@ -170,22 +170,22 @@
     "slug": "chem-exper",
     "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "54.14%",
-    "uptimeWeek": "69.94%",
-    "uptimeMonth": "93.08%",
-    "uptimeYear": "99.42%",
+    "uptimeDay": "54.53%",
+    "uptimeWeek": "70.11%",
+    "uptimeMonth": "93.12%",
+    "uptimeYear": "99.43%",
     "time": 1246,
-    "timeDay": 1146,
-    "timeWeek": 1216,
+    "timeDay": 1038,
+    "timeWeek": 1202,
     "timeMonth": 1332,
     "timeYear": 1257,
     "dailyMinutesDown": {
-      "2023-05-08": 440,
+      "2023-05-08": 442,
       "2023-05-07": 595,
       "2023-05-06": 513,
       "2023-05-05": 604,
       "2023-05-04": 553,
-      "2023-05-03": 324
+      "2023-05-03": 305
     }
   },
   {
@@ -967,7 +967,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www-metrabase.ch.cam.ac.uk.ico",
     "slug": "metabolism-and-transport-database",
     "status": "up",
-    "uptime": "95.90%",
+    "uptime": "95.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1051,7 +1051,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-08": 828,
+      "2023-05-08": 837,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
