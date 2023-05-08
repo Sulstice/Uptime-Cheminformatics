@@ -168,11 +168,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "59.92%",
-    "uptimeWeek": "69.78%",
-    "uptimeMonth": "93.05%",
+    "uptimeDay": "60.27%",
+    "uptimeWeek": "69.93%",
+    "uptimeMonth": "93.08%",
     "uptimeYear": "99.42%",
     "time": 1243,
     "timeDay": 1045,
@@ -180,12 +180,13 @@
     "timeMonth": 1324,
     "timeYear": 1256,
     "dailyMinutesDown": {
+      "2023-05-08": 2,
       "2023-05-07": 595,
       "2023-05-06": 513,
       "2023-05-05": 604,
       "2023-05-04": 553,
       "2023-05-03": 517,
-      "2023-05-02": 262
+      "2023-05-02": 246
     }
   },
   {
@@ -293,7 +294,7 @@
     "timeDay": 924,
     "timeWeek": 1335,
     "timeMonth": 1568,
-    "timeYear": 763,
+    "timeYear": 764,
     "dailyMinutesDown": {
       "2023-04-29": 56,
       "2022-12-05": 49,
@@ -615,7 +616,7 @@
     "uptime": "95.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.96%",
-    "uptimeMonth": "97.97%",
+    "uptimeMonth": "97.98%",
     "uptimeYear": "95.12%",
     "time": 797,
     "timeDay": 264,
@@ -895,7 +896,7 @@
     "slug": "adverse-drug-reaction-classification-system",
     "status": "up",
     "uptime": "99.03%",
-    "uptimeDay": "91.61%",
+    "uptimeDay": "92.07%",
     "uptimeWeek": "89.92%",
     "uptimeMonth": "93.53%",
     "uptimeYear": "98.75%",
@@ -1051,7 +1052,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-08": 21,
+      "2023-05-08": 28,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
