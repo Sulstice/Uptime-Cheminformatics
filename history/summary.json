@@ -13,7 +13,7 @@
     "time": 831,
     "timeDay": 0,
     "timeWeek": 3748,
-    "timeMonth": 3564,
+    "timeMonth": 3596,
     "timeYear": 838,
     "dailyMinutesDown": {
       "2023-05-07": 32,
@@ -168,24 +168,24 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "55.53%",
-    "uptimeWeek": "69.36%",
-    "uptimeMonth": "92.95%",
-    "uptimeYear": "99.41%",
+    "status": "down",
+    "uptime": "99.55%",
+    "uptimeDay": "56.23%",
+    "uptimeWeek": "69.68%",
+    "uptimeMonth": "93.02%",
+    "uptimeYear": "99.42%",
     "time": 1234,
-    "timeDay": 597,
+    "timeDay": 596,
     "timeWeek": 1040,
-    "timeMonth": 1338,
+    "timeMonth": 1339,
     "timeYear": 1249,
     "dailyMinutesDown": {
-      "2023-05-10": 376,
+      "2023-05-10": 378,
       "2023-05-09": 509,
       "2023-05-08": 679,
       "2023-05-07": 595,
       "2023-05-06": 513,
-      "2023-05-05": 413
+      "2023-05-05": 378
     }
   },
   {
@@ -367,7 +367,7 @@
     "uptimeYear": "83.47%",
     "time": 2058,
     "timeDay": 0,
-    "timeWeek": 2245,
+    "timeWeek": 2294,
     "timeMonth": 2942,
     "timeYear": 2071,
     "dailyMinutesDown": {
@@ -1049,7 +1049,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-10": 639,
+      "2023-05-10": 658,
       "2023-05-09": 1440,
       "2023-05-08": 1440,
       "2023-05-07": 1440,
