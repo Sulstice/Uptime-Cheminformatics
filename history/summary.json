@@ -64,7 +64,7 @@
     "time": 689,
     "timeDay": 287,
     "timeWeek": 1174,
-    "timeMonth": 2700,
+    "timeMonth": 2601,
     "timeYear": 695,
     "dailyMinutesDown": {
       "2023-04-30": 30,
@@ -170,22 +170,22 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "61.70%",
-    "uptimeWeek": "68.82%",
-    "uptimeMonth": "92.83%",
-    "uptimeYear": "99.40%",
-    "time": 1237,
-    "timeDay": 823,
+    "uptimeDay": "61.51%",
+    "uptimeWeek": "69.05%",
+    "uptimeMonth": "92.88%",
+    "uptimeYear": "99.41%",
+    "time": 1236,
+    "timeDay": 825,
     "timeWeek": 983,
     "timeMonth": 1353,
-    "timeYear": 1247,
+    "timeYear": 1246,
     "dailyMinutesDown": {
-      "2023-05-11": 326,
+      "2023-05-11": 333,
       "2023-05-10": 680,
       "2023-05-09": 509,
       "2023-05-08": 679,
       "2023-05-07": 595,
-      "2023-05-06": 353
+      "2023-05-06": 322
     }
   },
   {
@@ -477,7 +477,7 @@
     "timeDay": 877,
     "timeWeek": 776,
     "timeMonth": 1251,
-    "timeYear": 1245,
+    "timeYear": 1239,
     "dailyMinutesDown": {
       "2023-04-26": 18,
       "2023-04-05": 45,
@@ -1048,7 +1048,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-11": 793,
+      "2023-05-11": 842,
       "2023-05-10": 1440,
       "2023-05-09": 1440,
       "2023-05-08": 1440,
