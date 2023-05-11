@@ -170,23 +170,23 @@
     "slug": "chem-exper",
     "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "55.61%",
-    "uptimeWeek": "68.97%",
-    "uptimeMonth": "92.86%",
-    "uptimeYear": "99.40%",
+    "uptimeDay": "55.60%",
+    "uptimeWeek": "69.22%",
+    "uptimeMonth": "92.92%",
+    "uptimeYear": "99.41%",
     "time": 1237,
-    "timeDay": 1040,
-    "timeWeek": 1061,
-    "timeMonth": 1351,
+    "timeDay": 1038,
+    "timeWeek": 1059,
+    "timeMonth": 1352,
     "timeYear": 1249,
     "dailyMinutesDown": {
-      "2023-05-11": 110,
+      "2023-05-11": 121,
       "2023-05-10": 680,
       "2023-05-09": 509,
       "2023-05-08": 679,
       "2023-05-07": 595,
       "2023-05-06": 513,
-      "2023-05-05": 39
+      "2023-05-05": 4
     }
   },
   {
@@ -1050,7 +1050,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-11": 246,
+      "2023-05-11": 277,
       "2023-05-10": 1440,
       "2023-05-09": 1440,
       "2023-05-08": 1440,
