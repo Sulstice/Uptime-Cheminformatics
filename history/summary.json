@@ -168,24 +168,24 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "56.31%",
-    "uptimeWeek": "68.74%",
-    "uptimeMonth": "92.81%",
-    "uptimeYear": "99.40%",
+    "uptimeDay": "57.00%",
+    "uptimeWeek": "69.04%",
+    "uptimeMonth": "92.87%",
+    "uptimeYear": "99.41%",
     "time": 1237,
     "timeDay": 1048,
     "timeWeek": 1020,
     "timeMonth": 1355,
     "timeYear": 1248,
     "dailyMinutesDown": {
-      "2023-05-11": 248,
+      "2023-05-11": 250,
       "2023-05-10": 680,
       "2023-05-09": 509,
       "2023-05-08": 679,
       "2023-05-07": 595,
-      "2023-05-06": 439
+      "2023-05-06": 407
     }
   },
   {
@@ -360,7 +360,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sdbs.db.aist.go.jp.ico",
     "slug": "spectral-database-for-organic-compounds",
     "status": "up",
-    "uptime": "87.19%",
+    "uptime": "87.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
@@ -1048,7 +1048,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-11": 499,
+      "2023-05-11": 511,
       "2023-05-10": 1440,
       "2023-05-09": 1440,
       "2023-05-08": 1440,
@@ -1572,7 +1572,7 @@
     "timeMonth": 827,
     "timeYear": 621,
     "dailyMinutesDown": {
-      "2023-05-11": 3,
+      "2023-05-11": 16,
       "2023-05-10": 36,
       "2023-05-09": 45,
       "2023-05-08": 47,
