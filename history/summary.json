@@ -59,7 +59,7 @@
     "uptime": "99.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.91%",
+    "uptimeMonth": "97.02%",
     "uptimeYear": "98.90%",
     "time": 689,
     "timeDay": 475,
@@ -168,19 +168,20 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "62.88%",
-    "uptimeWeek": "69.01%",
-    "uptimeMonth": "92.87%",
+    "uptimeDay": "64.14%",
+    "uptimeWeek": "69.07%",
+    "uptimeMonth": "92.88%",
     "uptimeYear": "99.41%",
     "time": 1230,
-    "timeDay": 686,
-    "timeWeek": 941,
+    "timeDay": 682,
+    "timeWeek": 943,
     "timeMonth": 1353,
     "timeYear": 1244,
     "dailyMinutesDown": {
-      "2023-05-11": 537,
+      "2023-05-12": 2,
+      "2023-05-11": 529,
       "2023-05-10": 680,
       "2023-05-09": 509,
       "2023-05-08": 679,
@@ -502,8 +503,7 @@
       "2022-06-01": 228,
       "2022-05-31": 22,
       "2022-05-30": 183,
-      "2022-05-29": 24,
-      "2022-05-12": 27
+      "2022-05-29": 24
     }
   },
   {
@@ -764,7 +764,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/xundrug.cn.ico",
     "slug": "drug-safety-analysis-system",
     "status": "up",
-    "uptime": "99.32%",
+    "uptime": "99.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
@@ -893,7 +893,7 @@
     "slug": "adverse-drug-reaction-classification-system",
     "status": "up",
     "uptime": "99.03%",
-    "uptimeDay": "79.66%",
+    "uptimeDay": "82.94%",
     "uptimeWeek": "87.41%",
     "uptimeMonth": "93.92%",
     "uptimeYear": "98.75%",
@@ -1046,7 +1046,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-11": 1430,
+      "2023-05-12": 37,
+      "2023-05-11": 1440,
       "2023-05-10": 1440,
       "2023-05-09": 1440,
       "2023-05-08": 1440,
@@ -1409,8 +1410,7 @@
       "2022-05-16": 1440,
       "2022-05-15": 1440,
       "2022-05-14": 1440,
-      "2022-05-13": 1440,
-      "2022-05-12": 1440
+      "2022-05-13": 1440
     }
   },
   {
