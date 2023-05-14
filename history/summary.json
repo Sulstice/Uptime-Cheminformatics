@@ -8,12 +8,12 @@
     "uptime": "99.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.33%",
+    "uptimeMonth": "99.36%",
     "uptimeYear": "98.92%",
     "time": 842,
     "timeDay": 489,
     "timeWeek": 3648,
-    "timeMonth": 3313,
+    "timeMonth": 3301,
     "timeYear": 851,
     "dailyMinutesDown": {
       "2023-05-07": 32,
@@ -170,7 +170,7 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "51.59%",
+    "uptimeDay": "54.29%",
     "uptimeWeek": "68.16%",
     "uptimeMonth": "92.67%",
     "uptimeYear": "99.39%",
@@ -718,10 +718,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/tripod.nih.gov.ico",
     "slug": "tox21",
     "status": "down",
-    "uptime": "97.15%",
+    "uptime": "97.14%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "82.41%",
-    "uptimeMonth": "95.90%",
+    "uptimeWeek": "82.02%",
+    "uptimeMonth": "95.81%",
     "uptimeYear": "96.87%",
     "time": 304,
     "timeDay": 71,
@@ -729,7 +729,8 @@
     "timeMonth": 278,
     "timeYear": 294,
     "dailyMinutesDown": {
-      "2023-05-13": 1423,
+      "2023-05-14": 22,
+      "2023-05-13": 1440,
       "2023-05-12": 350,
       "2023-04-24": 25,
       "2023-04-23": 1,
@@ -882,8 +883,7 @@
       "2022-09-16": 43,
       "2022-09-15": 132,
       "2022-09-05": 24,
-      "2022-08-24": 107,
-      "2022-05-14": 823
+      "2022-08-24": 107
     }
   },
   {
@@ -894,7 +894,7 @@
     "status": "up",
     "uptime": "99.04%",
     "uptimeDay": "78.09%",
-    "uptimeWeek": "86.32%",
+    "uptimeWeek": "86.71%",
     "uptimeMonth": "92.98%",
     "uptimeYear": "98.75%",
     "time": 1675,
@@ -1043,7 +1043,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-13": 1423,
+      "2023-05-14": 22,
+      "2023-05-13": 1440,
       "2023-05-12": 1440,
       "2023-05-11": 1440,
       "2023-05-10": 1440,
@@ -1406,8 +1407,7 @@
       "2022-05-18": 1440,
       "2022-05-17": 1440,
       "2022-05-16": 1440,
-      "2022-05-15": 1440,
-      "2022-05-14": 1440
+      "2022-05-15": 1440
     }
   },
   {
