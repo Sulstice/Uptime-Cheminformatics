@@ -168,24 +168,25 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
-    "uptime": "99.52%",
-    "uptimeDay": "56.89%",
-    "uptimeWeek": "67.61%",
-    "uptimeMonth": "92.55%",
+    "status": "down",
+    "uptime": "99.53%",
+    "uptimeDay": "57.88%",
+    "uptimeWeek": "67.86%",
+    "uptimeMonth": "92.60%",
     "uptimeYear": "99.38%",
     "time": 1237,
     "timeDay": 2389,
     "timeWeek": 1177,
-    "timeMonth": 1483,
+    "timeMonth": 1484,
     "timeYear": 1253,
     "dailyMinutesDown": {
+      "2023-05-16": 2,
       "2023-05-15": 616,
       "2023-05-14": 674,
       "2023-05-13": 678,
       "2023-05-12": 709,
       "2023-05-11": 529,
-      "2023-05-10": 58
+      "2023-05-10": 31
     }
   },
   {
@@ -721,8 +722,8 @@
     "status": "down",
     "uptime": "96.74%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "53.70%",
-    "uptimeMonth": "89.29%",
+    "uptimeWeek": "53.54%",
+    "uptimeMonth": "89.25%",
     "uptimeYear": "96.32%",
     "time": 304,
     "timeDay": 61,
@@ -730,7 +731,8 @@
     "timeMonth": 266,
     "timeYear": 292,
     "dailyMinutesDown": {
-      "2023-05-15": 1437,
+      "2023-05-16": 13,
+      "2023-05-15": 1440,
       "2023-05-14": 1440,
       "2023-05-13": 1440,
       "2023-05-12": 350,
@@ -1047,7 +1049,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-15": 1437,
+      "2023-05-16": 14,
+      "2023-05-15": 1440,
       "2023-05-14": 1440,
       "2023-05-13": 1440,
       "2023-05-12": 1440,
@@ -1410,8 +1413,7 @@
       "2022-05-20": 1440,
       "2022-05-19": 1440,
       "2022-05-18": 1440,
-      "2022-05-17": 1440,
-      "2022-05-16": 1440
+      "2022-05-17": 1440
     }
   },
   {
@@ -1669,12 +1671,12 @@
     "status": "up",
     "uptime": "99.80%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.45%",
+    "uptimeWeek": "99.56%",
     "uptimeMonth": "98.17%",
     "uptimeYear": "99.76%",
     "time": 894,
     "timeDay": 570,
-    "timeWeek": 818,
+    "timeWeek": 843,
     "timeMonth": 2350,
     "timeYear": 895,
     "dailyMinutesDown": {
