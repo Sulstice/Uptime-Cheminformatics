@@ -6,17 +6,17 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "25.32%",
-    "uptimeWeek": "89.33%",
-    "uptimeMonth": "97.34%",
-    "uptimeYear": "98.73%",
+    "uptimeDay": "25.86%",
+    "uptimeWeek": "89.41%",
+    "uptimeMonth": "97.36%",
+    "uptimeYear": "98.72%",
     "time": 853,
     "timeDay": 403,
     "timeWeek": 3355,
     "timeMonth": 3041,
     "timeYear": 861,
     "dailyMinutesDown": {
-      "2023-05-17": 1076,
+      "2023-05-17": 1068,
       "2023-05-07": 32,
       "2023-05-06": 28,
       "2023-04-24": 30,
@@ -48,7 +48,7 @@
       "2022-11-20": 107,
       "2022-11-19": 78,
       "2022-11-18": 137,
-      "2022-11-17": 48
+      "2022-11-17": 70
     }
   },
   {
@@ -58,9 +58,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "25.39%",
-    "uptimeWeek": "89.34%",
-    "uptimeMonth": "97.39%",
+    "uptimeDay": "25.89%",
+    "uptimeWeek": "89.41%",
+    "uptimeMonth": "97.41%",
     "uptimeYear": "98.70%",
     "time": 696,
     "timeDay": 454,
@@ -68,7 +68,7 @@
     "timeMonth": 1248,
     "timeYear": 696,
     "dailyMinutesDown": {
-      "2023-05-17": 1074,
+      "2023-05-17": 1067,
       "2023-04-30": 30,
       "2023-04-24": 38,
       "2023-04-14": 141,
@@ -103,7 +103,7 @@
       "2022-11-19": 76,
       "2022-11-18": 134,
       "2022-11-17": 171,
-      "2022-11-16": 40
+      "2022-11-16": 59
     }
   },
   {
@@ -169,11 +169,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "54.96%",
-    "uptimeWeek": "70.13%",
-    "uptimeMonth": "93.13%",
+    "uptimeDay": "56.02%",
+    "uptimeWeek": "70.18%",
+    "uptimeMonth": "93.14%",
     "uptimeYear": "99.43%",
     "time": 1262,
     "timeDay": 2751,
@@ -181,7 +181,7 @@
     "timeMonth": 1641,
     "timeYear": 1276,
     "dailyMinutesDown": {
-      "2023-05-17": 555,
+      "2023-05-17": 550,
       "2023-05-16": 700,
       "2023-05-15": 616,
       "2023-05-14": 674,
@@ -1047,7 +1047,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-17": 1258,
+      "2023-05-17": 1269,
       "2023-05-16": 1440,
       "2023-05-15": 1440,
       "2023-05-14": 1440,
