@@ -6,7 +6,7 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "50.24%",
+    "uptimeDay": "50.99%",
     "uptimeWeek": "88.98%",
     "uptimeMonth": "97.26%",
     "uptimeYear": "98.72%",
@@ -59,7 +59,7 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "50.34%",
+    "uptimeDay": "51.10%",
     "uptimeWeek": "88.99%",
     "uptimeMonth": "97.31%",
     "uptimeYear": "98.70%",
@@ -171,11 +171,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "45.88%",
-    "uptimeWeek": "68.46%",
-    "uptimeMonth": "92.74%",
+    "uptimeDay": "45.73%",
+    "uptimeWeek": "68.60%",
+    "uptimeMonth": "92.77%",
     "uptimeYear": "99.40%",
     "time": 1269,
     "timeDay": 2845,
@@ -183,12 +183,12 @@
     "timeMonth": 1677,
     "timeYear": 1282,
     "dailyMinutesDown": {
-      "2023-05-18": 258,
+      "2023-05-18": 260,
       "2023-05-17": 686,
       "2023-05-16": 700,
       "2023-05-15": 616,
       "2023-05-14": 674,
-      "2023-05-13": 244
+      "2023-05-13": 228
     }
   },
   {
@@ -1051,7 +1051,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-18": 425,
+      "2023-05-18": 436,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
       "2023-05-15": 1440,
