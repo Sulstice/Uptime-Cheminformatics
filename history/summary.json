@@ -6,7 +6,7 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "89.87%",
+    "uptimeDay": "91.09%",
     "uptimeWeek": "88.30%",
     "uptimeMonth": "97.10%",
     "uptimeYear": "98.73%",
@@ -58,9 +58,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "89.52%",
-    "uptimeWeek": "88.25%",
-    "uptimeMonth": "97.14%",
+    "uptimeDay": "91.31%",
+    "uptimeWeek": "88.33%",
+    "uptimeMonth": "97.16%",
     "uptimeYear": "98.71%",
     "time": 698,
     "timeDay": 999,
@@ -68,7 +68,7 @@
     "timeMonth": 1212,
     "timeYear": 699,
     "dailyMinutesDown": {
-      "2023-05-18": 91,
+      "2023-05-18": 83,
       "2023-05-17": 1093,
       "2023-04-30": 30,
       "2023-04-24": 38,
@@ -103,7 +103,7 @@
       "2022-11-20": 104,
       "2022-11-19": 76,
       "2022-11-18": 134,
-      "2022-11-17": 69
+      "2022-11-17": 92
     }
   },
   {
@@ -169,23 +169,23 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "47.39%",
-    "uptimeWeek": "69.20%",
-    "uptimeMonth": "92.91%",
+    "uptimeDay": "47.26%",
+    "uptimeWeek": "69.43%",
+    "uptimeMonth": "92.96%",
     "uptimeYear": "99.41%",
     "time": 1270,
-    "timeDay": 2682,
+    "timeDay": 2741,
     "timeWeek": 2044,
-    "timeMonth": 1708,
+    "timeMonth": 1709,
     "timeYear": 1287,
     "dailyMinutesDown": {
-      "2023-05-18": 555,
+      "2023-05-18": 557,
       "2023-05-17": 686,
       "2023-05-16": 700,
       "2023-05-15": 616,
-      "2023-05-14": 548
+      "2023-05-14": 523
     }
   },
   {
@@ -896,7 +896,7 @@
     "status": "up",
     "uptime": "99.05%",
     "uptimeDay": "98.45%",
-    "uptimeWeek": "86.21%",
+    "uptimeWeek": "86.40%",
     "uptimeMonth": "92.40%",
     "uptimeYear": "98.76%",
     "time": 1680,
@@ -1048,7 +1048,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-18": 1063,
+      "2023-05-18": 1082,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
       "2023-05-15": 1440,
