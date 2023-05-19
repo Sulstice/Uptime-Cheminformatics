@@ -4,10 +4,10 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "94.12%",
-    "uptimeWeek": "88.30%",
+    "uptimeDay": "93.96%",
+    "uptimeWeek": "88.28%",
     "uptimeMonth": "97.10%",
     "uptimeYear": "98.73%",
     "time": 860,
@@ -16,6 +16,7 @@
     "timeMonth": 2698,
     "timeYear": 869,
     "dailyMinutesDown": {
+      "2023-05-19": 2,
       "2023-05-18": 85,
       "2023-05-17": 1095,
       "2023-05-07": 32,
@@ -48,7 +49,7 @@
       "2022-11-21": 86,
       "2022-11-20": 107,
       "2022-11-19": 78,
-      "2022-11-18": 73
+      "2022-11-18": 56
     }
   },
   {
@@ -56,11 +57,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "94.25%",
-    "uptimeWeek": "88.33%",
-    "uptimeMonth": "97.16%",
+    "uptimeDay": "94.10%",
+    "uptimeWeek": "88.31%",
+    "uptimeMonth": "97.15%",
     "uptimeYear": "98.71%",
     "time": 702,
     "timeDay": 1976,
@@ -68,6 +69,7 @@
     "timeMonth": 1485,
     "timeYear": 705,
     "dailyMinutesDown": {
+      "2023-05-19": 2,
       "2023-05-18": 83,
       "2023-05-17": 1093,
       "2023-04-30": 30,
@@ -103,7 +105,7 @@
       "2022-11-20": 104,
       "2022-11-19": 76,
       "2022-11-18": 134,
-      "2022-11-17": 92
+      "2022-11-17": 69
     }
   },
   {
@@ -112,7 +114,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pubchem.ncbi.nlm.nih.gov.ico",
     "slug": "pub-chem",
     "status": "up",
-    "uptime": "97.68%",
+    "uptime": "97.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -172,16 +174,17 @@
     "status": "down",
     "uptime": "99.56%",
     "uptimeDay": "53.39%",
-    "uptimeWeek": "69.87%",
-    "uptimeMonth": "93.07%",
+    "uptimeWeek": "69.58%",
+    "uptimeMonth": "93.00%",
     "uptimeYear": "99.42%",
     "time": 1274,
     "timeDay": 2644,
-    "timeWeek": 2121,
-    "timeMonth": 1728,
+    "timeWeek": 2127,
+    "timeMonth": 1731,
     "timeYear": 1289,
     "dailyMinutesDown": {
-      "2023-05-18": 652,
+      "2023-05-19": 8,
+      "2023-05-18": 673,
       "2023-05-17": 686,
       "2023-05-16": 700,
       "2023-05-15": 616,
@@ -531,7 +534,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bioanalysis.cau.ac.kr.ico",
     "slug": "card-pred",
     "status": "up",
-    "uptime": "88.70%",
+    "uptime": "88.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -861,7 +864,7 @@
     "uptime": "99.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.86%",
     "time": 455,
     "timeDay": 282,
@@ -1001,11 +1004,11 @@
     "url": "https://cfpub.epa.gov/ecotox/",
     "icon": "https://icons.duckduckgo.com/ip3/cfpub.epa.gov.ico",
     "slug": "ecology-toxicity",
-    "status": "up",
+    "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.78%",
     "time": 538,
     "timeDay": 241,
@@ -1013,6 +1016,7 @@
     "timeMonth": 429,
     "timeYear": 505,
     "dailyMinutesDown": {
+      "2023-05-19": 4,
       "2023-03-16": 17,
       "2023-02-22": 55,
       "2023-02-14": 31,
@@ -1047,7 +1051,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-18": 1421,
+      "2023-05-19": 10,
+      "2023-05-18": 1440,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
       "2023-05-15": 1440,
@@ -1410,8 +1415,7 @@
       "2022-05-23": 1440,
       "2022-05-22": 1440,
       "2022-05-21": 1440,
-      "2022-05-20": 1440,
-      "2022-05-19": 1440
+      "2022-05-20": 1440
     }
   },
   {
