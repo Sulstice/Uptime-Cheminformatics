@@ -169,23 +169,23 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "59.14%",
-    "uptimeWeek": "70.16%",
-    "uptimeMonth": "93.13%",
+    "uptimeDay": "59.67%",
+    "uptimeWeek": "70.30%",
+    "uptimeMonth": "93.17%",
     "uptimeYear": "99.43%",
     "time": 1291,
-    "timeDay": 2049,
+    "timeDay": 1997,
     "timeWeek": 2479,
     "timeMonth": 1842,
     "timeYear": 1304,
     "dailyMinutesDown": {
-      "2023-05-20": 517,
+      "2023-05-20": 519,
       "2023-05-19": 548,
       "2023-05-18": 673,
       "2023-05-17": 686,
-      "2023-05-16": 586
+      "2023-05-16": 570
     }
   },
   {
@@ -722,7 +722,7 @@
     "status": "up",
     "uptime": "96.60%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "56.92%",
+    "uptimeWeek": "57.02%",
     "uptimeMonth": "86.63%",
     "uptimeYear": "96.11%",
     "time": 305,
@@ -896,18 +896,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
     "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "94.58%",
-    "uptimeWeek": "91.21%",
-    "uptimeMonth": "92.06%",
-    "uptimeYear": "98.77%",
+    "uptime": "99.06%",
+    "uptimeDay": "95.17%",
+    "uptimeWeek": "91.30%",
+    "uptimeMonth": "92.08%",
+    "uptimeYear": "98.76%",
     "time": 1684,
     "timeDay": 1476,
     "timeWeek": 1484,
     "timeMonth": 1503,
     "timeYear": 1683,
     "dailyMinutesDown": {
-      "2023-05-20": 79,
+      "2023-05-20": 70,
       "2023-05-19": 67,
       "2023-05-18": 87,
       "2023-05-17": 24,
@@ -954,7 +954,8 @@
       "2023-03-21": 65,
       "2023-03-20": 63,
       "2023-03-19": 55,
-      "2023-03-18": 24
+      "2023-03-18": 24,
+      "2023-03-17": 54
     }
   },
   {
@@ -1048,7 +1049,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-20": 1137,
+      "2023-05-20": 1147,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
