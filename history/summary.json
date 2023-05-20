@@ -6,17 +6,17 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "94.05%",
-    "uptimeWeek": "86.52%",
-    "uptimeMonth": "96.69%",
+    "uptimeDay": "94.69%",
+    "uptimeWeek": "86.61%",
+    "uptimeMonth": "96.71%",
     "uptimeYear": "98.75%",
     "time": 899,
-    "timeDay": 4087,
+    "timeDay": 4029,
     "timeWeek": 2962,
     "timeMonth": 3094,
-    "timeYear": 907,
+    "timeYear": 905,
     "dailyMinutesDown": {
-      "2023-05-20": 70,
+      "2023-05-20": 61,
       "2023-05-19": 110,
       "2023-05-18": 85,
       "2023-05-17": 1095,
@@ -47,7 +47,7 @@
       "2022-11-24": 69,
       "2022-11-23": 111,
       "2022-11-22": 223,
-      "2022-11-21": 61
+      "2022-11-21": 86
     }
   },
   {
@@ -57,17 +57,17 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "95.30%",
-    "uptimeWeek": "86.93%",
-    "uptimeMonth": "96.84%",
-    "uptimeYear": "98.72%",
+    "uptimeDay": "95.89%",
+    "uptimeWeek": "87.02%",
+    "uptimeMonth": "96.86%",
+    "uptimeYear": "98.71%",
     "time": 736,
     "timeDay": 3461,
     "timeWeek": 2582,
     "timeMonth": 2298,
-    "timeYear": 741,
+    "timeYear": 740,
     "dailyMinutesDown": {
-      "2023-05-20": 67,
+      "2023-05-20": 59,
       "2023-05-19": 73,
       "2023-05-18": 83,
       "2023-05-17": 1093,
@@ -103,7 +103,7 @@
       "2022-11-21": 68,
       "2022-11-20": 104,
       "2022-11-19": 76,
-      "2022-11-18": 15
+      "2022-11-18": 54
     }
   },
   {
@@ -169,23 +169,23 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "58.19%",
-    "uptimeWeek": "70.20%",
-    "uptimeMonth": "93.14%",
+    "uptimeDay": "58.06%",
+    "uptimeWeek": "70.35%",
+    "uptimeMonth": "93.18%",
     "uptimeYear": "99.43%",
     "time": 1291,
-    "timeDay": 2059,
-    "timeWeek": 2487,
+    "timeDay": 1987,
+    "timeWeek": 2494,
     "timeMonth": 1846,
     "timeYear": 1304,
     "dailyMinutesDown": {
-      "2023-05-20": 558,
+      "2023-05-20": 560,
       "2023-05-19": 548,
       "2023-05-18": 673,
       "2023-05-17": 686,
-      "2023-05-16": 541
+      "2023-05-16": 525
     }
   },
   {
@@ -722,7 +722,7 @@
     "status": "up",
     "uptime": "96.60%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "58.25%",
+    "uptimeWeek": "58.44%",
     "uptimeMonth": "86.63%",
     "uptimeYear": "96.11%",
     "time": 305,
@@ -1049,7 +1049,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-20": 1271,
+      "2023-05-20": 1290,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
