@@ -4,19 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "86.63%",
-    "uptimeWeek": "93.26%",
+    "uptimeDay": "86.55%",
+    "uptimeWeek": "93.25%",
     "uptimeMonth": "95.62%",
     "uptimeYear": "98.75%",
-    "time": 939,
+    "time": 940,
     "timeDay": 664,
     "timeWeek": 2675,
     "timeMonth": 2716,
     "timeYear": 943,
     "dailyMinutesDown": {
-      "2023-05-25": 191,
+      "2023-05-25": 192,
       "2023-05-24": 16,
       "2023-05-23": 60,
       "2023-05-22": 151,
@@ -48,7 +48,7 @@
       "2022-11-28": 86,
       "2022-11-27": 121,
       "2022-11-26": 33,
-      "2022-11-25": 64
+      "2022-11-25": 48
     }
   },
   {
@@ -56,10 +56,10 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "86.89%",
-    "uptimeWeek": "93.81%",
+    "uptimeDay": "86.80%",
+    "uptimeWeek": "93.80%",
     "uptimeMonth": "95.82%",
     "uptimeYear": "98.73%",
     "time": 795,
@@ -68,7 +68,7 @@
     "timeMonth": 2590,
     "timeYear": 802,
     "dailyMinutesDown": {
-      "2023-05-25": 189,
+      "2023-05-25": 190,
       "2023-05-24": 16,
       "2023-05-23": 45,
       "2023-05-22": 138,
@@ -104,7 +104,7 @@
       "2022-11-26": 33,
       "2022-11-25": 102,
       "2022-11-24": 68,
-      "2022-11-23": 45
+      "2022-11-23": 28
     }
   },
   {
@@ -179,7 +179,7 @@
     "time": 1310,
     "timeDay": 1560,
     "timeWeek": 2013,
-    "timeMonth": 1709,
+    "timeMonth": 1707,
     "timeYear": 1325,
     "dailyMinutesDown": {
       "2023-05-25": 554,
@@ -1050,7 +1050,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-25": 1158,
+      "2023-05-25": 1168,
       "2023-05-24": 1440,
       "2023-05-23": 1440,
       "2023-05-22": 1440,
