@@ -6,9 +6,9 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "92.37%",
-    "uptimeWeek": "93.71%",
-    "uptimeMonth": "95.60%",
+    "uptimeDay": "93.11%",
+    "uptimeWeek": "93.82%",
+    "uptimeMonth": "95.62%",
     "uptimeYear": "98.75%",
     "time": 941,
     "timeDay": 1299,
@@ -16,7 +16,6 @@
     "timeMonth": 2677,
     "timeYear": 943,
     "dailyMinutesDown": {
-      "2023-05-26": 11,
       "2023-05-25": 191,
       "2023-05-24": 16,
       "2023-05-23": 60,
@@ -49,7 +48,7 @@
       "2022-11-28": 86,
       "2022-11-27": 121,
       "2022-11-26": 33,
-      "2022-11-25": 48
+      "2022-11-25": 64
     }
   },
   {
@@ -59,17 +58,16 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "92.56%",
-    "uptimeWeek": "94.06%",
-    "uptimeMonth": "95.80%",
+    "uptimeDay": "93.27%",
+    "uptimeWeek": "94.17%",
+    "uptimeMonth": "95.82%",
     "uptimeYear": "98.73%",
     "time": 807,
     "timeDay": 3732,
-    "timeWeek": 3080,
+    "timeWeek": 3071,
     "timeMonth": 2720,
     "timeYear": 814,
     "dailyMinutesDown": {
-      "2023-05-26": 10,
       "2023-05-25": 189,
       "2023-05-24": 16,
       "2023-05-23": 45,
@@ -106,7 +104,7 @@
       "2022-11-26": 33,
       "2022-11-25": 102,
       "2022-11-24": 68,
-      "2022-11-23": 28
+      "2022-11-23": 45
     }
   },
   {
@@ -172,24 +170,24 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "55.65%",
-    "uptimeWeek": "69.18%",
-    "uptimeMonth": "92.91%",
+    "uptimeDay": "55.51%",
+    "uptimeWeek": "69.33%",
+    "uptimeMonth": "92.94%",
     "uptimeYear": "99.41%",
     "time": 1310,
-    "timeDay": 1159,
+    "timeDay": 1061,
     "timeWeek": 1836,
     "timeMonth": 1663,
     "timeYear": 1323,
     "dailyMinutesDown": {
-      "2023-05-26": 302,
+      "2023-05-26": 304,
       "2023-05-25": 627,
       "2023-05-24": 721,
       "2023-05-23": 567,
       "2023-05-22": 633,
-      "2023-05-21": 254
+      "2023-05-21": 236
     }
   },
   {
@@ -970,7 +968,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www-metrabase.ch.cam.ac.uk.ico",
     "slug": "metabolism-and-transport-database",
     "status": "up",
-    "uptime": "96.05%",
+    "uptime": "96.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1054,7 +1052,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-26": 558,
+      "2023-05-26": 568,
       "2023-05-25": 1440,
       "2023-05-24": 1440,
       "2023-05-23": 1440,
