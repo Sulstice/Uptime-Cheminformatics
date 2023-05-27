@@ -6,17 +6,17 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "96.23%",
-    "uptimeWeek": "94.15%",
-    "uptimeMonth": "95.50%",
-    "uptimeYear": "98.76%",
+    "uptimeDay": "96.77%",
+    "uptimeWeek": "94.22%",
+    "uptimeMonth": "95.52%",
+    "uptimeYear": "98.75%",
     "time": 940,
     "timeDay": 408,
     "timeWeek": 2062,
     "timeMonth": 2588,
     "timeYear": 943,
     "dailyMinutesDown": {
-      "2023-05-27": 30,
+      "2023-05-27": 22,
       "2023-05-26": 25,
       "2023-05-25": 191,
       "2023-05-24": 16,
@@ -48,7 +48,8 @@
       "2022-11-30": 169,
       "2022-11-29": 188,
       "2022-11-28": 86,
-      "2022-11-27": 121
+      "2022-11-27": 121,
+      "2022-11-26": 33
     }
   },
   {
@@ -58,9 +59,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "96.33%",
-    "uptimeWeek": "94.33%",
-    "uptimeMonth": "95.70%",
+    "uptimeDay": "96.84%",
+    "uptimeWeek": "94.41%",
+    "uptimeMonth": "95.72%",
     "uptimeYear": "98.73%",
     "time": 810,
     "timeDay": 406,
@@ -68,7 +69,7 @@
     "timeMonth": 2625,
     "timeYear": 814,
     "dailyMinutesDown": {
-      "2023-05-27": 28,
+      "2023-05-27": 21,
       "2023-05-26": 24,
       "2023-05-25": 189,
       "2023-05-24": 16,
@@ -105,7 +106,7 @@
       "2022-11-27": 118,
       "2022-11-26": 33,
       "2022-11-25": 102,
-      "2022-11-24": 40
+      "2022-11-24": 68
     }
   },
   {
@@ -171,24 +172,24 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "62.63%",
-    "uptimeWeek": "69.09%",
-    "uptimeMonth": "92.89%",
-    "uptimeYear": "99.41%",
+    "uptimeDay": "62.40%",
+    "uptimeWeek": "69.54%",
+    "uptimeMonth": "92.99%",
+    "uptimeYear": "99.42%",
     "time": 1308,
     "timeDay": 1165,
     "timeWeek": 1733,
     "timeMonth": 1636,
     "timeYear": 1323,
     "dailyMinutesDown": {
-      "2023-05-27": 48,
+      "2023-05-27": 51,
       "2023-05-26": 657,
       "2023-05-25": 627,
       "2023-05-24": 721,
       "2023-05-23": 567,
-      "2023-05-22": 494
+      "2023-05-22": 445
     }
   },
   {
@@ -364,11 +365,11 @@
     "url": "https://sdbs.db.aist.go.jp/sdbs/cgi-bin/cre_index.cgi?lang=eng",
     "icon": "https://icons.duckduckgo.com/ip3/sdbs.db.aist.go.jp.ico",
     "slug": "spectral-database-for-organic-compounds",
-    "status": "up",
+    "status": "down",
     "uptime": "87.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "83.47%",
     "time": 2056,
     "timeDay": 2695,
@@ -376,6 +377,7 @@
     "timeMonth": 2087,
     "timeYear": 2081,
     "dailyMinutesDown": {
+      "2023-05-27": 3,
       "2023-04-21": 23,
       "2023-04-20": 2,
       "2023-04-17": 20,
@@ -1053,7 +1055,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-27": 230,
+      "2023-05-27": 241,
       "2023-05-26": 1440,
       "2023-05-25": 1440,
       "2023-05-24": 1440,
@@ -1478,7 +1480,7 @@
     "slug": "national-pesticide-center",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "93.56%",
+    "uptimeDay": "94.34%",
     "uptimeWeek": "97.63%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.68%",
