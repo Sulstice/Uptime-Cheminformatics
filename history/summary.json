@@ -171,11 +171,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "64.46%",
-    "uptimeWeek": "69.05%",
-    "uptimeMonth": "92.88%",
+    "uptimeDay": "64.71%",
+    "uptimeWeek": "69.21%",
+    "uptimeMonth": "92.92%",
     "uptimeYear": "99.41%",
     "time": 1307,
     "timeDay": 1026,
@@ -183,12 +183,12 @@
     "timeMonth": 1606,
     "timeYear": 1320,
     "dailyMinutesDown": {
-      "2023-05-27": 343,
+      "2023-05-27": 345,
       "2023-05-26": 657,
       "2023-05-25": 627,
       "2023-05-24": 721,
       "2023-05-23": 567,
-      "2023-05-22": 204
+      "2023-05-22": 185
     }
   },
   {
@@ -899,11 +899,11 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.06%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.97%",
-    "uptimeMonth": "91.75%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "97.93%",
+    "uptimeMonth": "91.74%",
     "uptimeYear": "98.74%",
     "time": 1664,
     "timeDay": 1629,
@@ -911,6 +911,7 @@
     "timeMonth": 1510,
     "timeYear": 1680,
     "dailyMinutesDown": {
+      "2023-05-27": 4,
       "2023-05-25": 110,
       "2023-05-24": 71,
       "2023-05-22": 24,
@@ -960,7 +961,7 @@
       "2023-03-22": 54,
       "2023-03-21": 65,
       "2023-03-20": 63,
-      "2023-03-19": 55
+      "2023-03-19": 39
     }
   },
   {
@@ -1053,7 +1054,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-27": 987,
+      "2023-05-27": 999,
       "2023-05-26": 1440,
       "2023-05-25": 1440,
       "2023-05-24": 1440,
