@@ -175,22 +175,22 @@
     "slug": "chem-exper",
     "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "64.14%",
-    "uptimeWeek": "71.09%",
-    "uptimeMonth": "93.35%",
+    "uptimeDay": "63.44%",
+    "uptimeWeek": "71.23%",
+    "uptimeMonth": "93.38%",
     "uptimeYear": "99.45%",
     "time": 1300,
-    "timeDay": 812,
-    "timeWeek": 1079,
-    "timeMonth": 1516,
+    "timeDay": 814,
+    "timeWeek": 1076,
+    "timeMonth": 1515,
     "timeYear": 1311,
     "dailyMinutesDown": {
-      "2023-05-30": 344,
+      "2023-05-30": 354,
       "2023-05-29": 489,
       "2023-05-28": 692,
       "2023-05-27": 568,
       "2023-05-26": 657,
-      "2023-05-25": 168
+      "2023-05-25": 143
     }
   },
   {
@@ -616,7 +616,7 @@
     "slug": "comparative-toxicogenomics-database",
     "status": "up",
     "uptime": "95.68%",
-    "uptimeDay": "87.31%",
+    "uptimeDay": "88.68%",
     "uptimeWeek": "97.25%",
     "uptimeMonth": "98.67%",
     "uptimeYear": "95.21%",
@@ -1056,7 +1056,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-30": 1031,
+      "2023-05-30": 1051,
       "2023-05-29": 1440,
       "2023-05-28": 1440,
       "2023-05-27": 1440,
