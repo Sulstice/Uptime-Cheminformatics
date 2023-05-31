@@ -4,10 +4,10 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "96.26%",
-    "uptimeWeek": "94.62%",
+    "uptimeDay": "96.04%",
+    "uptimeWeek": "94.59%",
     "uptimeMonth": "94.82%",
     "uptimeYear": "98.74%",
     "time": 931,
@@ -16,7 +16,7 @@
     "timeMonth": 2031,
     "timeYear": 932,
     "dailyMinutesDown": {
-      "2023-05-31": 34,
+      "2023-05-31": 37,
       "2023-05-30": 87,
       "2023-05-29": 33,
       "2023-05-28": 105,
@@ -50,7 +50,7 @@
       "2023-01-10": 731,
       "2022-12-01": 18,
       "2022-11-30": 169,
-      "2022-11-29": 188
+      "2022-11-29": 166
     }
   },
   {
@@ -58,11 +58,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "96.36%",
-    "uptimeWeek": "94.72%",
-    "uptimeMonth": "95.11%",
+    "uptimeDay": "96.14%",
+    "uptimeWeek": "94.68%",
+    "uptimeMonth": "95.10%",
     "uptimeYear": "98.73%",
     "time": 810,
     "timeDay": 413,
@@ -70,7 +70,7 @@
     "timeMonth": 2052,
     "timeYear": 814,
     "dailyMinutesDown": {
-      "2023-05-31": 34,
+      "2023-05-31": 37,
       "2023-05-30": 87,
       "2023-05-29": 32,
       "2023-05-28": 104,
@@ -108,7 +108,7 @@
       "2022-11-30": 169,
       "2022-11-29": 170,
       "2022-11-28": 84,
-      "2022-11-27": 50
+      "2022-11-27": 34
     }
   },
   {
@@ -176,17 +176,17 @@
     "slug": "chem-exper",
     "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "63.18%",
-    "uptimeWeek": "71.82%",
-    "uptimeMonth": "93.51%",
+    "uptimeDay": "62.51%",
+    "uptimeWeek": "71.72%",
+    "uptimeMonth": "93.49%",
     "uptimeYear": "99.46%",
     "time": 1293,
-    "timeDay": 735,
+    "timeDay": 740,
     "timeWeek": 988,
     "timeMonth": 1501,
     "timeYear": 1308,
     "dailyMinutesDown": {
-      "2023-05-31": 192,
+      "2023-05-31": 202,
       "2023-05-30": 512,
       "2023-05-29": 489,
       "2023-05-28": 692,
@@ -301,7 +301,7 @@
     "timeDay": 823,
     "timeWeek": 773,
     "timeMonth": 945,
-    "timeYear": 782,
+    "timeYear": 774,
     "dailyMinutesDown": {
       "2023-04-29": 56,
       "2022-12-05": 49,
@@ -615,9 +615,9 @@
     "slug": "comparative-toxicogenomics-database",
     "status": "down",
     "uptime": "95.68%",
-    "uptimeDay": "94.98%",
-    "uptimeWeek": "96.84%",
-    "uptimeMonth": "98.58%",
+    "uptimeDay": "94.30%",
+    "uptimeWeek": "96.74%",
+    "uptimeMonth": "98.56%",
     "uptimeYear": "95.20%",
     "time": 786,
     "timeDay": 330,
@@ -625,7 +625,7 @@
     "timeMonth": 585,
     "timeYear": 686,
     "dailyMinutesDown": {
-      "2023-05-31": 41,
+      "2023-05-31": 51,
       "2023-05-30": 31,
       "2023-05-29": 246,
       "2023-05-20": 29,
@@ -1056,7 +1056,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-31": 417,
+      "2023-05-31": 427,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
       "2023-05-28": 1440,
