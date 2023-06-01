@@ -4,10 +4,10 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "86.12%",
-    "uptimeWeek": "94.05%",
+    "uptimeDay": "86.01%",
+    "uptimeWeek": "94.03%",
     "uptimeMonth": "94.25%",
     "uptimeYear": "98.75%",
     "time": 927,
@@ -16,7 +16,7 @@
     "timeMonth": 1823,
     "timeYear": 927,
     "dailyMinutesDown": {
-      "2023-06-01": 199,
+      "2023-06-01": 201,
       "2023-05-31": 84,
       "2023-05-30": 87,
       "2023-05-29": 33,
@@ -50,7 +50,7 @@
       "2023-01-13": 492,
       "2023-01-10": 731,
       "2022-12-01": 18,
-      "2022-11-30": 80
+      "2022-11-30": 56
     }
   },
   {
@@ -58,19 +58,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "86.40%",
-    "uptimeWeek": "94.16%",
-    "uptimeMonth": "94.55%",
-    "uptimeYear": "98.72%",
+    "uptimeDay": "86.27%",
+    "uptimeWeek": "94.15%",
+    "uptimeMonth": "94.54%",
+    "uptimeYear": "98.73%",
     "time": 804,
     "timeDay": 324,
     "timeWeek": 433,
     "timeMonth": 1840,
     "timeYear": 811,
     "dailyMinutesDown": {
-      "2023-06-01": 196,
+      "2023-06-01": 198,
       "2023-05-31": 83,
       "2023-05-30": 87,
       "2023-05-29": 32,
@@ -107,7 +107,7 @@
       "2023-01-10": 33,
       "2022-12-01": 17,
       "2022-11-30": 169,
-      "2022-11-29": 90
+      "2022-11-29": 56
     }
   },
   {
@@ -201,7 +201,7 @@
     "status": "up",
     "uptime": "99.15%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.50%",
+    "uptimeWeek": "99.59%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "98.85%",
     "time": 3025,
@@ -1053,7 +1053,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-01": 1416,
+      "2023-06-01": 1425,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
