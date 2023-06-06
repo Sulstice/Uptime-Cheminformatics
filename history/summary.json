@@ -4,10 +4,10 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "96.55%",
-    "uptimeWeek": "92.34%",
+    "status": "down",
+    "uptime": "99.67%",
+    "uptimeDay": "96.44%",
+    "uptimeWeek": "92.33%",
     "uptimeMonth": "93.20%",
     "uptimeYear": "99.36%",
     "time": 913,
@@ -16,7 +16,7 @@
     "timeMonth": 1437,
     "timeYear": 916,
     "dailyMinutesDown": {
-      "2023-06-06": 33,
+      "2023-06-06": 35,
       "2023-06-05": 58,
       "2023-06-04": 71,
       "2023-06-03": 179,
@@ -45,7 +45,7 @@
       "2023-04-12": 4,
       "2023-04-11": 16,
       "2023-04-10": 17,
-      "2023-04-04": 41
+      "2023-04-04": 19
     }
   },
   {
@@ -53,11 +53,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "96.65%",
-    "uptimeWeek": "92.50%",
-    "uptimeMonth": "93.46%",
+    "uptimeDay": "96.53%",
+    "uptimeWeek": "92.48%",
+    "uptimeMonth": "93.45%",
     "uptimeYear": "99.14%",
     "time": 809,
     "timeDay": 394,
@@ -65,7 +65,7 @@
     "timeMonth": 1554,
     "timeYear": 816,
     "dailyMinutesDown": {
-      "2023-06-06": 33,
+      "2023-06-06": 35,
       "2023-06-05": 58,
       "2023-06-04": 70,
       "2023-06-03": 177,
@@ -95,8 +95,7 @@
       "2023-04-10": 34,
       "2023-04-04": 71,
       "2023-04-03": 143,
-      "2023-03-25": 22,
-      "2023-03-21": 15
+      "2023-03-25": 22
     }
   },
   {
@@ -165,8 +164,8 @@
     "status": "down",
     "uptime": "99.54%",
     "uptimeDay": "53.79%",
-    "uptimeWeek": "67.30%",
-    "uptimeMonth": "92.48%",
+    "uptimeWeek": "67.21%",
+    "uptimeMonth": "92.45%",
     "uptimeYear": "99.37%",
     "time": 1305,
     "timeDay": 1732,
@@ -174,7 +173,7 @@
     "timeMonth": 1541,
     "timeYear": 1317,
     "dailyMinutesDown": {
-      "2023-06-06": 568,
+      "2023-06-06": 577,
       "2023-06-05": 523,
       "2023-06-04": 520,
       "2023-06-03": 790,
@@ -887,7 +886,7 @@
     "uptime": "99.08%",
     "uptimeDay": "79.22%",
     "uptimeWeek": "92.57%",
-    "uptimeMonth": "92.07%",
+    "uptimeMonth": "92.09%",
     "uptimeYear": "98.75%",
     "time": 1686,
     "timeDay": 1387,
@@ -1033,7 +1032,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-06": 1156,
+      "2023-06-06": 1165,
       "2023-06-05": 1440,
       "2023-06-04": 1440,
       "2023-06-03": 1440,
