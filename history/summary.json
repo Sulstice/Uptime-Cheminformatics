@@ -4,10 +4,10 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "90.76%",
-    "uptimeWeek": "93.21%",
+    "uptimeDay": "93.25%",
+    "uptimeWeek": "93.57%",
     "uptimeMonth": "92.38%",
     "uptimeYear": "99.35%",
     "time": 909,
@@ -16,7 +16,7 @@
     "timeMonth": 1256,
     "timeYear": 910,
     "dailyMinutesDown": {
-      "2023-06-10": 23,
+      "2023-06-10": 25,
       "2023-06-09": 134,
       "2023-06-08": 111,
       "2023-06-07": 84,
@@ -42,8 +42,7 @@
       "2023-05-18": 85,
       "2023-05-17": 1095,
       "2023-05-07": 32,
-      "2023-05-06": 28,
-      "2023-04-24": 30
+      "2023-05-06": 28
     }
   },
   {
@@ -51,19 +50,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "90.96%",
-    "uptimeWeek": "93.36%",
+    "uptimeDay": "93.45%",
+    "uptimeWeek": "93.72%",
     "uptimeMonth": "92.58%",
     "uptimeYear": "99.36%",
-    "time": 810,
+    "time": 809,
     "timeDay": 649,
     "timeWeek": 664,
     "timeMonth": 1415,
     "timeYear": 815,
     "dailyMinutesDown": {
-      "2023-06-10": 23,
+      "2023-06-10": 25,
       "2023-06-09": 130,
       "2023-06-08": 108,
       "2023-06-07": 83,
@@ -90,7 +89,7 @@
       "2023-05-17": 1093,
       "2023-04-30": 30,
       "2023-04-24": 38,
-      "2023-04-14": 68
+      "2023-04-14": 52
     }
   },
   {
@@ -159,8 +158,8 @@
     "status": "down",
     "uptime": "99.57%",
     "uptimeDay": "67.60%",
-    "uptimeWeek": "69.42%",
-    "uptimeMonth": "92.96%",
+    "uptimeWeek": "69.04%",
+    "uptimeMonth": "92.88%",
     "uptimeYear": "99.41%",
     "time": 1323,
     "timeDay": 2513,
@@ -168,7 +167,7 @@
     "timeMonth": 1655,
     "timeYear": 1333,
     "dailyMinutesDown": {
-      "2023-06-10": 50,
+      "2023-06-10": 88,
       "2023-06-09": 503,
       "2023-06-08": 625,
       "2023-06-07": 549,
@@ -880,18 +879,19 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "91.75%",
-    "uptimeWeek": "89.71%",
+    "uptimeDay": "91.48%",
+    "uptimeWeek": "89.67%",
     "uptimeMonth": "91.89%",
-    "uptimeYear": "98.76%",
-    "time": 1656,
-    "timeDay": 1657,
-    "timeWeek": 1403,
-    "timeMonth": 1493,
-    "timeYear": 1662,
+    "uptimeYear": "98.77%",
+    "time": 1655,
+    "timeDay": 1566,
+    "timeWeek": 1391,
+    "timeMonth": 1490,
+    "timeYear": 1661,
     "dailyMinutesDown": {
+      "2023-06-10": 4,
       "2023-06-09": 118,
       "2023-06-08": 204,
       "2023-06-07": 246,
@@ -936,7 +936,7 @@
       "2023-04-11": 123,
       "2023-04-10": 180,
       "2023-04-09": 127,
-      "2023-04-08": 233
+      "2023-04-08": 185
     }
   },
   {
@@ -1028,7 +1028,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-10": 87,
+      "2023-06-10": 125,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
       "2023-06-07": 1440,
