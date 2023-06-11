@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "91.07%",
-    "uptimeWeek": "92.91%",
-    "uptimeMonth": "94.59%",
+    "uptimeDay": "90.93%",
+    "uptimeWeek": "92.89%",
+    "uptimeMonth": "94.63%",
     "uptimeYear": "99.55%",
     "time": 904,
     "timeDay": 372,
@@ -16,7 +16,7 @@
     "timeMonth": 1206,
     "timeYear": 907,
     "dailyMinutesDown": {
-      "2023-06-11": 59,
+      "2023-06-11": 61,
       "2023-06-10": 178,
       "2023-06-09": 134,
       "2023-06-08": 111,
@@ -39,7 +39,7 @@
       "2023-05-22": 151,
       "2023-05-21": 88,
       "2023-05-20": 61,
-      "2023-05-19": 110
+      "2023-05-19": 90
     }
   },
   {
@@ -47,11 +47,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "91.24%",
-    "uptimeWeek": "93.06%",
-    "uptimeMonth": "94.68%",
+    "uptimeDay": "91.08%",
+    "uptimeWeek": "93.04%",
+    "uptimeMonth": "94.74%",
     "uptimeYear": "99.56%",
     "time": 811,
     "timeDay": 370,
@@ -59,7 +59,7 @@
     "timeMonth": 1375,
     "timeYear": 816,
     "dailyMinutesDown": {
-      "2023-06-11": 58,
+      "2023-06-11": 60,
       "2023-06-10": 174,
       "2023-06-09": 130,
       "2023-06-08": 108,
@@ -83,7 +83,7 @@
       "2023-05-21": 87,
       "2023-05-20": 74,
       "2023-05-19": 73,
-      "2023-05-18": 50
+      "2023-05-18": 19
     }
   },
   {
@@ -152,8 +152,8 @@
     "status": "down",
     "uptime": "99.56%",
     "uptimeDay": "58.20%",
-    "uptimeWeek": "68.34%",
-    "uptimeMonth": "92.72%",
+    "uptimeWeek": "68.20%",
+    "uptimeMonth": "92.68%",
     "uptimeYear": "99.39%",
     "time": 1324,
     "timeDay": 1854,
@@ -161,7 +161,7 @@
     "timeMonth": 1708,
     "timeYear": 1340,
     "dailyMinutesDown": {
-      "2023-06-11": 333,
+      "2023-06-11": 347,
       "2023-06-10": 661,
       "2023-06-09": 503,
       "2023-06-08": 625,
@@ -1019,7 +1019,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-11": 762,
+      "2023-06-11": 776,
       "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
