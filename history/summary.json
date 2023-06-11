@@ -152,9 +152,9 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "52.61%",
-    "uptimeWeek": "68.22%",
-    "uptimeMonth": "92.69%",
+    "uptimeDay": "53.18%",
+    "uptimeWeek": "68.13%",
+    "uptimeMonth": "92.67%",
     "uptimeYear": "99.39%",
     "time": 1328,
     "timeDay": 1951,
@@ -162,12 +162,12 @@
     "timeMonth": 1698,
     "timeYear": 1339,
     "dailyMinutesDown": {
-      "2023-06-11": 260,
+      "2023-06-11": 252,
       "2023-06-10": 661,
       "2023-06-09": 503,
       "2023-06-08": 625,
       "2023-06-07": 549,
-      "2023-06-06": 605
+      "2023-06-06": 621
     }
   },
   {
@@ -874,17 +874,17 @@
     "slug": "adverse-drug-reaction-classification-system",
     "status": "down",
     "uptime": "99.11%",
-    "uptimeDay": "82.19%",
-    "uptimeWeek": "87.45%",
-    "uptimeMonth": "91.68%",
-    "uptimeYear": "98.78%",
+    "uptimeDay": "81.60%",
+    "uptimeWeek": "87.37%",
+    "uptimeMonth": "91.66%",
+    "uptimeYear": "98.77%",
     "time": 1657,
     "timeDay": 1392,
     "timeWeek": 1406,
     "timeMonth": 1490,
     "timeYear": 1658,
     "dailyMinutesDown": {
-      "2023-06-11": 55,
+      "2023-06-11": 64,
       "2023-06-10": 230,
       "2023-06-09": 118,
       "2023-06-08": 204,
@@ -1020,7 +1020,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-11": 466,
+      "2023-06-11": 474,
       "2023-06-10": 1440,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
@@ -1533,11 +1533,11 @@
     "url": "https://cactus.nci.nih.gov/chemical/structure",
     "icon": "https://icons.duckduckgo.com/ip3/cactus.nci.nih.gov.ico",
     "slug": "chemical-resolver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.21%",
-    "uptimeDay": "97.39%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "96.59%",
+    "uptimeDay": "97.18%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "96.58%",
     "uptimeYear": "98.91%",
     "time": 679,
     "timeDay": 5851,
@@ -1545,7 +1545,7 @@
     "timeMonth": 1566,
     "timeYear": 641,
     "dailyMinutesDown": {
-      "2023-06-11": 16,
+      "2023-06-11": 19,
       "2023-06-10": 22,
       "2023-05-30": 21,
       "2023-05-29": 427,
@@ -1630,7 +1630,7 @@
       "2023-03-07": 36,
       "2023-03-06": 47,
       "2023-03-05": 44,
-      "2023-03-04": 90
+      "2023-03-04": 56
     }
   },
   {
