@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "94.41%",
-    "uptimeWeek": "90.70%",
-    "uptimeMonth": "94.67%",
+    "uptimeDay": "94.28%",
+    "uptimeWeek": "90.68%",
+    "uptimeMonth": "94.71%",
     "uptimeYear": "99.56%",
     "time": 931,
     "timeDay": 822,
@@ -16,7 +16,7 @@
     "timeMonth": 1172,
     "timeYear": 941,
     "dailyMinutesDown": {
-      "2023-06-19": 60,
+      "2023-06-19": 62,
       "2023-06-18": 47,
       "2023-06-17": 254,
       "2023-06-16": 197,
@@ -35,7 +35,7 @@
       "2023-06-03": 179,
       "2023-06-02": 141,
       "2023-06-01": 202,
-      "2023-05-31": 66
+      "2023-05-31": 50
     }
   },
   {
@@ -43,11 +43,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "94.51%",
-    "uptimeWeek": "90.87%",
-    "uptimeMonth": "94.74%",
+    "uptimeDay": "94.37%",
+    "uptimeWeek": "90.85%",
+    "uptimeMonth": "94.77%",
     "uptimeYear": "99.56%",
     "time": 957,
     "timeDay": 316,
@@ -55,7 +55,7 @@
     "timeMonth": 2022,
     "timeYear": 969,
     "dailyMinutesDown": {
-      "2023-06-19": 60,
+      "2023-06-19": 62,
       "2023-06-18": 47,
       "2023-06-17": 252,
       "2023-06-16": 195,
@@ -74,7 +74,7 @@
       "2023-06-03": 177,
       "2023-06-02": 138,
       "2023-06-01": 199,
-      "2023-05-31": 83
+      "2023-05-31": 65
     }
   },
   {
@@ -119,10 +119,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/webbook.nist.gov.ico",
     "slug": "nist-chemistry-webhook",
     "status": "down",
-    "uptime": "99.56%",
+    "uptime": "99.55%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "68.62%",
-    "uptimeMonth": "92.78%",
+    "uptimeWeek": "68.50%",
+    "uptimeMonth": "92.75%",
     "uptimeYear": "99.38%",
     "time": 344,
     "timeDay": 0,
@@ -130,7 +130,7 @@
     "timeMonth": 266,
     "timeYear": 341,
     "dailyMinutesDown": {
-      "2023-06-19": 179,
+      "2023-06-19": 191,
       "2023-06-18": 1440,
       "2023-06-17": 1440,
       "2023-06-16": 104,
@@ -144,24 +144,24 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "56.27%",
-    "uptimeWeek": "67.52%",
-    "uptimeMonth": "92.53%",
+    "status": "down",
+    "uptime": "99.56%",
+    "uptimeDay": "56.13%",
+    "uptimeWeek": "67.66%",
+    "uptimeMonth": "92.56%",
     "uptimeYear": "99.38%",
     "time": 1335,
     "timeDay": 1583,
     "timeWeek": 1443,
-    "timeMonth": 1592,
+    "timeMonth": 1593,
     "timeYear": 1350,
     "dailyMinutesDown": {
-      "2023-06-19": 50,
+      "2023-06-19": 52,
       "2023-06-18": 690,
       "2023-06-17": 832,
       "2023-06-16": 666,
       "2023-06-15": 564,
-      "2023-06-14": 476
+      "2023-06-14": 460
     }
   },
   {
@@ -1000,7 +1000,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-19": 181,
+      "2023-06-19": 193,
       "2023-06-18": 1440,
       "2023-06-17": 1440,
       "2023-06-16": 1440,
