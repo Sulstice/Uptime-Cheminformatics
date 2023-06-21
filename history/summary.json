@@ -6,9 +6,9 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "85.90%",
-    "uptimeWeek": "90.24%",
-    "uptimeMonth": "94.53%",
+    "uptimeDay": "86.50%",
+    "uptimeWeek": "90.32%",
+    "uptimeMonth": "94.48%",
     "uptimeYear": "99.54%",
     "time": 938,
     "timeDay": 370,
@@ -16,7 +16,7 @@
     "timeMonth": 881,
     "timeYear": 941,
     "dailyMinutesDown": {
-      "2023-06-21": 197,
+      "2023-06-21": 188,
       "2023-06-20": 66,
       "2023-06-19": 155,
       "2023-06-18": 47,
@@ -35,7 +35,8 @@
       "2023-06-05": 58,
       "2023-06-04": 71,
       "2023-06-03": 179,
-      "2023-06-02": 115
+      "2023-06-02": 141,
+      "2023-06-01": 3
     }
   },
   {
@@ -45,9 +46,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "87.30%",
-    "uptimeWeek": "90.58%",
-    "uptimeMonth": "94.58%",
+    "uptimeDay": "87.86%",
+    "uptimeWeek": "90.66%",
+    "uptimeMonth": "94.55%",
     "uptimeYear": "99.55%",
     "time": 961,
     "timeDay": 432,
@@ -55,7 +56,7 @@
     "timeMonth": 1732,
     "timeYear": 975,
     "dailyMinutesDown": {
-      "2023-06-21": 183,
+      "2023-06-21": 175,
       "2023-06-20": 59,
       "2023-06-19": 152,
       "2023-06-18": 47,
@@ -75,7 +76,7 @@
       "2023-06-04": 70,
       "2023-06-03": 177,
       "2023-06-02": 138,
-      "2023-06-01": 19
+      "2023-06-01": 38
     }
   },
   {
@@ -147,7 +148,7 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "55.09%",
+    "uptimeDay": "55.39%",
     "uptimeWeek": "66.17%",
     "uptimeMonth": "92.22%",
     "uptimeYear": "99.35%",
@@ -855,19 +856,19 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "90.92%",
-    "uptimeWeek": "88.79%",
-    "uptimeMonth": "90.63%",
-    "uptimeYear": "98.87%",
+    "status": "down",
+    "uptime": "99.20%",
+    "uptimeDay": "90.69%",
+    "uptimeWeek": "88.78%",
+    "uptimeMonth": "90.62%",
+    "uptimeYear": "98.88%",
     "time": 1657,
-    "timeDay": 1265,
-    "timeWeek": 1434,
-    "timeMonth": 1463,
-    "timeYear": 1637,
+    "timeDay": 1253,
+    "timeWeek": 1418,
+    "timeMonth": 1462,
+    "timeYear": 1636,
     "dailyMinutesDown": {
-      "2023-06-21": 131,
+      "2023-06-21": 134,
       "2023-06-20": 59,
       "2023-06-19": 119,
       "2023-06-18": 181,
@@ -902,8 +903,7 @@
       "2023-05-14": 182,
       "2023-05-13": 315,
       "2023-05-12": 411,
-      "2023-05-11": 283,
-      "2023-05-10": 27
+      "2023-05-11": 237
     }
   },
   {
@@ -996,7 +996,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-21": 1352,
+      "2023-06-21": 1360,
       "2023-06-20": 1440,
       "2023-06-19": 1440,
       "2023-06-18": 1440,
