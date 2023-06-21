@@ -4,19 +4,20 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "down",
+    "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "95.68%",
-    "uptimeWeek": "91.16%",
-    "uptimeMonth": "94.80%",
-    "uptimeYear": "99.57%",
+    "uptimeDay": "94.56%",
+    "uptimeWeek": "91.17%",
+    "uptimeMonth": "94.77%",
+    "uptimeYear": "99.56%",
     "time": 938,
-    "timeDay": 1932,
-    "timeWeek": 1649,
-    "timeMonth": 994,
+    "timeDay": 1842,
+    "timeWeek": 1647,
+    "timeMonth": 993,
     "timeYear": 947,
     "dailyMinutesDown": {
-      "2023-06-20": 62,
+      "2023-06-21": 13,
+      "2023-06-20": 66,
       "2023-06-19": 155,
       "2023-06-18": 47,
       "2023-06-17": 254,
@@ -46,12 +47,12 @@
     "status": "up",
     "uptime": "99.78%",
     "uptimeDay": "95.93%",
-    "uptimeWeek": "91.35%",
+    "uptimeWeek": "91.52%",
     "uptimeMonth": "94.76%",
     "uptimeYear": "99.56%",
     "time": 961,
     "timeDay": 1596,
-    "timeWeek": 4280,
+    "timeWeek": 4304,
     "timeMonth": 1846,
     "timeYear": 975,
     "dailyMinutesDown": {
@@ -145,18 +146,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
     "status": "down",
-    "uptime": "99.55%",
-    "uptimeDay": "52.88%",
-    "uptimeWeek": "66.78%",
-    "uptimeMonth": "92.35%",
+    "uptime": "99.54%",
+    "uptimeDay": "52.39%",
+    "uptimeWeek": "66.61%",
+    "uptimeMonth": "92.32%",
     "uptimeYear": "99.36%",
     "time": 1334,
     "timeDay": 899,
-    "timeWeek": 1292,
+    "timeWeek": 1296,
     "timeMonth": 1510,
     "timeYear": 1346,
     "dailyMinutesDown": {
-      "2023-06-20": 677,
+      "2023-06-21": 15,
+      "2023-06-20": 679,
       "2023-06-19": 651,
       "2023-06-18": 690,
       "2023-06-17": 832,
@@ -252,8 +254,7 @@
       "2023-02-26": 16,
       "2023-02-25": 71,
       "2022-07-01": 16,
-      "2022-06-30": 69,
-      "2022-06-21": 44
+      "2022-06-30": 69
     }
   },
   {
@@ -405,8 +406,7 @@
       "2022-06-25": 1440,
       "2022-06-24": 1440,
       "2022-06-23": 1440,
-      "2022-06-22": 1440,
-      "2022-06-21": 1440
+      "2022-06-22": 1440
     }
   },
   {
@@ -643,8 +643,7 @@
       "2022-06-25": 1440,
       "2022-06-24": 1440,
       "2022-06-23": 1440,
-      "2022-06-22": 1440,
-      "2022-06-21": 977
+      "2022-06-22": 1440
     }
   },
   {
@@ -997,7 +996,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-21": 0,
+      "2023-06-21": 17,
       "2023-06-20": 1440,
       "2023-06-19": 1440,
       "2023-06-18": 1440,
