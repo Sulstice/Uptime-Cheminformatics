@@ -6,17 +6,17 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "92.35%",
-    "uptimeWeek": "89.55%",
-    "uptimeMonth": "94.64%",
+    "uptimeDay": "93.08%",
+    "uptimeWeek": "89.85%",
+    "uptimeMonth": "94.60%",
     "uptimeYear": "99.55%",
     "time": 938,
     "timeDay": 383,
-    "timeWeek": 1623,
+    "timeWeek": 1631,
     "timeMonth": 869,
     "timeYear": 940,
     "dailyMinutesDown": {
-      "2023-06-22": 45,
+      "2023-06-22": 34,
       "2023-06-21": 220,
       "2023-06-20": 66,
       "2023-06-19": 155,
@@ -35,7 +35,8 @@
       "2023-06-06": 71,
       "2023-06-05": 58,
       "2023-06-04": 71,
-      "2023-06-03": 179
+      "2023-06-03": 179,
+      "2023-06-02": 25
     }
   },
   {
@@ -45,17 +46,17 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "92.58%",
-    "uptimeWeek": "89.92%",
-    "uptimeMonth": "94.65%",
+    "uptimeDay": "93.28%",
+    "uptimeWeek": "90.20%",
+    "uptimeMonth": "94.64%",
     "uptimeYear": "99.55%",
     "time": 960,
     "timeDay": 416,
-    "timeWeek": 4280,
+    "timeWeek": 4306,
     "timeMonth": 1707,
     "timeYear": 974,
     "dailyMinutesDown": {
-      "2023-06-22": 43,
+      "2023-06-22": 33,
       "2023-06-21": 207,
       "2023-06-20": 59,
       "2023-06-19": 152,
@@ -75,7 +76,7 @@
       "2023-06-05": 58,
       "2023-06-04": 70,
       "2023-06-03": 177,
-      "2023-06-02": 56
+      "2023-06-02": 72
     }
   },
   {
@@ -145,24 +146,24 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "61.02%",
-    "uptimeWeek": "66.82%",
-    "uptimeMonth": "92.37%",
-    "uptimeYear": "99.36%",
+    "uptimeDay": "60.81%",
+    "uptimeWeek": "67.10%",
+    "uptimeMonth": "92.43%",
+    "uptimeYear": "99.37%",
     "time": 1329,
     "timeDay": 831,
     "timeWeek": 1256,
     "timeMonth": 1446,
     "timeYear": 1343,
     "dailyMinutesDown": {
-      "2023-06-22": 119,
+      "2023-06-22": 122,
       "2023-06-21": 616,
       "2023-06-20": 679,
       "2023-06-19": 651,
       "2023-06-18": 690,
-      "2023-06-17": 588
+      "2023-06-17": 557
     }
   },
   {
@@ -994,7 +995,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-22": 255,
+      "2023-06-22": 278,
       "2023-06-21": 1440,
       "2023-06-20": 1440,
       "2023-06-19": 1440,
