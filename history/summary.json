@@ -5,17 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
     "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "86.66%",
-    "uptimeWeek": "89.19%",
-    "uptimeMonth": "94.39%",
-    "uptimeYear": "99.53%",
+    "uptime": "99.77%",
+    "uptimeDay": "86.44%",
+    "uptimeWeek": "89.34%",
+    "uptimeMonth": "94.44%",
+    "uptimeYear": "99.54%",
     "time": 924,
     "timeDay": 487,
-    "timeWeek": 435,
+    "timeWeek": 437,
     "timeMonth": 719,
     "timeYear": 925,
     "dailyMinutesDown": {
+      "2023-06-28": 3,
       "2023-06-27": 190,
       "2023-06-26": 64,
       "2023-06-25": 246,
@@ -33,7 +34,7 @@
       "2023-06-13": 139,
       "2023-06-12": 67,
       "2023-06-11": 98,
-      "2023-06-10": 178
+      "2023-06-10": 155
     }
   },
   {
@@ -43,9 +44,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "89.01%",
-    "uptimeWeek": "89.84%",
-    "uptimeMonth": "94.45%",
+    "uptimeDay": "88.80%",
+    "uptimeWeek": "89.81%",
+    "uptimeMonth": "94.48%",
     "uptimeYear": "99.54%",
     "time": 951,
     "timeDay": 409,
@@ -53,6 +54,7 @@
     "timeMonth": 1416,
     "timeYear": 961,
     "dailyMinutesDown": {
+      "2023-06-28": 3,
       "2023-06-27": 159,
       "2023-06-26": 64,
       "2023-06-25": 245,
@@ -71,7 +73,7 @@
       "2023-06-12": 66,
       "2023-06-11": 95,
       "2023-06-10": 174,
-      "2023-06-09": 66
+      "2023-06-09": 50
     }
   },
   {
@@ -143,22 +145,23 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "52.02%",
-    "uptimeWeek": "69.21%",
-    "uptimeMonth": "92.92%",
-    "uptimeYear": "99.41%",
+    "uptimeDay": "53.61%",
+    "uptimeWeek": "69.53%",
+    "uptimeMonth": "92.99%",
+    "uptimeYear": "99.42%",
     "time": 1320,
     "timeDay": 928,
     "timeWeek": 996,
     "timeMonth": 1381,
     "timeYear": 1334,
     "dailyMinutesDown": {
+      "2023-06-28": 3,
       "2023-06-27": 687,
       "2023-06-26": 606,
       "2023-06-25": 553,
       "2023-06-24": 548,
       "2023-06-23": 427,
-      "2023-06-22": 278
+      "2023-06-22": 243
     }
   },
   {
@@ -339,7 +342,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.79%",
-    "uptimeYear": "88.07%",
+    "uptimeYear": "88.08%",
     "time": 2089,
     "timeDay": 2048,
     "timeWeek": 2020,
@@ -396,8 +399,7 @@
       "2022-07-02": 1440,
       "2022-07-01": 1440,
       "2022-06-30": 1440,
-      "2022-06-29": 1440,
-      "2022-06-28": 1440
+      "2022-06-29": 1440
     }
   },
   {
@@ -565,7 +567,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.85%",
     "uptimeMonth": "97.82%",
-    "uptimeYear": "97.05%",
+    "uptimeYear": "97.06%",
     "time": 695,
     "timeDay": 370,
     "timeWeek": 386,
@@ -629,8 +631,7 @@
       "2022-08-29": 300,
       "2022-07-07": 46,
       "2022-06-30": 84,
-      "2022-06-29": 132,
-      "2022-06-28": 516
+      "2022-06-29": 132
     }
   },
   {
@@ -844,7 +845,7 @@
     "slug": "adverse-drug-reaction-classification-system",
     "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "69.00%",
+    "uptimeDay": "71.49%",
     "uptimeWeek": "75.39%",
     "uptimeMonth": "86.09%",
     "uptimeYear": "98.84%",
@@ -972,7 +973,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-27": 1430,
+      "2023-06-28": 25,
+      "2023-06-27": 1440,
       "2023-06-26": 1440,
       "2023-06-25": 1440,
       "2023-06-24": 1440,
@@ -1335,8 +1337,7 @@
       "2022-07-02": 1440,
       "2022-07-01": 1440,
       "2022-06-30": 1440,
-      "2022-06-29": 1440,
-      "2022-06-28": 1440
+      "2022-06-29": 1440
     }
   },
   {
@@ -1416,18 +1417,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pesticideinfo.org.ico",
     "slug": "pesticide-info",
     "status": "down",
-    "uptime": "99.06%",
+    "uptime": "99.05%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "32.32%",
-    "uptimeMonth": "84.43%",
-    "uptimeYear": "98.67%",
+    "uptimeWeek": "31.96%",
+    "uptimeMonth": "84.34%",
+    "uptimeYear": "98.66%",
     "time": 524,
     "timeDay": 498,
     "timeWeek": 502,
     "timeMonth": 509,
     "timeYear": 534,
     "dailyMinutesDown": {
-      "2023-06-27": 1430,
+      "2023-06-28": 26,
+      "2023-06-27": 1440,
       "2023-06-26": 1440,
       "2023-06-25": 1440,
       "2023-06-24": 1440,
