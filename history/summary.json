@@ -6,9 +6,9 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "84.02%",
-    "uptimeWeek": "90.76%",
-    "uptimeMonth": "93.85%",
+    "uptimeDay": "85.08%",
+    "uptimeWeek": "90.89%",
+    "uptimeMonth": "93.84%",
     "uptimeYear": "99.49%",
     "time": 909,
     "timeDay": 661,
@@ -16,7 +16,7 @@
     "timeMonth": 742,
     "timeYear": 910,
     "dailyMinutesDown": {
-      "2023-07-05": 187,
+      "2023-07-05": 174,
       "2023-07-04": 114,
       "2023-07-03": 217,
       "2023-07-02": 142,
@@ -35,7 +35,7 @@
       "2023-06-19": 155,
       "2023-06-18": 47,
       "2023-06-17": 254,
-      "2023-06-16": 39
+      "2023-06-16": 55
     }
   },
   {
@@ -45,9 +45,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "84.23%",
-    "uptimeWeek": "90.92%",
-    "uptimeMonth": "93.89%",
+    "uptimeDay": "85.25%",
+    "uptimeWeek": "91.04%",
+    "uptimeMonth": "93.88%",
     "uptimeYear": "99.49%",
     "time": 947,
     "timeDay": 370,
@@ -55,7 +55,7 @@
     "timeMonth": 1424,
     "timeYear": 959,
     "dailyMinutesDown": {
-      "2023-07-05": 184,
+      "2023-07-05": 172,
       "2023-07-04": 111,
       "2023-07-03": 212,
       "2023-07-02": 140,
@@ -74,7 +74,7 @@
       "2023-06-19": 152,
       "2023-06-18": 47,
       "2023-06-17": 252,
-      "2023-06-16": 113
+      "2023-06-16": 129
     }
   },
   {
@@ -147,16 +147,16 @@
     "status": "down",
     "uptime": "99.53%",
     "uptimeDay": "56.26%",
-    "uptimeWeek": "64.74%",
-    "uptimeMonth": "91.89%",
+    "uptimeWeek": "64.62%",
+    "uptimeMonth": "91.86%",
     "uptimeYear": "99.32%",
     "time": 1310,
     "timeDay": 2635,
     "timeWeek": 1095,
-    "timeMonth": 1356,
+    "timeMonth": 1357,
     "timeYear": 1324,
     "dailyMinutesDown": {
-      "2023-07-05": 311,
+      "2023-07-05": 323,
       "2023-07-04": 701,
       "2023-07-03": 590,
       "2023-07-02": 629,
@@ -423,12 +423,12 @@
     "status": "up",
     "uptime": "99.03%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "92.94%",
+    "uptimeWeek": "93.02%",
     "uptimeMonth": "97.80%",
     "uptimeYear": "99.46%",
     "time": 2961,
     "timeDay": 1029,
-    "timeWeek": 19884,
+    "timeWeek": 19702,
     "timeMonth": 14082,
     "timeYear": 3434,
     "dailyMinutesDown": {
@@ -839,19 +839,19 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
-    "uptime": "99.24%",
-    "uptimeDay": "72.67%",
-    "uptimeWeek": "70.94%",
-    "uptimeMonth": "86.90%",
-    "uptimeYear": "98.91%",
+    "status": "down",
+    "uptime": "99.25%",
+    "uptimeDay": "73.00%",
+    "uptimeWeek": "70.98%",
+    "uptimeMonth": "87.03%",
+    "uptimeYear": "98.92%",
     "time": 1627,
-    "timeDay": 1401,
+    "timeDay": 1400,
     "timeWeek": 1513,
     "timeMonth": 1444,
     "timeYear": 1609,
     "dailyMinutesDown": {
-      "2023-07-05": 188,
+      "2023-07-05": 192,
       "2023-07-04": 447,
       "2023-07-03": 513,
       "2023-07-02": 281,
@@ -865,8 +865,7 @@
       "2023-06-24": 499,
       "2023-06-23": 183,
       "2023-06-22": 111,
-      "2023-06-21": 186,
-      "2023-06-20": 59
+      "2023-06-21": 186
     }
   },
   {
@@ -959,7 +958,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-05": 626,
+      "2023-07-05": 639,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
       "2023-07-02": 1440,
@@ -1405,7 +1404,7 @@
     "status": "up",
     "uptime": "98.64%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "73.52%",
+    "uptimeWeek": "73.66%",
     "uptimeMonth": "76.88%",
     "uptimeYear": "98.04%",
     "time": 523,
