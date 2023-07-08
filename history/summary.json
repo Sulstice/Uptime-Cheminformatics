@@ -146,11 +146,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "63.99%",
-    "uptimeWeek": "66.91%",
-    "uptimeMonth": "92.39%",
+    "status": "down",
+    "uptime": "99.57%",
+    "uptimeDay": "63.86%",
+    "uptimeWeek": "67.13%",
+    "uptimeMonth": "92.44%",
     "uptimeYear": "99.37%",
     "time": 1324,
     "timeDay": 2161,
@@ -158,13 +158,13 @@
     "timeMonth": 1415,
     "timeYear": 1339,
     "dailyMinutesDown": {
-      "2023-07-08": 25,
+      "2023-07-08": 27,
       "2023-07-07": 495,
       "2023-07-06": 756,
       "2023-07-05": 651,
       "2023-07-04": 701,
       "2023-07-03": 590,
-      "2023-07-02": 122
+      "2023-07-02": 99
     }
   },
   {
@@ -557,7 +557,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ctdbase.org.ico",
     "slug": "comparative-toxicogenomics-database",
     "status": "up",
-    "uptime": "95.90%",
+    "uptime": "95.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.01%",
@@ -847,7 +847,7 @@
     "time": 1627,
     "timeDay": 1341,
     "timeWeek": 1449,
-    "timeMonth": 1444,
+    "timeMonth": 1445,
     "timeYear": 1603,
     "dailyMinutesDown": {
       "2023-07-07": 244,
@@ -956,7 +956,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-08": 32,
+      "2023-07-08": 60,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
@@ -1631,7 +1631,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rxn.res.ibm.com.ico",
     "slug": "ibm-rxn-for-chemistry",
     "status": "up",
-    "uptime": "99.43%",
+    "uptime": "99.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
