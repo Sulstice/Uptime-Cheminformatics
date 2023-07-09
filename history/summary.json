@@ -11,7 +11,7 @@
     "uptimeMonth": "93.70%",
     "uptimeYear": "99.47%",
     "time": 901,
-    "timeDay": 344,
+    "timeDay": 345,
     "timeWeek": 438,
     "timeMonth": 745,
     "timeYear": 888,
@@ -52,7 +52,7 @@
     "uptimeMonth": "93.78%",
     "uptimeYear": "99.48%",
     "time": 946,
-    "timeDay": 361,
+    "timeDay": 358,
     "timeWeek": 391,
     "timeMonth": 1424,
     "timeYear": 954,
@@ -150,12 +150,12 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "51.62%",
+    "uptimeDay": "53.25%",
     "uptimeWeek": "65.83%",
     "uptimeMonth": "92.14%",
     "uptimeYear": "99.34%",
     "time": 1330,
-    "timeDay": 2046,
+    "timeDay": 1977,
     "timeWeek": 1986,
     "timeMonth": 1417,
     "timeYear": 1342,
@@ -345,7 +345,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "91.08%",
+    "uptimeYear": "91.09%",
     "time": 2093,
     "timeDay": 2209,
     "timeWeek": 1854,
@@ -391,8 +391,7 @@
       "2022-07-13": 1440,
       "2022-07-12": 1440,
       "2022-07-11": 1440,
-      "2022-07-10": 1440,
-      "2022-07-09": 1440
+      "2022-07-10": 1440
     }
   },
   {
@@ -959,7 +958,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-08": 1433,
+      "2023-07-09": 28,
+      "2023-07-08": 1440,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
@@ -1322,8 +1322,7 @@
       "2022-07-13": 1440,
       "2022-07-12": 1440,
       "2022-07-11": 1440,
-      "2022-07-10": 1440,
-      "2022-07-09": 1440
+      "2022-07-10": 1440
     }
   },
   {
@@ -1578,12 +1577,12 @@
     "uptime": "99.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.29%",
+    "uptimeMonth": "98.37%",
     "uptimeYear": "99.65%",
     "time": 1011,
     "timeDay": 577,
     "timeWeek": 356,
-    "timeMonth": 1950,
+    "timeMonth": 1954,
     "timeYear": 1104,
     "dailyMinutesDown": {
       "2023-06-30": 21,
