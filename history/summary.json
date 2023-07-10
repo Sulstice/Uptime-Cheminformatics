@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "99.73%",
     "uptimeDay": "89.81%",
-    "uptimeWeek": "90.05%",
+    "uptimeWeek": "91.06%",
     "uptimeMonth": "93.56%",
     "uptimeYear": "99.46%",
     "time": 898,
@@ -47,13 +47,13 @@
     "status": "up",
     "uptime": "99.74%",
     "uptimeDay": "89.95%",
-    "uptimeWeek": "90.20%",
+    "uptimeWeek": "91.21%",
     "uptimeMonth": "93.62%",
     "uptimeYear": "99.47%",
     "time": 945,
     "timeDay": 315,
     "timeWeek": 383,
-    "timeMonth": 1431,
+    "timeMonth": 1432,
     "timeYear": 954,
     "dailyMinutesDown": {
       "2023-07-09": 144,
@@ -149,22 +149,22 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "57.62%",
-    "uptimeWeek": "65.27%",
-    "uptimeMonth": "92.01%",
+    "uptimeDay": "58.41%",
+    "uptimeWeek": "64.97%",
+    "uptimeMonth": "91.94%",
     "uptimeYear": "99.33%",
     "time": 1334,
     "timeDay": 1763,
     "timeWeek": 2072,
-    "timeMonth": 1387,
+    "timeMonth": 1384,
     "timeYear": 1344,
     "dailyMinutesDown": {
-      "2023-07-09": 610,
+      "2023-07-09": 599,
       "2023-07-08": 696,
       "2023-07-07": 495,
       "2023-07-06": 756,
       "2023-07-05": 651,
-      "2023-07-04": 295
+      "2023-07-04": 337
     }
   },
   {
@@ -344,7 +344,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "91.36%",
+    "uptimeYear": "91.38%",
     "time": 2094,
     "timeDay": 1907,
     "timeWeek": 1861,
@@ -389,8 +389,7 @@
       "2022-07-14": 1440,
       "2022-07-13": 1440,
       "2022-07-12": 1440,
-      "2022-07-11": 1440,
-      "2022-07-10": 1440
+      "2022-07-11": 1440
     }
   },
   {
@@ -420,7 +419,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chemspider.com.ico",
     "slug": "chem-spider",
     "status": "up",
-    "uptime": "99.03%",
+    "uptime": "99.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.08%",
@@ -841,12 +840,12 @@
     "status": "up",
     "uptime": "99.27%",
     "uptimeDay": "82.34%",
-    "uptimeWeek": "78.81%",
+    "uptimeWeek": "79.20%",
     "uptimeMonth": "87.21%",
     "uptimeYear": "98.93%",
     "time": 1608,
     "timeDay": 1404,
-    "timeWeek": 1439,
+    "timeWeek": 1438,
     "timeMonth": 1441,
     "timeYear": 1600,
     "dailyMinutesDown": {
@@ -957,7 +956,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-09": 1434,
+      "2023-07-10": 109,
+      "2023-07-09": 1440,
       "2023-07-08": 1440,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
@@ -1320,8 +1320,7 @@
       "2022-07-14": 1440,
       "2022-07-13": 1440,
       "2022-07-12": 1440,
-      "2022-07-11": 1440,
-      "2022-07-10": 1440
+      "2022-07-11": 1440
     }
   },
   {
@@ -1348,7 +1347,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dra4.nihs.go.jp.ico",
     "slug": "japan-exisiting-database",
     "status": "up",
-    "uptime": "99.23%",
+    "uptime": "99.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1576,12 +1575,12 @@
     "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.65%",
     "time": 1011,
     "timeDay": 311,
     "timeWeek": 350,
-    "timeMonth": 628,
+    "timeMonth": 478,
     "timeYear": 1104,
     "dailyMinutesDown": {
       "2023-06-30": 21,
