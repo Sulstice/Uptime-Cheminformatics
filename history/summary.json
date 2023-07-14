@@ -12,8 +12,8 @@
     "uptimeYear": "99.45%",
     "time": 879,
     "timeDay": 378,
-    "timeWeek": 352,
-    "timeMonth": 760,
+    "timeWeek": 351,
+    "timeMonth": 761,
     "timeYear": 875,
     "dailyMinutesDown": {
       "2023-07-13": 266,
@@ -52,8 +52,8 @@
     "uptimeYear": "99.30%",
     "time": 957,
     "timeDay": 413,
-    "timeWeek": 771,
-    "timeMonth": 1561,
+    "timeWeek": 774,
+    "timeMonth": 1563,
     "timeYear": 968,
     "dailyMinutesDown": {
       "2023-07-13": 986,
@@ -147,19 +147,20 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "down",
-    "uptime": "99.46%",
-    "uptimeDay": "55.87%",
-    "uptimeWeek": "58.59%",
-    "uptimeMonth": "90.47%",
-    "uptimeYear": "99.21%",
-    "time": 1337,
-    "timeDay": 1432,
-    "timeWeek": 1906,
-    "timeMonth": 1341,
+    "status": "up",
+    "uptime": "99.45%",
+    "uptimeDay": "49.83%",
+    "uptimeWeek": "57.72%",
+    "uptimeMonth": "90.27%",
+    "uptimeYear": "99.19%",
+    "time": 1338,
+    "timeDay": 1703,
+    "timeWeek": 1919,
+    "timeMonth": 1346,
     "timeYear": 1350,
     "dailyMinutesDown": {
-      "2023-07-13": 636,
+      "2023-07-14": 57,
+      "2023-07-13": 666,
       "2023-07-12": 772,
       "2023-07-11": 503,
       "2023-07-10": 624,
@@ -345,7 +346,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "92.45%",
+    "uptimeYear": "92.47%",
     "time": 2098,
     "timeDay": 1927,
     "timeWeek": 2076,
@@ -386,8 +387,7 @@
       "2022-07-18": 1440,
       "2022-07-17": 1440,
       "2022-07-16": 1440,
-      "2022-07-15": 1440,
-      "2022-07-14": 1440
+      "2022-07-15": 1440
     }
   },
   {
@@ -837,12 +837,12 @@
     "slug": "adverse-drug-reaction-classification-system",
     "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "98.17%",
+    "uptimeDay": "98.32%",
     "uptimeWeek": "90.56%",
     "uptimeMonth": "87.27%",
     "uptimeYear": "98.94%",
     "time": 1607,
-    "timeDay": 1431,
+    "timeDay": 1432,
     "timeWeek": 1318,
     "timeMonth": 1436,
     "timeYear": 1595,
@@ -958,7 +958,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-13": 1412,
+      "2023-07-14": 60,
+      "2023-07-13": 1440,
       "2023-07-12": 1440,
       "2023-07-11": 1440,
       "2023-07-10": 1440,
@@ -1321,8 +1322,7 @@
       "2022-07-18": 1440,
       "2022-07-17": 1440,
       "2022-07-16": 1440,
-      "2022-07-15": 1440,
-      "2022-07-14": 1440
+      "2022-07-15": 1440
     }
   },
   {
@@ -1603,8 +1603,7 @@
       "2022-12-05": 16,
       "2022-11-03": 92,
       "2022-10-16": 18,
-      "2022-07-21": 51,
-      "2022-07-14": 16
+      "2022-07-21": 51
     }
   },
   {
