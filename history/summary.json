@@ -13,7 +13,7 @@
     "time": 874,
     "timeDay": 322,
     "timeWeek": 347,
-    "timeMonth": 767,
+    "timeMonth": 768,
     "timeYear": 873,
     "dailyMinutesDown": {
       "2023-07-15": 182,
@@ -53,7 +53,7 @@
     "time": 962,
     "timeDay": 410,
     "timeWeek": 915,
-    "timeMonth": 1602,
+    "timeMonth": 1607,
     "timeYear": 970,
     "dailyMinutesDown": {
       "2023-07-15": 179,
@@ -87,7 +87,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pubchem.ncbi.nlm.nih.gov.ico",
     "slug": "pub-chem",
     "status": "up",
-    "uptime": "97.93%",
+    "uptime": "97.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -149,14 +149,14 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "41.00%",
+    "uptimeDay": "45.48%",
     "uptimeWeek": "54.37%",
     "uptimeMonth": "89.22%",
     "uptimeYear": "99.10%",
     "time": 1335,
-    "timeDay": 1354,
+    "timeDay": 1399,
     "timeWeek": 1599,
-    "timeMonth": 1339,
+    "timeMonth": 1340,
     "timeYear": 1349,
     "dailyMinutesDown": {
       "2023-07-15": 840,
@@ -346,7 +346,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "93.00%",
+    "uptimeYear": "93.03%",
     "time": 2090,
     "timeDay": 1956,
     "timeWeek": 2087,
@@ -385,8 +385,7 @@
       "2022-07-20": 1440,
       "2022-07-19": 1440,
       "2022-07-18": 1440,
-      "2022-07-17": 1440,
-      "2022-07-16": 1440
+      "2022-07-17": 1440
     }
   },
   {
@@ -474,7 +473,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bioanalysis.cau.ac.kr.ico",
     "slug": "card-pred",
     "status": "up",
-    "uptime": "89.92%",
+    "uptime": "89.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -657,12 +656,12 @@
     "uptime": "96.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.41%",
+    "uptimeMonth": "99.49%",
     "uptimeYear": "96.06%",
     "time": 302,
     "timeDay": 278,
     "timeWeek": 204,
-    "timeMonth": 289,
+    "timeMonth": 291,
     "timeYear": 303,
     "dailyMinutesDown": {
       "2023-06-27": 223,
@@ -835,7 +834,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
     "status": "up",
-    "uptime": "99.28%",
+    "uptime": "99.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.70%",
     "uptimeMonth": "87.38%",
@@ -956,7 +955,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-15": 1432,
+      "2023-07-16": 120,
+      "2023-07-15": 1440,
       "2023-07-14": 1440,
       "2023-07-13": 1440,
       "2023-07-12": 1440,
@@ -1319,8 +1319,7 @@
       "2022-07-20": 1440,
       "2022-07-19": 1440,
       "2022-07-18": 1440,
-      "2022-07-17": 1440,
-      "2022-07-16": 1440
+      "2022-07-17": 1440
     }
   },
   {
