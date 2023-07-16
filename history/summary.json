@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "93.88%",
-    "uptimeWeek": "89.52%",
-    "uptimeMonth": "93.53%",
+    "status": "down",
+    "uptime": "99.74%",
+    "uptimeDay": "93.85%",
+    "uptimeWeek": "89.50%",
+    "uptimeMonth": "93.57%",
     "uptimeYear": "99.46%",
     "time": 873,
     "timeDay": 355,
@@ -16,7 +16,7 @@
     "timeMonth": 775,
     "timeYear": 874,
     "dailyMinutesDown": {
-      "2023-07-16": 59,
+      "2023-07-16": 61,
       "2023-07-15": 182,
       "2023-07-14": 232,
       "2023-07-13": 266,
@@ -36,7 +36,7 @@
       "2023-06-29": 20,
       "2023-06-28": 198,
       "2023-06-27": 190,
-      "2023-06-26": 45
+      "2023-06-26": 27
     }
   },
   {
@@ -44,11 +44,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "94.01%",
-    "uptimeWeek": "82.51%",
-    "uptimeMonth": "91.37%",
+    "uptimeDay": "93.99%",
+    "uptimeWeek": "82.49%",
+    "uptimeMonth": "91.40%",
     "uptimeYear": "99.28%",
     "time": 961,
     "timeDay": 308,
@@ -56,7 +56,7 @@
     "timeMonth": 1538,
     "timeYear": 970,
     "dailyMinutesDown": {
-      "2023-07-16": 57,
+      "2023-07-16": 59,
       "2023-07-15": 179,
       "2023-07-14": 229,
       "2023-07-13": 986,
@@ -78,7 +78,7 @@
       "2023-06-27": 159,
       "2023-06-26": 64,
       "2023-06-25": 245,
-      "2023-06-24": 35
+      "2023-06-24": 19
     }
   },
   {
@@ -126,12 +126,12 @@
     "uptime": "99.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.73%",
+    "uptimeMonth": "90.79%",
     "uptimeYear": "99.22%",
     "time": 342,
     "timeDay": 305,
     "timeWeek": 277,
-    "timeMonth": 319,
+    "timeMonth": 326,
     "timeYear": 326,
     "dailyMinutesDown": {
       "2023-06-19": 1076,
@@ -147,26 +147,25 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "61.25%",
-    "uptimeWeek": "55.28%",
-    "uptimeMonth": "89.71%",
-    "uptimeYear": "99.14%",
+    "uptimeDay": "63.46%",
+    "uptimeWeek": "55.68%",
+    "uptimeMonth": "89.80%",
+    "uptimeYear": "99.15%",
     "time": 1337,
     "timeDay": 1432,
     "timeWeek": 1514,
-    "timeMonth": 1329,
+    "timeMonth": 1330,
     "timeYear": 1349,
     "dailyMinutesDown": {
-      "2023-07-16": 465,
+      "2023-07-16": 467,
       "2023-07-15": 840,
       "2023-07-14": 596,
       "2023-07-13": 666,
       "2023-07-12": 772,
       "2023-07-11": 503,
-      "2023-07-10": 624,
-      "2023-07-09": 42
+      "2023-07-10": 624
     }
   },
   {
@@ -833,18 +832,19 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.22%",
-    "uptimeMonth": "87.38%",
-    "uptimeYear": "98.95%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "95.18%",
+    "uptimeMonth": "87.49%",
+    "uptimeYear": "98.96%",
     "time": 1608,
-    "timeDay": 1283,
-    "timeWeek": 1315,
-    "timeMonth": 1437,
-    "timeYear": 1593,
+    "timeDay": 1184,
+    "timeWeek": 1299,
+    "timeMonth": 1435,
+    "timeYear": 1592,
     "dailyMinutesDown": {
+      "2023-07-16": 4,
       "2023-07-14": 95,
       "2023-07-13": 24,
       "2023-07-12": 56,
@@ -863,7 +863,7 @@
       "2023-06-29": 494,
       "2023-06-28": 582,
       "2023-06-27": 436,
-      "2023-06-26": 431
+      "2023-06-26": 376
     }
   },
   {
@@ -955,7 +955,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-16": 1331,
+      "2023-07-16": 1366,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
       "2023-07-13": 1440,
