@@ -4,19 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "85.46%",
-    "uptimeWeek": "88.07%",
-    "uptimeMonth": "93.45%",
-    "uptimeYear": "99.45%",
+    "uptimeDay": "85.38%",
+    "uptimeWeek": "88.06%",
+    "uptimeMonth": "93.49%",
+    "uptimeYear": "99.46%",
     "time": 869,
     "timeDay": 336,
     "timeWeek": 352,
     "timeMonth": 482,
     "timeYear": 872,
     "dailyMinutesDown": {
-      "2023-07-18": 40,
+      "2023-07-18": 41,
       "2023-07-17": 170,
       "2023-07-16": 88,
       "2023-07-15": 182,
@@ -37,7 +37,7 @@
       "2023-06-30": 92,
       "2023-06-29": 20,
       "2023-06-28": 198,
-      "2023-06-27": 32
+      "2023-06-27": 16
     }
   },
   {
@@ -45,11 +45,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "86.75%",
-    "uptimeWeek": "81.24%",
-    "uptimeMonth": "91.60%",
+    "uptimeDay": "86.66%",
+    "uptimeWeek": "81.22%",
+    "uptimeMonth": "91.65%",
     "uptimeYear": "99.30%",
     "time": 961,
     "timeDay": 535,
@@ -57,7 +57,7 @@
     "timeMonth": 516,
     "timeYear": 972,
     "dailyMinutesDown": {
-      "2023-07-18": 25,
+      "2023-07-18": 26,
       "2023-07-17": 165,
       "2023-07-16": 86,
       "2023-07-15": 179,
@@ -78,8 +78,7 @@
       "2023-06-30": 91,
       "2023-06-29": 19,
       "2023-06-28": 195,
-      "2023-06-27": 159,
-      "2023-06-26": 27
+      "2023-06-27": 159
     }
   },
   {
@@ -127,7 +126,7 @@
     "uptime": "99.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.98%",
+    "uptimeMonth": "95.02%",
     "uptimeYear": "99.22%",
     "time": 341,
     "timeDay": 302,
@@ -957,7 +956,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-18": 318,
+      "2023-07-18": 335,
       "2023-07-17": 1440,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
