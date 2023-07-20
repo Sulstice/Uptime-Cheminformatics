@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "90.05%",
-    "uptimeWeek": "88.01%",
-    "uptimeMonth": "93.59%",
+    "uptimeDay": "89.86%",
+    "uptimeWeek": "87.98%",
+    "uptimeMonth": "93.62%",
     "uptimeYear": "99.47%",
     "time": 868,
     "timeDay": 376,
@@ -16,6 +16,7 @@
     "timeMonth": 472,
     "timeYear": 870,
     "dailyMinutesDown": {
+      "2023-07-20": 3,
       "2023-07-19": 143,
       "2023-07-18": 129,
       "2023-07-17": 170,
@@ -35,7 +36,7 @@
       "2023-07-03": 217,
       "2023-07-02": 142,
       "2023-07-01": 85,
-      "2023-06-30": 52
+      "2023-06-30": 36
     }
   },
   {
@@ -43,11 +44,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "36.77%",
-    "uptimeWeek": "70.63%",
-    "uptimeMonth": "88.96%",
+    "uptimeDay": "38.28%",
+    "uptimeWeek": "70.60%",
+    "uptimeMonth": "88.99%",
     "uptimeYear": "99.08%",
     "time": 961,
     "timeDay": 413,
@@ -55,6 +56,7 @@
     "timeMonth": 530,
     "timeYear": 974,
     "dailyMinutesDown": {
+      "2023-07-20": 3,
       "2023-07-19": 1147,
       "2023-07-18": 170,
       "2023-07-17": 165,
@@ -77,7 +79,7 @@
       "2023-06-30": 91,
       "2023-06-29": 19,
       "2023-06-28": 195,
-      "2023-06-27": 48
+      "2023-06-27": 32
     }
   },
   {
@@ -148,9 +150,9 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "50.55%",
-    "uptimeWeek": "55.34%",
-    "uptimeMonth": "89.72%",
+    "uptimeDay": "51.35%",
+    "uptimeWeek": "55.16%",
+    "uptimeMonth": "89.68%",
     "uptimeYear": "99.14%",
     "time": 1334,
     "timeDay": 1276,
@@ -158,14 +160,14 @@
     "timeMonth": 1334,
     "timeYear": 1349,
     "dailyMinutesDown": {
-      "2023-07-20": 166,
+      "2023-07-20": 154,
       "2023-07-19": 706,
       "2023-07-18": 562,
       "2023-07-17": 732,
       "2023-07-16": 532,
       "2023-07-15": 840,
       "2023-07-14": 596,
-      "2023-07-13": 367
+      "2023-07-13": 397
     }
   },
   {
@@ -346,7 +348,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "94.14%",
+    "uptimeYear": "94.15%",
     "time": 2092,
     "timeDay": 1969,
     "timeWeek": 2022,
@@ -547,10 +549,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/ctdbase.org.ico",
     "slug": "comparative-toxicogenomics-database",
     "status": "down",
-    "uptime": "95.90%",
+    "uptime": "95.89%",
     "uptimeDay": "71.63%",
-    "uptimeWeek": "95.87%",
-    "uptimeMonth": "97.16%",
+    "uptimeWeek": "95.63%",
+    "uptimeMonth": "97.11%",
     "uptimeYear": "97.04%",
     "time": 698,
     "timeDay": 520,
@@ -558,7 +560,7 @@
     "timeMonth": 460,
     "timeYear": 711,
     "dailyMinutesDown": {
-      "2023-07-20": 71,
+      "2023-07-20": 95,
       "2023-07-19": 346,
       "2023-07-08": 390,
       "2023-07-01": 17,
@@ -958,7 +960,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-20": 240,
+      "2023-07-20": 264,
       "2023-07-19": 1440,
       "2023-07-18": 1440,
       "2023-07-17": 1440,
