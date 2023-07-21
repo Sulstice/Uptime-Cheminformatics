@@ -4,19 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "down",
+    "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "91.12%",
-    "uptimeWeek": "89.38%",
-    "uptimeMonth": "93.55%",
+    "uptimeDay": "90.43%",
+    "uptimeWeek": "89.28%",
+    "uptimeMonth": "93.53%",
     "uptimeYear": "99.46%",
     "time": 866,
-    "timeDay": 368,
-    "timeWeek": 360,
+    "timeDay": 377,
+    "timeWeek": 362,
     "timeMonth": 413,
     "timeYear": 868,
     "dailyMinutesDown": {
-      "2023-07-20": 127,
+      "2023-07-20": 137,
       "2023-07-19": 143,
       "2023-07-18": 129,
       "2023-07-17": 170,
@@ -43,19 +43,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "down",
+    "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "91.29%",
-    "uptimeWeek": "79.17%",
-    "uptimeMonth": "89.10%",
+    "uptimeDay": "90.63%",
+    "uptimeWeek": "79.07%",
+    "uptimeMonth": "89.08%",
     "uptimeYear": "99.09%",
-    "time": 962,
-    "timeDay": 512,
+    "time": 961,
+    "timeDay": 526,
     "timeWeek": 475,
     "timeMonth": 487,
     "timeYear": 974,
     "dailyMinutesDown": {
-      "2023-07-20": 125,
+      "2023-07-20": 135,
       "2023-07-19": 1147,
       "2023-07-18": 170,
       "2023-07-17": 165,
@@ -148,7 +148,7 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "49.43%",
+    "uptimeDay": "49.54%",
     "uptimeWeek": "56.33%",
     "uptimeMonth": "89.95%",
     "uptimeYear": "99.16%",
@@ -379,8 +379,7 @@
       "2022-07-25": 1440,
       "2022-07-24": 1440,
       "2022-07-23": 1440,
-      "2022-07-22": 1440,
-      "2022-07-21": 1440
+      "2022-07-22": 1440
     }
   },
   {
@@ -957,7 +956,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-20": 1433,
+      "2023-07-21": 2,
+      "2023-07-20": 1440,
       "2023-07-19": 1440,
       "2023-07-18": 1440,
       "2023-07-17": 1440,
@@ -1320,8 +1320,7 @@
       "2022-07-25": 1440,
       "2022-07-24": 1440,
       "2022-07-23": 1440,
-      "2022-07-22": 1440,
-      "2022-07-21": 1440
+      "2022-07-22": 1440
     }
   },
   {
@@ -1601,8 +1600,7 @@
       "2023-01-01": 29,
       "2022-12-05": 16,
       "2022-11-03": 92,
-      "2022-10-16": 18,
-      "2022-07-21": 51
+      "2022-10-16": 18
     }
   },
   {
