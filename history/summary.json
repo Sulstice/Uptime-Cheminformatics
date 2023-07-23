@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "90.31%",
-    "uptimeWeek": "90.43%",
-    "uptimeMonth": "93.52%",
+    "uptimeDay": "90.20%",
+    "uptimeWeek": "90.41%",
+    "uptimeMonth": "93.57%",
     "uptimeYear": "99.46%",
     "time": 863,
     "timeDay": 373,
@@ -16,7 +16,7 @@
     "timeMonth": 409,
     "timeYear": 862,
     "dailyMinutesDown": {
-      "2023-07-23": 36,
+      "2023-07-23": 38,
       "2023-07-22": 175,
       "2023-07-21": 121,
       "2023-07-20": 126,
@@ -36,7 +36,7 @@
       "2023-07-06": 118,
       "2023-07-05": 253,
       "2023-07-04": 114,
-      "2023-07-03": 66
+      "2023-07-03": 44
     }
   },
   {
@@ -44,11 +44,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "90.42%",
-    "uptimeWeek": "80.17%",
-    "uptimeMonth": "88.82%",
+    "status": "down",
+    "uptime": "99.55%",
+    "uptimeDay": "90.31%",
+    "uptimeWeek": "80.15%",
+    "uptimeMonth": "88.86%",
     "uptimeYear": "99.07%",
     "time": 1037,
     "timeDay": 6367,
@@ -56,7 +56,7 @@
     "timeMonth": 1090,
     "timeYear": 1052,
     "dailyMinutesDown": {
-      "2023-07-23": 36,
+      "2023-07-23": 38,
       "2023-07-22": 175,
       "2023-07-21": 119,
       "2023-07-20": 124,
@@ -78,7 +78,7 @@
       "2023-07-04": 111,
       "2023-07-03": 212,
       "2023-07-02": 140,
-      "2023-07-01": 43
+      "2023-07-01": 24
     }
   },
   {
@@ -156,7 +156,7 @@
     "time": 1354,
     "timeDay": 2952,
     "timeWeek": 2118,
-    "timeMonth": 1540,
+    "timeMonth": 1541,
     "timeYear": 1367,
     "dailyMinutesDown": {
       "2023-07-23": 375,
@@ -347,7 +347,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.04%",
+    "uptimeYear": "95.05%",
     "time": 2089,
     "timeDay": 1757,
     "timeWeek": 1992,
@@ -467,10 +467,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/bioanalysis.cau.ac.kr.ico",
     "slug": "card-pred",
     "status": "down",
-    "uptime": "89.75%",
+    "uptime": "89.74%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "75.34%",
-    "uptimeMonth": "94.33%",
+    "uptimeWeek": "75.19%",
+    "uptimeMonth": "94.29%",
     "uptimeYear": "85.18%",
     "time": 975,
     "timeDay": 0,
@@ -478,7 +478,7 @@
     "timeMonth": 1030,
     "timeYear": 1006,
     "dailyMinutesDown": {
-      "2023-07-23": 655,
+      "2023-07-23": 670,
       "2023-07-22": 1440,
       "2023-07-21": 391,
       "2023-02-05": 396,
@@ -960,7 +960,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-23": 656,
+      "2023-07-23": 671,
       "2023-07-22": 1440,
       "2023-07-21": 1440,
       "2023-07-20": 1440,
@@ -1407,7 +1407,7 @@
     "uptime": "98.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "77.54%",
+    "uptimeMonth": "77.57%",
     "uptimeYear": "98.04%",
     "time": 524,
     "timeDay": 557,
