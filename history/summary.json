@@ -6,9 +6,9 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "88.19%",
-    "uptimeWeek": "89.74%",
-    "uptimeMonth": "93.56%",
+    "uptimeDay": "88.74%",
+    "uptimeWeek": "89.82%",
+    "uptimeMonth": "93.54%",
     "uptimeYear": "99.46%",
     "time": 861,
     "timeDay": 411,
@@ -16,7 +16,7 @@
     "timeMonth": 410,
     "timeYear": 858,
     "dailyMinutesDown": {
-      "2023-07-24": 55,
+      "2023-07-24": 47,
       "2023-07-23": 115,
       "2023-07-22": 175,
       "2023-07-21": 121,
@@ -36,7 +36,7 @@
       "2023-07-07": 77,
       "2023-07-06": 118,
       "2023-07-05": 253,
-      "2023-07-04": 26
+      "2023-07-04": 44
     }
   },
   {
@@ -46,9 +46,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "88.40%",
-    "uptimeWeek": "79.50%",
-    "uptimeMonth": "88.82%",
+    "uptimeDay": "88.91%",
+    "uptimeWeek": "79.57%",
+    "uptimeMonth": "88.79%",
     "uptimeYear": "99.07%",
     "time": 1058,
     "timeDay": 5303,
@@ -56,7 +56,7 @@
     "timeMonth": 1256,
     "timeYear": 1073,
     "dailyMinutesDown": {
-      "2023-07-24": 53,
+      "2023-07-24": 46,
       "2023-07-23": 113,
       "2023-07-22": 175,
       "2023-07-21": 119,
@@ -78,7 +78,7 @@
       "2023-07-05": 248,
       "2023-07-04": 111,
       "2023-07-03": 212,
-      "2023-07-02": 54
+      "2023-07-02": 73
     }
   },
   {
@@ -150,16 +150,16 @@
     "status": "down",
     "uptime": "99.44%",
     "uptimeDay": "56.75%",
-    "uptimeWeek": "56.56%",
-    "uptimeMonth": "90.00%",
-    "uptimeYear": "99.17%",
+    "uptimeWeek": "56.24%",
+    "uptimeMonth": "89.93%",
+    "uptimeYear": "99.16%",
     "time": 1355,
     "timeDay": 2419,
     "timeWeek": 2288,
     "timeMonth": 1567,
     "timeYear": 1371,
     "dailyMinutesDown": {
-      "2023-07-24": 183,
+      "2023-07-24": 215,
       "2023-07-23": 640,
       "2023-07-22": 726,
       "2023-07-21": 481,
@@ -174,18 +174,19 @@
     "url": "https://nmrshiftdb.nmr.uni-koeln.de/",
     "icon": "https://icons.duckduckgo.com/ip3/nmrshiftdb.nmr.uni-koeln.de.ico",
     "slug": "nmr-shift-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "98.88%",
-    "time": 3025,
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "98.89%",
+    "time": 3020,
     "timeDay": 1079,
     "timeWeek": 1114,
     "timeMonth": 2241,
     "timeYear": 3308,
     "dailyMinutesDown": {
+      "2023-07-24": 3,
       "2023-07-18": 57,
       "2023-07-07": 43,
       "2023-06-08": 24,
@@ -237,7 +238,7 @@
       "2023-01-19": 67,
       "2023-01-17": 29,
       "2022-12-22": 295,
-      "2022-12-21": 88
+      "2022-12-21": 30
     }
   },
   {
@@ -347,7 +348,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.25%",
+    "uptimeYear": "95.26%",
     "time": 2089,
     "timeDay": 2027,
     "timeWeek": 2002,
@@ -467,7 +468,7 @@
     "slug": "card-pred",
     "status": "up",
     "uptime": "89.75%",
-    "uptimeDay": "69.81%",
+    "uptimeDay": "72.05%",
     "uptimeWeek": "74.51%",
     "uptimeMonth": "94.14%",
     "uptimeYear": "85.17%",
@@ -959,7 +960,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-24": 304,
+      "2023-07-24": 336,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
       "2023-07-21": 1440,
@@ -1406,7 +1407,7 @@
     "uptime": "98.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "80.02%",
+    "uptimeMonth": "80.10%",
     "uptimeYear": "98.04%",
     "time": 524,
     "timeDay": 542,
