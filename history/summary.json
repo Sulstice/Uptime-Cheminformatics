@@ -12,7 +12,7 @@
     "uptimeYear": "99.48%",
     "time": 859,
     "timeDay": 356,
-    "timeWeek": 376,
+    "timeWeek": 377,
     "timeMonth": 407,
     "timeYear": 855,
     "dailyMinutesDown": {
@@ -51,8 +51,8 @@
     "uptimeYear": "99.08%",
     "time": 1059,
     "timeDay": 578,
-    "timeWeek": 4063,
-    "timeMonth": 1267,
+    "timeWeek": 4093,
+    "timeMonth": 1270,
     "timeYear": 1074,
     "dailyMinutesDown": {
       "2023-07-24": 169,
@@ -121,10 +121,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/webbook.nist.gov.ico",
     "slug": "nist-chemistry-webhook",
     "status": "down",
-    "uptime": "99.44%",
-    "uptimeDay": "82.82%",
-    "uptimeWeek": "97.55%",
-    "uptimeMonth": "99.44%",
+    "uptime": "99.43%",
+    "uptimeDay": "79.73%",
+    "uptimeWeek": "97.10%",
+    "uptimeMonth": "99.33%",
     "uptimeYear": "99.17%",
     "time": 340,
     "timeDay": 251,
@@ -132,7 +132,8 @@
     "timeMonth": 353,
     "timeYear": 327,
     "dailyMinutesDown": {
-      "2023-07-24": 247,
+      "2023-07-25": 22,
+      "2023-07-24": 270,
       "2023-06-19": 1076,
       "2023-06-18": 1440,
       "2023-06-17": 1440,
@@ -154,7 +155,7 @@
     "uptimeYear": "99.19%",
     "time": 1363,
     "timeDay": 2918,
-    "timeWeek": 2587,
+    "timeWeek": 2574,
     "timeMonth": 1632,
     "timeYear": 1377,
     "dailyMinutesDown": {
@@ -346,7 +347,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.46%",
+    "uptimeYear": "95.47%",
     "time": 2090,
     "timeDay": 1939,
     "timeWeek": 1965,
@@ -376,8 +377,7 @@
       "2022-07-29": 1440,
       "2022-07-28": 1440,
       "2022-07-27": 1440,
-      "2022-07-26": 1440,
-      "2022-07-25": 1440
+      "2022-07-26": 1440
     }
   },
   {
@@ -958,7 +958,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-24": 1419,
+      "2023-07-25": 24,
+      "2023-07-24": 1440,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
       "2023-07-21": 1440,
@@ -1321,8 +1322,7 @@
       "2022-07-29": 1440,
       "2022-07-28": 1440,
       "2022-07-27": 1440,
-      "2022-07-26": 1440,
-      "2022-07-25": 1440
+      "2022-07-26": 1440
     }
   },
   {
@@ -1405,7 +1405,7 @@
     "uptime": "98.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "82.57%",
+    "uptimeMonth": "82.67%",
     "uptimeYear": "98.04%",
     "time": 524,
     "timeDay": 511,
