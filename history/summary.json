@@ -150,11 +150,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "62.01%",
-    "uptimeWeek": "68.99%",
-    "uptimeMonth": "92.86%",
+    "uptimeDay": "61.89%",
+    "uptimeWeek": "69.21%",
+    "uptimeMonth": "92.92%",
     "uptimeYear": "99.41%",
     "time": 1392,
     "timeDay": 2139,
@@ -162,12 +162,12 @@
     "timeMonth": 2038,
     "timeYear": 1409,
     "dailyMinutesDown": {
-      "2023-07-30": 293,
+      "2023-07-30": 295,
       "2023-07-29": 587,
       "2023-07-28": 625,
       "2023-07-27": 715,
       "2023-07-26": 637,
-      "2023-07-25": 268
+      "2023-07-25": 244
     }
   },
   {
@@ -464,7 +464,7 @@
     "status": "up",
     "uptime": "89.87%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.54%",
+    "uptimeWeek": "99.63%",
     "uptimeMonth": "94.14%",
     "uptimeYear": "85.17%",
     "time": 978,
@@ -827,18 +827,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
     "status": "up",
-    "uptime": "99.11%",
-    "uptimeDay": "95.24%",
-    "uptimeWeek": "81.70%",
-    "uptimeMonth": "86.74%",
-    "uptimeYear": "98.65%",
+    "uptime": "99.10%",
+    "uptimeDay": "95.71%",
+    "uptimeWeek": "81.77%",
+    "uptimeMonth": "86.75%",
+    "uptimeYear": "98.64%",
     "time": 1610,
     "timeDay": 1579,
     "timeWeek": 1567,
     "timeMonth": 1426,
     "timeYear": 1590,
     "dailyMinutesDown": {
-      "2023-07-30": 7,
       "2023-07-29": 62,
       "2023-07-28": 529,
       "2023-07-27": 1231,
@@ -865,7 +864,8 @@
       "2023-07-01": 445,
       "2023-06-30": 247,
       "2023-06-29": 494,
-      "2023-06-28": 582
+      "2023-06-28": 582,
+      "2023-06-27": 57
     }
   },
   {
@@ -957,7 +957,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-30": 692,
+      "2023-07-30": 701,
       "2023-07-29": 1440,
       "2023-07-28": 1440,
       "2023-07-27": 1440,
