@@ -12,7 +12,7 @@
     "uptimeYear": "99.50%",
     "time": 837,
     "timeDay": 378,
-    "timeWeek": 371,
+    "timeWeek": 370,
     "timeMonth": 384,
     "timeYear": 837,
     "dailyMinutesDown": {
@@ -49,7 +49,7 @@
     "uptimeYear": "98.26%",
     "time": 1064,
     "timeDay": 368,
-    "timeWeek": 454,
+    "timeWeek": 409,
     "timeMonth": 1366,
     "timeYear": 1077,
     "dailyMinutesDown": {
@@ -94,7 +94,7 @@
     "uptimeYear": "96.96%",
     "time": 655,
     "timeDay": 79,
-    "timeWeek": 332,
+    "timeWeek": 364,
     "timeMonth": 424,
     "timeYear": 693,
     "dailyMinutesDown": {
@@ -130,7 +130,7 @@
     "uptimeYear": "99.02%",
     "time": 339,
     "timeDay": 478,
-    "timeWeek": 381,
+    "timeWeek": 403,
     "timeMonth": 381,
     "timeYear": 334,
     "dailyMinutesDown": {
@@ -150,23 +150,23 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "58.85%",
-    "uptimeWeek": "69.05%",
-    "uptimeMonth": "92.88%",
-    "uptimeYear": "99.41%",
+    "uptimeDay": "58.72%",
+    "uptimeWeek": "69.61%",
+    "uptimeMonth": "93.01%",
+    "uptimeYear": "99.42%",
     "time": 1396,
     "timeDay": 2242,
-    "timeWeek": 2573,
+    "timeWeek": 2582,
     "timeMonth": 2070,
     "timeYear": 1410,
     "dailyMinutesDown": {
-      "2023-07-30": 578,
+      "2023-07-30": 580,
       "2023-07-29": 587,
       "2023-07-28": 625,
       "2023-07-27": 715,
-      "2023-07-26": 613
+      "2023-07-26": 554
     }
   },
   {
@@ -182,7 +182,7 @@
     "uptimeYear": "98.90%",
     "time": 3169,
     "timeDay": 1053,
-    "timeWeek": 1355,
+    "timeWeek": 1386,
     "timeMonth": 2251,
     "timeYear": 3251,
     "dailyMinutesDown": {
@@ -254,7 +254,7 @@
     "uptimeYear": "99.98%",
     "time": 353,
     "timeDay": 223,
-    "timeWeek": 327,
+    "timeWeek": 331,
     "timeMonth": 305,
     "timeYear": 362,
     "dailyMinutesDown": {
@@ -275,7 +275,7 @@
     "uptimeYear": "99.36%",
     "time": 760,
     "timeDay": 638,
-    "timeWeek": 675,
+    "timeWeek": 649,
     "timeMonth": 670,
     "timeYear": 772,
     "dailyMinutesDown": {
@@ -348,10 +348,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.10%",
+    "uptimeYear": "97.11%",
     "time": 2094,
     "timeDay": 3218,
-    "timeWeek": 2145,
+    "timeWeek": 2161,
     "timeMonth": 2017,
     "timeYear": 2145,
     "dailyMinutesDown": {
@@ -389,7 +389,7 @@
     "uptimeYear": "99.98%",
     "time": 967,
     "timeDay": 496,
-    "timeWeek": 698,
+    "timeWeek": 711,
     "timeMonth": 770,
     "timeYear": 1051,
     "dailyMinutesDown": {
@@ -410,7 +410,7 @@
     "uptimeYear": "99.46%",
     "time": 3056,
     "timeDay": 907,
-    "timeWeek": 1084,
+    "timeWeek": 1026,
     "timeMonth": 1011,
     "timeYear": 3474,
     "dailyMinutesDown": {
@@ -448,7 +448,7 @@
     "uptimeYear": "99.98%",
     "time": 1334,
     "timeDay": 1060,
-    "timeWeek": 1068,
+    "timeWeek": 1093,
     "timeMonth": 1207,
     "timeYear": 1459,
     "dailyMinutesDown": {
@@ -461,14 +461,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/bioanalysis.cau.ac.kr.ico",
     "slug": "card-pred",
     "status": "up",
-    "uptime": "89.87%",
+    "uptime": "89.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.14%",
     "uptimeYear": "85.17%",
     "time": 978,
     "timeDay": 947,
-    "timeWeek": 942,
+    "timeWeek": 947,
     "timeMonth": 1011,
     "timeYear": 1003,
     "dailyMinutesDown": {
@@ -549,7 +549,7 @@
     "uptimeYear": "96.98%",
     "time": 682,
     "timeDay": 427,
-    "timeWeek": 457,
+    "timeWeek": 448,
     "timeMonth": 476,
     "timeYear": 721,
     "dailyMinutesDown": {
@@ -627,7 +627,7 @@
     "uptimeYear": "99.25%",
     "time": 1303,
     "timeDay": 1136,
-    "timeWeek": 1074,
+    "timeWeek": 1063,
     "timeMonth": 1037,
     "timeYear": 1277,
     "dailyMinutesDown": {
@@ -653,7 +653,7 @@
     "uptimeYear": "96.05%",
     "time": 298,
     "timeDay": 65,
-    "timeWeek": 218,
+    "timeWeek": 230,
     "timeMonth": 265,
     "timeYear": 303,
     "dailyMinutesDown": {
@@ -705,7 +705,7 @@
     "uptimeYear": "99.23%",
     "time": 1236,
     "timeDay": 1000,
-    "timeWeek": 946,
+    "timeWeek": 930,
     "timeMonth": 1589,
     "timeYear": 1282,
     "dailyMinutesDown": {
@@ -743,7 +743,7 @@
     "uptimeYear": "99.72%",
     "time": 408,
     "timeDay": 294,
-    "timeWeek": 355,
+    "timeWeek": 358,
     "timeMonth": 397,
     "timeYear": 401,
     "dailyMinutesDown": {
@@ -764,7 +764,7 @@
     "uptimeYear": "99.77%",
     "time": 886,
     "timeDay": 489,
-    "timeWeek": 598,
+    "timeWeek": 609,
     "timeMonth": 796,
     "timeYear": 945,
     "dailyMinutesDown": {
@@ -793,7 +793,7 @@
     "uptimeYear": "99.83%",
     "time": 438,
     "timeDay": 221,
-    "timeWeek": 314,
+    "timeWeek": 319,
     "timeMonth": 376,
     "timeYear": 497,
     "dailyMinutesDown": {
@@ -826,18 +826,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
     "status": "down",
-    "uptime": "99.11%",
-    "uptimeDay": "97.58%",
-    "uptimeWeek": "81.42%",
-    "uptimeMonth": "86.80%",
+    "uptime": "99.10%",
+    "uptimeDay": "96.62%",
+    "uptimeWeek": "81.28%",
+    "uptimeMonth": "86.77%",
     "uptimeYear": "98.65%",
     "time": 1609,
     "timeDay": 1334,
-    "timeWeek": 1511,
+    "timeWeek": 1482,
     "timeMonth": 1424,
     "timeYear": 1590,
     "dailyMinutesDown": {
-      "2023-07-30": 35,
+      "2023-07-30": 49,
       "2023-07-29": 62,
       "2023-07-28": 529,
       "2023-07-27": 1231,
@@ -880,7 +880,7 @@
     "uptimeYear": "94.74%",
     "time": 5174,
     "timeDay": 18661,
-    "timeWeek": 11338,
+    "timeWeek": 12436,
     "timeMonth": 4667,
     "timeYear": 5297,
     "dailyMinutesDown": {
@@ -919,7 +919,7 @@
     "uptimeYear": "99.73%",
     "time": 544,
     "timeDay": 220,
-    "timeWeek": 1143,
+    "timeWeek": 1271,
     "timeMonth": 637,
     "timeYear": 556,
     "dailyMinutesDown": {
@@ -956,7 +956,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-30": 1389,
+      "2023-07-30": 1403,
       "2023-07-29": 1440,
       "2023-07-28": 1440,
       "2023-07-27": 1440,
@@ -1336,7 +1336,7 @@
     "uptimeYear": "100.00%",
     "time": 364,
     "timeDay": 527,
-    "timeWeek": 367,
+    "timeWeek": 352,
     "timeMonth": 342,
     "timeYear": 366,
     "dailyMinutesDown": {}
@@ -1354,7 +1354,7 @@
     "uptimeYear": "98.90%",
     "time": 920,
     "timeDay": 895,
-    "timeWeek": 857,
+    "timeWeek": 837,
     "timeMonth": 791,
     "timeYear": 960,
     "dailyMinutesDown": {
@@ -1385,7 +1385,7 @@
     "uptimeYear": "99.91%",
     "time": 394,
     "timeDay": 506,
-    "timeWeek": 420,
+    "timeWeek": 396,
     "timeMonth": 372,
     "timeYear": 380,
     "dailyMinutesDown": {
@@ -1407,7 +1407,7 @@
     "uptimeYear": "98.04%",
     "time": 527,
     "timeDay": 528,
-    "timeWeek": 561,
+    "timeWeek": 564,
     "timeMonth": 550,
     "timeYear": 534,
     "dailyMinutesDown": {
@@ -1439,7 +1439,7 @@
     "uptimeYear": "100.00%",
     "time": 1001,
     "timeDay": 3272,
-    "timeWeek": 1448,
+    "timeWeek": 1507,
     "timeMonth": 1135,
     "timeYear": 1044,
     "dailyMinutesDown": {
@@ -1459,7 +1459,7 @@
     "uptimeYear": "99.96%",
     "time": 2359,
     "timeDay": 3287,
-    "timeWeek": 3081,
+    "timeWeek": 3067,
     "timeMonth": 3070,
     "timeYear": 2508,
     "dailyMinutesDown": {
@@ -1482,7 +1482,7 @@
     "uptimeYear": "99.13%",
     "time": 865,
     "timeDay": 222,
-    "timeWeek": 308,
+    "timeWeek": 322,
     "timeMonth": 428,
     "timeYear": 892,
     "dailyMinutesDown": {
@@ -1582,7 +1582,7 @@
     "uptimeYear": "99.58%",
     "time": 1080,
     "timeDay": 632,
-    "timeWeek": 1548,
+    "timeWeek": 1521,
     "timeMonth": 1329,
     "timeYear": 1177,
     "dailyMinutesDown": {
@@ -1621,7 +1621,7 @@
     "uptimeYear": "99.98%",
     "time": 1302,
     "timeDay": 1066,
-    "timeWeek": 1147,
+    "timeWeek": 1157,
     "timeMonth": 1193,
     "timeYear": 1328,
     "dailyMinutesDown": {
@@ -1646,7 +1646,7 @@
     "uptimeYear": "99.36%",
     "time": 850,
     "timeDay": 325,
-    "timeWeek": 372,
+    "timeWeek": 385,
     "timeMonth": 578,
     "timeYear": 854,
     "dailyMinutesDown": {
