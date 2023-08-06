@@ -4,19 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "90.65%",
-    "uptimeWeek": "94.93%",
-    "uptimeMonth": "94.53%",
-    "uptimeYear": "99.54%",
+    "uptimeDay": "90.54%",
+    "uptimeWeek": "94.91%",
+    "uptimeMonth": "94.60%",
+    "uptimeYear": "99.55%",
     "time": 823,
-    "timeDay": 355,
+    "timeDay": 357,
     "timeWeek": 394,
-    "timeMonth": 372,
+    "timeMonth": 373,
     "timeYear": 821,
     "dailyMinutesDown": {
-      "2023-08-06": 95,
+      "2023-08-06": 97,
       "2023-08-05": 110,
       "2023-08-04": 45,
       "2023-08-03": 81,
@@ -36,7 +36,7 @@
       "2023-07-20": 126,
       "2023-07-19": 143,
       "2023-07-18": 129,
-      "2023-07-17": 52
+      "2023-07-17": 19
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "98.98%",
-    "uptimeDay": "90.89%",
-    "uptimeWeek": "73.23%",
-    "uptimeMonth": "74.55%",
+    "uptimeDay": "90.77%",
+    "uptimeWeek": "73.22%",
+    "uptimeMonth": "74.59%",
     "uptimeYear": "97.88%",
     "time": 1067,
-    "timeDay": 456,
+    "timeDay": 462,
     "timeWeek": 558,
-    "timeMonth": 1398,
+    "timeMonth": 1400,
     "timeYear": 1081,
     "dailyMinutesDown": {
-      "2023-08-06": 92,
+      "2023-08-06": 94,
       "2023-08-05": 106,
       "2023-08-04": 44,
       "2023-08-03": 79,
@@ -81,8 +81,7 @@
       "2023-07-15": 179,
       "2023-07-14": 229,
       "2023-07-13": 986,
-      "2023-07-12": 38,
-      "2023-07-11": 20
+      "2023-07-12": 38
     }
   },
   {
@@ -154,11 +153,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "50.57%",
-    "uptimeWeek": "68.06%",
-    "uptimeMonth": "92.65%",
+    "uptimeDay": "51.15%",
+    "uptimeWeek": "68.21%",
+    "uptimeMonth": "92.68%",
     "uptimeYear": "99.39%",
     "time": 1404,
     "timeDay": 1279,
@@ -166,11 +165,11 @@
     "timeMonth": 2062,
     "timeYear": 1420,
     "dailyMinutesDown": {
-      "2023-08-06": 587,
+      "2023-08-06": 589,
       "2023-08-05": 731,
       "2023-08-04": 637,
       "2023-08-03": 726,
-      "2023-08-02": 533
+      "2023-08-02": 517
     }
   },
   {
@@ -960,7 +959,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-06": 1179,
+      "2023-08-06": 1189,
       "2023-08-05": 1440,
       "2023-08-04": 1440,
       "2023-08-03": 1440,
