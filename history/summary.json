@@ -6,17 +6,17 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "82.08%",
-    "uptimeWeek": "73.59%",
-    "uptimeMonth": "90.58%",
-    "uptimeYear": "99.22%",
+    "uptimeDay": "83.44%",
+    "uptimeWeek": "73.70%",
+    "uptimeMonth": "90.55%",
+    "uptimeYear": "99.21%",
     "time": 812,
     "timeDay": 586,
     "timeWeek": 457,
     "timeMonth": 390,
     "timeYear": 812,
     "dailyMinutesDown": {
-      "2023-08-12": 30,
+      "2023-08-12": 19,
       "2023-08-11": 1025,
       "2023-08-10": 992,
       "2023-08-09": 137,
@@ -36,7 +36,8 @@
       "2023-07-26": 197,
       "2023-07-25": 232,
       "2023-07-24": 171,
-      "2023-07-23": 115
+      "2023-07-23": 115,
+      "2023-07-22": 23
     }
   },
   {
@@ -46,9 +47,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "94.18%",
-    "uptimeWeek": "90.19%",
-    "uptimeMonth": "76.85%",
+    "uptimeDay": "94.89%",
+    "uptimeWeek": "90.29%",
+    "uptimeMonth": "76.84%",
     "uptimeYear": "98.07%",
     "time": 1083,
     "timeDay": 632,
@@ -56,7 +57,7 @@
     "timeMonth": 1376,
     "timeYear": 1093,
     "dailyMinutesDown": {
-      "2023-08-12": 28,
+      "2023-08-12": 18,
       "2023-08-11": 135,
       "2023-08-10": 179,
       "2023-08-09": 161,
@@ -81,7 +82,7 @@
       "2023-07-21": 119,
       "2023-07-20": 124,
       "2023-07-19": 1147,
-      "2023-07-18": 58
+      "2023-07-18": 74
     }
   },
   {
@@ -153,24 +154,24 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "52.21%",
-    "uptimeWeek": "70.90%",
-    "uptimeMonth": "93.30%",
+    "uptimeDay": "52.29%",
+    "uptimeWeek": "71.05%",
+    "uptimeMonth": "93.34%",
     "uptimeYear": "99.44%",
-    "time": 1397,
-    "timeDay": 881,
+    "time": 1398,
+    "timeDay": 888,
     "timeWeek": 1116,
     "timeMonth": 1831,
     "timeYear": 1412,
     "dailyMinutesDown": {
-      "2023-08-12": 453,
+      "2023-08-12": 455,
       "2023-08-11": 666,
       "2023-08-10": 567,
       "2023-08-09": 469,
       "2023-08-08": 586,
-      "2023-08-07": 190
+      "2023-08-07": 174
     }
   },
   {
@@ -457,7 +458,7 @@
     "slug": "card-pred",
     "status": "up",
     "uptime": "89.86%",
-    "uptimeDay": "21.68%",
+    "uptimeDay": "22.36%",
     "uptimeWeek": "80.51%",
     "uptimeMonth": "89.65%",
     "uptimeYear": "84.79%",
@@ -541,7 +542,7 @@
     "slug": "comparative-toxicogenomics-database",
     "status": "up",
     "uptime": "96.06%",
-    "uptimeDay": "88.44%",
+    "uptimeDay": "89.11%",
     "uptimeWeek": "98.27%",
     "uptimeMonth": "97.78%",
     "uptimeYear": "96.94%",
@@ -965,7 +966,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-12": 800,
+      "2023-08-12": 809,
       "2023-08-11": 1440,
       "2023-08-10": 1440,
       "2023-08-09": 1440,
