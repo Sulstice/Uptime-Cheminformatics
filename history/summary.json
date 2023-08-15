@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "57.79%",
-    "uptimeWeek": "69.75%",
-    "uptimeMonth": "89.36%",
+    "uptimeDay": "58.23%",
+    "uptimeWeek": "69.81%",
+    "uptimeMonth": "89.38%",
     "uptimeYear": "99.11%",
     "time": 809,
     "timeDay": 430,
@@ -16,7 +16,7 @@
     "timeMonth": 404,
     "timeYear": 810,
     "dailyMinutesDown": {
-      "2023-08-14": 608,
+      "2023-08-14": 602,
       "2023-08-13": 63,
       "2023-08-12": 55,
       "2023-08-11": 1025,
@@ -45,11 +45,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "97.71%",
-    "uptimeWeek": "91.99%",
-    "uptimeMonth": "79.61%",
+    "uptimeDay": "98.11%",
+    "uptimeWeek": "92.05%",
+    "uptimeMonth": "79.62%",
     "uptimeYear": "98.30%",
     "time": 1088,
     "timeDay": 1111,
@@ -57,7 +57,7 @@
     "timeMonth": 1369,
     "timeYear": 1098,
     "dailyMinutesDown": {
-      "2023-08-14": 32,
+      "2023-08-14": 27,
       "2023-08-13": 62,
       "2023-08-12": 53,
       "2023-08-11": 135,
@@ -154,18 +154,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
     "status": "down",
-    "uptime": "99.67%",
+    "uptime": "99.66%",
     "uptimeDay": "59.50%",
-    "uptimeWeek": "72.93%",
-    "uptimeMonth": "93.77%",
+    "uptimeWeek": "72.84%",
+    "uptimeMonth": "93.75%",
     "uptimeYear": "99.48%",
     "time": 1403,
     "timeDay": 2787,
-    "timeWeek": 1348,
+    "timeWeek": 1350,
     "timeMonth": 1868,
     "timeYear": 1417,
     "dailyMinutesDown": {
-      "2023-08-14": 569,
+      "2023-08-14": 579,
       "2023-08-13": 546,
       "2023-08-12": 727,
       "2023-08-11": 666,
@@ -966,7 +966,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-14": 1430,
+      "2023-08-15": 0,
+      "2023-08-14": 1440,
       "2023-08-13": 1440,
       "2023-08-12": 1440,
       "2023-08-11": 1440,
@@ -1329,8 +1330,7 @@
       "2022-08-19": 1440,
       "2022-08-18": 1440,
       "2022-08-17": 1440,
-      "2022-08-16": 1440,
-      "2022-08-15": 1440
+      "2022-08-16": 1440
     }
   },
   {
@@ -1375,8 +1375,7 @@
       "2022-11-04": 874,
       "2022-10-11": 60,
       "2022-10-05": 16,
-      "2022-08-16": 75,
-      "2022-08-15": 401
+      "2022-08-16": 75
     }
   },
   {
