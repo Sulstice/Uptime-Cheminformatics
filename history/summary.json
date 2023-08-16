@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "92.60%",
-    "uptimeWeek": "70.91%",
-    "uptimeMonth": "89.71%",
+    "status": "down",
+    "uptime": "99.60%",
+    "uptimeDay": "92.48%",
+    "uptimeWeek": "70.90%",
+    "uptimeMonth": "89.74%",
     "uptimeYear": "99.14%",
     "time": 813,
     "timeDay": 1577,
@@ -16,7 +16,7 @@
     "timeMonth": 459,
     "timeYear": 815,
     "dailyMinutesDown": {
-      "2023-08-16": 90,
+      "2023-08-16": 92,
       "2023-08-15": 101,
       "2023-08-14": 606,
       "2023-08-13": 63,
@@ -37,8 +37,7 @@
       "2023-07-29": 95,
       "2023-07-28": 122,
       "2023-07-27": 127,
-      "2023-07-26": 197,
-      "2023-07-25": 16
+      "2023-07-26": 197
     }
   },
   {
@@ -46,19 +45,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
-    "uptime": "99.20%",
-    "uptimeDay": "92.73%",
-    "uptimeWeek": "93.57%",
-    "uptimeMonth": "79.86%",
-    "uptimeYear": "98.32%",
+    "status": "down",
+    "uptime": "99.21%",
+    "uptimeDay": "92.61%",
+    "uptimeWeek": "93.55%",
+    "uptimeMonth": "79.93%",
+    "uptimeYear": "98.33%",
     "time": 1099,
     "timeDay": 1878,
     "timeWeek": 884,
     "timeMonth": 1403,
     "timeYear": 1107,
     "dailyMinutesDown": {
-      "2023-08-16": 89,
+      "2023-08-16": 91,
       "2023-08-15": 100,
       "2023-08-14": 30,
       "2023-08-13": 62,
@@ -82,7 +81,7 @@
       "2023-07-26": 1440,
       "2023-07-25": 518,
       "2023-07-24": 169,
-      "2023-07-23": 113
+      "2023-07-23": 77
     }
   },
   {
@@ -157,8 +156,8 @@
     "status": "down",
     "uptime": "99.67%",
     "uptimeDay": "48.48%",
-    "uptimeWeek": "72.95%",
-    "uptimeMonth": "93.77%",
+    "uptimeWeek": "72.84%",
+    "uptimeMonth": "93.75%",
     "uptimeYear": "99.48%",
     "time": 1419,
     "timeDay": 2386,
@@ -166,7 +165,7 @@
     "timeMonth": 1961,
     "timeYear": 1431,
     "dailyMinutesDown": {
-      "2023-08-16": 657,
+      "2023-08-16": 667,
       "2023-08-15": 573,
       "2023-08-14": 581,
       "2023-08-13": 546,
@@ -967,7 +966,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-16": 1261,
+      "2023-08-16": 1272,
       "2023-08-15": 1440,
       "2023-08-14": 1440,
       "2023-08-13": 1440,
@@ -1367,7 +1366,7 @@
     "timeDay": 0,
     "timeWeek": 770,
     "timeMonth": 791,
-    "timeYear": 833,
+    "timeYear": 831,
     "dailyMinutesDown": {
       "2023-01-25": 24,
       "2022-11-07": 254,
@@ -1649,7 +1648,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rxn.res.ibm.com.ico",
     "slug": "ibm-rxn-for-chemistry",
     "status": "up",
-    "uptime": "99.48%",
+    "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
