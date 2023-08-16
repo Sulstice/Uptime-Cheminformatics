@@ -6,12 +6,12 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "92.53%",
-    "uptimeWeek": "70.40%",
+    "uptimeDay": "92.92%",
+    "uptimeWeek": "70.46%",
     "uptimeMonth": "89.36%",
     "uptimeYear": "99.11%",
     "time": 808,
-    "timeDay": 561,
+    "timeDay": 567,
     "timeWeek": 529,
     "timeMonth": 412,
     "timeYear": 809,
@@ -48,13 +48,13 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.20%",
-    "uptimeDay": "92.73%",
-    "uptimeWeek": "92.80%",
+    "uptimeDay": "93.13%",
+    "uptimeWeek": "92.85%",
     "uptimeMonth": "79.66%",
     "uptimeYear": "98.31%",
     "time": 1090,
-    "timeDay": 858,
-    "timeWeek": 1029,
+    "timeDay": 854,
+    "timeWeek": 1032,
     "timeMonth": 1366,
     "timeYear": 1100,
     "dailyMinutesDown": {
@@ -154,23 +154,24 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "58.96%",
-    "uptimeWeek": "72.77%",
-    "uptimeMonth": "93.73%",
+    "status": "down",
+    "uptime": "99.67%",
+    "uptimeDay": "60.05%",
+    "uptimeWeek": "72.91%",
+    "uptimeMonth": "93.77%",
     "uptimeYear": "99.48%",
     "time": 1411,
     "timeDay": 3337,
-    "timeWeek": 1713,
-    "timeMonth": 1940,
+    "timeWeek": 1717,
+    "timeMonth": 1938,
     "timeYear": 1427,
     "dailyMinutesDown": {
+      "2023-08-16": 1,
       "2023-08-15": 573,
       "2023-08-14": 581,
       "2023-08-13": 546,
       "2023-08-12": 727,
-      "2023-08-11": 314
+      "2023-08-11": 298
     }
   },
   {
@@ -967,7 +968,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-15": 1426,
+      "2023-08-16": 4,
+      "2023-08-15": 1440,
       "2023-08-14": 1440,
       "2023-08-13": 1440,
       "2023-08-12": 1440,
@@ -1330,8 +1332,7 @@
       "2022-08-20": 1440,
       "2022-08-19": 1440,
       "2022-08-18": 1440,
-      "2022-08-17": 1440,
-      "2022-08-16": 1440
+      "2022-08-17": 1440
     }
   },
   {
@@ -1375,8 +1376,7 @@
       "2022-11-05": 1440,
       "2022-11-04": 874,
       "2022-10-11": 60,
-      "2022-10-05": 16,
-      "2022-08-16": 75
+      "2022-10-05": 16
     }
   },
   {
