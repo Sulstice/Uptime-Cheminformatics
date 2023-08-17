@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "88.65%",
-    "uptimeWeek": "76.59%",
-    "uptimeMonth": "89.79%",
+    "uptimeDay": "88.54%",
+    "uptimeWeek": "76.67%",
+    "uptimeMonth": "89.82%",
     "uptimeYear": "99.15%",
     "time": 824,
     "timeDay": 3014,
@@ -16,7 +16,7 @@
     "timeMonth": 540,
     "timeYear": 825,
     "dailyMinutesDown": {
-      "2023-08-17": 134,
+      "2023-08-17": 136,
       "2023-08-16": 119,
       "2023-08-15": 101,
       "2023-08-14": 606,
@@ -37,8 +37,7 @@
       "2023-07-30": 76,
       "2023-07-29": 95,
       "2023-07-28": 122,
-      "2023-07-27": 127,
-      "2023-07-26": 16
+      "2023-07-27": 127
     }
   },
   {
@@ -46,11 +45,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.21%",
-    "uptimeDay": "88.90%",
-    "uptimeWeek": "93.76%",
-    "uptimeMonth": "79.96%",
+    "uptimeDay": "88.78%",
+    "uptimeWeek": "93.74%",
+    "uptimeMonth": "80.00%",
     "uptimeYear": "98.33%",
     "time": 1108,
     "timeDay": 3952,
@@ -58,7 +57,7 @@
     "timeMonth": 1524,
     "timeYear": 1121,
     "dailyMinutesDown": {
-      "2023-08-17": 132,
+      "2023-08-17": 134,
       "2023-08-16": 117,
       "2023-08-15": 100,
       "2023-08-14": 30,
@@ -82,7 +81,7 @@
       "2023-07-27": 1440,
       "2023-07-26": 1440,
       "2023-07-25": 518,
-      "2023-07-24": 78
+      "2023-07-24": 58
     }
   },
   {
@@ -156,17 +155,17 @@
     "slug": "chem-exper",
     "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "44.80%",
-    "uptimeWeek": "70.05%",
-    "uptimeMonth": "93.11%",
-    "uptimeYear": "99.43%",
+    "uptimeDay": "44.72%",
+    "uptimeWeek": "69.95%",
+    "uptimeMonth": "93.09%",
+    "uptimeYear": "99.42%",
     "time": 1419,
-    "timeDay": 2176,
+    "timeDay": 2234,
     "timeWeek": 1947,
     "timeMonth": 1994,
     "timeYear": 1434,
     "dailyMinutesDown": {
-      "2023-08-17": 663,
+      "2023-08-17": 672,
       "2023-08-16": 764,
       "2023-08-15": 573,
       "2023-08-14": 581,
@@ -968,7 +967,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-17": 1187,
+      "2023-08-17": 1198,
       "2023-08-16": 1440,
       "2023-08-15": 1440,
       "2023-08-14": 1440,
