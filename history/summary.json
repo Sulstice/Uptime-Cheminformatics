@@ -6,9 +6,9 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "87.44%",
-    "uptimeWeek": "86.58%",
-    "uptimeMonth": "89.77%",
+    "uptimeDay": "88.36%",
+    "uptimeWeek": "86.71%",
+    "uptimeMonth": "89.76%",
     "uptimeYear": "99.15%",
     "time": 839,
     "timeDay": 1627,
@@ -16,7 +16,7 @@
     "timeMonth": 661,
     "timeYear": 842,
     "dailyMinutesDown": {
-      "2023-08-19": 66,
+      "2023-08-19": 53,
       "2023-08-18": 225,
       "2023-08-17": 134,
       "2023-08-16": 119,
@@ -37,7 +37,7 @@
       "2023-08-01": 89,
       "2023-07-31": 44,
       "2023-07-30": 76,
-      "2023-07-29": 75
+      "2023-07-29": 95
     }
   },
   {
@@ -47,8 +47,8 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "87.15%",
-    "uptimeWeek": "92.36%",
+    "uptimeDay": "88.03%",
+    "uptimeWeek": "92.48%",
     "uptimeMonth": "90.08%",
     "uptimeYear": "99.17%",
     "time": 1132,
@@ -57,7 +57,7 @@
     "timeMonth": 1634,
     "timeYear": 1142,
     "dailyMinutesDown": {
-      "2023-08-19": 66,
+      "2023-08-19": 53,
       "2023-08-18": 232,
       "2023-08-17": 132,
       "2023-08-16": 117,
@@ -78,7 +78,7 @@
       "2023-08-01": 1132,
       "2023-07-31": 89,
       "2023-07-30": 75,
-      "2023-07-29": 4
+      "2023-07-29": 20
     }
   },
   {
@@ -150,19 +150,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "57.36%",
-    "uptimeWeek": "69.34%",
-    "uptimeMonth": "92.95%",
+    "status": "down",
+    "uptime": "99.63%",
+    "uptimeDay": "58.06%",
+    "uptimeWeek": "69.44%",
+    "uptimeMonth": "92.97%",
     "uptimeYear": "99.41%",
     "time": 1430,
     "timeDay": 2829,
     "timeWeek": 2346,
-    "timeMonth": 2035,
+    "timeMonth": 2032,
     "timeYear": 1444,
     "dailyMinutesDown": {
-      "2023-08-19": 354,
+      "2023-08-19": 344,
       "2023-08-18": 558,
       "2023-08-17": 817,
       "2023-08-16": 764,
@@ -827,9 +827,9 @@
     "slug": "adverse-drug-reaction-classification-system",
     "status": "up",
     "uptime": "98.73%",
-    "uptimeDay": "96.16%",
+    "uptimeDay": "97.10%",
     "uptimeWeek": "95.89%",
-    "uptimeMonth": "84.16%",
+    "uptimeMonth": "84.19%",
     "uptimeYear": "98.02%",
     "time": 1578,
     "timeDay": 1416,
@@ -966,7 +966,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-19": 758,
+      "2023-08-19": 772,
       "2023-08-18": 1440,
       "2023-08-17": 1440,
       "2023-08-16": 1440,
