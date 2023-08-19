@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "88.36%",
-    "uptimeWeek": "86.71%",
-    "uptimeMonth": "89.76%",
+    "uptimeDay": "88.25%",
+    "uptimeWeek": "86.70%",
+    "uptimeMonth": "89.80%",
     "uptimeYear": "99.15%",
     "time": 839,
     "timeDay": 1674,
@@ -16,7 +16,7 @@
     "timeMonth": 661,
     "timeYear": 842,
     "dailyMinutesDown": {
-      "2023-08-19": 53,
+      "2023-08-19": 55,
       "2023-08-18": 225,
       "2023-08-17": 134,
       "2023-08-16": 119,
@@ -37,7 +37,7 @@
       "2023-08-01": 89,
       "2023-07-31": 44,
       "2023-07-30": 76,
-      "2023-07-29": 95
+      "2023-07-29": 75
     }
   },
   {
@@ -45,19 +45,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "88.03%",
-    "uptimeWeek": "92.48%",
-    "uptimeMonth": "90.08%",
-    "uptimeYear": "99.17%",
+    "uptimeDay": "87.90%",
+    "uptimeWeek": "92.46%",
+    "uptimeMonth": "90.11%",
+    "uptimeYear": "99.18%",
     "time": 1132,
     "timeDay": 2293,
     "timeWeek": 1886,
     "timeMonth": 1634,
     "timeYear": 1142,
     "dailyMinutesDown": {
-      "2023-08-19": 53,
+      "2023-08-19": 55,
       "2023-08-18": 232,
       "2023-08-17": 132,
       "2023-08-16": 117,
@@ -78,7 +78,7 @@
       "2023-08-01": 1132,
       "2023-07-31": 89,
       "2023-07-30": 75,
-      "2023-07-29": 20
+      "2023-07-29": 4
     }
   },
   {
@@ -152,17 +152,17 @@
     "slug": "chem-exper",
     "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "56.82%",
-    "uptimeWeek": "69.59%",
-    "uptimeMonth": "93.00%",
-    "uptimeYear": "99.42%",
+    "uptimeDay": "56.14%",
+    "uptimeWeek": "69.49%",
+    "uptimeMonth": "92.98%",
+    "uptimeYear": "99.41%",
     "time": 1431,
     "timeDay": 2849,
     "timeWeek": 2362,
     "timeMonth": 2035,
     "timeYear": 1444,
     "dailyMinutesDown": {
-      "2023-08-19": 380,
+      "2023-08-19": 389,
       "2023-08-18": 558,
       "2023-08-17": 817,
       "2023-08-16": 764,
@@ -176,9 +176,9 @@
     "slug": "nmr-shift-database",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "98.90%",
     "time": 3214,
     "timeDay": 3656,
@@ -186,7 +186,6 @@
     "timeMonth": 1403,
     "timeYear": 3055,
     "dailyMinutesDown": {
-      "2023-08-19": 7,
       "2023-07-29": 40,
       "2023-07-24": 85,
       "2023-07-18": 57,
@@ -239,7 +238,7 @@
       "2023-01-24": 43,
       "2023-01-19": 67,
       "2023-01-17": 29,
-      "2022-12-22": 124
+      "2022-12-22": 150
     }
   },
   {
@@ -966,7 +965,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-19": 819,
+      "2023-08-19": 829,
       "2023-08-18": 1440,
       "2023-08-17": 1440,
       "2023-08-16": 1440,
