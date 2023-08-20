@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "94.97%",
-    "uptimeWeek": "86.53%",
-    "uptimeMonth": "89.80%",
+    "uptimeDay": "94.86%",
+    "uptimeWeek": "86.52%",
+    "uptimeMonth": "89.83%",
     "uptimeYear": "99.15%",
     "time": 857,
     "timeDay": 2447,
@@ -16,7 +16,7 @@
     "timeMonth": 788,
     "timeYear": 862,
     "dailyMinutesDown": {
-      "2023-08-20": 72,
+      "2023-08-20": 74,
       "2023-08-19": 97,
       "2023-08-18": 225,
       "2023-08-17": 134,
@@ -37,7 +37,7 @@
       "2023-08-02": 50,
       "2023-08-01": 89,
       "2023-07-31": 44,
-      "2023-07-30": 37
+      "2023-07-30": 21
     }
   },
   {
@@ -45,19 +45,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "95.10%",
-    "uptimeWeek": "92.30%",
-    "uptimeMonth": "90.13%",
-    "uptimeYear": "99.18%",
+    "status": "down",
+    "uptime": "99.62%",
+    "uptimeDay": "94.98%",
+    "uptimeWeek": "92.29%",
+    "uptimeMonth": "90.23%",
+    "uptimeYear": "99.19%",
     "time": 1151,
     "timeDay": 2025,
     "timeWeek": 2317,
     "timeMonth": 1748,
     "timeYear": 1161,
     "dailyMinutesDown": {
-      "2023-08-20": 71,
+      "2023-08-20": 73,
       "2023-08-19": 97,
       "2023-08-18": 232,
       "2023-08-17": 132,
@@ -76,8 +76,7 @@
       "2023-08-04": 44,
       "2023-08-03": 79,
       "2023-08-02": 1156,
-      "2023-08-01": 1132,
-      "2023-07-31": 47
+      "2023-08-01": 1132
     }
   },
   {
@@ -151,9 +150,9 @@
     "slug": "chem-exper",
     "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "58.18%",
-    "uptimeWeek": "68.33%",
-    "uptimeMonth": "92.71%",
+    "uptimeDay": "57.57%",
+    "uptimeWeek": "68.25%",
+    "uptimeMonth": "92.69%",
     "uptimeYear": "99.39%",
     "time": 1429,
     "timeDay": 1221,
@@ -161,7 +160,7 @@
     "timeMonth": 2017,
     "timeYear": 1443,
     "dailyMinutesDown": {
-      "2023-08-20": 598,
+      "2023-08-20": 607,
       "2023-08-19": 694,
       "2023-08-18": 558,
       "2023-08-17": 817,
@@ -268,18 +267,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
     "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.39%",
+    "uptime": "99.59%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.36%",
     "time": 761,
     "timeDay": 591,
     "timeWeek": 559,
     "timeMonth": 638,
     "timeYear": 784,
     "dailyMinutesDown": {
-      "2023-08-20": 8,
       "2023-04-29": 56,
       "2022-12-05": 49,
       "2022-12-04": 41,
@@ -336,7 +334,7 @@
       "2022-09-10": 52,
       "2022-09-02": 24,
       "2022-08-29": 30,
-      "2022-08-25": 92
+      "2022-08-25": 257
     }
   },
   {
@@ -964,7 +962,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-20": 1367,
+      "2023-08-20": 1376,
       "2023-08-19": 1440,
       "2023-08-18": 1440,
       "2023-08-17": 1440,
