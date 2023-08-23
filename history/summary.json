@@ -6,14 +6,14 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "92.44%",
+    "uptimeDay": "93.03%",
     "uptimeWeek": "91.56%",
     "uptimeMonth": "89.68%",
     "uptimeYear": "99.14%",
     "time": 875,
     "timeDay": 2425,
     "timeWeek": 2504,
-    "timeMonth": 922,
+    "timeMonth": 923,
     "timeYear": 883,
     "dailyMinutesDown": {
       "2023-08-22": 96,
@@ -47,14 +47,14 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "93.71%",
+    "uptimeDay": "94.31%",
     "uptimeWeek": "91.98%",
     "uptimeMonth": "95.19%",
     "uptimeYear": "99.60%",
     "time": 1175,
     "timeDay": 3840,
     "timeWeek": 2907,
-    "timeMonth": 1470,
+    "timeMonth": 1465,
     "timeYear": 1190,
     "dailyMinutesDown": {
       "2023-08-22": 79,
@@ -148,11 +148,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "56.23%",
-    "uptimeWeek": "69.62%",
-    "uptimeMonth": "93.01%",
+    "uptimeDay": "56.72%",
+    "uptimeWeek": "69.77%",
+    "uptimeMonth": "93.04%",
     "uptimeYear": "99.42%",
     "time": 1443,
     "timeDay": 2368,
@@ -160,11 +160,11 @@
     "timeMonth": 1993,
     "timeYear": 1453,
     "dailyMinutesDown": {
-      "2023-08-22": 619,
+      "2023-08-22": 621,
       "2023-08-21": 633,
       "2023-08-20": 636,
       "2023-08-19": 694,
-      "2023-08-18": 481
+      "2023-08-18": 464
     }
   },
   {
@@ -453,7 +453,7 @@
     "uptime": "90.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.81%",
+    "uptimeMonth": "93.83%",
     "uptimeYear": "84.87%",
     "time": 984,
     "timeDay": 970,
@@ -961,7 +961,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-22": 1431,
+      "2023-08-23": 0,
+      "2023-08-22": 1440,
       "2023-08-21": 1440,
       "2023-08-20": 1440,
       "2023-08-19": 1440,
@@ -1324,8 +1325,7 @@
       "2022-08-27": 1440,
       "2022-08-26": 1440,
       "2022-08-25": 1440,
-      "2022-08-24": 1440,
-      "2022-08-23": 1440
+      "2022-08-24": 1440
     }
   },
   {
