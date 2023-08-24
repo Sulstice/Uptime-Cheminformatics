@@ -4,19 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "91.70%",
-    "uptimeWeek": "92.10%",
-    "uptimeMonth": "89.68%",
-    "uptimeYear": "99.14%",
+    "uptimeDay": "91.58%",
+    "uptimeWeek": "92.08%",
+    "uptimeMonth": "89.74%",
+    "uptimeYear": "99.15%",
     "time": 898,
     "timeDay": 2302,
     "timeWeek": 2554,
     "timeMonth": 1055,
     "timeYear": 903,
     "dailyMinutesDown": {
-      "2023-08-24": 72,
+      "2023-08-24": 74,
       "2023-08-23": 93,
       "2023-08-22": 96,
       "2023-08-21": 85,
@@ -35,8 +35,7 @@
       "2023-08-08": 168,
       "2023-08-07": 109,
       "2023-08-06": 111,
-      "2023-08-05": 110,
-      "2023-08-04": 29
+      "2023-08-05": 110
     }
   },
   {
@@ -44,11 +43,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "91.83%",
-    "uptimeWeek": "92.68%",
-    "uptimeMonth": "95.15%",
+    "uptimeDay": "91.70%",
+    "uptimeWeek": "92.66%",
+    "uptimeMonth": "95.18%",
     "uptimeYear": "99.60%",
     "time": 1210,
     "timeDay": 2932,
@@ -56,7 +55,7 @@
     "timeMonth": 1493,
     "timeYear": 1223,
     "dailyMinutesDown": {
-      "2023-08-24": 73,
+      "2023-08-24": 75,
       "2023-08-23": 74,
       "2023-08-22": 79,
       "2023-08-21": 85,
@@ -75,7 +74,7 @@
       "2023-08-08": 181,
       "2023-08-07": 108,
       "2023-08-06": 108,
-      "2023-08-05": 55
+      "2023-08-05": 39
     }
   },
   {
@@ -150,8 +149,8 @@
     "status": "down",
     "uptime": "99.61%",
     "uptimeDay": "61.27%",
-    "uptimeWeek": "68.25%",
-    "uptimeMonth": "92.69%",
+    "uptimeWeek": "68.17%",
+    "uptimeMonth": "92.67%",
     "uptimeYear": "99.39%",
     "time": 1444,
     "timeDay": 2491,
@@ -159,7 +158,7 @@
     "timeMonth": 1981,
     "timeYear": 1461,
     "dailyMinutesDown": {
-      "2023-08-24": 328,
+      "2023-08-24": 337,
       "2023-08-23": 615,
       "2023-08-22": 623,
       "2023-08-21": 633,
@@ -391,7 +390,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chemspider.com.ico",
     "slug": "chem-spider",
     "status": "up",
-    "uptime": "99.10%",
+    "uptime": "99.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
@@ -961,7 +960,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-24": 938,
+      "2023-08-24": 947,
       "2023-08-23": 1440,
       "2023-08-22": 1440,
       "2023-08-21": 1440,
