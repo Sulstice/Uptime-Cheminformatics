@@ -6,9 +6,9 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "91.17%",
-    "uptimeWeek": "91.06%",
-    "uptimeMonth": "89.12%",
+    "uptimeDay": "91.72%",
+    "uptimeWeek": "91.14%",
+    "uptimeMonth": "89.10%",
     "uptimeYear": "99.09%",
     "time": 923,
     "timeDay": 2634,
@@ -16,7 +16,7 @@
     "timeMonth": 1217,
     "timeYear": 929,
     "dailyMinutesDown": {
-      "2023-08-26": 91,
+      "2023-08-26": 83,
       "2023-08-25": 234,
       "2023-08-24": 165,
       "2023-08-23": 93,
@@ -36,7 +36,7 @@
       "2023-08-09": 137,
       "2023-08-08": 168,
       "2023-08-07": 109,
-      "2023-08-06": 75
+      "2023-08-06": 93
     }
   },
   {
@@ -46,9 +46,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "91.03%",
-    "uptimeWeek": "93.77%",
-    "uptimeMonth": "95.10%",
+    "uptimeDay": "91.56%",
+    "uptimeWeek": "93.84%",
+    "uptimeMonth": "95.07%",
     "uptimeYear": "99.59%",
     "time": 1230,
     "timeDay": 2960,
@@ -56,7 +56,7 @@
     "timeMonth": 1640,
     "timeYear": 1249,
     "dailyMinutesDown": {
-      "2023-08-26": 91,
+      "2023-08-26": 83,
       "2023-08-25": 77,
       "2023-08-24": 111,
       "2023-08-23": 74,
@@ -75,7 +75,7 @@
       "2023-08-10": 179,
       "2023-08-09": 161,
       "2023-08-08": 181,
-      "2023-08-07": 85
+      "2023-08-07": 108
     }
   },
   {
@@ -148,24 +148,24 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "55.65%",
-    "uptimeWeek": "70.87%",
-    "uptimeMonth": "93.30%",
-    "uptimeYear": "99.44%",
+    "uptimeDay": "56.16%",
+    "uptimeWeek": "71.10%",
+    "uptimeMonth": "93.35%",
+    "uptimeYear": "99.45%",
     "time": 1455,
     "timeDay": 2396,
     "timeWeek": 2273,
     "timeMonth": 1951,
     "timeYear": 1470,
     "dailyMinutesDown": {
-      "2023-08-26": 372,
+      "2023-08-26": 374,
       "2023-08-25": 600,
       "2023-08-24": 530,
       "2023-08-23": 615,
       "2023-08-22": 623,
-      "2023-08-21": 196
+      "2023-08-21": 171
     }
   },
   {
@@ -960,7 +960,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-26": 874,
+      "2023-08-26": 883,
       "2023-08-25": 1440,
       "2023-08-24": 1440,
       "2023-08-23": 1440,
