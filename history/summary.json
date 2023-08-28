@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "99.58%",
     "uptimeDay": "97.36%",
-    "uptimeWeek": "91.84%",
+    "uptimeWeek": "91.90%",
     "uptimeMonth": "89.09%",
     "uptimeYear": "99.09%",
     "time": 944,
@@ -48,7 +48,7 @@
     "status": "up",
     "uptime": "99.81%",
     "uptimeDay": "97.42%",
-    "uptimeWeek": "94.20%",
+    "uptimeWeek": "94.26%",
     "uptimeMonth": "95.05%",
     "uptimeYear": "99.59%",
     "time": 1273,
@@ -152,14 +152,14 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "53.62%",
+    "uptimeDay": "55.60%",
     "uptimeWeek": "69.80%",
     "uptimeMonth": "93.05%",
     "uptimeYear": "99.42%",
     "time": 1459,
-    "timeDay": 2082,
-    "timeWeek": 2401,
-    "timeMonth": 1939,
+    "timeDay": 2016,
+    "timeWeek": 2397,
+    "timeMonth": 1936,
     "timeYear": 1473,
     "dailyMinutesDown": {
       "2023-08-27": 664,
@@ -521,8 +521,7 @@
       "2022-12-08": 1440,
       "2022-12-07": 1421,
       "2022-11-03": 24,
-      "2022-09-13": 361,
-      "2022-08-28": 247
+      "2022-09-13": 361
     }
   },
   {
@@ -819,18 +818,19 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
-    "uptime": "98.75%",
-    "uptimeDay": "87.90%",
-    "uptimeWeek": "98.11%",
-    "uptimeMonth": "87.19%",
-    "uptimeYear": "98.02%",
-    "time": 1597,
-    "timeDay": 1368,
-    "timeWeek": 1418,
-    "timeMonth": 1424,
-    "timeYear": 1578,
+    "status": "down",
+    "uptime": "98.76%",
+    "uptimeDay": "87.69%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "87.26%",
+    "uptimeYear": "98.03%",
+    "time": 1596,
+    "timeDay": 1338,
+    "timeWeek": 1402,
+    "timeMonth": 1421,
+    "timeYear": 1577,
     "dailyMinutesDown": {
+      "2023-08-28": 3,
       "2023-08-27": 174,
       "2023-08-22": 16,
       "2023-08-18": 64,
@@ -870,7 +870,7 @@
       "2023-07-04": 447,
       "2023-07-03": 513,
       "2023-07-02": 281,
-      "2023-07-01": 107
+      "2023-07-01": 55
     }
   },
   {
@@ -961,7 +961,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-27": 1437,
+      "2023-08-28": 31,
+      "2023-08-27": 1440,
       "2023-08-26": 1440,
       "2023-08-25": 1440,
       "2023-08-24": 1440,
@@ -1324,8 +1325,7 @@
       "2022-09-01": 1440,
       "2022-08-31": 1440,
       "2022-08-30": 1440,
-      "2022-08-29": 1440,
-      "2022-08-28": 1440
+      "2022-08-29": 1440
     }
   },
   {
