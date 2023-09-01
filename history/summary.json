@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "91.92%",
-    "uptimeWeek": "91.95%",
-    "uptimeMonth": "89.02%",
+    "uptimeDay": "91.80%",
+    "uptimeWeek": "92.04%",
+    "uptimeMonth": "89.06%",
     "uptimeYear": "99.09%",
     "time": 973,
     "timeDay": 386,
@@ -16,7 +16,7 @@
     "timeMonth": 1588,
     "timeYear": 985,
     "dailyMinutesDown": {
-      "2023-09-01": 24,
+      "2023-09-01": 26,
       "2023-08-31": 122,
       "2023-08-30": 67,
       "2023-08-29": 233,
@@ -38,7 +38,7 @@
       "2023-08-13": 63,
       "2023-08-12": 55,
       "2023-08-11": 1025,
-      "2023-08-10": 863
+      "2023-08-10": 843
     }
   },
   {
@@ -46,11 +46,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "93.78%",
-    "uptimeWeek": "91.76%",
-    "uptimeMonth": "94.92%",
+    "status": "down",
+    "uptime": "99.81%",
+    "uptimeDay": "93.66%",
+    "uptimeWeek": "91.75%",
+    "uptimeMonth": "94.98%",
     "uptimeYear": "99.58%",
     "time": 1313,
     "timeDay": 343,
@@ -58,7 +58,7 @@
     "timeMonth": 2052,
     "timeYear": 1330,
     "dailyMinutesDown": {
-      "2023-09-01": 24,
+      "2023-09-01": 26,
       "2023-08-31": 97,
       "2023-08-30": 46,
       "2023-08-29": 232,
@@ -79,7 +79,7 @@
       "2023-08-14": 30,
       "2023-08-13": 62,
       "2023-08-12": 53,
-      "2023-08-11": 135
+      "2023-08-11": 110
     }
   },
   {
@@ -152,25 +152,25 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "51.12%",
-    "uptimeWeek": "66.32%",
-    "uptimeMonth": "92.25%",
-    "uptimeYear": "99.35%",
+    "uptimeDay": "51.77%",
+    "uptimeWeek": "66.58%",
+    "uptimeMonth": "92.31%",
+    "uptimeYear": "99.36%",
     "time": 1479,
     "timeDay": 2368,
     "timeWeek": 2544,
     "timeMonth": 1997,
     "timeYear": 1495,
     "dailyMinutesDown": {
-      "2023-09-01": 153,
+      "2023-09-01": 155,
       "2023-08-31": 655,
       "2023-08-30": 642,
       "2023-08-29": 721,
       "2023-08-28": 488,
       "2023-08-27": 664,
-      "2023-08-26": 69
+      "2023-08-26": 41
     }
   },
   {
@@ -826,7 +826,7 @@
     "uptime": "98.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.48%",
-    "uptimeMonth": "87.62%",
+    "uptimeMonth": "87.65%",
     "uptimeYear": "98.00%",
     "time": 1597,
     "timeDay": 1400,
@@ -883,7 +883,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www-metrabase.ch.cam.ac.uk.ico",
     "slug": "metabolism-and-transport-database",
     "status": "up",
-    "uptime": "96.71%",
+    "uptime": "96.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -964,7 +964,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-01": 179,
+      "2023-09-01": 191,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
