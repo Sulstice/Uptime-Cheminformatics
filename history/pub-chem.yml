@@ -1,7 +1,7 @@
 url: https://pubchem.ncbi.nlm.nih.gov
-status: down
-code: 403
-responseTime: 305
-lastUpdated: 2023-09-17T18:54:29.388Z
+status: up
+code: 200
+responseTime: 173
+lastUpdated: 2023-09-17T19:03:27.862Z
 startTime: 2022-01-24T15:15:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
