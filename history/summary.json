@@ -13,7 +13,7 @@
     "time": 966,
     "timeDay": 492,
     "timeWeek": 604,
-    "timeMonth": 1413,
+    "timeMonth": 1415,
     "timeYear": 978,
     "dailyMinutesDown": {
       "2023-09-14": 140,
@@ -51,7 +51,7 @@
     "time": 1371,
     "timeDay": 580,
     "timeWeek": 2886,
-    "timeMonth": 2175,
+    "timeMonth": 2172,
     "timeYear": 1387,
     "dailyMinutesDown": {
       "2023-09-14": 1267,
@@ -148,11 +148,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "62.13%",
-    "uptimeWeek": "71.73%",
-    "uptimeMonth": "93.50%",
+    "uptimeDay": "62.46%",
+    "uptimeWeek": "71.95%",
+    "uptimeMonth": "93.55%",
     "uptimeYear": "99.46%",
     "time": 1508,
     "timeDay": 1735,
@@ -160,12 +160,12 @@
     "timeMonth": 2065,
     "timeYear": 1521,
     "dailyMinutesDown": {
-      "2023-09-19": 187,
+      "2023-09-19": 189,
       "2023-09-18": 570,
       "2023-09-17": 516,
       "2023-09-16": 755,
       "2023-09-15": 599,
-      "2023-09-14": 216
+      "2023-09-14": 192
     }
   },
   {
@@ -530,7 +530,7 @@
     "status": "up",
     "uptime": "96.30%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.86%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "96.34%",
     "uptimeYear": "96.54%",
     "time": 673,
@@ -963,7 +963,7 @@
     "uptime": "2.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "40.83%",
+    "uptimeMonth": "40.86%",
     "uptimeYear": "3.56%",
     "time": 5813,
     "timeDay": 10319,
@@ -1473,9 +1473,9 @@
     "slug": "chemical-resolver",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "95.94%",
-    "uptimeWeek": "97.76%",
-    "uptimeMonth": "97.73%",
+    "uptimeDay": "96.73%",
+    "uptimeWeek": "97.87%",
+    "uptimeMonth": "97.76%",
     "uptimeYear": "99.17%",
     "time": 998,
     "timeDay": 5706,
@@ -1483,7 +1483,7 @@
     "timeMonth": 2300,
     "timeYear": 1054,
     "dailyMinutesDown": {
-      "2023-09-19": 58,
+      "2023-09-19": 47,
       "2023-09-18": 83,
       "2023-09-17": 85,
       "2023-09-12": 156,
@@ -1565,7 +1565,7 @@
       "2023-06-15": 186,
       "2023-06-14": 46,
       "2023-06-13": 37,
-      "2023-06-12": 71
+      "2023-06-12": 94
     }
   },
   {
