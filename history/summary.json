@@ -45,14 +45,14 @@
     "status": "up",
     "uptime": "99.50%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "73.07%",
+    "uptimeWeek": "73.39%",
     "uptimeMonth": "86.67%",
     "uptimeYear": "98.89%",
     "time": 1371,
     "timeDay": 0,
     "timeWeek": 977,
     "timeMonth": 2150,
-    "timeYear": 1389,
+    "timeYear": 1390,
     "dailyMinutesDown": {
       "2023-09-14": 1267,
       "2023-09-13": 1440,
@@ -150,14 +150,14 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "59.25%",
+    "uptimeDay": "59.61%",
     "uptimeWeek": "72.12%",
     "uptimeMonth": "93.59%",
     "uptimeYear": "99.47%",
     "time": 1503,
     "timeDay": 1246,
     "timeWeek": 2294,
-    "timeMonth": 2058,
+    "timeMonth": 2059,
     "timeYear": 1520,
     "dailyMinutesDown": {
       "2023-09-19": 584,
@@ -326,8 +326,7 @@
       "2022-09-27": 54,
       "2022-09-23": 16,
       "2022-09-22": 73,
-      "2022-09-21": 107,
-      "2022-09-20": 60
+      "2022-09-21": 107
     }
   },
   {
@@ -641,17 +640,18 @@
     "slug": "tox21",
     "status": "down",
     "uptime": "97.24%",
-    "uptimeDay": "93.65%",
-    "uptimeWeek": "99.09%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "96.04%",
+    "uptimeDay": "91.39%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "96.03%",
     "time": 292,
     "timeDay": 0,
     "timeWeek": 117,
     "timeMonth": 242,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2023-09-19": 91,
+      "2023-09-20": 27,
+      "2023-09-19": 97,
       "2023-08-24": 62,
       "2023-07-17": 30,
       "2023-06-27": 223,
@@ -751,7 +751,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.41%",
-    "uptimeYear": "99.73%",
+    "uptimeYear": "99.74%",
     "time": 916,
     "timeDay": 0,
     "timeWeek": 2681,
@@ -766,8 +766,7 @@
       "2022-12-24": 490,
       "2022-12-14": 29,
       "2022-09-23": 298,
-      "2022-09-22": 73,
-      "2022-09-20": 50
+      "2022-09-22": 73
     }
   },
   {
@@ -816,11 +815,11 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
-    "uptime": "98.77%",
-    "uptimeDay": "94.43%",
-    "uptimeWeek": "94.27%",
-    "uptimeMonth": "96.01%",
+    "status": "down",
+    "uptime": "98.78%",
+    "uptimeDay": "94.20%",
+    "uptimeWeek": "94.23%",
+    "uptimeMonth": "96.00%",
     "uptimeYear": "97.98%",
     "time": 1607,
     "timeDay": 15388,
@@ -828,6 +827,7 @@
     "timeMonth": 2021,
     "timeYear": 1616,
     "dailyMinutesDown": {
+      "2023-09-20": 3,
       "2023-09-19": 80,
       "2023-09-18": 150,
       "2023-09-17": 61,
@@ -880,7 +880,7 @@
       "2023-07-08": 66,
       "2023-07-07": 244,
       "2023-07-06": 212,
-      "2023-07-05": 393
+      "2023-07-05": 361
     }
   },
   {
@@ -963,7 +963,7 @@
     "uptime": "2.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "42.83%",
+    "uptimeMonth": "42.90%",
     "uptimeYear": "3.73%",
     "time": 5813,
     "timeDay": 0,
@@ -1321,8 +1321,7 @@
       "2022-09-24": 1440,
       "2022-09-23": 1440,
       "2022-09-22": 1440,
-      "2022-09-21": 1440,
-      "2022-09-20": 1440
+      "2022-09-21": 1440
     }
   },
   {
