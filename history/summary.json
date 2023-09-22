@@ -150,17 +150,18 @@
     "slug": "chem-exper",
     "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "55.69%",
-    "uptimeWeek": "73.98%",
-    "uptimeMonth": "94.01%",
+    "uptimeDay": "54.65%",
+    "uptimeWeek": "73.67%",
+    "uptimeMonth": "93.94%",
     "uptimeYear": "99.50%",
     "time": 1508,
-    "timeDay": 2078,
-    "timeWeek": 2086,
+    "timeDay": 2125,
+    "timeWeek": 2078,
     "timeMonth": 2047,
     "timeYear": 1523,
     "dailyMinutesDown": {
-      "2023-09-21": 622,
+      "2023-09-22": 12,
+      "2023-09-21": 641,
       "2023-09-20": 601,
       "2023-09-19": 584,
       "2023-09-18": 570,
@@ -324,8 +325,7 @@
       "2022-09-29": 48,
       "2022-09-28": 45,
       "2022-09-27": 54,
-      "2022-09-23": 16,
-      "2022-09-22": 73
+      "2022-09-23": 16
     }
   },
   {
@@ -629,8 +629,7 @@
       "2022-11-07": 22,
       "2022-11-06": 1440,
       "2022-11-05": 1440,
-      "2022-11-04": 937,
-      "2022-09-22": 87
+      "2022-11-04": 937
     }
   },
   {
@@ -765,8 +764,7 @@
       "2023-03-14": 32,
       "2022-12-24": 490,
       "2022-12-14": 29,
-      "2022-09-23": 298,
-      "2022-09-22": 73
+      "2022-09-23": 298
     }
   },
   {
@@ -777,7 +775,7 @@
     "status": "up",
     "uptime": "99.45%",
     "uptimeDay": "98.59%",
-    "uptimeWeek": "96.54%",
+    "uptimeWeek": "96.85%",
     "uptimeMonth": "93.61%",
     "uptimeYear": "99.34%",
     "time": 443,
@@ -816,19 +814,20 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "down",
+    "status": "up",
     "uptime": "98.72%",
-    "uptimeDay": "79.17%",
-    "uptimeWeek": "85.75%",
-    "uptimeMonth": "93.67%",
-    "uptimeYear": "97.89%",
-    "time": 1713,
-    "timeDay": 11426,
-    "timeWeek": 6530,
-    "timeMonth": 3227,
-    "timeYear": 1713,
+    "uptimeDay": "78.31%",
+    "uptimeWeek": "85.49%",
+    "uptimeMonth": "93.61%",
+    "uptimeYear": "97.88%",
+    "time": 1732,
+    "timeDay": 11224,
+    "timeWeek": 7125,
+    "timeMonth": 3473,
+    "timeYear": 1733,
     "dailyMinutesDown": {
-      "2023-09-21": 286,
+      "2023-09-22": 10,
+      "2023-09-21": 302,
       "2023-09-20": 737,
       "2023-09-19": 80,
       "2023-09-18": 150,
@@ -964,8 +963,8 @@
     "uptime": "2.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "49.38%",
-    "uptimeYear": "4.27%",
+    "uptimeMonth": "49.45%",
+    "uptimeYear": "4.28%",
     "time": 5314,
     "timeDay": 2150,
     "timeWeek": 6467,
@@ -1320,8 +1319,7 @@
       "2022-09-26": 1440,
       "2022-09-25": 1440,
       "2022-09-24": 1440,
-      "2022-09-23": 1440,
-      "2022-09-22": 1440
+      "2022-09-23": 1440
     }
   },
   {
@@ -1480,7 +1478,7 @@
     "timeDay": 293,
     "timeWeek": 4673,
     "timeMonth": 2553,
-    "timeYear": 1083,
+    "timeYear": 1084,
     "dailyMinutesDown": {
       "2023-09-21": 79,
       "2023-09-20": 49,
