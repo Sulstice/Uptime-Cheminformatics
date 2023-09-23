@@ -150,9 +150,9 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "70.21%",
-    "uptimeWeek": "72.85%",
-    "uptimeMonth": "93.75%",
+    "uptimeDay": "70.86%",
+    "uptimeWeek": "72.78%",
+    "uptimeMonth": "93.74%",
     "uptimeYear": "99.48%",
     "time": 1519,
     "timeDay": 3364,
@@ -160,12 +160,12 @@
     "timeMonth": 2095,
     "timeYear": 1533,
     "dailyMinutesDown": {
-      "2023-09-23": 184,
+      "2023-09-23": 175,
       "2023-09-22": 529,
       "2023-09-21": 641,
       "2023-09-20": 601,
       "2023-09-19": 584,
-      "2023-09-18": 192
+      "2023-09-18": 208
     }
   },
   {
@@ -955,11 +955,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heraproject.com.ico",
     "slug": "human-and-environment-risk-assessment",
     "status": "up",
-    "uptime": "2.79%",
+    "uptime": "2.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "53.82%",
-    "uptimeYear": "4.64%",
+    "uptimeMonth": "53.84%",
+    "uptimeYear": "4.65%",
     "time": 5115,
     "timeDay": 2342,
     "timeWeek": 5658,
@@ -1462,18 +1462,19 @@
     "url": "https://cactus.nci.nih.gov/chemical/structure",
     "icon": "https://icons.duckduckgo.com/ip3/cactus.nci.nih.gov.ico",
     "slug": "chemical-resolver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "93.50%",
-    "uptimeWeek": "95.35%",
-    "uptimeMonth": "97.46%",
-    "uptimeYear": "99.16%",
+    "uptimeDay": "93.25%",
+    "uptimeWeek": "95.31%",
+    "uptimeMonth": "97.47%",
+    "uptimeYear": "99.17%",
     "time": 1030,
     "timeDay": 350,
     "timeWeek": 4281,
     "timeMonth": 2506,
     "timeYear": 1082,
     "dailyMinutesDown": {
+      "2023-09-23": 3,
       "2023-09-22": 94,
       "2023-09-21": 79,
       "2023-09-20": 49,
@@ -1556,7 +1557,7 @@
       "2023-06-18": 65,
       "2023-06-17": 57,
       "2023-06-16": 36,
-      "2023-06-15": 138
+      "2023-06-15": 119
     }
   },
   {
