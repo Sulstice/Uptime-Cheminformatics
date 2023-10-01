@@ -149,24 +149,24 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "61.82%",
-    "uptimeWeek": "73.20%",
-    "uptimeMonth": "93.83%",
+    "status": "down",
+    "uptime": "99.70%",
+    "uptimeDay": "62.03%",
+    "uptimeWeek": "73.50%",
+    "uptimeMonth": "93.90%",
     "uptimeYear": "99.49%",
     "time": 1539,
-    "timeDay": 1653,
-    "timeWeek": 2106,
+    "timeDay": 1569,
+    "timeWeek": 2111,
     "timeMonth": 2010,
     "timeYear": 1554,
     "dailyMinutesDown": {
-      "2023-09-30": 543,
+      "2023-09-30": 545,
       "2023-09-29": 488,
       "2023-09-28": 566,
       "2023-09-27": 416,
       "2023-09-26": 483,
-      "2023-09-25": 203
+      "2023-09-25": 171
     }
   },
   {
@@ -694,7 +694,7 @@
     "time": 1221,
     "timeDay": 834,
     "timeWeek": 906,
-    "timeMonth": 942,
+    "timeMonth": 939,
     "timeYear": 1181,
     "dailyMinutesDown": {
       "2023-07-04": 15,
@@ -728,7 +728,7 @@
     "time": 409,
     "timeDay": 380,
     "timeWeek": 438,
-    "timeMonth": 433,
+    "timeMonth": 441,
     "timeYear": 389,
     "dailyMinutesDown": {
       "2023-04-04": 1136,
@@ -749,7 +749,7 @@
     "time": 911,
     "timeDay": 673,
     "timeWeek": 642,
-    "timeMonth": 1235,
+    "timeMonth": 1103,
     "timeYear": 928,
     "dailyMinutesDown": {
       "2023-08-29": 260,
@@ -775,7 +775,7 @@
     "time": 444,
     "timeDay": 334,
     "timeWeek": 314,
-    "timeMonth": 313,
+    "timeMonth": 318,
     "timeYear": 504,
     "dailyMinutesDown": {
       "2023-09-28": 20,
@@ -812,13 +812,13 @@
     "status": "up",
     "uptime": "98.64%",
     "uptimeDay": "76.44%",
-    "uptimeWeek": "83.44%",
-    "uptimeMonth": "89.16%",
+    "uptimeWeek": "83.71%",
+    "uptimeMonth": "89.33%",
     "uptimeYear": "97.71%",
     "time": 1791,
     "timeDay": 1449,
     "timeWeek": 1646,
-    "timeMonth": 3997,
+    "timeMonth": 4040,
     "timeYear": 1817,
     "dailyMinutesDown": {
       "2023-09-30": 340,
@@ -885,7 +885,7 @@
     "time": 5791,
     "timeDay": 1068,
     "timeWeek": 9435,
-    "timeMonth": 7978,
+    "timeMonth": 8272,
     "timeYear": 4922,
     "dailyMinutesDown": {
       "2023-02-13": 807,
@@ -924,7 +924,7 @@
     "time": 546,
     "timeDay": 560,
     "timeWeek": 347,
-    "timeMonth": 585,
+    "timeMonth": 597,
     "timeYear": 572,
     "dailyMinutesDown": {
       "2023-09-15": 23,
@@ -948,10 +948,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heraproject.com.ico",
     "slug": "human-and-environment-risk-assessment",
     "status": "up",
-    "uptime": "4.00%",
+    "uptime": "4.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "78.94%",
+    "uptimeMonth": "82.29%",
     "uptimeYear": "6.74%",
     "time": 4927,
     "timeDay": 2869,
@@ -1298,8 +1298,7 @@
       "2022-10-05": 1440,
       "2022-10-04": 1440,
       "2022-10-03": 1440,
-      "2022-10-02": 1440,
-      "2022-10-01": 1440
+      "2022-10-02": 1440
     }
   },
   {
@@ -1316,7 +1315,7 @@
     "time": 366,
     "timeDay": 261,
     "timeWeek": 373,
-    "timeMonth": 395,
+    "timeMonth": 391,
     "timeYear": 366,
     "dailyMinutesDown": {}
   },
@@ -1334,7 +1333,7 @@
     "time": 872,
     "timeDay": 539,
     "timeWeek": 767,
-    "timeMonth": 870,
+    "timeMonth": 869,
     "timeYear": 831,
     "dailyMinutesDown": {
       "2023-01-25": 24,
@@ -1355,12 +1354,12 @@
     "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.80%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.89%",
     "time": 383,
     "timeDay": 202,
     "timeWeek": 378,
-    "timeMonth": 374,
+    "timeMonth": 369,
     "timeYear": 376,
     "dailyMinutesDown": {
       "2023-09-01": 79,
@@ -1384,7 +1383,7 @@
     "time": 536,
     "timeDay": 351,
     "timeWeek": 591,
-    "timeMonth": 577,
+    "timeMonth": 574,
     "timeYear": 525,
     "dailyMinutesDown": {
       "2023-06-30": 415,
@@ -1414,7 +1413,7 @@
     "time": 1062,
     "timeDay": 4904,
     "timeWeek": 2668,
-    "timeMonth": 2107,
+    "timeMonth": 2146,
     "timeYear": 1133,
     "dailyMinutesDown": {
       "2023-01-25": 24
@@ -1428,13 +1427,13 @@
     "status": "up",
     "uptime": "99.76%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "85.05%",
+    "uptimeWeek": "85.31%",
     "uptimeMonth": "95.88%",
     "uptimeYear": "99.62%",
     "time": 2478,
     "timeDay": 2565,
     "timeWeek": 3097,
-    "timeMonth": 3100,
+    "timeMonth": 3076,
     "timeYear": 2648,
     "dailyMinutesDown": {
       "2023-09-25": 41,
@@ -1455,13 +1454,13 @@
     "uptime": "99.49%",
     "uptimeDay": "97.70%",
     "uptimeWeek": "97.19%",
-    "uptimeMonth": "97.32%",
+    "uptimeMonth": "97.62%",
     "uptimeYear": "99.15%",
     "time": 1019,
     "timeDay": 358,
     "timeWeek": 239,
-    "timeMonth": 2415,
-    "timeYear": 1082,
+    "timeMonth": 2468,
+    "timeYear": 1084,
     "dailyMinutesDown": {
       "2023-09-30": 33,
       "2023-09-29": 44,
@@ -1566,7 +1565,7 @@
     "time": 1055,
     "timeDay": 338,
     "timeWeek": 473,
-    "timeMonth": 1159,
+    "timeMonth": 1173,
     "timeYear": 1223,
     "dailyMinutesDown": {
       "2023-08-16": 24,
@@ -1607,7 +1606,7 @@
     "time": 1330,
     "timeDay": 1426,
     "timeWeek": 1193,
-    "timeMonth": 1186,
+    "timeMonth": 1193,
     "timeYear": 1373,
     "dailyMinutesDown": {
       "2023-08-02": 181,
@@ -1634,7 +1633,7 @@
     "time": 811,
     "timeDay": 473,
     "timeWeek": 411,
-    "timeMonth": 430,
+    "timeMonth": 436,
     "timeYear": 808,
     "dailyMinutesDown": {
       "2023-03-03": 879,
