@@ -8,12 +8,12 @@
     "uptime": "99.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.83%",
+    "uptimeMonth": "93.85%",
     "uptimeYear": "99.35%",
     "time": 994,
     "timeDay": 447,
     "timeWeek": 361,
-    "timeMonth": 459,
+    "timeMonth": 460,
     "timeYear": 1006,
     "dailyMinutesDown": {
       "2023-09-14": 140,
@@ -46,12 +46,12 @@
     "uptime": "99.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.77%",
+    "uptimeMonth": "88.79%",
     "uptimeYear": "98.89%",
     "time": 1422,
     "timeDay": 585,
     "timeWeek": 455,
-    "timeMonth": 1264,
+    "timeMonth": 1268,
     "timeYear": 1437,
     "dailyMinutesDown": {
       "2023-09-14": 1267,
@@ -149,11 +149,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "67.08%",
-    "uptimeWeek": "73.25%",
-    "uptimeMonth": "93.84%",
+    "uptimeDay": "68.67%",
+    "uptimeWeek": "73.40%",
+    "uptimeMonth": "93.88%",
     "uptimeYear": "99.49%",
     "time": 1537,
     "timeDay": 1486,
@@ -161,12 +161,13 @@
     "timeMonth": 1975,
     "timeYear": 1554,
     "dailyMinutesDown": {
+      "2023-10-02": 2,
       "2023-10-01": 469,
       "2023-09-30": 547,
       "2023-09-29": 488,
       "2023-09-28": 566,
       "2023-09-27": 416,
-      "2023-09-26": 209
+      "2023-09-26": 191
     }
   },
   {
@@ -412,8 +413,7 @@
       "2022-11-18": 15,
       "2022-11-10": 43,
       "2022-10-15": 26,
-      "2022-10-03": 17,
-      "2022-10-02": 66
+      "2022-10-03": 17
     }
   },
   {
@@ -598,8 +598,7 @@
       "2022-10-14": 194,
       "2022-10-10": 129,
       "2022-10-09": 25,
-      "2022-10-06": 39,
-      "2022-10-02": 485
+      "2022-10-06": 39
     }
   },
   {
@@ -709,8 +708,7 @@
       "2022-12-05": 920,
       "2022-11-23": 24,
       "2022-10-28": 26,
-      "2022-10-03": 363,
-      "2022-10-02": 56
+      "2022-10-03": 363
     }
   },
   {
@@ -766,18 +764,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.metaboanalyst.ca.ico",
     "slug": "metabo-analyst",
     "status": "up",
-    "uptime": "99.45%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "93.54%",
-    "uptimeYear": "99.33%",
+    "uptime": "99.46%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "93.56%",
+    "uptimeYear": "99.34%",
     "time": 445,
     "timeDay": 308,
     "timeWeek": 319,
     "timeMonth": 316,
     "timeYear": 503,
     "dailyMinutesDown": {
-      "2023-10-01": 8,
       "2023-09-28": 20,
       "2023-09-21": 20,
       "2023-09-15": 312,
@@ -812,7 +809,7 @@
     "status": "up",
     "uptime": "99.19%",
     "uptimeDay": "77.97%",
-    "uptimeWeek": "87.20%",
+    "uptimeWeek": "87.53%",
     "uptimeMonth": "88.75%",
     "uptimeYear": "98.64%",
     "time": 1791,
@@ -942,10 +939,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heraproject.com.ico",
     "slug": "human-and-environment-risk-assessment",
     "status": "up",
-    "uptime": "4.16%",
+    "uptime": "4.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "85.56%",
+    "uptimeMonth": "85.64%",
     "uptimeYear": "7.02%",
     "time": 4687,
     "timeDay": 2049,
@@ -1291,8 +1288,7 @@
       "2022-10-06": 1440,
       "2022-10-05": 1440,
       "2022-10-04": 1440,
-      "2022-10-03": 1440,
-      "2022-10-02": 1440
+      "2022-10-03": 1440
     }
   },
   {
@@ -1421,7 +1417,7 @@
     "status": "up",
     "uptime": "99.76%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.54%",
+    "uptimeWeek": "99.87%",
     "uptimeMonth": "95.88%",
     "uptimeYear": "99.62%",
     "time": 2482,
