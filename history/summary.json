@@ -149,19 +149,20 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "down",
-    "uptime": "99.70%",
-    "uptimeDay": "69.01%",
-    "uptimeWeek": "73.37%",
-    "uptimeMonth": "93.87%",
-    "uptimeYear": "99.49%",
+    "status": "up",
+    "uptime": "99.69%",
+    "uptimeDay": "67.03%",
+    "uptimeWeek": "72.83%",
+    "uptimeMonth": "93.75%",
+    "uptimeYear": "99.48%",
     "time": 1535,
-    "timeDay": 710,
-    "timeWeek": 1193,
-    "timeMonth": 1889,
+    "timeDay": 720,
+    "timeWeek": 1192,
+    "timeMonth": 1886,
     "timeYear": 1544,
     "dailyMinutesDown": {
-      "2023-10-05": 432,
+      "2023-10-06": 22,
+      "2023-10-05": 463,
       "2023-10-04": 540,
       "2023-10-03": 618,
       "2023-10-02": 519,
@@ -177,12 +178,12 @@
     "status": "up",
     "uptime": "99.19%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.54%",
+    "uptimeWeek": "99.59%",
     "uptimeMonth": "96.17%",
     "uptimeYear": "98.63%",
     "time": 2982,
     "timeDay": 2107,
-    "timeWeek": 1343,
+    "timeWeek": 1345,
     "timeMonth": 2828,
     "timeYear": 3006,
     "dailyMinutesDown": {
@@ -318,8 +319,7 @@
       "2022-10-12": 38,
       "2022-10-11": 54,
       "2022-10-08": 53,
-      "2022-10-07": 58,
-      "2022-10-06": 144
+      "2022-10-07": 58
     }
   },
   {
@@ -594,8 +594,7 @@
       "2022-10-15": 1440,
       "2022-10-14": 194,
       "2022-10-10": 129,
-      "2022-10-09": 25,
-      "2022-10-06": 39
+      "2022-10-09": 25
     }
   },
   {
@@ -804,12 +803,12 @@
     "slug": "adverse-drug-reaction-classification-system",
     "status": "up",
     "uptime": "99.03%",
-    "uptimeDay": "70.97%",
+    "uptimeDay": "72.59%",
     "uptimeWeek": "68.17%",
     "uptimeMonth": "84.13%",
     "uptimeYear": "98.36%",
     "time": 1812,
-    "timeDay": 5022,
+    "timeDay": 5478,
     "timeWeek": 1934,
     "timeMonth": 3860,
     "timeYear": 1827,
@@ -935,11 +934,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heraproject.com.ico",
     "slug": "human-and-environment-risk-assessment",
     "status": "up",
-    "uptime": "4.78%",
+    "uptime": "4.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.66%",
-    "uptimeYear": "8.11%",
+    "uptimeMonth": "98.78%",
+    "uptimeYear": "8.12%",
     "time": 4587,
     "timeDay": 0,
     "timeWeek": 2980,
@@ -1280,8 +1279,7 @@
       "2022-10-10": 1440,
       "2022-10-09": 1440,
       "2022-10-08": 1440,
-      "2022-10-07": 1440,
-      "2022-10-06": 1440
+      "2022-10-07": 1440
     }
   },
   {
