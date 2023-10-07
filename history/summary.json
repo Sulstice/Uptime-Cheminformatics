@@ -8,7 +8,7 @@
     "uptime": "99.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.25%",
+    "uptimeMonth": "95.26%",
     "uptimeYear": "99.35%",
     "time": 1008,
     "timeDay": 0,
@@ -46,7 +46,7 @@
     "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.16%",
+    "uptimeMonth": "90.17%",
     "uptimeYear": "98.89%",
     "time": 1435,
     "timeDay": 0,
@@ -151,9 +151,9 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "65.69%",
-    "uptimeWeek": "71.49%",
-    "uptimeMonth": "93.44%",
+    "uptimeDay": "66.24%",
+    "uptimeWeek": "71.32%",
+    "uptimeMonth": "93.40%",
     "uptimeYear": "99.45%",
     "time": 1524,
     "timeDay": 624,
@@ -161,12 +161,12 @@
     "timeMonth": 1852,
     "timeYear": 1538,
     "dailyMinutesDown": {
-      "2023-10-07": 493,
+      "2023-10-07": 485,
       "2023-10-06": 537,
       "2023-10-05": 463,
       "2023-10-04": 540,
       "2023-10-03": 618,
-      "2023-10-02": 217
+      "2023-10-02": 242
     }
   },
   {
@@ -174,18 +174,19 @@
     "url": "https://nmrshiftdb.nmr.uni-koeln.de/",
     "icon": "https://icons.duckduckgo.com/ip3/nmrshiftdb.nmr.uni-koeln.de.ico",
     "slug": "nmr-shift-database",
-    "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "96.17%",
-    "uptimeYear": "98.63%",
-    "time": 2980,
+    "status": "down",
+    "uptime": "99.20%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "96.16%",
+    "uptimeYear": "98.64%",
+    "time": 2982,
     "timeDay": 0,
     "timeWeek": 1371,
     "timeMonth": 2867,
     "timeYear": 3011,
     "dailyMinutesDown": {
+      "2023-10-07": 3,
       "2023-10-04": 17,
       "2023-10-02": 24,
       "2023-09-28": 39,
@@ -240,8 +241,7 @@
       "2023-02-13": 34,
       "2023-02-10": 25,
       "2023-02-09": 28,
-      "2023-02-08": 23,
-      "2023-02-06": 63
+      "2023-02-08": 23
     }
   },
   {
