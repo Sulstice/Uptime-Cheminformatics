@@ -157,7 +157,7 @@
     "uptimeYear": "99.41%",
     "time": 1524,
     "timeDay": 2285,
-    "timeWeek": 1161,
+    "timeWeek": 1164,
     "timeMonth": 1842,
     "timeYear": 1537,
     "dailyMinutesDown": {
@@ -516,7 +516,7 @@
     "uptime": "96.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.51%",
+    "uptimeMonth": "99.53%",
     "uptimeYear": "96.66%",
     "time": 682,
     "timeDay": 635,
@@ -1414,18 +1414,19 @@
     "url": "https://cactus.nci.nih.gov/chemical/structure",
     "icon": "https://icons.duckduckgo.com/ip3/cactus.nci.nih.gov.ico",
     "slug": "chemical-resolver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "96.78%",
-    "uptimeWeek": "97.17%",
-    "uptimeMonth": "97.21%",
-    "uptimeYear": "99.14%",
+    "uptimeDay": "97.18%",
+    "uptimeWeek": "97.18%",
+    "uptimeMonth": "97.20%",
+    "uptimeYear": "99.15%",
     "time": 1017,
     "timeDay": 264,
     "timeWeek": 256,
     "timeMonth": 2287,
     "timeYear": 1095,
     "dailyMinutesDown": {
+      "2023-10-12": 4,
       "2023-10-11": 46,
       "2023-10-10": 35,
       "2023-10-09": 48,
@@ -1512,8 +1513,7 @@
       "2023-07-02": 35,
       "2023-07-01": 25,
       "2023-06-30": 37,
-      "2023-06-29": 50,
-      "2023-06-28": 51
+      "2023-06-29": 50
     }
   },
   {
