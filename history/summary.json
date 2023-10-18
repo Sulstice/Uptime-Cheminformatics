@@ -151,17 +151,17 @@
     "slug": "chem-exper",
     "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "63.01%",
-    "uptimeWeek": "71.09%",
-    "uptimeMonth": "93.35%",
-    "uptimeYear": "99.45%",
+    "uptimeDay": "62.45%",
+    "uptimeWeek": "71.01%",
+    "uptimeMonth": "93.33%",
+    "uptimeYear": "99.44%",
     "time": 1543,
     "timeDay": 1816,
     "timeWeek": 2286,
     "timeMonth": 1812,
     "timeYear": 1553,
     "dailyMinutesDown": {
-      "2023-10-17": 530,
+      "2023-10-17": 538,
       "2023-10-16": 641,
       "2023-10-15": 632,
       "2023-10-14": 594,
@@ -578,8 +578,7 @@
       "2022-11-22": 136,
       "2022-11-07": 23,
       "2022-11-05": 283,
-      "2022-10-19": 159,
-      "2022-10-18": 663
+      "2022-10-19": 159
     }
   },
   {
@@ -790,18 +789,20 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
-    "uptime": "98.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "82.15%",
-    "uptimeMonth": "77.96%",
-    "uptimeYear": "98.09%",
-    "time": 1845,
-    "timeDay": 1276,
-    "timeWeek": 3785,
-    "timeMonth": 3525,
-    "timeYear": 1846,
+    "status": "down",
+    "uptime": "98.90%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "82.11%",
+    "uptimeMonth": "77.95%",
+    "uptimeYear": "98.10%",
+    "time": 1844,
+    "timeDay": 1145,
+    "timeWeek": 3696,
+    "timeMonth": 3513,
+    "timeYear": 1845,
     "dailyMinutesDown": {
+      "2023-10-18": 1,
+      "2023-10-17": 3,
       "2023-10-15": 1435,
       "2023-10-14": 60,
       "2023-10-13": 247,
@@ -833,8 +834,7 @@
       "2023-09-16": 62,
       "2023-09-15": 60,
       "2023-09-14": 80,
-      "2023-09-13": 84,
-      "2023-09-11": 61
+      "2023-09-13": 84
     }
   },
   {
@@ -1247,8 +1247,7 @@
       "2022-10-22": 1440,
       "2022-10-21": 1440,
       "2022-10-20": 1440,
-      "2022-10-19": 1440,
-      "2022-10-18": 1440
+      "2022-10-19": 1440
     }
   },
   {
