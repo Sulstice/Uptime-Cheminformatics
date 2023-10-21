@@ -122,7 +122,7 @@
     "slug": "nist-chemistry-webhook",
     "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "70.60%",
+    "uptimeDay": "71.92%",
     "uptimeWeek": "90.33%",
     "uptimeMonth": "97.71%",
     "uptimeYear": "98.83%",
@@ -151,23 +151,24 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "52.66%",
-    "uptimeWeek": "71.90%",
-    "uptimeMonth": "93.53%",
+    "uptimeDay": "53.78%",
+    "uptimeWeek": "72.05%",
+    "uptimeMonth": "93.57%",
     "uptimeYear": "99.46%",
     "time": 1550,
-    "timeDay": 2104,
+    "timeDay": 2152,
     "timeWeek": 2074,
     "timeMonth": 1860,
     "timeYear": 1560,
     "dailyMinutesDown": {
+      "2023-10-21": 2,
       "2023-10-20": 676,
       "2023-10-19": 649,
       "2023-10-18": 608,
       "2023-10-17": 540,
-      "2023-10-16": 352
+      "2023-10-16": 336
     }
   },
   {
@@ -310,8 +311,7 @@
       "2022-10-27": 21,
       "2022-10-25": 25,
       "2022-10-24": 125,
-      "2022-10-23": 69,
-      "2022-10-21": 30
+      "2022-10-23": 69
     }
   },
   {
@@ -657,8 +657,7 @@
       "2022-12-16": 32,
       "2022-12-13": 23,
       "2022-10-23": 1190,
-      "2022-10-22": 1440,
-      "2022-10-21": 1381
+      "2022-10-22": 1440
     }
   },
   {
@@ -796,7 +795,7 @@
     "slug": "adverse-drug-reaction-classification-system",
     "status": "up",
     "uptime": "98.68%",
-    "uptimeDay": "43.22%",
+    "uptimeDay": "44.55%",
     "uptimeWeek": "61.29%",
     "uptimeMonth": "74.67%",
     "uptimeYear": "97.71%",
@@ -920,7 +919,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "12.22%",
+    "uptimeYear": "12.23%",
     "time": 4470,
     "timeDay": 5942,
     "timeWeek": 4832,
@@ -1246,8 +1245,7 @@
       "2022-10-25": 1440,
       "2022-10-24": 1440,
       "2022-10-23": 1440,
-      "2022-10-22": 1440,
-      "2022-10-21": 1440
+      "2022-10-22": 1440
     }
   },
   {
