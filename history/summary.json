@@ -122,9 +122,9 @@
     "slug": "nist-chemistry-webhook",
     "status": "down",
     "uptime": "99.21%",
-    "uptimeDay": "32.74%",
-    "uptimeWeek": "80.72%",
-    "uptimeMonth": "95.50%",
+    "uptimeDay": "32.08%",
+    "uptimeWeek": "80.63%",
+    "uptimeMonth": "95.48%",
     "uptimeYear": "98.64%",
     "time": 347,
     "timeDay": 575,
@@ -132,7 +132,7 @@
     "timeMonth": 461,
     "timeYear": 367,
     "dailyMinutesDown": {
-      "2023-10-21": 968,
+      "2023-10-21": 978,
       "2023-10-20": 419,
       "2023-10-19": 555,
       "2023-09-27": 27,
@@ -152,11 +152,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "53.98%",
-    "uptimeWeek": "72.37%",
-    "uptimeMonth": "93.64%",
+    "uptimeDay": "54.20%",
+    "uptimeWeek": "72.53%",
+    "uptimeMonth": "93.68%",
     "uptimeYear": "99.47%",
     "time": 1546,
     "timeDay": 1871,
@@ -164,11 +164,11 @@
     "timeMonth": 1849,
     "timeYear": 1559,
     "dailyMinutesDown": {
-      "2023-10-21": 442,
+      "2023-10-21": 444,
       "2023-10-20": 676,
       "2023-10-19": 649,
       "2023-10-18": 608,
-      "2023-10-17": 401
+      "2023-10-17": 383
     }
   },
   {
