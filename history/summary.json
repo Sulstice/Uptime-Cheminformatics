@@ -122,7 +122,7 @@
     "slug": "nist-chemistry-webhook",
     "status": "up",
     "uptime": "99.04%",
-    "uptimeDay": "5.49%",
+    "uptimeDay": "6.14%",
     "uptimeWeek": "65.29%",
     "uptimeMonth": "91.95%",
     "uptimeYear": "98.35%",
@@ -155,9 +155,9 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "72.10%",
-    "uptimeWeek": "71.98%",
-    "uptimeMonth": "93.55%",
+    "uptimeDay": "72.65%",
+    "uptimeWeek": "71.77%",
+    "uptimeMonth": "93.50%",
     "uptimeYear": "99.46%",
     "time": 1546,
     "timeDay": 1866,
@@ -165,11 +165,11 @@
     "timeMonth": 1804,
     "timeYear": 1561,
     "dailyMinutesDown": {
-      "2023-10-22": 330,
+      "2023-10-22": 322,
       "2023-10-21": 603,
       "2023-10-20": 676,
       "2023-10-19": 649,
-      "2023-10-18": 557
+      "2023-10-18": 587
     }
   },
   {
@@ -795,19 +795,19 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
+    "status": "down",
     "uptime": "98.73%",
-    "uptimeDay": "90.71%",
-    "uptimeWeek": "72.42%",
+    "uptimeDay": "90.48%",
+    "uptimeWeek": "72.48%",
     "uptimeMonth": "76.02%",
-    "uptimeYear": "97.78%",
+    "uptimeYear": "97.79%",
     "time": 1907,
     "timeDay": 12926,
     "timeWeek": 6671,
-    "timeMonth": 3009,
+    "timeMonth": 2874,
     "timeYear": 1925,
     "dailyMinutesDown": {
-      "2023-10-22": 133,
+      "2023-10-22": 136,
       "2023-10-20": 816,
       "2023-10-19": 149,
       "2023-10-18": 1440,
@@ -836,7 +836,7 @@
       "2023-09-23": 329,
       "2023-09-22": 588,
       "2023-09-21": 302,
-      "2023-09-20": 431
+      "2023-09-20": 405
     }
   },
   {
@@ -1515,7 +1515,7 @@
     "time": 1109,
     "timeDay": 113,
     "timeWeek": 338,
-    "timeMonth": 1496,
+    "timeMonth": 1353,
     "timeYear": 1289,
     "dailyMinutesDown": {
       "2023-10-08": 79,
