@@ -6,7 +6,7 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "7.12%",
+    "uptimeDay": "9.75%",
     "uptimeWeek": "85.27%",
     "uptimeMonth": "96.61%",
     "uptimeYear": "99.07%",
@@ -54,7 +54,7 @@
     "timeDay": 408,
     "timeWeek": 354,
     "timeMonth": 395,
-    "timeYear": 1528,
+    "timeYear": 1529,
     "dailyMinutesDown": {
       "2023-09-14": 1267,
       "2023-09-13": 1440,
@@ -89,7 +89,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.77%",
+    "uptimeYear": "97.78%",
     "time": 674,
     "timeDay": 496,
     "timeWeek": 633,
@@ -109,8 +109,7 @@
       "2022-10-31": 1440,
       "2022-10-30": 1440,
       "2022-10-29": 1440,
-      "2022-10-28": 1440,
-      "2022-10-27": 1440
+      "2022-10-28": 1440
     }
   },
   {
@@ -121,7 +120,7 @@
     "status": "up",
     "uptime": "99.05%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "70.60%",
+    "uptimeWeek": "70.97%",
     "uptimeMonth": "91.95%",
     "uptimeYear": "98.35%",
     "time": 350,
@@ -151,24 +150,25 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "58.18%",
-    "uptimeWeek": "70.03%",
-    "uptimeMonth": "93.10%",
+    "uptimeDay": "59.80%",
+    "uptimeWeek": "70.24%",
+    "uptimeMonth": "93.15%",
     "uptimeYear": "99.43%",
     "time": 1553,
-    "timeDay": 2465,
-    "timeWeek": 1999,
-    "timeMonth": 1696,
+    "timeDay": 2518,
+    "timeWeek": 2005,
+    "timeMonth": 1697,
     "timeYear": 1569,
     "dailyMinutesDown": {
+      "2023-10-27": 4,
       "2023-10-26": 589,
       "2023-10-25": 651,
       "2023-10-24": 528,
       "2023-10-23": 719,
       "2023-10-22": 437,
-      "2023-10-21": 96
+      "2023-10-21": 71
     }
   },
   {
@@ -186,7 +186,7 @@
     "timeDay": 2369,
     "timeWeek": 1537,
     "timeMonth": 1729,
-    "timeYear": 2936,
+    "timeYear": 2939,
     "dailyMinutesDown": {
       "2023-10-26": 20,
       "2023-10-24": 16,
@@ -308,8 +308,7 @@
       "2022-11-04": 28,
       "2022-11-03": 25,
       "2022-11-02": 49,
-      "2022-11-01": 58,
-      "2022-10-27": 21
+      "2022-11-01": 58
     }
   },
   {
@@ -794,12 +793,12 @@
     "status": "up",
     "uptime": "98.62%",
     "uptimeDay": "83.18%",
-    "uptimeWeek": "73.56%",
+    "uptimeWeek": "73.81%",
     "uptimeMonth": "75.11%",
     "uptimeYear": "97.58%",
     "time": 1983,
     "timeDay": 8788,
-    "timeWeek": 7842,
+    "timeWeek": 7604,
     "timeMonth": 3314,
     "timeYear": 2003,
     "dailyMinutesDown": {
@@ -882,10 +881,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/cfpub.epa.gov.ico",
     "slug": "ecology-toxicity",
     "status": "down",
-    "uptime": "99.15%",
+    "uptime": "99.14%",
     "uptimeDay": "36.49%",
-    "uptimeWeek": "87.42%",
-    "uptimeMonth": "97.10%",
+    "uptimeWeek": "87.04%",
+    "uptimeMonth": "97.02%",
     "uptimeYear": "99.64%",
     "time": 543,
     "timeDay": 762,
@@ -893,7 +892,8 @@
     "timeMonth": 648,
     "timeYear": 596,
     "dailyMinutesDown": {
-      "2023-10-26": 897,
+      "2023-10-27": 21,
+      "2023-10-26": 913,
       "2023-10-25": 335,
       "2023-10-24": 21,
       "2023-10-21": 16,
@@ -921,7 +921,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.91%",
     "uptimeMonth": "99.06%",
-    "uptimeYear": "13.78%",
+    "uptimeYear": "13.79%",
     "time": 4428,
     "timeDay": 5477,
     "timeWeek": 4413,
@@ -1243,8 +1243,7 @@
       "2022-10-31": 1440,
       "2022-10-30": 1440,
       "2022-10-29": 1440,
-      "2022-10-28": 1440,
-      "2022-10-27": 1440
+      "2022-10-28": 1440
     }
   },
   {
@@ -1503,10 +1502,10 @@
     "url": "https://www.lookchem.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.lookchem.com.ico",
     "slug": "look-chem",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.54%",
     "time": 1102,
@@ -1515,7 +1514,7 @@
     "timeMonth": 1464,
     "timeYear": 1287,
     "dailyMinutesDown": {
-      "2023-10-26": 7,
+      "2023-10-27": 5,
       "2023-10-08": 79,
       "2023-10-07": 36,
       "2023-10-05": 23,
