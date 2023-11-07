@@ -150,19 +150,20 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "64.59%",
-    "uptimeWeek": "71.44%",
-    "uptimeMonth": "93.43%",
+    "uptimeDay": "67.21%",
+    "uptimeWeek": "71.50%",
+    "uptimeMonth": "93.44%",
     "uptimeYear": "99.45%",
-    "time": 1586,
+    "time": 1587,
     "timeDay": 1960,
-    "timeWeek": 2395,
-    "timeMonth": 2066,
+    "timeWeek": 2403,
+    "timeMonth": 2068,
     "timeYear": 1599,
     "dailyMinutesDown": {
-      "2023-11-06": 510,
+      "2023-11-07": 2,
+      "2023-11-06": 502,
       "2023-11-05": 470,
       "2023-11-04": 334,
       "2023-11-03": 507,
@@ -305,8 +306,7 @@
       "2022-11-12": 32,
       "2022-11-10": 92,
       "2022-11-09": 20,
-      "2022-11-08": 16,
-      "2022-11-07": 344
+      "2022-11-08": 16
     }
   },
   {
@@ -572,8 +572,7 @@
       "2022-11-26": 139,
       "2022-11-25": 476,
       "2022-11-23": 64,
-      "2022-11-22": 136,
-      "2022-11-07": 23
+      "2022-11-22": 136
     }
   },
   {
@@ -583,7 +582,7 @@
     "slug": "amed-cardiotoxicity-database",
     "status": "up",
     "uptime": "98.96%",
-    "uptimeDay": "89.42%",
+    "uptimeDay": "93.56%",
     "uptimeWeek": "46.55%",
     "uptimeMonth": "87.25%",
     "uptimeYear": "98.93%",
@@ -591,7 +590,7 @@
     "timeDay": 1165,
     "timeWeek": 1034,
     "timeMonth": 990,
-    "timeYear": 1201,
+    "timeYear": 1200,
     "dailyMinutesDown": {
       "2023-11-06": 151,
       "2023-11-05": 1440,
@@ -599,8 +598,7 @@
       "2023-11-03": 1440,
       "2023-11-02": 917,
       "2023-10-12": 199,
-      "2023-01-25": 26,
-      "2022-11-07": 22
+      "2023-01-25": 26
     }
   },
   {
@@ -798,13 +796,13 @@
     "status": "up",
     "uptime": "98.47%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "74.51%",
-    "uptimeMonth": "73.46%",
+    "uptimeWeek": "75.10%",
+    "uptimeMonth": "73.49%",
     "uptimeYear": "97.27%",
     "time": 2353,
     "timeDay": 1413,
     "timeWeek": 11573,
-    "timeMonth": 6906,
+    "timeMonth": 6935,
     "timeYear": 2404,
     "dailyMinutesDown": {
       "2023-11-03": 153,
@@ -924,7 +922,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.06%",
-    "uptimeYear": "16.80%",
+    "uptimeYear": "16.81%",
     "time": 4301,
     "timeDay": 2271,
     "timeWeek": 2316,
@@ -1235,8 +1233,7 @@
       "2022-11-11": 1440,
       "2022-11-10": 1440,
       "2022-11-09": 1440,
-      "2022-11-08": 1440,
-      "2022-11-07": 1440
+      "2022-11-08": 1440
     }
   },
   {
@@ -1267,7 +1264,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "91.33%",
-    "uptimeYear": "99.22%",
+    "uptimeYear": "99.24%",
     "time": 857,
     "timeDay": 676,
     "timeWeek": 754,
@@ -1278,8 +1275,7 @@
       "2023-10-29": 1440,
       "2023-10-28": 1440,
       "2023-10-27": 873,
-      "2023-01-25": 24,
-      "2022-11-07": 254
+      "2023-01-25": 24
     }
   },
   {
