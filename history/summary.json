@@ -154,9 +154,9 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "60.20%",
-    "uptimeWeek": "72.28%",
-    "uptimeMonth": "93.62%",
+    "uptimeDay": "60.91%",
+    "uptimeWeek": "72.34%",
+    "uptimeMonth": "93.58%",
     "uptimeYear": "99.47%",
     "time": 1586,
     "timeDay": 1919,
@@ -164,14 +164,14 @@
     "timeMonth": 2195,
     "timeYear": 1601,
     "dailyMinutesDown": {
-      "2023-11-11": 132,
+      "2023-11-11": 122,
       "2023-11-10": 521,
       "2023-11-09": 247,
       "2023-11-08": 357,
       "2023-11-07": 348,
       "2023-11-06": 502,
       "2023-11-05": 470,
-      "2023-11-04": 214
+      "2023-11-04": 241
     }
   },
   {
@@ -179,19 +179,19 @@
     "url": "https://nmrshiftdb.nmr.uni-koeln.de/",
     "icon": "https://icons.duckduckgo.com/ip3/nmrshiftdb.nmr.uni-koeln.de.ico",
     "slug": "nmr-shift-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "97.49%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.22%",
-    "uptimeYear": "98.69%",
-    "time": 2968,
+    "uptimeDay": "97.23%",
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "99.21%",
+    "uptimeYear": "98.70%",
+    "time": 2970,
     "timeDay": 1139,
     "timeWeek": 2661,
     "timeMonth": 2187,
     "timeYear": 2956,
     "dailyMinutesDown": {
-      "2023-11-11": 20,
+      "2023-11-11": 24,
       "2023-11-10": 16,
       "2023-11-09": 43,
       "2023-11-08": 17,
@@ -251,8 +251,7 @@
       "2023-02-26": 48,
       "2023-02-25": 778,
       "2023-02-24": 56,
-      "2023-02-23": 60,
-      "2023-02-22": 26
+      "2023-02-23": 60
     }
   },
   {
@@ -585,9 +584,9 @@
     "slug": "amed-cardiotoxicity-database",
     "status": "down",
     "uptime": "98.84%",
-    "uptimeDay": "16.19%",
+    "uptimeDay": "15.60%",
     "uptimeWeek": "60.64%",
-    "uptimeMonth": "84.49%",
+    "uptimeMonth": "84.47%",
     "uptimeYear": "98.70%",
     "time": 1245,
     "timeDay": 0,
@@ -595,7 +594,7 @@
     "timeMonth": 977,
     "timeYear": 1197,
     "dailyMinutesDown": {
-      "2023-11-11": 271,
+      "2023-11-11": 279,
       "2023-11-10": 936,
       "2023-11-06": 151,
       "2023-11-05": 1440,
