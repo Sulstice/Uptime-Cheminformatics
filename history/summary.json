@@ -58,7 +58,7 @@
     "timeDay": 0,
     "timeWeek": 979,
     "timeMonth": 594,
-    "timeYear": 1567,
+    "timeYear": 1568,
     "dailyMinutesDown": {
       "2023-11-03": 15,
       "2023-11-02": 1314,
@@ -159,7 +159,7 @@
     "uptimeMonth": "93.41%",
     "uptimeYear": "99.45%",
     "time": 1591,
-    "timeDay": 2704,
+    "timeDay": 2772,
     "timeWeek": 1888,
     "timeMonth": 2160,
     "timeYear": 1604,
@@ -188,7 +188,7 @@
     "timeDay": 0,
     "timeWeek": 2191,
     "timeMonth": 2075,
-    "timeYear": 2947,
+    "timeYear": 2950,
     "dailyMinutesDown": {
       "2023-11-11": 36,
       "2023-11-10": 16,
@@ -306,8 +306,7 @@
       "2022-11-28": 33,
       "2022-11-24": 18,
       "2022-11-16": 16,
-      "2022-11-14": 37,
-      "2022-11-13": 46
+      "2022-11-14": 37
     }
   },
   {
@@ -581,19 +580,19 @@
     "url": "https://drugdesign.riken.jp/hERGdb/",
     "icon": "https://icons.duckduckgo.com/ip3/drugdesign.riken.jp.ico",
     "slug": "amed-cardiotoxicity-database",
-    "status": "down",
+    "status": "up",
     "uptime": "98.57%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "60.64%",
-    "uptimeMonth": "79.00%",
+    "uptimeDay": "0.35%",
+    "uptimeWeek": "60.69%",
+    "uptimeMonth": "78.99%",
     "uptimeYear": "98.21%",
-    "time": 1246,
-    "timeDay": 0,
-    "timeWeek": 1130,
-    "timeMonth": 975,
+    "time": 1247,
+    "timeDay": 1381,
+    "timeWeek": 1172,
+    "timeMonth": 994,
     "timeYear": 1197,
     "dailyMinutesDown": {
-      "2023-11-12": 1435,
+      "2023-11-12": 1438,
       "2023-11-11": 1440,
       "2023-11-10": 936,
       "2023-11-06": 151,
@@ -928,7 +927,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.06%",
-    "uptimeYear": "18.44%",
+    "uptimeYear": "18.45%",
     "time": 4295,
     "timeDay": 0,
     "timeWeek": 3907,
@@ -1233,8 +1232,7 @@
       "2022-11-17": 1440,
       "2022-11-16": 1440,
       "2022-11-15": 1440,
-      "2022-11-14": 1440,
-      "2022-11-13": 1440
+      "2022-11-14": 1440
     }
   },
   {
@@ -1499,9 +1497,9 @@
     "slug": "look-chem",
     "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "91.28%",
-    "uptimeWeek": "98.75%",
-    "uptimeMonth": "99.68%",
+    "uptimeDay": "90.69%",
+    "uptimeWeek": "98.67%",
+    "uptimeMonth": "99.66%",
     "uptimeYear": "99.53%",
     "time": 1296,
     "timeDay": 24547,
@@ -1509,7 +1507,8 @@
     "timeMonth": 4288,
     "timeYear": 1483,
     "dailyMinutesDown": {
-      "2023-11-12": 126,
+      "2023-11-13": 4,
+      "2023-11-12": 130,
       "2023-10-27": 17,
       "2023-10-08": 79,
       "2023-10-07": 36,
