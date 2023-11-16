@@ -152,19 +152,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "85.23%",
-    "uptimeWeek": "73.39%",
-    "uptimeMonth": "93.35%",
+    "status": "down",
+    "uptime": "99.70%",
+    "uptimeDay": "85.06%",
+    "uptimeWeek": "73.37%",
+    "uptimeMonth": "93.39%",
     "uptimeYear": "99.45%",
     "time": 1593,
-    "timeDay": 2625,
-    "timeWeek": 2055,
-    "timeMonth": 2147,
+    "timeDay": 2562,
+    "timeWeek": 2062,
+    "timeMonth": 2149,
     "timeYear": 1608,
     "dailyMinutesDown": {
-      "2023-11-16": 46,
+      "2023-11-16": 48,
       "2023-11-15": 189,
       "2023-11-14": 372,
       "2023-11-13": 259,
@@ -172,7 +172,7 @@
       "2023-11-11": 484,
       "2023-11-10": 521,
       "2023-11-09": 247,
-      "2023-11-08": 199
+      "2023-11-08": 176
     }
   },
   {
@@ -182,9 +182,9 @@
     "slug": "nmr-shift-database",
     "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "98.50%",
-    "uptimeMonth": "99.14%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.56%",
+    "uptimeMonth": "99.15%",
     "uptimeYear": "98.86%",
     "time": 2908,
     "timeDay": 1097,
@@ -192,7 +192,6 @@
     "timeMonth": 1686,
     "timeYear": 2914,
     "dailyMinutesDown": {
-      "2023-11-16": 7,
       "2023-11-14": 49,
       "2023-11-11": 36,
       "2023-11-10": 16,
@@ -251,7 +250,7 @@
       "2023-03-02": 90,
       "2023-02-28": 194,
       "2023-02-27": 135,
-      "2023-02-26": 24
+      "2023-02-26": 48
     }
   },
   {
