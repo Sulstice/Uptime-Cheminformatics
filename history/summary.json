@@ -58,7 +58,7 @@
     "timeDay": 509,
     "timeWeek": 592,
     "timeMonth": 588,
-    "timeYear": 1596,
+    "timeYear": 1597,
     "dailyMinutesDown": {
       "2023-11-03": 15,
       "2023-11-02": 1314,
@@ -154,14 +154,14 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "91.46%",
-    "uptimeWeek": "74.77%",
+    "uptimeDay": "92.95%",
+    "uptimeWeek": "74.92%",
     "uptimeMonth": "93.33%",
     "uptimeYear": "99.44%",
     "time": 1597,
-    "timeDay": 1566,
-    "timeWeek": 2004,
-    "timeMonth": 2126,
+    "timeDay": 1601,
+    "timeWeek": 2010,
+    "timeMonth": 2124,
     "timeYear": 1608,
     "dailyMinutesDown": {
       "2023-11-16": 120,
@@ -190,7 +190,7 @@
     "timeDay": 1535,
     "timeWeek": 1163,
     "timeMonth": 1698,
-    "timeYear": 2901,
+    "timeYear": 2894,
     "dailyMinutesDown": {
       "2023-11-16": 121,
       "2023-11-14": 49,
@@ -787,8 +787,7 @@
       "2023-02-09": 16,
       "2023-02-03": 59,
       "2023-01-04": 18,
-      "2022-12-14": 26,
-      "2022-11-17": 17
+      "2022-12-14": 26
     }
   },
   {
@@ -928,7 +927,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.06%",
-    "uptimeYear": "19.54%",
+    "uptimeYear": "19.55%",
     "time": 4255,
     "timeDay": 5717,
     "timeWeek": 5107,
@@ -1229,8 +1228,7 @@
       "2022-11-21": 1440,
       "2022-11-20": 1440,
       "2022-11-19": 1440,
-      "2022-11-18": 1440,
-      "2022-11-17": 1440
+      "2022-11-18": 1440
     }
   },
   {
@@ -1306,9 +1304,9 @@
     "slug": "pesticide-info",
     "status": "up",
     "uptime": "98.79%",
-    "uptimeDay": "97.33%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "97.21%",
+    "uptimeDay": "97.81%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "97.23%",
     "uptimeYear": "97.84%",
     "time": 527,
     "timeDay": 410,
@@ -1316,7 +1314,7 @@
     "timeMonth": 466,
     "timeYear": 518,
     "dailyMinutesDown": {
-      "2023-11-16": 38,
+      "2023-11-16": 31,
       "2023-11-15": 21,
       "2023-11-14": 17,
       "2023-11-03": 326,
@@ -1397,7 +1395,7 @@
     "timeDay": 264,
     "timeWeek": 583,
     "timeMonth": 677,
-    "timeYear": 1126,
+    "timeYear": 1127,
     "dailyMinutesDown": {
       "2023-11-16": 24,
       "2023-11-15": 25,
