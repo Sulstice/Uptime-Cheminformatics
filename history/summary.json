@@ -155,7 +155,7 @@
     "status": "up",
     "uptime": "99.70%",
     "uptimeDay": "91.07%",
-    "uptimeWeek": "78.60%",
+    "uptimeWeek": "78.69%",
     "uptimeMonth": "93.41%",
     "uptimeYear": "99.45%",
     "time": 1593,
@@ -396,8 +396,7 @@
       "2023-01-16": 438,
       "2023-01-15": 733,
       "2023-01-14": 246,
-      "2022-12-14": 22,
-      "2022-11-18": 15
+      "2022-12-14": 22
     }
   },
   {
@@ -583,7 +582,7 @@
     "status": "up",
     "uptime": "98.58%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "71.38%",
+    "uptimeWeek": "71.48%",
     "uptimeMonth": "78.99%",
     "uptimeYear": "98.21%",
     "time": 1247,
@@ -802,12 +801,12 @@
     "uptime": "98.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "80.28%",
+    "uptimeMonth": "80.30%",
     "uptimeYear": "97.27%",
     "time": 2353,
     "timeDay": 1911,
     "timeWeek": 1635,
-    "timeMonth": 9243,
+    "timeMonth": 9315,
     "timeYear": 2407,
     "dailyMinutesDown": {
       "2023-11-03": 153,
@@ -931,7 +930,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.06%",
-    "uptimeYear": "19.81%",
+    "uptimeYear": "19.82%",
     "time": 4213,
     "timeDay": 1791,
     "timeWeek": 3715,
@@ -1231,8 +1230,7 @@
       "2022-11-22": 1440,
       "2022-11-21": 1440,
       "2022-11-20": 1440,
-      "2022-11-19": 1440,
-      "2022-11-18": 1440
+      "2022-11-19": 1440
     }
   },
   {
@@ -1306,19 +1304,19 @@
     "url": "https://www.pesticideinfo.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pesticideinfo.org.ico",
     "slug": "pesticide-info",
-    "status": "down",
+    "status": "up",
     "uptime": "98.76%",
-    "uptimeDay": "80.68%",
-    "uptimeWeek": "96.55%",
+    "uptimeDay": "80.44%",
+    "uptimeWeek": "96.51%",
     "uptimeMonth": "96.59%",
     "uptimeYear": "97.79%",
     "time": 516,
-    "timeDay": 350,
-    "timeWeek": 410,
-    "timeMonth": 422,
+    "timeDay": 345,
+    "timeWeek": 406,
+    "timeMonth": 419,
     "timeYear": 504,
     "dailyMinutesDown": {
-      "2023-11-17": 278,
+      "2023-11-17": 281,
       "2023-11-16": 31,
       "2023-11-15": 21,
       "2023-11-14": 17,
@@ -1499,11 +1497,11 @@
     "url": "https://www.lookchem.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.lookchem.com.ico",
     "slug": "look-chem",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.56%",
-    "uptimeMonth": "99.17%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "96.50%",
+    "uptimeMonth": "99.16%",
     "uptimeYear": "99.49%",
     "time": 1296,
     "timeDay": 636,
@@ -1511,6 +1509,8 @@
     "timeMonth": 4111,
     "timeYear": 1481,
     "dailyMinutesDown": {
+      "2023-11-18": 5,
+      "2023-11-17": 1,
       "2023-11-13": 217,
       "2023-11-12": 130,
       "2023-10-27": 17,
@@ -1588,8 +1588,7 @@
     "dailyMinutesDown": {
       "2023-03-03": 879,
       "2023-03-02": 1440,
-      "2023-03-01": 775,
-      "2022-11-18": 167
+      "2023-03-01": 775
     }
   }
 ]
