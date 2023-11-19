@@ -109,8 +109,7 @@
       "2023-03-30": 17,
       "2023-02-18": 21,
       "2022-11-23": 17,
-      "2022-11-22": 79,
-      "2022-11-19": 96
+      "2022-11-22": 79
     }
   },
   {
@@ -152,18 +151,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "86.98%",
-    "uptimeWeek": "81.61%",
-    "uptimeMonth": "93.52%",
+    "status": "down",
+    "uptime": "99.71%",
+    "uptimeDay": "86.79%",
+    "uptimeWeek": "81.58%",
+    "uptimeMonth": "93.58%",
     "uptimeYear": "99.46%",
     "time": 1597,
     "timeDay": 1409,
-    "timeWeek": 2006,
+    "timeWeek": 2014,
     "timeMonth": 2114,
     "timeYear": 1608,
     "dailyMinutesDown": {
+      "2023-11-19": 3,
       "2023-11-18": 187,
       "2023-11-17": 128,
       "2023-11-16": 120,
@@ -172,7 +172,7 @@
       "2023-11-13": 259,
       "2023-11-12": 595,
       "2023-11-11": 484,
-      "2023-11-10": 502
+      "2023-11-10": 471
     }
   },
   {
@@ -582,7 +582,7 @@
     "status": "up",
     "uptime": "98.58%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "85.64%",
+    "uptimeWeek": "85.86%",
     "uptimeMonth": "78.99%",
     "uptimeYear": "98.21%",
     "time": 1247,
@@ -801,7 +801,7 @@
     "uptime": "98.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.55%",
+    "uptimeMonth": "83.60%",
     "uptimeYear": "97.27%",
     "time": 2354,
     "timeDay": 1576,
@@ -927,9 +927,9 @@
     "slug": "human-and-environment-risk-assessment",
     "status": "down",
     "uptime": "11.05%",
-    "uptimeDay": "94.17%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "98.87%",
+    "uptimeDay": "92.63%",
+    "uptimeWeek": "98.95%",
+    "uptimeMonth": "98.82%",
     "uptimeYear": "20.07%",
     "time": 4213,
     "timeDay": 0,
@@ -937,7 +937,8 @@
     "timeMonth": 3960,
     "timeYear": 4213,
     "dailyMinutesDown": {
-      "2023-11-18": 84,
+      "2023-11-19": 13,
+      "2023-11-18": 93,
       "2023-10-22": 303,
       "2023-10-21": 109,
       "2023-09-06": 560,
@@ -1230,8 +1231,7 @@
       "2022-11-23": 1440,
       "2022-11-22": 1440,
       "2022-11-21": 1440,
-      "2022-11-20": 1440,
-      "2022-11-19": 1440
+      "2022-11-20": 1440
     }
   },
   {
@@ -1312,7 +1312,7 @@
     "uptimeMonth": "96.27%",
     "uptimeYear": "97.76%",
     "time": 511,
-    "timeDay": 367,
+    "timeDay": 373,
     "timeWeek": 387,
     "timeMonth": 408,
     "timeYear": 495,
@@ -1501,7 +1501,7 @@
     "slug": "look-chem",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "98.22%",
+    "uptimeDay": "99.24%",
     "uptimeWeek": "96.31%",
     "uptimeMonth": "99.11%",
     "uptimeYear": "99.48%",
