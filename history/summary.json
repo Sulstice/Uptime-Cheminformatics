@@ -108,8 +108,7 @@
       "2023-08-24": 63,
       "2023-03-30": 17,
       "2023-02-18": 21,
-      "2022-11-23": 17,
-      "2022-11-22": 79
+      "2022-11-23": 17
     }
   },
   {
@@ -121,7 +120,7 @@
     "uptime": "99.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.56%",
-    "uptimeMonth": "96.85%",
+    "uptimeMonth": "96.87%",
     "uptimeYear": "98.30%",
     "time": 437,
     "timeDay": 2100,
@@ -152,11 +151,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "77.09%",
-    "uptimeWeek": "85.58%",
-    "uptimeMonth": "94.19%",
+    "status": "down",
+    "uptime": "99.74%",
+    "uptimeDay": "77.01%",
+    "uptimeWeek": "85.54%",
+    "uptimeMonth": "94.22%",
     "uptimeYear": "99.52%",
     "time": 1593,
     "timeDay": 991,
@@ -164,7 +163,8 @@
     "timeMonth": 2069,
     "timeYear": 1607,
     "dailyMinutesDown": {
-      "2023-11-21": 330,
+      "2023-11-22": 1,
+      "2023-11-21": 332,
       "2023-11-20": 260,
       "2023-11-19": 237,
       "2023-11-18": 187,
@@ -173,7 +173,7 @@
       "2023-11-15": 189,
       "2023-11-14": 372,
       "2023-11-13": 259,
-      "2023-11-12": 459
+      "2023-11-12": 440
     }
   },
   {
@@ -283,10 +283,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
     "status": "up",
-    "uptime": "99.49%",
+    "uptime": "99.48%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.38%",
-    "uptimeMonth": "95.56%",
+    "uptimeWeek": "83.29%",
+    "uptimeMonth": "95.54%",
     "uptimeYear": "99.56%",
     "time": 886,
     "timeDay": 895,
@@ -294,7 +294,8 @@
     "timeMonth": 1636,
     "timeYear": 903,
     "dailyMinutesDown": {
-      "2023-11-21": 1435,
+      "2023-11-22": 3,
+      "2023-11-21": 1440,
       "2023-11-20": 241,
       "2023-11-08": 16,
       "2023-11-02": 198,
@@ -369,8 +370,8 @@
     "status": "up",
     "uptime": "98.79%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "59.25%",
-    "uptimeMonth": "90.59%",
+    "uptimeWeek": "59.16%",
+    "uptimeMonth": "90.57%",
     "uptimeYear": "98.62%",
     "time": 3838,
     "timeDay": 828,
@@ -378,7 +379,8 @@
     "timeMonth": 1056,
     "timeYear": 4742,
     "dailyMinutesDown": {
-      "2023-11-21": 1435,
+      "2023-11-22": 4,
+      "2023-11-21": 1440,
       "2023-11-20": 1440,
       "2023-11-19": 1233,
       "2023-11-12": 16,
@@ -576,8 +578,7 @@
       "2022-12-08": 116,
       "2022-11-26": 139,
       "2022-11-25": 476,
-      "2022-11-23": 64,
-      "2022-11-22": 136
+      "2022-11-23": 64
     }
   },
   {
@@ -935,7 +936,7 @@
     "status": "down",
     "uptime": "11.27%",
     "uptimeDay": "34.22%",
-    "uptimeWeek": "82.42%",
+    "uptimeWeek": "82.33%",
     "uptimeMonth": "95.25%",
     "uptimeYear": "20.57%",
     "time": 4036,
@@ -944,7 +945,8 @@
     "timeMonth": 3402,
     "timeYear": 4036,
     "dailyMinutesDown": {
-      "2023-11-21": 943,
+      "2023-11-22": 5,
+      "2023-11-21": 947,
       "2023-11-20": 248,
       "2023-11-19": 489,
       "2023-11-18": 93,
@@ -1237,8 +1239,7 @@
       "2022-11-26": 1440,
       "2022-11-25": 1440,
       "2022-11-24": 1440,
-      "2022-11-23": 1440,
-      "2022-11-22": 1440
+      "2022-11-23": 1440
     }
   },
   {
@@ -1312,19 +1313,19 @@
     "url": "https://www.pesticideinfo.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pesticideinfo.org.ico",
     "slug": "pesticide-info",
-    "status": "down",
+    "status": "up",
     "uptime": "98.71%",
-    "uptimeDay": "92.63%",
-    "uptimeWeek": "91.40%",
-    "uptimeMonth": "95.37%",
+    "uptimeDay": "92.36%",
+    "uptimeWeek": "91.37%",
+    "uptimeMonth": "95.36%",
     "uptimeYear": "97.69%",
     "time": 504,
-    "timeDay": 469,
-    "timeWeek": 399,
-    "timeMonth": 414,
-    "timeYear": 487,
+    "timeDay": 456,
+    "timeWeek": 398,
+    "timeMonth": 413,
+    "timeYear": 486,
     "dailyMinutesDown": {
-      "2023-11-21": 106,
+      "2023-11-21": 110,
       "2023-11-20": 245,
       "2023-11-19": 46,
       "2023-11-18": 144,
