@@ -1,7 +1,7 @@
 url: https://sdbs.db.aist.go.jp/sdbs/cgi-bin/cre_index.cgi?lang=eng
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-22T15:46:16.984Z
+status: up
+code: 200
+responseTime: 1869
+lastUpdated: 2023-11-22T16:02:15.310Z
 startTime: 2022-01-24T16:16:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
