@@ -1,7 +1,7 @@
 url: https://nmrshiftdb.nmr.uni-koeln.de/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-03T13:06:49.420Z
+status: up
+code: 200
+responseTime: 848
+lastUpdated: 2023-12-03T13:17:08.302Z
 startTime: 2022-01-24T16:16:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
