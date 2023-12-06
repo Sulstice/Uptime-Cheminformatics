@@ -153,18 +153,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
     "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "90.14%",
-    "uptimeWeek": "87.71%",
-    "uptimeMonth": "94.53%",
+    "uptime": "99.75%",
+    "uptimeDay": "91.30%",
+    "uptimeWeek": "87.79%",
+    "uptimeMonth": "94.48%",
     "uptimeYear": "99.54%",
     "time": 1595,
     "timeDay": 2713,
-    "timeWeek": 2100,
+    "timeWeek": 2108,
     "timeMonth": 1674,
     "timeYear": 1605,
     "dailyMinutesDown": {
-      "2023-12-05": 143,
+      "2023-12-05": 135,
       "2023-12-04": 225,
       "2023-12-03": 105,
       "2023-12-02": 140,
@@ -177,7 +177,7 @@
       "2023-11-25": 171,
       "2023-11-24": 65,
       "2023-11-23": 186,
-      "2023-11-22": 184
+      "2023-11-22": 213
     }
   },
   {
@@ -377,7 +377,7 @@
     "status": "up",
     "uptime": "97.18%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "40.69%",
+    "uptimeWeek": "40.99%",
     "uptimeMonth": "53.93%",
     "uptimeYear": "95.56%",
     "time": 3851,
@@ -607,7 +607,7 @@
     "uptime": "98.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.93%",
+    "uptimeMonth": "91.00%",
     "uptimeYear": "98.21%",
     "time": 1235,
     "timeDay": 991,
@@ -691,7 +691,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.59%",
+    "uptimeYear": "99.60%",
     "time": 1208,
     "timeDay": 734,
     "timeWeek": 946,
@@ -707,8 +707,7 @@
       "2023-02-12": 321,
       "2023-01-31": 250,
       "2023-01-25": 25,
-      "2023-01-05": 213,
-      "2022-12-06": 165
+      "2023-01-05": 213
     }
   },
   {
@@ -961,7 +960,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.75%",
-    "uptimeYear": "24.14%",
+    "uptimeYear": "24.15%",
     "time": 3638,
     "timeDay": 2368,
     "timeWeek": 1978,
@@ -1249,8 +1248,7 @@
       "2022-12-10": 1440,
       "2022-12-09": 1440,
       "2022-12-08": 1440,
-      "2022-12-07": 1440,
-      "2022-12-06": 1440
+      "2022-12-07": 1440
     }
   },
   {
