@@ -155,9 +155,9 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "89.32%",
-    "uptimeWeek": "87.35%",
-    "uptimeMonth": "94.52%",
+    "uptimeDay": "89.98%",
+    "uptimeWeek": "87.44%",
+    "uptimeMonth": "94.48%",
     "uptimeYear": "99.54%",
     "time": 1597,
     "timeDay": 2141,
@@ -165,7 +165,7 @@
     "timeMonth": 1670,
     "timeYear": 1608,
     "dailyMinutesDown": {
-      "2023-12-11": 76,
+      "2023-12-11": 66,
       "2023-12-10": 222,
       "2023-12-09": 98,
       "2023-12-08": 139,
@@ -178,7 +178,8 @@
       "2023-12-01": 129,
       "2023-11-30": 233,
       "2023-11-29": 262,
-      "2023-11-28": 144
+      "2023-11-28": 144,
+      "2023-11-27": 28
     }
   },
   {
@@ -526,7 +527,7 @@
     "slug": "comparative-toxicogenomics-database",
     "status": "up",
     "uptime": "96.70%",
-    "uptimeDay": "93.75%",
+    "uptimeDay": "94.48%",
     "uptimeWeek": "96.66%",
     "uptimeMonth": "98.76%",
     "uptimeYear": "97.74%",
@@ -607,7 +608,7 @@
     "uptime": "98.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.68%",
+    "uptimeMonth": "94.71%",
     "uptimeYear": "98.21%",
     "time": 1230,
     "timeDay": 0,
@@ -1405,18 +1406,19 @@
     "url": "https://cactus.nci.nih.gov/chemical/structure",
     "icon": "https://icons.duckduckgo.com/ip3/cactus.nci.nih.gov.ico",
     "slug": "chemical-resolver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "98.23%",
-    "uptimeWeek": "97.33%",
-    "uptimeMonth": "97.08%",
-    "uptimeYear": "99.11%",
-    "time": 1060,
-    "timeDay": 572,
+    "uptimeDay": "97.97%",
+    "uptimeWeek": "97.35%",
+    "uptimeMonth": "97.09%",
+    "uptimeYear": "99.12%",
+    "time": 1059,
+    "timeDay": 171,
     "timeWeek": 409,
-    "timeMonth": 380,
-    "timeYear": 1106,
+    "timeMonth": 377,
+    "timeYear": 1105,
     "dailyMinutesDown": {
+      "2023-12-11": 4,
       "2023-12-10": 26,
       "2023-12-09": 33,
       "2023-12-08": 43,
@@ -1503,8 +1505,7 @@
       "2023-08-27": 26,
       "2023-08-26": 25,
       "2023-08-25": 45,
-      "2023-08-24": 80,
-      "2023-08-23": 46
+      "2023-08-24": 80
     }
   },
   {
