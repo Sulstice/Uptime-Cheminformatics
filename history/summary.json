@@ -529,7 +529,7 @@
     "uptimeDay": "95.92%",
     "uptimeWeek": "94.94%",
     "uptimeMonth": "98.14%",
-    "uptimeYear": "97.83%",
+    "uptimeYear": "97.84%",
     "time": 678,
     "timeDay": 444,
     "timeWeek": 460,
@@ -822,18 +822,19 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
-    "uptime": "98.57%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "98.65%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.48%",
-    "uptimeYear": "97.30%",
+    "uptimeYear": "97.45%",
     "time": 2357,
     "timeDay": 1960,
     "timeWeek": 1701,
     "timeMonth": 2233,
     "timeYear": 2421,
     "dailyMinutesDown": {
+      "2023-12-14": 3,
       "2023-12-03": 45,
       "2023-12-02": 121,
       "2023-12-01": 20,
@@ -864,8 +865,7 @@
       "2023-10-07": 436,
       "2023-10-06": 319,
       "2023-10-05": 395,
-      "2023-10-04": 833,
-      "2023-10-03": 797
+      "2023-10-04": 822
     }
   },
   {
