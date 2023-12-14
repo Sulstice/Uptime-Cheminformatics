@@ -157,9 +157,9 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "88.48%",
-    "uptimeWeek": "87.53%",
-    "uptimeMonth": "94.50%",
+    "uptimeDay": "89.03%",
+    "uptimeWeek": "87.72%",
+    "uptimeMonth": "94.47%",
     "uptimeYear": "99.54%",
     "time": 1597,
     "timeDay": 1571,
@@ -167,7 +167,7 @@
     "timeMonth": 1605,
     "timeYear": 1608,
     "dailyMinutesDown": {
-      "2023-12-14": 150,
+      "2023-12-14": 142,
       "2023-12-13": 177,
       "2023-12-12": 217,
       "2023-12-11": 182,
@@ -180,7 +180,8 @@
       "2023-12-04": 225,
       "2023-12-03": 105,
       "2023-12-02": 140,
-      "2023-12-01": 129
+      "2023-12-01": 129,
+      "2023-11-30": 18
     }
   },
   {
@@ -188,18 +189,19 @@
     "url": "https://nmrshiftdb.nmr.uni-koeln.de/",
     "icon": "https://icons.duckduckgo.com/ip3/nmrshiftdb.nmr.uni-koeln.de.ico",
     "slug": "nmr-shift-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "97.89%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "98.51%",
-    "uptimeYear": "98.82%",
+    "uptimeDay": "97.66%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "98.50%",
+    "uptimeYear": "98.83%",
     "time": 2834,
     "timeDay": 4651,
     "timeWeek": 2109,
     "timeMonth": 1737,
     "timeYear": 2676,
     "dailyMinutesDown": {
+      "2023-12-14": 3,
       "2023-12-13": 46,
       "2023-12-12": 37,
       "2023-12-08": 30,
@@ -263,8 +265,7 @@
       "2023-03-12": 288,
       "2023-03-11": 648,
       "2023-03-10": 277,
-      "2023-03-09": 19,
-      "2023-03-08": 15
+      "2023-03-09": 19
     }
   },
   {
@@ -526,12 +527,12 @@
     "status": "up",
     "uptime": "96.75%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.06%",
+    "uptimeWeek": "95.09%",
     "uptimeMonth": "98.14%",
     "uptimeYear": "98.01%",
     "time": 678,
     "timeDay": 447,
-    "timeWeek": 460,
+    "timeWeek": 449,
     "timeMonth": 487,
     "timeYear": 656,
     "dailyMinutesDown": {
@@ -1313,7 +1314,7 @@
     "uptime": "98.75%",
     "uptimeDay": "98.82%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "97.95%",
+    "uptimeMonth": "97.96%",
     "uptimeYear": "97.68%",
     "time": 511,
     "timeDay": 1336,
