@@ -156,11 +156,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "88.37%",
-    "uptimeWeek": "88.00%",
-    "uptimeMonth": "94.46%",
+    "uptimeDay": "88.25%",
+    "uptimeWeek": "88.02%",
+    "uptimeMonth": "94.51%",
     "uptimeYear": "99.54%",
     "time": 1598,
     "timeDay": 1661,
@@ -168,7 +168,8 @@
     "timeMonth": 1604,
     "timeYear": 1608,
     "dailyMinutesDown": {
-      "2023-12-14": 168,
+      "2023-12-15": 1,
+      "2023-12-14": 169,
       "2023-12-13": 177,
       "2023-12-12": 217,
       "2023-12-11": 182,
@@ -181,7 +182,7 @@
       "2023-12-04": 225,
       "2023-12-03": 105,
       "2023-12-02": 140,
-      "2023-12-01": 129
+      "2023-12-01": 102
     }
   },
   {
@@ -197,7 +198,7 @@
     "uptimeYear": "98.82%",
     "time": 2832,
     "timeDay": 1168,
-    "timeWeek": 2090,
+    "timeWeek": 2132,
     "timeMonth": 1732,
     "timeYear": 2671,
     "dailyMinutesDown": {
@@ -460,7 +461,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.46%",
+    "uptimeYear": "87.47%",
     "time": 994,
     "timeDay": 1029,
     "timeWeek": 989,
@@ -515,8 +516,7 @@
       "2022-12-19": 1440,
       "2022-12-18": 1440,
       "2022-12-17": 1440,
-      "2022-12-16": 1440,
-      "2022-12-15": 1440
+      "2022-12-16": 1440
     }
   },
   {
@@ -594,8 +594,7 @@
       "2023-01-08": 36,
       "2023-01-05": 17,
       "2023-01-04": 17,
-      "2023-01-03": 34,
-      "2022-12-15": 66
+      "2023-01-03": 34
     }
   },
   {
@@ -874,7 +873,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www-metrabase.ch.cam.ac.uk.ico",
     "slug": "metabolism-and-transport-database",
     "status": "up",
-    "uptime": "97.21%",
+    "uptime": "97.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1236,8 +1235,7 @@
       "2022-12-19": 1440,
       "2022-12-18": 1440,
       "2022-12-17": 1440,
-      "2022-12-16": 1440,
-      "2022-12-15": 1440
+      "2022-12-16": 1440
     }
   },
   {
