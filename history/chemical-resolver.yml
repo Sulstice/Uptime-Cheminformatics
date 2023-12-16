@@ -1,7 +1,7 @@
 url: https://cactus.nci.nih.gov/chemical/structure
-status: down
-code: 500
-responseTime: 332
-lastUpdated: 2023-12-16T09:10:03.777Z
+status: up
+code: 200
+responseTime: 415
+lastUpdated: 2023-12-16T09:20:08.575Z
 startTime: 2022-01-25T00:38:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
