@@ -157,11 +157,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "91.18%",
-    "uptimeWeek": "87.37%",
-    "uptimeMonth": "94.46%",
+    "uptimeDay": "91.10%",
+    "uptimeWeek": "87.35%",
+    "uptimeMonth": "94.50%",
     "uptimeYear": "99.54%",
     "time": 1595,
     "timeDay": 1269,
@@ -169,6 +169,7 @@
     "timeMonth": 1554,
     "timeYear": 1607,
     "dailyMinutesDown": {
+      "2023-12-18": 1,
       "2023-12-17": 180,
       "2023-12-16": 165,
       "2023-12-15": 206,
@@ -182,7 +183,7 @@
       "2023-12-07": 187,
       "2023-12-06": 300,
       "2023-12-05": 135,
-      "2023-12-04": 42
+      "2023-12-04": 25
     }
   },
   {
@@ -458,7 +459,7 @@
     "slug": "card-pred",
     "status": "up",
     "uptime": "91.35%",
-    "uptimeDay": "0.22%",
+    "uptimeDay": "0.82%",
     "uptimeWeek": "62.33%",
     "uptimeMonth": "91.33%",
     "uptimeYear": "87.60%",
@@ -953,7 +954,7 @@
     "slug": "human-and-environment-risk-assessment",
     "status": "up",
     "uptime": "14.28%",
-    "uptimeDay": "85.86%",
+    "uptimeDay": "86.46%",
     "uptimeWeek": "80.21%",
     "uptimeMonth": "88.20%",
     "uptimeYear": "27.08%",
@@ -1317,7 +1318,7 @@
     "time": 598,
     "timeDay": 580,
     "timeWeek": 1535,
-    "timeMonth": 855,
+    "timeMonth": 859,
     "timeYear": 613,
     "dailyMinutesDown": {
       "2023-12-15": 178,
@@ -1515,7 +1516,7 @@
     "time": 1355,
     "timeDay": 0,
     "timeWeek": 461,
-    "timeMonth": 1585,
+    "timeMonth": 1624,
     "timeYear": 1537,
     "dailyMinutesDown": {
       "2023-11-30": 33,
