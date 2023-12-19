@@ -6,9 +6,9 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "98.37%",
     "time": 1096,
     "timeDay": 521,
@@ -16,7 +16,6 @@
     "timeMonth": 554,
     "timeYear": 1113,
     "dailyMinutesDown": {
-      "2023-12-19": 7,
       "2023-12-08": 21,
       "2023-11-10": 27,
       "2023-11-03": 408,
@@ -42,7 +41,7 @@
       "2023-08-31": 122,
       "2023-08-30": 67,
       "2023-08-29": 233,
-      "2023-08-28": 63
+      "2023-08-28": 79
     }
   },
   {
@@ -158,19 +157,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "88.22%",
-    "uptimeWeek": "87.38%",
-    "uptimeMonth": "94.68%",
+    "uptimeDay": "88.07%",
+    "uptimeWeek": "87.54%",
+    "uptimeMonth": "94.71%",
     "uptimeYear": "99.56%",
     "time": 1594,
     "timeDay": 1733,
-    "timeWeek": 1445,
+    "timeWeek": 1450,
     "timeMonth": 1552,
     "timeYear": 1607,
     "dailyMinutesDown": {
-      "2023-12-19": 128,
+      "2023-12-19": 130,
       "2023-12-18": 146,
       "2023-12-17": 180,
       "2023-12-16": 165,
@@ -183,7 +182,7 @@
       "2023-12-09": 98,
       "2023-12-08": 139,
       "2023-12-07": 187,
-      "2023-12-06": 106
+      "2023-12-06": 89
     }
   },
   {
@@ -387,7 +386,7 @@
     "uptime": "97.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "56.09%",
+    "uptimeMonth": "56.16%",
     "uptimeYear": "95.57%",
     "time": 3847,
     "timeDay": 0,
@@ -954,8 +953,8 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heraproject.com.ico",
     "slug": "human-and-environment-risk-assessment",
     "status": "up",
-    "uptime": "14.41%",
-    "uptimeDay": "53.19%",
+    "uptime": "14.42%",
+    "uptimeDay": "55.22%",
     "uptimeWeek": "72.82%",
     "uptimeMonth": "87.83%",
     "uptimeYear": "27.40%",
@@ -1320,7 +1319,7 @@
     "time": 598,
     "timeDay": 676,
     "timeWeek": 1538,
-    "timeMonth": 977,
+    "timeMonth": 982,
     "timeYear": 613,
     "dailyMinutesDown": {
       "2023-12-15": 178,
