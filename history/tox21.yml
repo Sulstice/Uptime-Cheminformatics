@@ -1,7 +1,7 @@
 url: https://tripod.nih.gov/tox21/challenge/data.jsp
-status: down
-code: 502
-responseTime: 64
-lastUpdated: 2023-12-22T02:44:03.069Z
+status: up
+code: 200
+responseTime: 602
+lastUpdated: 2023-12-22T03:00:54.865Z
 startTime: 2022-01-24T23:06:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
