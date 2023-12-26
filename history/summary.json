@@ -162,17 +162,17 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "82.10%",
-    "uptimeWeek": "84.33%",
-    "uptimeMonth": "94.66%",
-    "uptimeYear": "99.56%",
+    "uptimeDay": "82.66%",
+    "uptimeWeek": "84.41%",
+    "uptimeMonth": "94.64%",
+    "uptimeYear": "99.55%",
     "time": 1609,
     "timeDay": 2623,
-    "timeWeek": 2577,
+    "timeWeek": 2586,
     "timeMonth": 1879,
     "timeYear": 1624,
     "dailyMinutesDown": {
-      "2023-12-25": 257,
+      "2023-12-25": 249,
       "2023-12-24": 278,
       "2023-12-23": 176,
       "2023-12-22": 243,
@@ -183,7 +183,7 @@
       "2023-12-17": 180,
       "2023-12-16": 165,
       "2023-12-15": 206,
-      "2023-12-14": 60
+      "2023-12-14": 76
     }
   },
   {
@@ -297,10 +297,10 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
-    "status": "up",
+    "status": "down",
     "uptime": "98.72%",
-    "uptimeDay": "82.03%",
-    "uptimeWeek": "83.24%",
+    "uptimeDay": "81.67%",
+    "uptimeWeek": "83.14%",
     "uptimeMonth": "90.35%",
     "uptimeYear": "97.71%",
     "time": 1243,
@@ -309,7 +309,8 @@
     "timeMonth": 2006,
     "timeYear": 1302,
     "dailyMinutesDown": {
-      "2023-12-25": 253,
+      "2023-12-26": 0,
+      "2023-12-25": 263,
       "2023-12-24": 208,
       "2023-12-23": 140,
       "2023-12-22": 356,
@@ -393,7 +394,7 @@
     "uptime": "97.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "76.49%",
+    "uptimeMonth": "76.51%",
     "uptimeYear": "95.57%",
     "time": 3848,
     "timeDay": 0,
@@ -517,8 +518,7 @@
       "2022-12-30": 1440,
       "2022-12-29": 1440,
       "2022-12-28": 1440,
-      "2022-12-27": 1440,
-      "2022-12-26": 1440
+      "2022-12-27": 1440
     }
   },
   {
@@ -960,7 +960,7 @@
     "status": "up",
     "uptime": "15.12%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "91.11%",
+    "uptimeWeek": "91.21%",
     "uptimeMonth": "92.57%",
     "uptimeYear": "29.00%",
     "time": 3365,
@@ -1236,8 +1236,7 @@
       "2022-12-30": 1440,
       "2022-12-29": 1440,
       "2022-12-28": 1440,
-      "2022-12-27": 1440,
-      "2022-12-26": 1440
+      "2022-12-27": 1440
     }
   },
   {
@@ -1516,8 +1515,8 @@
     "status": "up",
     "uptime": "98.83%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "16.25%",
-    "uptimeMonth": "80.56%",
+    "uptimeWeek": "16.15%",
+    "uptimeMonth": "80.53%",
     "uptimeYear": "97.87%",
     "time": 1434,
     "timeDay": 0,
@@ -1525,7 +1524,8 @@
     "timeMonth": 1860,
     "timeYear": 1563,
     "dailyMinutesDown": {
-      "2023-12-25": 1431,
+      "2023-12-26": 2,
+      "2023-12-25": 1440,
       "2023-12-24": 1440,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
