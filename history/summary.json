@@ -160,19 +160,20 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "down",
+    "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "88.29%",
-    "uptimeWeek": "84.46%",
-    "uptimeMonth": "94.52%",
+    "uptimeDay": "88.50%",
+    "uptimeWeek": "84.40%",
+    "uptimeMonth": "94.51%",
     "uptimeYear": "99.54%",
     "time": 1613,
-    "timeDay": 1426,
-    "timeWeek": 1882,
-    "timeMonth": 1983,
+    "timeDay": 1394,
+    "timeWeek": 1876,
+    "timeMonth": 1981,
     "timeYear": 1625,
     "dailyMinutesDown": {
-      "2023-12-31": 163,
+      "2024-01-01": 1,
+      "2023-12-31": 167,
       "2023-12-30": 228,
       "2023-12-29": 314,
       "2023-12-28": 237,
@@ -298,8 +299,8 @@
     "slug": "binding-database",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "87.45%",
-    "uptimeWeek": "87.66%",
+    "uptimeDay": "88.08%",
+    "uptimeWeek": "87.75%",
     "uptimeMonth": "94.14%",
     "uptimeYear": "99.51%",
     "time": 1425,
@@ -381,7 +382,7 @@
     "uptime": "97.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.94%",
+    "uptimeMonth": "92.96%",
     "uptimeYear": "95.57%",
     "time": 3851,
     "timeDay": 754,
@@ -499,8 +500,7 @@
       "2023-01-05": 1440,
       "2023-01-04": 1440,
       "2023-01-03": 1440,
-      "2023-01-02": 1440,
-      "2023-01-01": 1440
+      "2023-01-02": 1440
     }
   },
   {
@@ -942,8 +942,8 @@
     "status": "down",
     "uptime": "15.53%",
     "uptimeDay": "34.90%",
-    "uptimeWeek": "68.53%",
-    "uptimeMonth": "85.33%",
+    "uptimeWeek": "68.44%",
+    "uptimeMonth": "85.30%",
     "uptimeYear": "30.04%",
     "time": 3379,
     "timeDay": 7030,
@@ -951,7 +951,8 @@
     "timeMonth": 2559,
     "timeYear": 3379,
     "dailyMinutesDown": {
-      "2023-12-31": 936,
+      "2024-01-01": 7,
+      "2023-12-31": 938,
       "2023-12-30": 695,
       "2023-12-29": 906,
       "2023-12-28": 460,
@@ -1217,8 +1218,7 @@
       "2023-01-05": 1440,
       "2023-01-04": 1440,
       "2023-01-03": 1440,
-      "2023-01-02": 1440,
-      "2023-01-01": 1440
+      "2023-01-02": 1440
     }
   },
   {
@@ -1357,9 +1357,9 @@
     "slug": "hetereocycles",
     "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "38.56%",
-    "uptimeWeek": "91.22%",
-    "uptimeMonth": "97.98%",
+    "uptimeDay": "37.93%",
+    "uptimeWeek": "91.13%",
+    "uptimeMonth": "97.96%",
     "uptimeYear": "99.25%",
     "time": 2693,
     "timeDay": 1612,
@@ -1367,7 +1367,8 @@
     "timeMonth": 2952,
     "timeYear": 2985,
     "dailyMinutesDown": {
-      "2023-12-31": 885,
+      "2024-01-01": 7,
+      "2023-12-31": 887,
       "2023-10-09": 99,
       "2023-10-08": 937,
       "2023-09-25": 41,
@@ -1502,7 +1503,7 @@
     "uptime": "97.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "60.99%",
+    "uptimeMonth": "60.97%",
     "uptimeYear": "96.22%",
     "time": 1435,
     "timeDay": 617,
@@ -1510,7 +1511,8 @@
     "timeMonth": 1217,
     "timeYear": 1567,
     "dailyMinutesDown": {
-      "2023-12-31": 1438,
+      "2024-01-01": 7,
+      "2023-12-31": 1440,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
@@ -1551,8 +1553,7 @@
       "2023-04-29": 225,
       "2023-04-28": 147,
       "2023-04-25": 367,
-      "2023-02-17": 15,
-      "2023-01-01": 29
+      "2023-02-17": 15
     }
   },
   {
