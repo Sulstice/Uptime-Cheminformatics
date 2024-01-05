@@ -163,12 +163,12 @@
     "status": "up",
     "uptime": "99.76%",
     "uptimeDay": "85.74%",
-    "uptimeWeek": "85.05%",
+    "uptimeWeek": "85.30%",
     "uptimeMonth": "94.44%",
     "uptimeYear": "99.54%",
     "time": 1620,
-    "timeDay": 931,
-    "timeWeek": 1320,
+    "timeDay": 952,
+    "timeWeek": 1324,
     "timeMonth": 1862,
     "timeYear": 1622,
     "dailyMinutesDown": {
@@ -297,19 +297,20 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "70.33%",
-    "uptimeWeek": "84.48%",
-    "uptimeMonth": "93.40%",
+    "uptimeDay": "72.97%",
+    "uptimeWeek": "84.54%",
+    "uptimeMonth": "93.41%",
     "uptimeYear": "99.45%",
-    "time": 1540,
+    "time": 1541,
     "timeDay": 3815,
-    "timeWeek": 3026,
+    "timeWeek": 3064,
     "timeMonth": 2600,
     "timeYear": 1666,
     "dailyMinutesDown": {
-      "2024-01-04": 399,
+      "2024-01-05": 3,
+      "2024-01-04": 391,
       "2024-01-03": 186,
       "2024-01-02": 410,
       "2024-01-01": 198,
@@ -461,7 +462,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "91.33%",
-    "uptimeYear": "92.49%",
+    "uptimeYear": "92.50%",
     "time": 1002,
     "timeDay": 868,
     "timeWeek": 975,
@@ -499,8 +500,7 @@
       "2023-01-09": 1440,
       "2023-01-08": 1440,
       "2023-01-07": 1440,
-      "2023-01-06": 1440,
-      "2023-01-05": 1440
+      "2023-01-06": 1440
     }
   },
   {
@@ -580,8 +580,7 @@
       "2023-01-23": 165,
       "2023-01-22": 263,
       "2023-01-16": 32,
-      "2023-01-08": 36,
-      "2023-01-05": 17
+      "2023-01-08": 36
     }
   },
   {
@@ -690,8 +689,7 @@
       "2023-02-25": 708,
       "2023-02-12": 321,
       "2023-01-31": 250,
-      "2023-01-25": 25,
-      "2023-01-05": 213
+      "2023-01-25": 25
     }
   },
   {
@@ -940,11 +938,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heraproject.com.ico",
     "slug": "human-and-environment-risk-assessment",
     "status": "up",
-    "uptime": "15.72%",
-    "uptimeDay": "70.99%",
-    "uptimeWeek": "46.03%",
+    "uptime": "15.73%",
+    "uptimeDay": "74.86%",
+    "uptimeWeek": "46.59%",
     "uptimeMonth": "78.81%",
-    "uptimeYear": "30.59%",
+    "uptimeYear": "30.60%",
     "time": 3333,
     "timeDay": 2018,
     "timeWeek": 3195,
@@ -1217,8 +1215,7 @@
       "2023-01-09": 1440,
       "2023-01-08": 1440,
       "2023-01-07": 1440,
-      "2023-01-06": 1440,
-      "2023-01-05": 1440
+      "2023-01-06": 1440
     }
   },
   {
@@ -1356,18 +1353,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heterocycles.jp.ico",
     "slug": "hetereocycles",
     "status": "down",
-    "uptime": "99.05%",
+    "uptime": "99.04%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "34.55%",
-    "uptimeMonth": "84.94%",
-    "uptimeYear": "98.16%",
+    "uptimeWeek": "33.99%",
+    "uptimeMonth": "84.81%",
+    "uptimeYear": "98.15%",
     "time": 2688,
     "timeDay": 1126,
     "timeWeek": 1810,
     "timeMonth": 2667,
     "timeYear": 2981,
     "dailyMinutesDown": {
-      "2024-01-04": 1391,
+      "2024-01-05": 7,
+      "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
@@ -1506,7 +1504,7 @@
     "status": "up",
     "uptime": "97.75%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "30.86%",
+    "uptimeWeek": "31.41%",
     "uptimeMonth": "55.05%",
     "uptimeYear": "95.73%",
     "time": 1444,
