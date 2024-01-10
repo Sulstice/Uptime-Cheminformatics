@@ -168,7 +168,7 @@
     "status": "up",
     "uptime": "99.76%",
     "uptimeDay": "87.85%",
-    "uptimeWeek": "88.94%",
+    "uptimeWeek": "88.97%",
     "uptimeMonth": "94.44%",
     "uptimeYear": "99.54%",
     "time": 1618,
@@ -305,18 +305,19 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
-    "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "58.74%",
-    "uptimeWeek": "77.87%",
-    "uptimeMonth": "92.24%",
-    "uptimeYear": "99.35%",
-    "time": 1723,
-    "timeDay": 2539,
+    "status": "down",
+    "uptime": "99.68%",
+    "uptimeDay": "58.89%",
+    "uptimeWeek": "77.96%",
+    "uptimeMonth": "92.45%",
+    "uptimeYear": "99.37%",
+    "time": 1725,
+    "timeDay": 2585,
     "timeWeek": 3653,
     "timeMonth": 2801,
     "timeYear": 1852,
     "dailyMinutesDown": {
+      "2024-01-10": 5,
       "2024-01-09": 593,
       "2024-01-08": 424,
       "2024-01-07": 384,
@@ -329,7 +330,7 @@
       "2023-12-31": 179,
       "2023-12-30": 153,
       "2023-12-29": 38,
-      "2023-12-28": 201
+      "2023-12-28": 104
     }
   },
   {
@@ -501,8 +502,7 @@
       "2023-01-14": 1440,
       "2023-01-13": 1440,
       "2023-01-12": 1440,
-      "2023-01-11": 1440,
-      "2023-01-10": 1440
+      "2023-01-11": 1440
     }
   },
   {
@@ -945,9 +945,9 @@
     "slug": "human-and-environment-risk-assessment",
     "status": "down",
     "uptime": "16.23%",
-    "uptimeDay": "37.07%",
+    "uptimeDay": "36.88%",
     "uptimeWeek": "82.23%",
-    "uptimeMonth": "76.74%",
+    "uptimeMonth": "76.70%",
     "uptimeYear": "31.79%",
     "time": 3395,
     "timeDay": 5937,
@@ -955,7 +955,8 @@
     "timeMonth": 3051,
     "timeYear": 3395,
     "dailyMinutesDown": {
-      "2024-01-09": 897,
+      "2024-01-10": 6,
+      "2024-01-09": 909,
       "2024-01-08": 9,
       "2024-01-04": 369,
       "2024-01-03": 506,
@@ -1218,8 +1219,7 @@
       "2023-01-14": 1440,
       "2023-01-13": 1440,
       "2023-01-12": 1440,
-      "2023-01-11": 1440,
-      "2023-01-10": 1440
+      "2023-01-11": 1440
     }
   },
   {
@@ -1360,15 +1360,16 @@
     "uptime": "98.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "68.42%",
-    "uptimeYear": "96.79%",
+    "uptimeMonth": "68.38%",
+    "uptimeYear": "96.78%",
     "time": 2685,
     "timeDay": 0,
     "timeWeek": 1669,
     "timeMonth": 2477,
     "timeYear": 2985,
     "dailyMinutesDown": {
-      "2024-01-09": 1428,
+      "2024-01-10": 6,
+      "2024-01-09": 1440,
       "2024-01-08": 1440,
       "2024-01-07": 1440,
       "2024-01-06": 1440,
@@ -1513,11 +1514,11 @@
     "status": "up",
     "uptime": "97.76%",
     "uptimeDay": "95.81%",
-    "uptimeWeek": "98.98%",
+    "uptimeWeek": "99.00%",
     "uptimeMonth": "54.91%",
     "uptimeYear": "95.72%",
     "time": 1517,
-    "timeDay": 13959,
+    "timeDay": 11094,
     "timeWeek": 4792,
     "timeMonth": 2081,
     "timeYear": 1646,
