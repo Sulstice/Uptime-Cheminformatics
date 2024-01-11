@@ -310,17 +310,18 @@
     "slug": "binding-database",
     "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "68.26%",
+    "uptimeDay": "67.88%",
     "uptimeWeek": "75.21%",
-    "uptimeMonth": "92.08%",
-    "uptimeYear": "99.34%",
+    "uptimeMonth": "92.01%",
+    "uptimeYear": "99.33%",
     "time": 1714,
     "timeDay": 2901,
     "timeWeek": 3419,
     "timeMonth": 2810,
     "timeYear": 1879,
     "dailyMinutesDown": {
-      "2024-01-10": 457,
+      "2024-01-11": 23,
+      "2024-01-10": 462,
       "2024-01-09": 593,
       "2024-01-08": 424,
       "2024-01-07": 384,
@@ -470,7 +471,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "91.33%",
-    "uptimeYear": "94.14%",
+    "uptimeYear": "94.15%",
     "time": 1004,
     "timeDay": 1311,
     "timeWeek": 1000,
@@ -502,8 +503,7 @@
       "2023-01-15": 1440,
       "2023-01-14": 1440,
       "2023-01-13": 1440,
-      "2023-01-12": 1440,
-      "2023-01-11": 1440
+      "2023-01-12": 1440
     }
   },
   {
@@ -823,7 +823,7 @@
     "timeDay": 1955,
     "timeWeek": 1832,
     "timeMonth": 2058,
-    "timeYear": 2409,
+    "timeYear": 2410,
     "dailyMinutesDown": {
       "2024-01-05": 125,
       "2023-12-23": 119,
@@ -948,10 +948,10 @@
     "slug": "human-and-environment-risk-assessment",
     "status": "up",
     "uptime": "16.31%",
-    "uptimeDay": "74.34%",
-    "uptimeWeek": "83.57%",
+    "uptimeDay": "76.31%",
+    "uptimeWeek": "83.85%",
     "uptimeMonth": "75.88%",
-    "uptimeYear": "31.99%",
+    "uptimeYear": "32.00%",
     "time": 3368,
     "timeDay": 1730,
     "timeWeek": 3503,
@@ -1221,8 +1221,7 @@
       "2023-01-15": 1440,
       "2023-01-14": 1440,
       "2023-01-13": 1440,
-      "2023-01-12": 1440,
-      "2023-01-11": 1440
+      "2023-01-12": 1440
     }
   },
   {
@@ -1363,7 +1362,7 @@
     "uptime": "98.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "65.11%",
+    "uptimeMonth": "65.05%",
     "uptimeYear": "96.51%",
     "time": 2685,
     "timeDay": 2010,
@@ -1371,7 +1370,8 @@
     "timeMonth": 2456,
     "timeYear": 2984,
     "dailyMinutesDown": {
-      "2024-01-10": 1436,
+      "2024-01-11": 24,
+      "2024-01-10": 1440,
       "2024-01-09": 1440,
       "2024-01-08": 1440,
       "2024-01-07": 1440,
