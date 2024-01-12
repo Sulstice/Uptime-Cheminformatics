@@ -168,18 +168,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
     "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "84.88%",
-    "uptimeWeek": "89.27%",
-    "uptimeMonth": "94.51%",
+    "uptime": "99.76%",
+    "uptimeDay": "85.44%",
+    "uptimeWeek": "89.35%",
+    "uptimeMonth": "94.44%",
     "uptimeYear": "99.54%",
     "time": 1616,
     "timeDay": 882,
     "timeWeek": 942,
-    "timeMonth": 1629,
+    "timeMonth": 1630,
     "timeYear": 1617,
     "dailyMinutesDown": {
-      "2024-01-12": 195,
+      "2024-01-12": 187,
       "2024-01-11": 122,
       "2024-01-10": 123,
       "2024-01-09": 174,
@@ -193,7 +193,7 @@
       "2024-01-01": 209,
       "2023-12-31": 160,
       "2023-12-30": 228,
-      "2023-12-29": 16
+      "2023-12-29": 52
     }
   },
   {
@@ -309,19 +309,19 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "77.69%",
-    "uptimeWeek": "71.53%",
-    "uptimeMonth": "92.67%",
-    "uptimeYear": "99.39%",
-    "time": 1819,
+    "uptimeDay": "77.47%",
+    "uptimeWeek": "71.50%",
+    "uptimeMonth": "92.74%",
+    "uptimeYear": "99.40%",
+    "time": 1820,
     "timeDay": 1634,
     "timeWeek": 3033,
     "timeMonth": 2810,
     "timeYear": 1914,
     "dailyMinutesDown": {
-      "2024-01-12": 321,
+      "2024-01-12": 324,
       "2024-01-11": 619,
       "2024-01-10": 462,
       "2024-01-09": 593,
@@ -329,7 +329,7 @@
       "2024-01-07": 384,
       "2024-01-06": 48,
       "2024-01-05": 196,
-      "2024-01-04": 160
+      "2024-01-04": 127
     }
   },
   {
@@ -1358,7 +1358,7 @@
     "uptime": "97.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "58.98%",
+    "uptimeMonth": "58.96%",
     "uptimeYear": "96.00%",
     "time": 2684,
     "timeDay": 1437,
@@ -1366,7 +1366,7 @@
     "timeMonth": 2373,
     "timeYear": 2990,
     "dailyMinutesDown": {
-      "2024-01-12": 1240,
+      "2024-01-12": 1249,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
