@@ -167,18 +167,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "83.15%",
-    "uptimeWeek": "88.96%",
-    "uptimeMonth": "94.44%",
-    "uptimeYear": "99.54%",
+    "status": "down",
+    "uptime": "99.77%",
+    "uptimeDay": "82.95%",
+    "uptimeWeek": "89.02%",
+    "uptimeMonth": "94.56%",
+    "uptimeYear": "99.55%",
     "time": 1616,
     "timeDay": 851,
     "timeWeek": 937,
     "timeMonth": 1624,
     "timeYear": 1617,
     "dailyMinutesDown": {
+      "2024-01-13": 3,
       "2024-01-12": 242,
       "2024-01-11": 122,
       "2024-01-10": 123,
@@ -192,7 +193,7 @@
       "2024-01-02": 235,
       "2024-01-01": 209,
       "2023-12-31": 160,
-      "2023-12-30": 228
+      "2023-12-30": 173
     }
   },
   {
@@ -310,17 +311,18 @@
     "slug": "binding-database",
     "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "67.43%",
-    "uptimeWeek": "70.26%",
-    "uptimeMonth": "92.52%",
-    "uptimeYear": "99.38%",
+    "uptimeDay": "66.53%",
+    "uptimeWeek": "70.13%",
+    "uptimeMonth": "92.49%",
+    "uptimeYear": "99.37%",
     "time": 1753,
     "timeDay": 2206,
     "timeWeek": 3107,
     "timeMonth": 2826,
     "timeYear": 1926,
     "dailyMinutesDown": {
-      "2024-01-12": 469,
+      "2024-01-13": 10,
+      "2024-01-12": 472,
       "2024-01-11": 619,
       "2024-01-10": 462,
       "2024-01-09": 593,
@@ -497,8 +499,7 @@
       "2023-01-17": 1440,
       "2023-01-16": 1440,
       "2023-01-15": 1440,
-      "2023-01-14": 1440,
-      "2023-01-13": 1440
+      "2023-01-14": 1440
     }
   },
   {
@@ -933,8 +934,7 @@
       "2023-03-16": 17,
       "2023-02-22": 55,
       "2023-02-14": 31,
-      "2023-01-18": 24,
-      "2023-01-13": 16
+      "2023-01-18": 24
     }
   },
   {
@@ -947,7 +947,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "87.27%",
     "uptimeMonth": "75.88%",
-    "uptimeYear": "32.54%",
+    "uptimeYear": "32.55%",
     "time": 3348,
     "timeDay": 2348,
     "timeWeek": 3725,
@@ -1215,8 +1215,7 @@
       "2023-01-17": 1440,
       "2023-01-16": 1440,
       "2023-01-15": 1440,
-      "2023-01-14": 1440,
-      "2023-01-13": 1440
+      "2023-01-14": 1440
     }
   },
   {
@@ -1357,7 +1356,7 @@
     "uptime": "97.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "58.53%",
+    "uptimeMonth": "58.50%",
     "uptimeYear": "95.96%",
     "time": 2683,
     "timeDay": 1308,
@@ -1365,7 +1364,8 @@
     "timeMonth": 2327,
     "timeYear": 2990,
     "dailyMinutesDown": {
-      "2024-01-12": 1438,
+      "2024-01-13": 11,
+      "2024-01-12": 1440,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
@@ -1396,7 +1396,7 @@
     "slug": "chemical-resolver",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "88.73%",
+    "uptimeDay": "89.66%",
     "uptimeWeek": "94.73%",
     "uptimeMonth": "96.71%",
     "uptimeYear": "99.14%",
