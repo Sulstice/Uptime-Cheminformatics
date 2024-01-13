@@ -167,11 +167,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "84.93%",
-    "uptimeWeek": "88.50%",
-    "uptimeMonth": "94.49%",
+    "uptimeDay": "84.76%",
+    "uptimeWeek": "88.48%",
+    "uptimeMonth": "94.52%",
     "uptimeYear": "99.54%",
     "time": 1616,
     "timeDay": 680,
@@ -179,7 +179,7 @@
     "timeMonth": 1620,
     "timeYear": 1616,
     "dailyMinutesDown": {
-      "2024-01-13": 110,
+      "2024-01-13": 113,
       "2024-01-12": 242,
       "2024-01-11": 122,
       "2024-01-10": 123,
@@ -193,7 +193,7 @@
       "2024-01-02": 235,
       "2024-01-01": 209,
       "2023-12-31": 160,
-      "2023-12-30": 94
+      "2023-12-30": 78
     }
   },
   {
@@ -309,19 +309,19 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "37.50%",
-    "uptimeWeek": "64.69%",
-    "uptimeMonth": "91.80%",
+    "uptimeDay": "37.95%",
+    "uptimeWeek": "64.65%",
+    "uptimeMonth": "91.82%",
     "uptimeYear": "99.32%",
-    "time": 1875,
+    "time": 1876,
     "timeDay": 7501,
     "timeWeek": 3849,
     "timeMonth": 3048,
     "timeYear": 2044,
     "dailyMinutesDown": {
-      "2024-01-13": 556,
+      "2024-01-13": 560,
       "2024-01-12": 472,
       "2024-01-11": 619,
       "2024-01-10": 462,
@@ -329,7 +329,7 @@
       "2024-01-08": 424,
       "2024-01-07": 384,
       "2024-01-06": 48,
-      "2024-01-05": 35
+      "2024-01-05": 19
     }
   },
   {
@@ -946,7 +946,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "87.27%",
     "uptimeMonth": "75.88%",
-    "uptimeYear": "32.67%",
+    "uptimeYear": "32.68%",
     "time": 3348,
     "timeDay": 2348,
     "timeWeek": 3725,
@@ -1355,7 +1355,7 @@
     "uptime": "97.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "56.96%",
+    "uptimeMonth": "56.93%",
     "uptimeYear": "95.83%",
     "time": 2683,
     "timeDay": 1308,
@@ -1363,7 +1363,7 @@
     "timeMonth": 2327,
     "timeYear": 2990,
     "dailyMinutesDown": {
-      "2024-01-13": 689,
+      "2024-01-13": 700,
       "2024-01-12": 1440,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
