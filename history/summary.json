@@ -174,7 +174,7 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "84.32%",
+    "uptimeDay": "85.44%",
     "uptimeWeek": "86.83%",
     "uptimeMonth": "94.29%",
     "uptimeYear": "99.52%",
@@ -308,25 +308,26 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "54.22%",
-    "uptimeWeek": "60.76%",
-    "uptimeMonth": "90.97%",
+    "uptimeDay": "53.95%",
+    "uptimeWeek": "60.90%",
+    "uptimeMonth": "91.00%",
     "uptimeYear": "99.25%",
-    "time": 3180,
-    "timeDay": 7954,
-    "timeWeek": 6857,
-    "timeMonth": 5952,
-    "timeYear": 3484,
+    "time": 3183,
+    "timeDay": 7885,
+    "timeWeek": 6854,
+    "timeMonth": 5953,
+    "timeYear": 3486,
     "dailyMinutesDown": {
+      "2024-01-29": 4,
       "2024-01-28": 660,
       "2024-01-27": 482,
       "2024-01-26": 515,
       "2024-01-25": 698,
       "2024-01-24": 871,
       "2024-01-23": 472,
-      "2024-01-22": 257
+      "2024-01-22": 239
     }
   },
   {
@@ -552,8 +553,7 @@
       "2023-02-15": 71,
       "2023-02-04": 202,
       "2023-01-31": 33,
-      "2023-01-30": 705,
-      "2023-01-29": 309
+      "2023-01-30": 705
     }
   },
   {
@@ -865,8 +865,7 @@
       "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
-      "2023-01-30": 1440,
-      "2023-01-29": 1440
+      "2023-01-30": 1440
     }
   },
   {
@@ -916,8 +915,8 @@
     "slug": "human-and-environment-risk-assessment",
     "status": "down",
     "uptime": "17.99%",
-    "uptimeDay": "58.54%",
-    "uptimeWeek": "94.08%",
+    "uptimeDay": "57.34%",
+    "uptimeWeek": "93.91%",
     "uptimeMonth": "75.89%",
     "uptimeYear": "36.19%",
     "time": 3360,
@@ -926,7 +925,8 @@
     "timeMonth": 3372,
     "timeYear": 3360,
     "dailyMinutesDown": {
-      "2024-01-28": 597,
+      "2024-01-29": 16,
+      "2024-01-28": 599,
       "2024-01-19": 366,
       "2024-01-18": 1068,
       "2024-01-17": 631,
@@ -1178,8 +1178,7 @@
       "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
-      "2023-01-30": 1440,
-      "2023-01-29": 1440
+      "2023-01-30": 1440
     }
   },
   {
@@ -1318,7 +1317,7 @@
     "uptime": "95.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "5.93%",
+    "uptimeMonth": "5.89%",
     "uptimeYear": "91.58%",
     "time": 2669,
     "timeDay": 1825,
@@ -1326,7 +1325,8 @@
     "timeMonth": 1601,
     "timeYear": 2976,
     "dailyMinutesDown": {
-      "2024-01-28": 1439,
+      "2024-01-29": 16,
+      "2024-01-28": 1440,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
       "2024-01-25": 1440,
@@ -1486,7 +1486,7 @@
     "uptime": "97.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "84.06%",
+    "uptimeMonth": "84.10%",
     "uptimeYear": "95.72%",
     "time": 1529,
     "timeDay": 579,
