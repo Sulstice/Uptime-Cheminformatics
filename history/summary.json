@@ -7,8 +7,8 @@
     "status": "up",
     "uptime": "98.99%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "71.09%",
-    "uptimeMonth": "93.31%",
+    "uptimeWeek": "70.92%",
+    "uptimeMonth": "93.27%",
     "uptimeYear": "97.41%",
     "time": 1099,
     "timeDay": 516,
@@ -16,7 +16,7 @@
     "timeMonth": 518,
     "timeYear": 1109,
     "dailyMinutesDown": {
-      "2024-01-31": 1422,
+      "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 51,
       "2024-01-19": 17,
@@ -128,7 +128,7 @@
     "slug": "nist-chemistry-webhook",
     "status": "up",
     "uptime": "98.91%",
-    "uptimeDay": "49.58%",
+    "uptimeDay": "49.95%",
     "uptimeWeek": "92.80%",
     "uptimeMonth": "95.67%",
     "uptimeYear": "97.81%",
@@ -179,17 +179,17 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "91.16%",
-    "uptimeWeek": "85.92%",
-    "uptimeMonth": "94.29%",
+    "uptimeDay": "91.72%",
+    "uptimeWeek": "86.00%",
+    "uptimeMonth": "94.25%",
     "uptimeYear": "99.52%",
     "time": 1613,
     "timeDay": 800,
     "timeWeek": 910,
-    "timeMonth": 1280,
+    "timeMonth": 1281,
     "timeYear": 1614,
     "dailyMinutesDown": {
-      "2024-01-31": 127,
+      "2024-01-31": 119,
       "2024-01-30": 144,
       "2024-01-29": 308,
       "2024-01-28": 222,
@@ -200,7 +200,8 @@
       "2024-01-23": 156,
       "2024-01-22": 111,
       "2024-01-21": 326,
-      "2024-01-20": 266
+      "2024-01-20": 289,
+      "2024-01-19": 3
     }
   },
   {
@@ -211,7 +212,7 @@
     "status": "up",
     "uptime": "99.42%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "79.47%",
+    "uptimeWeek": "79.53%",
     "uptimeMonth": "94.71%",
     "uptimeYear": "98.83%",
     "time": 2681,
@@ -312,25 +313,26 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "55.89%",
-    "uptimeWeek": "63.09%",
-    "uptimeMonth": "91.51%",
+    "uptimeDay": "56.31%",
+    "uptimeWeek": "63.21%",
+    "uptimeMonth": "91.54%",
     "uptimeYear": "99.29%",
-    "time": 3255,
+    "time": 3256,
     "timeDay": 4073,
-    "timeWeek": 6294,
+    "timeWeek": 6243,
     "timeMonth": 5999,
     "timeYear": 3497,
     "dailyMinutesDown": {
-      "2024-01-31": 624,
+      "2024-02-01": 2,
+      "2024-01-31": 626,
       "2024-01-30": 338,
       "2024-01-29": 480,
       "2024-01-28": 660,
       "2024-01-27": 482,
       "2024-01-26": 515,
-      "2024-01-25": 617
+      "2024-01-25": 600
     }
   },
   {
@@ -634,8 +636,7 @@
       "2023-02-05": 1440,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
-      "2023-02-02": 1440,
-      "2023-02-01": 1440
+      "2023-02-02": 1440
     }
   },
   {
@@ -862,8 +863,7 @@
       "2023-02-05": 1440,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
-      "2023-02-02": 1440,
-      "2023-02-01": 1440
+      "2023-02-02": 1440
     }
   },
   {
@@ -914,7 +914,7 @@
     "status": "down",
     "uptime": "18.05%",
     "uptimeDay": "16.54%",
-    "uptimeWeek": "64.50%",
+    "uptimeWeek": "64.33%",
     "uptimeMonth": "74.85%",
     "uptimeYear": "36.44%",
     "time": 3308,
@@ -923,7 +923,8 @@
     "timeMonth": 3135,
     "timeYear": 3308,
     "dailyMinutesDown": {
-      "2024-01-31": 1187,
+      "2024-02-01": 3,
+      "2024-01-31": 1202,
       "2024-01-30": 554,
       "2024-01-29": 1238,
       "2024-01-28": 599,
@@ -1175,8 +1176,7 @@
       "2023-02-05": 1440,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
-      "2023-02-02": 1440,
-      "2023-02-01": 1440
+      "2023-02-02": 1440
     }
   },
   {
@@ -1312,7 +1312,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heterocycles.jp.ico",
     "slug": "hetereocycles",
     "status": "down",
-    "uptime": "95.42%",
+    "uptime": "95.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1323,7 +1323,8 @@
     "timeMonth": 1549,
     "timeYear": 2966,
     "dailyMinutesDown": {
-      "2024-01-31": 1426,
+      "2024-02-01": 3,
+      "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
@@ -1484,7 +1485,7 @@
     "uptime": "97.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.96%",
-    "uptimeMonth": "93.65%",
+    "uptimeMonth": "93.69%",
     "uptimeYear": "95.70%",
     "time": 1528,
     "timeDay": 577,
