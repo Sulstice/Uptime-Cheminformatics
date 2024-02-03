@@ -7,16 +7,17 @@
     "status": "up",
     "uptime": "98.78%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "42.55%",
-    "uptimeMonth": "86.74%",
-    "uptimeYear": "96.86%",
+    "uptimeWeek": "42.17%",
+    "uptimeMonth": "86.65%",
+    "uptimeYear": "96.85%",
     "time": 1099,
     "timeDay": 515,
     "timeWeek": 556,
     "timeMonth": 514,
     "timeYear": 1109,
     "dailyMinutesDown": {
-      "2024-02-02": 1420,
+      "2024-02-03": 18,
+      "2024-02-02": 1440,
       "2024-02-01": 1440,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
@@ -181,17 +182,17 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "95.16%",
-    "uptimeWeek": "87.84%",
-    "uptimeMonth": "94.33%",
-    "uptimeYear": "99.53%",
+    "uptimeDay": "97.07%",
+    "uptimeWeek": "88.08%",
+    "uptimeMonth": "94.29%",
+    "uptimeYear": "99.52%",
     "time": 1611,
     "timeDay": 853,
     "timeWeek": 830,
     "timeMonth": 1239,
     "timeYear": 1614,
     "dailyMinutesDown": {
-      "2024-02-02": 69,
+      "2024-02-02": 61,
       "2024-02-01": 190,
       "2024-01-31": 119,
       "2024-01-30": 144,
@@ -203,7 +204,8 @@
       "2024-01-24": 221,
       "2024-01-23": 156,
       "2024-01-22": 111,
-      "2024-01-21": 326
+      "2024-01-21": 326,
+      "2024-01-20": 25
     }
   },
   {
@@ -214,7 +216,7 @@
     "status": "up",
     "uptime": "99.42%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.65%",
+    "uptimeWeek": "98.03%",
     "uptimeMonth": "94.76%",
     "uptimeYear": "98.83%",
     "time": 2678,
@@ -324,7 +326,7 @@
     "time": 3307,
     "timeDay": 3290,
     "timeWeek": 4906,
-    "timeMonth": 6073,
+    "timeMonth": 6078,
     "timeYear": 3496,
     "dailyMinutesDown": {
       "2024-02-02": 310,
@@ -462,17 +464,18 @@
     "slug": "card-pred",
     "status": "down",
     "uptime": "91.84%",
-    "uptimeDay": "58.51%",
-    "uptimeWeek": "94.07%",
-    "uptimeMonth": "98.64%",
-    "uptimeYear": "97.96%",
+    "uptimeDay": "55.87%",
+    "uptimeWeek": "93.70%",
+    "uptimeMonth": "98.55%",
+    "uptimeYear": "97.95%",
     "time": 1007,
     "timeDay": 0,
     "timeWeek": 1126,
     "timeMonth": 1046,
     "timeYear": 1009,
     "dailyMinutesDown": {
-      "2024-02-02": 597,
+      "2024-02-03": 21,
+      "2024-02-02": 614,
       "2023-12-18": 155,
       "2023-12-17": 1440,
       "2023-12-16": 1440,
@@ -603,7 +606,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.13%",
     "uptimeMonth": "99.57%",
-    "uptimeYear": "96.77%",
+    "uptimeYear": "96.78%",
     "time": 326,
     "timeDay": 143,
     "timeWeek": 173,
@@ -639,8 +642,7 @@
       "2023-02-07": 1251,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
-      "2023-02-04": 1440,
-      "2023-02-03": 1440
+      "2023-02-04": 1440
     }
   },
   {
@@ -779,8 +781,7 @@
       "2023-04-01": 18,
       "2023-02-27": 20,
       "2023-02-20": 31,
-      "2023-02-09": 16,
-      "2023-02-03": 59
+      "2023-02-09": 16
     }
   },
   {
@@ -849,7 +850,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.10%",
+    "uptimeYear": "97.11%",
     "time": 4875,
     "timeDay": 1261,
     "timeWeek": 997,
@@ -865,8 +866,7 @@
       "2023-02-07": 1440,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
-      "2023-02-04": 1440,
-      "2023-02-03": 1440
+      "2023-02-04": 1440
     }
   },
   {
@@ -918,7 +918,7 @@
     "uptime": "18.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "60.74%",
-    "uptimeMonth": "78.50%",
+    "uptimeMonth": "78.58%",
     "uptimeYear": "36.92%",
     "time": 3281,
     "timeDay": 1690,
@@ -1177,8 +1177,7 @@
       "2023-02-07": 1440,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
-      "2023-02-04": 1440,
-      "2023-02-03": 1440
+      "2023-02-04": 1440
     }
   },
   {
@@ -1314,7 +1313,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heterocycles.jp.ico",
     "slug": "hetereocycles",
     "status": "down",
-    "uptime": "95.16%",
+    "uptime": "95.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1325,7 +1324,8 @@
     "timeMonth": 1529,
     "timeYear": 2959,
     "dailyMinutesDown": {
-      "2024-02-02": 1424,
+      "2024-02-03": 22,
+      "2024-02-02": 1440,
       "2024-02-01": 1440,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
@@ -1488,7 +1488,7 @@
     "uptime": "97.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.96%",
-    "uptimeMonth": "99.52%",
+    "uptimeMonth": "99.56%",
     "uptimeYear": "95.70%",
     "time": 1526,
     "timeDay": 470,
