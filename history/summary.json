@@ -8,15 +8,16 @@
     "uptime": "98.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "76.88%",
-    "uptimeYear": "96.04%",
+    "uptimeMonth": "76.79%",
+    "uptimeYear": "96.03%",
     "time": 1098,
     "timeDay": 453,
     "timeWeek": 474,
     "timeMonth": 509,
     "timeYear": 1109,
     "dailyMinutesDown": {
-      "2024-02-05": 1419,
+      "2024-02-06": 18,
+      "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
@@ -140,7 +141,7 @@
     "time": 1344,
     "timeDay": 2385,
     "timeWeek": 1443,
-    "timeMonth": 3558,
+    "timeMonth": 3543,
     "timeYear": 1622,
     "dailyMinutesDown": {
       "2024-02-05": 32,
@@ -186,13 +187,13 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "86.68%",
+    "uptimeDay": "89.28%",
     "uptimeWeek": "90.21%",
     "uptimeMonth": "94.52%",
     "uptimeYear": "99.54%",
     "time": 1610,
     "timeDay": 900,
-    "timeWeek": 794,
+    "timeWeek": 796,
     "timeMonth": 1213,
     "timeYear": 1612,
     "dailyMinutesDown": {
@@ -637,8 +638,7 @@
       "2023-03-17": 34,
       "2023-03-04": 56,
       "2023-02-17": 41,
-      "2023-02-07": 1251,
-      "2023-02-06": 1440
+      "2023-02-07": 1251
     }
   },
   {
@@ -859,8 +859,7 @@
       "2023-02-10": 1440,
       "2023-02-09": 1440,
       "2023-02-08": 1440,
-      "2023-02-07": 1440,
-      "2023-02-06": 1440
+      "2023-02-07": 1440
     }
   },
   {
@@ -909,9 +908,9 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heraproject.com.ico",
     "slug": "human-and-environment-risk-assessment",
     "status": "up",
-    "uptime": "18.56%",
+    "uptime": "18.57%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "78.79%",
+    "uptimeWeek": "79.19%",
     "uptimeMonth": "80.53%",
     "uptimeYear": "37.74%",
     "time": 3251,
@@ -1168,8 +1167,7 @@
       "2023-02-10": 1440,
       "2023-02-09": 1440,
       "2023-02-08": 1440,
-      "2023-02-07": 1440,
-      "2023-02-06": 1440
+      "2023-02-07": 1440
     }
   },
   {
@@ -1309,14 +1307,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "89.39%",
+    "uptimeYear": "89.38%",
     "time": 2660,
     "timeDay": 1440,
     "timeWeek": 1505,
     "timeMonth": 1510,
     "timeYear": 2953,
     "dailyMinutesDown": {
-      "2024-02-05": 1423,
+      "2024-02-06": 23,
+      "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
