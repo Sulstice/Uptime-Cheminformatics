@@ -191,7 +191,7 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "87.38%",
+    "uptimeDay": "87.98%",
     "uptimeWeek": "84.37%",
     "uptimeMonth": "94.15%",
     "uptimeYear": "99.51%",
@@ -310,19 +310,19 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "78.88%",
-    "uptimeWeek": "87.66%",
-    "uptimeMonth": "93.06%",
+    "uptimeDay": "79.28%",
+    "uptimeWeek": "87.62%",
+    "uptimeMonth": "93.09%",
     "uptimeYear": "99.42%",
-    "time": 3629,
+    "time": 3630,
     "timeDay": 3035,
     "timeWeek": 7652,
     "timeMonth": 6320,
     "timeYear": 3798,
     "dailyMinutesDown": {
-      "2024-02-16": 182,
+      "2024-02-16": 186,
       "2024-02-15": 208,
       "2024-02-14": 336,
       "2024-02-13": 78,
@@ -337,7 +337,7 @@
       "2024-02-03": 338,
       "2024-02-02": 310,
       "2024-02-01": 49,
-      "2024-01-31": 175
+      "2024-01-31": 156
     }
   },
   {
@@ -1314,7 +1314,7 @@
     "timeMonth": 1463,
     "timeYear": 2925,
     "dailyMinutesDown": {
-      "2024-02-16": 1245,
+      "2024-02-16": 1254,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
       "2024-02-13": 1440,
