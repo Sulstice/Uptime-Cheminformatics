@@ -141,7 +141,7 @@
     "time": 1361,
     "timeDay": 477,
     "timeWeek": 504,
-    "timeMonth": 1569,
+    "timeMonth": 1473,
     "timeYear": 1600,
     "dailyMinutesDown": {
       "2024-02-09": 252,
@@ -197,7 +197,7 @@
     "uptimeYear": "99.51%",
     "time": 1618,
     "timeDay": 931,
-    "timeWeek": 1319,
+    "timeWeek": 1323,
     "timeMonth": 1310,
     "timeYear": 1621,
     "dailyMinutesDown": {
@@ -311,19 +311,19 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
-    "status": "up",
-    "uptime": "99.71%",
-    "uptimeDay": "85.53%",
-    "uptimeWeek": "88.77%",
-    "uptimeMonth": "92.89%",
+    "status": "down",
+    "uptime": "99.72%",
+    "uptimeDay": "85.33%",
+    "uptimeWeek": "88.74%",
+    "uptimeMonth": "92.94%",
     "uptimeYear": "99.41%",
-    "time": 3557,
+    "time": 3558,
     "timeDay": 9208,
     "timeWeek": 8927,
     "timeMonth": 6227,
     "timeYear": 3849,
     "dailyMinutesDown": {
-      "2024-02-17": 21,
+      "2024-02-17": 24,
       "2024-02-16": 272,
       "2024-02-15": 208,
       "2024-02-14": 336,
@@ -339,7 +339,7 @@
       "2024-02-03": 338,
       "2024-02-02": 310,
       "2024-02-01": 49,
-      "2024-01-31": 140
+      "2024-01-31": 114
     }
   },
   {
@@ -1305,7 +1305,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heterocycles.jp.ico",
     "slug": "hetereocycles",
     "status": "down",
-    "uptime": "93.34%",
+    "uptime": "93.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1316,7 +1316,7 @@
     "timeMonth": 1462,
     "timeYear": 2919,
     "dailyMinutesDown": {
-      "2024-02-17": 604,
+      "2024-02-17": 625,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
