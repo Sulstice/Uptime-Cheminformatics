@@ -140,7 +140,7 @@
     "time": 1360,
     "timeDay": 0,
     "timeWeek": 492,
-    "timeMonth": 1081,
+    "timeMonth": 1093,
     "timeYear": 1603,
     "dailyMinutesDown": {
       "2024-02-09": 252,
@@ -195,8 +195,8 @@
     "uptimeMonth": "93.84%",
     "uptimeYear": "99.49%",
     "time": 1618,
-    "timeDay": 703,
-    "timeWeek": 1053,
+    "timeDay": 710,
+    "timeWeek": 1054,
     "timeMonth": 1198,
     "timeYear": 1620,
     "dailyMinutesDown": {
@@ -309,19 +309,19 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "70.35%",
-    "uptimeWeek": "82.61%",
-    "uptimeMonth": "92.11%",
-    "uptimeYear": "99.34%",
-    "time": 3759,
-    "timeDay": 10070,
+    "uptimeDay": "70.91%",
+    "uptimeWeek": "82.58%",
+    "uptimeMonth": "92.15%",
+    "uptimeYear": "99.35%",
+    "time": 3760,
+    "timeDay": 10761,
     "timeWeek": 9151,
     "timeMonth": 6471,
     "timeYear": 3971,
     "dailyMinutesDown": {
-      "2024-02-19": 410,
+      "2024-02-19": 413,
       "2024-02-18": 320,
       "2024-02-17": 129,
       "2024-02-16": 272,
@@ -336,7 +336,7 @@
       "2024-02-07": 21,
       "2024-02-05": 91,
       "2024-02-04": 108,
-      "2024-02-03": 338
+      "2024-02-03": 317
     }
   },
   {
@@ -1317,7 +1317,7 @@
     "timeMonth": 1438,
     "timeYear": 2908,
     "dailyMinutesDown": {
-      "2024-02-19": 1406,
+      "2024-02-19": 1425,
       "2024-02-18": 1440,
       "2024-02-17": 1440,
       "2024-02-16": 1440,
