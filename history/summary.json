@@ -190,9 +190,9 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "90.14%",
-    "uptimeWeek": "84.65%",
-    "uptimeMonth": "93.90%",
+    "uptimeDay": "90.69%",
+    "uptimeWeek": "84.75%",
+    "uptimeMonth": "93.87%",
     "uptimeYear": "99.49%",
     "time": 1618,
     "timeDay": 568,
@@ -200,7 +200,7 @@
     "timeMonth": 1213,
     "timeYear": 1619,
     "dailyMinutesDown": {
-      "2024-02-19": 117,
+      "2024-02-19": 109,
       "2024-02-18": 157,
       "2024-02-17": 239,
       "2024-02-16": 155,
@@ -212,7 +212,7 @@
       "2024-02-10": 208,
       "2024-02-09": 381,
       "2024-02-08": 185,
-      "2024-02-07": 16
+      "2024-02-07": 34
     }
   },
   {
@@ -310,19 +310,19 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "84.76%",
-    "uptimeWeek": "84.86%",
-    "uptimeMonth": "92.43%",
-    "uptimeYear": "99.37%",
-    "time": 3735,
+    "uptimeDay": "84.57%",
+    "uptimeWeek": "84.83%",
+    "uptimeMonth": "92.55%",
+    "uptimeYear": "99.38%",
+    "time": 3737,
     "timeDay": 7405,
     "timeWeek": 9182,
     "timeMonth": 6413,
     "timeYear": 3954,
     "dailyMinutesDown": {
-      "2024-02-19": 184,
+      "2024-02-19": 187,
       "2024-02-18": 320,
       "2024-02-17": 129,
       "2024-02-16": 272,
@@ -338,7 +338,7 @@
       "2024-02-05": 91,
       "2024-02-04": 108,
       "2024-02-03": 338,
-      "2024-02-02": 89
+      "2024-02-02": 33
     }
   },
   {
@@ -862,9 +862,9 @@
     "slug": "metabolism-and-transport-database",
     "status": "up",
     "uptime": "97.46%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 4658,
     "timeDay": 3376,
@@ -872,7 +872,7 @@
     "timeMonth": 1335,
     "timeYear": 4604,
     "dailyMinutesDown": {
-      "2024-02-19": 22
+      "2024-02-19": 16
     }
   },
   {
@@ -1318,7 +1318,7 @@
     "timeMonth": 1447,
     "timeYear": 2908,
     "dailyMinutesDown": {
-      "2024-02-19": 1143,
+      "2024-02-19": 1153,
       "2024-02-18": 1440,
       "2024-02-17": 1440,
       "2024-02-16": 1440,
