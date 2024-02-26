@@ -225,7 +225,7 @@
     "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
-    "uptimeMonth": "94.88%",
+    "uptimeMonth": "94.90%",
     "uptimeYear": "99.11%",
     "time": 2506,
     "timeDay": 1038,
@@ -302,8 +302,7 @@
     "timeMonth": 298,
     "timeYear": 322,
     "dailyMinutesDown": {
-      "2023-08-09": 67,
-      "2023-02-26": 16
+      "2023-08-09": 67
     }
   },
   {
@@ -311,19 +310,20 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
-    "status": "down",
+    "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "89.31%",
-    "uptimeWeek": "82.80%",
-    "uptimeMonth": "90.88%",
+    "uptimeDay": "89.05%",
+    "uptimeWeek": "82.85%",
+    "uptimeMonth": "90.87%",
     "uptimeYear": "99.24%",
-    "time": 4133,
-    "timeDay": 11245,
-    "timeWeek": 11456,
-    "timeMonth": 7273,
-    "timeYear": 4323,
+    "time": 4139,
+    "timeDay": 10275,
+    "timeWeek": 11478,
+    "timeMonth": 7287,
+    "timeYear": 4327,
     "dailyMinutesDown": {
-      "2024-02-25": 154,
+      "2024-02-26": 1,
+      "2024-02-25": 157,
       "2024-02-24": 25,
       "2024-02-23": 324,
       "2024-02-22": 369,
@@ -351,8 +351,8 @@
     "status": "up",
     "uptime": "91.75%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "66.39%",
-    "uptimeMonth": "92.27%",
+    "uptimeWeek": "66.31%",
+    "uptimeMonth": "92.25%",
     "uptimeYear": "99.31%",
     "time": 2162,
     "timeDay": 1621,
@@ -360,7 +360,8 @@
     "timeMonth": 1965,
     "timeYear": 2230,
     "dailyMinutesDown": {
-      "2024-02-25": 1437,
+      "2024-02-26": 5,
+      "2024-02-25": 1440,
       "2024-02-24": 1440,
       "2024-02-23": 511,
       "2023-12-01": 25,
@@ -672,8 +673,7 @@
       "2023-11-22": 18,
       "2023-07-04": 15,
       "2023-04-30": 30,
-      "2023-04-08": 233,
-      "2023-02-26": 148
+      "2023-04-08": 233
     }
   },
   {
@@ -927,8 +927,8 @@
     "status": "down",
     "uptime": "20.10%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "42.37%",
-    "uptimeMonth": "76.01%",
+    "uptimeWeek": "42.29%",
+    "uptimeMonth": "75.99%",
     "uptimeYear": "41.97%",
     "time": 3130,
     "timeDay": 0,
@@ -936,7 +936,8 @@
     "timeMonth": 1905,
     "timeYear": 3130,
     "dailyMinutesDown": {
-      "2024-02-25": 1438,
+      "2024-02-26": 6,
+      "2024-02-25": 1440,
       "2024-02-24": 1440,
       "2024-02-23": 1440,
       "2024-02-22": 1440,
@@ -1172,8 +1173,7 @@
       "2023-03-02": 1440,
       "2023-03-01": 1440,
       "2023-02-28": 1440,
-      "2023-02-27": 1440,
-      "2023-02-26": 1440
+      "2023-02-27": 1440
     }
   },
   {
@@ -1320,7 +1320,8 @@
     "timeMonth": 1436,
     "timeYear": 2890,
     "dailyMinutesDown": {
-      "2024-02-25": 1439,
+      "2024-02-26": 6,
+      "2024-02-25": 1440,
       "2024-02-24": 1440,
       "2024-02-23": 1440,
       "2024-02-22": 1440,
@@ -1393,7 +1394,7 @@
     "slug": "chemical-resolver",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "58.21%",
+    "uptimeDay": "58.74%",
     "uptimeWeek": "83.58%",
     "uptimeMonth": "93.30%",
     "uptimeYear": "98.95%",
