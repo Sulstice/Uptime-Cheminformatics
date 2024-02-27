@@ -190,9 +190,9 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "87.87%",
-    "uptimeWeek": "87.36%",
-    "uptimeMonth": "94.06%",
+    "uptimeDay": "88.44%",
+    "uptimeWeek": "87.44%",
+    "uptimeMonth": "94.03%",
     "uptimeYear": "99.50%",
     "time": 1628,
     "timeDay": 1803,
@@ -200,7 +200,7 @@
     "timeMonth": 1171,
     "timeYear": 1625,
     "dailyMinutesDown": {
-      "2024-02-27": 174,
+      "2024-02-27": 166,
       "2024-02-26": 75,
       "2024-02-25": 145,
       "2024-02-24": 209,
@@ -214,7 +214,7 @@
       "2024-02-16": 155,
       "2024-02-15": 143,
       "2024-02-14": 268,
-      "2024-02-13": 93
+      "2024-02-13": 113
     }
   },
   {
@@ -311,19 +311,19 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
-    "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "94.50%",
-    "uptimeWeek": "89.90%",
-    "uptimeMonth": "90.81%",
-    "uptimeYear": "99.23%",
-    "time": 4101,
+    "status": "down",
+    "uptime": "99.64%",
+    "uptimeDay": "94.18%",
+    "uptimeWeek": "89.86%",
+    "uptimeMonth": "90.85%",
+    "uptimeYear": "99.24%",
+    "time": 4102,
     "timeDay": 11628,
     "timeWeek": 11055,
     "timeMonth": 7603,
     "timeYear": 4408,
     "dailyMinutesDown": {
-      "2024-02-27": 79,
+      "2024-02-27": 84,
       "2024-02-25": 149,
       "2024-02-24": 25,
       "2024-02-23": 324,
@@ -341,7 +341,7 @@
       "2024-02-11": 26,
       "2024-02-10": 202,
       "2024-02-09": 353,
-      "2024-02-08": 107
+      "2024-02-08": 82
     }
   },
   {
@@ -351,7 +351,7 @@
     "slug": "spectral-database-for-organic-compounds",
     "status": "up",
     "uptime": "91.60%",
-    "uptimeDay": "56.73%",
+    "uptimeDay": "57.49%",
     "uptimeWeek": "47.62%",
     "uptimeMonth": "87.95%",
     "uptimeYear": "98.95%",
@@ -928,8 +928,8 @@
     "status": "down",
     "uptime": "20.05%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "15.49%",
-    "uptimeMonth": "69.82%",
+    "uptimeWeek": "15.38%",
+    "uptimeMonth": "69.80%",
     "uptimeYear": "41.97%",
     "time": 3130,
     "timeDay": 0,
@@ -937,7 +937,7 @@
     "timeMonth": 1900,
     "timeYear": 3130,
     "dailyMinutesDown": {
-      "2024-02-27": 1267,
+      "2024-02-27": 1278,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
@@ -1321,7 +1321,7 @@
     "timeMonth": 1438,
     "timeYear": 2884,
     "dailyMinutesDown": {
-      "2024-02-27": 1267,
+      "2024-02-27": 1279,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
