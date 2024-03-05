@@ -1,7 +1,7 @@
 url: https://www.metaboanalyst.ca/MetaboAnalyst/
-status: up
-code: 200
-responseTime: 163
-lastUpdated: 2024-03-04T23:06:49.729Z
+status: down
+code: 503
+responseTime: 251
+lastUpdated: 2024-03-05T04:35:24.478Z
 startTime: 2022-01-24T23:06:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
