@@ -193,8 +193,7 @@
       "2023-06-19": 1076,
       "2023-06-18": 1440,
       "2023-06-17": 1440,
-      "2023-06-16": 104,
-      "2023-04-25": 27
+      "2023-06-16": 104
     }
   },
   {
@@ -205,13 +204,13 @@
     "status": "up",
     "uptime": "99.75%",
     "uptimeDay": "92.79%",
-    "uptimeWeek": "88.54%",
+    "uptimeWeek": "88.75%",
     "uptimeMonth": "93.33%",
     "uptimeYear": "99.44%",
     "time": 1742,
     "timeDay": 1770,
     "timeWeek": 2294,
-    "timeMonth": 1787,
+    "timeMonth": 1789,
     "timeYear": 1736,
     "dailyMinutesDown": {
       "2024-04-23": 104,
@@ -239,9 +238,9 @@
     "slug": "nmr-shift-database",
     "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "76.81%",
-    "uptimeWeek": "79.48%",
-    "uptimeMonth": "93.71%",
+    "uptimeDay": "75.00%",
+    "uptimeWeek": "79.22%",
+    "uptimeMonth": "93.65%",
     "uptimeYear": "98.30%",
     "time": 2405,
     "timeDay": 11815,
@@ -249,7 +248,8 @@
     "timeMonth": 4959,
     "timeYear": 2343,
     "dailyMinutesDown": {
-      "2024-04-23": 333,
+      "2024-04-24": 19,
+      "2024-04-23": 341,
       "2024-04-20": 383,
       "2024-04-19": 963,
       "2024-04-18": 328,
@@ -315,9 +315,9 @@
     "slug": "binding-database",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "98.19%",
-    "uptimeWeek": "92.40%",
-    "uptimeMonth": "93.11%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "92.49%",
+    "uptimeMonth": "93.13%",
     "uptimeYear": "98.89%",
     "time": 4763,
     "timeDay": 4424,
@@ -325,7 +325,7 @@
     "timeMonth": 5893,
     "timeYear": 4914,
     "dailyMinutesDown": {
-      "2024-04-23": 27,
+      "2024-04-23": 18,
       "2024-04-22": 102,
       "2024-04-20": 56,
       "2024-04-19": 141,
@@ -357,7 +357,8 @@
       "2024-03-10": 20,
       "2024-03-09": 272,
       "2024-03-08": 279,
-      "2024-03-07": 19
+      "2024-03-07": 19,
+      "2024-03-06": 15
     }
   },
   {
@@ -650,8 +651,8 @@
     "uptime": "97.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.66%",
-    "uptimeMonth": "94.15%",
-    "uptimeYear": "97.11%",
+    "uptimeMonth": "94.22%",
+    "uptimeYear": "97.12%",
     "time": 313,
     "timeDay": 165,
     "timeWeek": 180,
@@ -815,7 +816,7 @@
     "uptime": "98.21%",
     "uptimeDay": "73.63%",
     "uptimeWeek": "95.54%",
-    "uptimeMonth": "78.98%",
+    "uptimeMonth": "79.04%",
     "uptimeYear": "96.31%",
     "time": 567,
     "timeDay": 264,
@@ -947,7 +948,7 @@
     "status": "up",
     "uptime": "99.47%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "84.66%",
+    "uptimeWeek": "84.94%",
     "uptimeMonth": "94.31%",
     "uptimeYear": "98.82%",
     "time": 930,
@@ -1006,7 +1007,8 @@
     "timeMonth": 2228,
     "timeYear": 3072,
     "dailyMinutesDown": {
-      "2024-04-23": 1434,
+      "2024-04-24": 21,
+      "2024-04-23": 1440,
       "2024-04-22": 1440,
       "2024-04-21": 1440,
       "2024-04-20": 1440,
@@ -1230,8 +1232,7 @@
       "2023-04-29": 1440,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
-      "2023-04-26": 1440,
-      "2023-04-25": 1440
+      "2023-04-26": 1440
     }
   },
   {
@@ -1374,18 +1375,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heterocycles.jp.ico",
     "slug": "hetereocycles",
     "status": "down",
-    "uptime": "85.76%",
+    "uptime": "85.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "68.06%",
+    "uptimeYear": "68.05%",
     "time": 2625,
     "timeDay": 1810,
     "timeWeek": 1409,
     "timeMonth": 1422,
     "timeYear": 2744,
     "dailyMinutesDown": {
-      "2024-04-23": 1434,
+      "2024-04-24": 22,
+      "2024-04-23": 1440,
       "2024-04-22": 1440,
       "2024-04-21": 1440,
       "2024-04-20": 1440,
@@ -1621,7 +1623,7 @@
     "uptime": "96.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "58.32%",
+    "uptimeMonth": "58.26%",
     "uptimeYear": "91.34%",
     "time": 1486,
     "timeDay": 556,
@@ -1629,7 +1631,8 @@
     "timeMonth": 541,
     "timeYear": 1686,
     "dailyMinutesDown": {
-      "2024-04-23": 1434,
+      "2024-04-24": 22,
+      "2024-04-23": 1440,
       "2024-04-22": 1440,
       "2024-04-21": 1440,
       "2024-04-20": 1440,
@@ -1691,8 +1694,7 @@
       "2023-05-09": 53,
       "2023-05-08": 13,
       "2023-04-29": 225,
-      "2023-04-28": 147,
-      "2023-04-25": 367
+      "2023-04-28": 147
     }
   },
   {
