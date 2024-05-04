@@ -204,19 +204,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "85.51%",
-    "uptimeWeek": "88.38%",
-    "uptimeMonth": "94.00%",
-    "uptimeYear": "99.50%",
-    "time": 1709,
+    "uptimeDay": "86.21%",
+    "uptimeWeek": "88.37%",
+    "uptimeMonth": "94.06%",
+    "uptimeYear": "99.51%",
+    "time": 1710,
     "timeDay": 1385,
-    "timeWeek": 1142,
+    "timeWeek": 1144,
     "timeMonth": 1769,
     "timeYear": 1713,
     "dailyMinutesDown": {
-      "2024-05-04": 162,
+      "2024-05-04": 163,
       "2024-05-03": 177,
       "2024-05-02": 150,
       "2024-05-01": 178,
@@ -232,7 +232,7 @@
       "2024-04-21": 228,
       "2024-04-20": 56,
       "2024-04-19": 219,
-      "2024-04-18": 81
+      "2024-04-18": 53
     }
   },
   {
@@ -314,9 +314,9 @@
     "slug": "binding-database",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "91.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "91.97%",
     "uptimeYear": "98.85%",
     "time": 4728,
     "timeDay": 698,
@@ -324,7 +324,6 @@
     "timeMonth": 5416,
     "timeYear": 4891,
     "dailyMinutesDown": {
-      "2024-05-04": 8,
       "2024-04-29": 18,
       "2024-04-28": 33,
       "2024-04-27": 171,
@@ -357,7 +356,7 @@
       "2024-03-20": 238,
       "2024-03-19": 748,
       "2024-03-14": 191,
-      "2024-03-13": 575
+      "2024-03-13": 595
     }
   },
   {
@@ -1306,7 +1305,7 @@
     "uptimeYear": "97.02%",
     "time": 581,
     "timeDay": 508,
-    "timeWeek": 480,
+    "timeWeek": 470,
     "timeMonth": 459,
     "timeYear": 599,
     "dailyMinutesDown": {
@@ -1382,7 +1381,7 @@
     "timeMonth": 1355,
     "timeYear": 2695,
     "dailyMinutesDown": {
-      "2024-05-04": 1204,
+      "2024-05-04": 1215,
       "2024-05-03": 1440,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
@@ -1628,7 +1627,7 @@
     "status": "up",
     "uptime": "95.50%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "76.41%",
+    "uptimeWeek": "76.52%",
     "uptimeMonth": "40.27%",
     "uptimeYear": "89.98%",
     "time": 1493,
