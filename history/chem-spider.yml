@@ -1,7 +1,7 @@
 url: http://www.chemspider.com/Default.aspx
-status: up
-code: 200
-responseTime: 873
-lastUpdated: 2024-05-04T23:06:11.979Z
+status: down
+code: 500
+responseTime: 503
+lastUpdated: 2024-05-06T10:05:01.763Z
 startTime: 2022-01-24T20:25:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
