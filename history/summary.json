@@ -206,17 +206,17 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "89.00%",
-    "uptimeWeek": "88.56%",
-    "uptimeMonth": "94.19%",
-    "uptimeYear": "99.52%",
+    "uptimeDay": "91.60%",
+    "uptimeWeek": "88.63%",
+    "uptimeMonth": "94.17%",
+    "uptimeYear": "99.51%",
     "time": 1710,
     "timeDay": 1052,
     "timeWeek": 1140,
     "timeMonth": 1716,
     "timeYear": 1714,
     "dailyMinutesDown": {
-      "2024-05-05": 148,
+      "2024-05-05": 140,
       "2024-05-04": 172,
       "2024-05-03": 177,
       "2024-05-02": 150,
@@ -232,7 +232,7 @@
       "2024-04-22": 106,
       "2024-04-21": 228,
       "2024-04-20": 56,
-      "2024-04-19": 59
+      "2024-04-19": 76
     }
   },
   {
@@ -315,12 +315,12 @@
     "status": "up",
     "uptime": "99.50%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "uptimeWeek": "99.92%",
     "uptimeMonth": "91.97%",
     "uptimeYear": "98.85%",
     "time": 4728,
     "timeDay": 699,
-    "timeWeek": 967,
+    "timeWeek": 663,
     "timeMonth": 5286,
     "timeYear": 4881,
     "dailyMinutesDown": {
@@ -870,12 +870,12 @@
     "uptime": "98.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.36%",
+    "uptimeMonth": "99.41%",
     "uptimeYear": "97.65%",
     "time": 2599,
     "timeDay": 2026,
     "timeWeek": 1636,
-    "timeMonth": 2108,
+    "timeMonth": 2126,
     "timeYear": 2697,
     "dailyMinutesDown": {
       "2024-05-03": 16,
@@ -1224,8 +1224,7 @@
       "2023-05-11": 1440,
       "2023-05-10": 1440,
       "2023-05-09": 1440,
-      "2023-05-08": 1440,
-      "2023-05-07": 1440
+      "2023-05-08": 1440
     }
   },
   {
@@ -1380,7 +1379,8 @@
     "timeMonth": 1360,
     "timeYear": 2690,
     "dailyMinutesDown": {
-      "2024-05-05": 1426,
+      "2024-05-06": 22,
+      "2024-05-05": 1440,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
       "2024-05-02": 1440,
@@ -1627,7 +1627,7 @@
     "status": "up",
     "uptime": "95.51%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "92.90%",
+    "uptimeWeek": "93.26%",
     "uptimeMonth": "40.32%",
     "uptimeYear": "89.98%",
     "time": 1494,
