@@ -204,19 +204,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "92.71%",
-    "uptimeWeek": "88.49%",
-    "uptimeMonth": "94.14%",
+    "uptimeDay": "92.63%",
+    "uptimeWeek": "88.48%",
+    "uptimeMonth": "94.18%",
     "uptimeYear": "99.51%",
     "time": 1710,
     "timeDay": 1074,
     "timeWeek": 1135,
-    "timeMonth": 1698,
+    "timeMonth": 1695,
     "timeYear": 1714,
     "dailyMinutesDown": {
-      "2024-05-06": 87,
+      "2024-05-06": 88,
       "2024-05-05": 140,
       "2024-05-04": 172,
       "2024-05-03": 177,
@@ -232,7 +232,7 @@
       "2024-04-23": 104,
       "2024-04-22": 106,
       "2024-04-21": 228,
-      "2024-04-20": 56
+      "2024-04-20": 39
     }
   },
   {
@@ -320,7 +320,7 @@
     "uptimeYear": "98.85%",
     "time": 4728,
     "timeDay": 700,
-    "timeWeek": 664,
+    "timeWeek": 669,
     "timeMonth": 5314,
     "timeYear": 4881,
     "dailyMinutesDown": {
@@ -996,7 +996,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heraproject.com.ico",
     "slug": "human-and-environment-risk-assessment",
     "status": "up",
-    "uptime": "21.16%",
+    "uptime": "21.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "37.61%",
@@ -1379,7 +1379,7 @@
     "timeMonth": 1360,
     "timeYear": 2690,
     "dailyMinutesDown": {
-      "2024-05-06": 697,
+      "2024-05-06": 704,
       "2024-05-05": 1440,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
