@@ -206,17 +206,17 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "93.62%",
-    "uptimeWeek": "88.62%",
-    "uptimeMonth": "94.15%",
+    "uptimeDay": "94.17%",
+    "uptimeWeek": "88.70%",
+    "uptimeMonth": "94.13%",
     "uptimeYear": "99.51%",
     "time": 1709,
     "timeDay": 1043,
-    "timeWeek": 1133,
+    "timeWeek": 1136,
     "timeMonth": 1705,
     "timeYear": 1714,
     "dailyMinutesDown": {
-      "2024-05-06": 58,
+      "2024-05-06": 50,
       "2024-05-05": 140,
       "2024-05-04": 172,
       "2024-05-03": 177,
@@ -233,7 +233,7 @@
       "2024-04-22": 106,
       "2024-04-21": 228,
       "2024-04-20": 56,
-      "2024-04-19": 25
+      "2024-04-19": 41
     }
   },
   {
@@ -322,7 +322,7 @@
     "time": 4728,
     "timeDay": 699,
     "timeWeek": 658,
-    "timeMonth": 5286,
+    "timeMonth": 5314,
     "timeYear": 4881,
     "dailyMinutesDown": {
       "2024-04-29": 18,
@@ -946,18 +946,19 @@
     "url": "https://cfpub.epa.gov/ecotox/",
     "icon": "https://icons.duckduckgo.com/ip3/cfpub.epa.gov.ico",
     "slug": "ecology-toxicity",
-    "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.49%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "94.34%",
-    "uptimeYear": "98.82%",
-    "time": 910,
+    "uptimeYear": "98.83%",
+    "time": 911,
     "timeDay": 0,
     "timeWeek": 261,
     "timeMonth": 1139,
     "timeYear": 969,
     "dailyMinutesDown": {
+      "2024-05-06": 4,
       "2024-04-18": 100,
       "2024-04-17": 1440,
       "2024-04-16": 661,
@@ -987,8 +988,7 @@
       "2023-10-21": 16,
       "2023-09-15": 23,
       "2023-07-25": 34,
-      "2023-06-24": 258,
-      "2023-06-16": 55
+      "2023-06-24": 258
     }
   },
   {
@@ -1001,7 +1001,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "37.61%",
-    "uptimeYear": "47.92%",
+    "uptimeYear": "47.93%",
     "time": 3050,
     "timeDay": 0,
     "timeWeek": 2218,
@@ -1380,7 +1380,7 @@
     "timeMonth": 1360,
     "timeYear": 2690,
     "dailyMinutesDown": {
-      "2024-05-06": 291,
+      "2024-05-06": 311,
       "2024-05-05": 1440,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
@@ -1628,7 +1628,7 @@
     "status": "up",
     "uptime": "95.51%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.93%",
+    "uptimeWeek": "96.12%",
     "uptimeMonth": "40.32%",
     "uptimeYear": "89.98%",
     "time": 1494,
