@@ -206,17 +206,17 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "86.56%",
-    "uptimeWeek": "87.88%",
-    "uptimeMonth": "94.08%",
-    "uptimeYear": "99.51%",
+    "uptimeDay": "87.12%",
+    "uptimeWeek": "88.20%",
+    "uptimeMonth": "94.04%",
+    "uptimeYear": "99.50%",
     "time": 1711,
-    "timeDay": 715,
-    "timeWeek": 1108,
+    "timeDay": 723,
+    "timeWeek": 1092,
     "timeMonth": 1650,
     "timeYear": 1713,
     "dailyMinutesDown": {
-      "2024-05-06": 193,
+      "2024-05-06": 185,
       "2024-05-05": 140,
       "2024-05-04": 172,
       "2024-05-03": 177,
@@ -231,7 +231,8 @@
       "2024-04-24": 318,
       "2024-04-23": 104,
       "2024-04-22": 106,
-      "2024-04-21": 202
+      "2024-04-21": 228,
+      "2024-04-20": 1
     }
   },
   {
@@ -995,11 +996,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heraproject.com.ico",
     "slug": "human-and-environment-risk-assessment",
     "status": "up",
-    "uptime": "21.21%",
+    "uptime": "21.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "37.61%",
-    "uptimeYear": "48.14%",
+    "uptimeYear": "48.15%",
     "time": 3046,
     "timeDay": 2147,
     "timeWeek": 2206,
@@ -1222,8 +1223,7 @@
       "2023-05-12": 1440,
       "2023-05-11": 1440,
       "2023-05-10": 1440,
-      "2023-05-09": 1440,
-      "2023-05-08": 1440
+      "2023-05-09": 1440
     }
   },
   {
@@ -1295,7 +1295,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pesticideinfo.org.ico",
     "slug": "pesticide-info",
     "status": "up",
-    "uptime": "98.67%",
+    "uptime": "98.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
@@ -1371,14 +1371,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "64.50%",
+    "uptimeYear": "64.49%",
     "time": 2611,
     "timeDay": 1122,
     "timeWeek": 1371,
     "timeMonth": 1350,
     "timeYear": 2685,
     "dailyMinutesDown": {
-      "2024-05-06": 1421,
+      "2024-05-07": 23,
+      "2024-05-06": 1440,
       "2024-05-05": 1440,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
@@ -1701,8 +1702,7 @@
       "2023-06-09": 687,
       "2023-06-08": 19,
       "2023-05-26": 18,
-      "2023-05-09": 53,
-      "2023-05-08": 13
+      "2023-05-09": 53
     }
   },
   {
