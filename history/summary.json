@@ -207,9 +207,9 @@
     "slug": "chem-exper",
     "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "84.15%",
-    "uptimeWeek": "87.80%",
-    "uptimeMonth": "93.89%",
+    "uptimeDay": "84.38%",
+    "uptimeWeek": "87.83%",
+    "uptimeMonth": "93.85%",
     "uptimeYear": "99.49%",
     "time": 1708,
     "timeDay": 761,
@@ -217,7 +217,7 @@
     "timeMonth": 1532,
     "timeYear": 1712,
     "dailyMinutesDown": {
-      "2024-05-08": 175,
+      "2024-05-08": 172,
       "2024-05-07": 187,
       "2024-05-06": 185,
       "2024-05-05": 140,
@@ -233,7 +233,7 @@
       "2024-04-25": 172,
       "2024-04-24": 318,
       "2024-04-23": 104,
-      "2024-04-22": 38
+      "2024-04-22": 58
     }
   },
   {
@@ -241,18 +241,19 @@
     "url": "https://nmrshiftdb.nmr.uni-koeln.de/",
     "icon": "https://icons.duckduckgo.com/ip3/nmrshiftdb.nmr.uni-koeln.de.ico",
     "slug": "nmr-shift-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "89.80%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "89.77%",
     "uptimeYear": "98.35%",
-    "time": 2791,
+    "time": 2794,
     "timeDay": 667,
     "timeWeek": 688,
     "timeMonth": 7646,
     "timeYear": 2863,
     "dailyMinutesDown": {
+      "2024-05-08": 14,
       "2024-04-30": 17,
       "2024-04-28": 24,
       "2024-04-27": 855,
@@ -285,7 +286,7 @@
       "2024-02-14": 50,
       "2024-02-08": 154,
       "2024-02-07": 102,
-      "2024-02-06": 122
+      "2024-02-06": 106
     }
   },
   {
@@ -322,7 +323,7 @@
     "time": 4729,
     "timeDay": 828,
     "timeWeek": 735,
-    "timeMonth": 5423,
+    "timeMonth": 5378,
     "timeYear": 4876,
     "dailyMinutesDown": {
       "2024-05-08": 169,
@@ -1001,8 +1002,8 @@
     "slug": "human-and-environment-risk-assessment",
     "status": "down",
     "uptime": "21.31%",
-    "uptimeDay": "31.36%",
-    "uptimeWeek": "90.19%",
+    "uptimeDay": "30.25%",
+    "uptimeWeek": "90.04%",
     "uptimeMonth": "39.89%",
     "uptimeYear": "48.47%",
     "time": 3040,
@@ -1011,7 +1012,7 @@
     "timeMonth": 2574,
     "timeYear": 3040,
     "dailyMinutesDown": {
-      "2024-05-08": 988,
+      "2024-05-08": 1004,
       "2024-04-28": 195,
       "2024-04-27": 17,
       "2024-04-26": 463,
@@ -1382,7 +1383,7 @@
     "timeMonth": 1364,
     "timeYear": 2679,
     "dailyMinutesDown": {
-      "2024-05-08": 1253,
+      "2024-05-08": 1269,
       "2024-05-07": 1440,
       "2024-05-06": 1440,
       "2024-05-05": 1440,
