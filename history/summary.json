@@ -206,18 +206,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
     "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "91.86%",
-    "uptimeWeek": "88.26%",
-    "uptimeMonth": "93.92%",
-    "uptimeYear": "99.49%",
+    "uptime": "99.77%",
+    "uptimeDay": "92.68%",
+    "uptimeWeek": "88.38%",
+    "uptimeMonth": "93.81%",
+    "uptimeYear": "99.48%",
     "time": 1707,
-    "timeDay": 1015,
+    "timeDay": 1037,
     "timeWeek": 908,
     "timeMonth": 1442,
     "timeYear": 1714,
     "dailyMinutesDown": {
-      "2024-05-10": 97,
+      "2024-05-10": 85,
       "2024-05-09": 124,
       "2024-05-08": 192,
       "2024-05-07": 187,
@@ -233,7 +233,7 @@
       "2024-04-27": 32,
       "2024-04-26": 142,
       "2024-04-25": 172,
-      "2024-04-24": 210
+      "2024-04-24": 273
     }
   },
   {
@@ -871,18 +871,19 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
-    "uptime": "98.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.80%",
+    "status": "down",
+    "uptime": "98.98%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "97.65%",
-    "time": 2608,
+    "time": 2609,
     "timeDay": 1695,
     "timeWeek": 2981,
     "timeMonth": 1962,
     "timeYear": 2710,
     "dailyMinutesDown": {
+      "2024-05-10": 5,
       "2024-05-03": 16,
       "2024-04-20": 29,
       "2024-04-17": 20,
@@ -921,7 +922,7 @@
       "2023-10-17": 3,
       "2023-10-15": 1435,
       "2023-10-14": 60,
-      "2023-10-13": 115
+      "2023-10-13": 91
     }
   },
   {
@@ -1003,7 +1004,7 @@
     "status": "down",
     "uptime": "21.27%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "66.73%",
+    "uptimeWeek": "66.41%",
     "uptimeMonth": "39.89%",
     "uptimeYear": "48.47%",
     "time": 3040,
@@ -1012,7 +1013,7 @@
     "timeMonth": 2574,
     "timeYear": 3040,
     "dailyMinutesDown": {
-      "2024-05-10": 738,
+      "2024-05-10": 771,
       "2024-05-09": 1440,
       "2024-05-08": 1175,
       "2024-04-28": 195,
@@ -1383,7 +1384,7 @@
     "timeMonth": 1380,
     "timeYear": 2673,
     "dailyMinutesDown": {
-      "2024-05-10": 739,
+      "2024-05-10": 771,
       "2024-05-09": 1440,
       "2024-05-08": 1440,
       "2024-05-07": 1440,
