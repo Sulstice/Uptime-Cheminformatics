@@ -205,19 +205,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "94.04%",
-    "uptimeWeek": "88.41%",
-    "uptimeMonth": "93.80%",
-    "uptimeYear": "99.48%",
+    "status": "down",
+    "uptime": "99.78%",
+    "uptimeDay": "93.86%",
+    "uptimeWeek": "88.55%",
+    "uptimeMonth": "93.84%",
+    "uptimeYear": "99.49%",
     "time": 1707,
     "timeDay": 875,
-    "timeWeek": 889,
-    "timeMonth": 1440,
-    "timeYear": 1713,
+    "timeWeek": 891,
+    "timeMonth": 1441,
+    "timeYear": 1714,
     "dailyMinutesDown": {
-      "2024-05-10": 65,
+      "2024-05-10": 68,
       "2024-05-09": 124,
       "2024-05-08": 192,
       "2024-05-07": 187,
@@ -233,7 +233,7 @@
       "2024-04-27": 32,
       "2024-04-26": 142,
       "2024-04-25": 172,
-      "2024-04-24": 295
+      "2024-04-24": 273
     }
   },
   {
@@ -315,18 +315,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
     "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "98.20%",
-    "uptimeMonth": "92.62%",
-    "uptimeYear": "98.93%",
+    "uptime": "99.49%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.32%",
+    "uptimeMonth": "92.65%",
+    "uptimeYear": "98.82%",
     "time": 4732,
     "timeDay": 4809,
     "timeWeek": 1072,
     "timeMonth": 5306,
     "timeYear": 4876,
     "dailyMinutesDown": {
-      "2024-05-10": 13,
       "2024-05-08": 169,
       "2024-04-29": 18,
       "2024-04-28": 33,
@@ -360,7 +359,7 @@
       "2024-03-20": 238,
       "2024-03-19": 748,
       "2024-03-14": 191,
-      "2024-03-13": 25
+      "2024-03-13": 575
     }
   },
   {
@@ -1004,7 +1003,7 @@
     "status": "down",
     "uptime": "21.27%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "67.81%",
+    "uptimeWeek": "67.47%",
     "uptimeMonth": "39.89%",
     "uptimeYear": "48.47%",
     "time": 3040,
@@ -1013,7 +1012,7 @@
     "timeMonth": 2574,
     "timeYear": 3040,
     "dailyMinutesDown": {
-      "2024-05-10": 630,
+      "2024-05-10": 664,
       "2024-05-09": 1440,
       "2024-05-08": 1175,
       "2024-04-28": 195,
@@ -1384,7 +1383,7 @@
     "timeMonth": 1380,
     "timeYear": 2673,
     "dailyMinutesDown": {
-      "2024-05-10": 630,
+      "2024-05-10": 664,
       "2024-05-09": 1440,
       "2024-05-08": 1440,
       "2024-05-07": 1440,
