@@ -152,7 +152,7 @@
     "time": 1306,
     "timeDay": 0,
     "timeWeek": 187,
-    "timeMonth": 286,
+    "timeMonth": 287,
     "timeYear": 1617,
     "dailyMinutesDown": {
       "2024-04-25": 321,
@@ -208,13 +208,13 @@
     "status": "up",
     "uptime": "99.79%",
     "uptimeDay": "86.55%",
-    "uptimeWeek": "88.17%",
+    "uptimeWeek": "88.21%",
     "uptimeMonth": "94.10%",
     "uptimeYear": "99.51%",
     "time": 1707,
-    "timeDay": 916,
-    "timeWeek": 877,
-    "timeMonth": 1440,
+    "timeDay": 923,
+    "timeWeek": 878,
+    "timeMonth": 1442,
     "timeYear": 1714,
     "dailyMinutesDown": {
       "2024-05-10": 194,
@@ -322,7 +322,7 @@
     "uptimeYear": "98.82%",
     "time": 4732,
     "timeDay": 2793,
-    "timeWeek": 1080,
+    "timeWeek": 1141,
     "timeMonth": 5221,
     "timeYear": 4875,
     "dailyMinutesDown": {
@@ -529,7 +529,7 @@
     "uptime": "96.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.63%",
-    "uptimeMonth": "96.12%",
+    "uptimeMonth": "96.29%",
     "uptimeYear": "93.19%",
     "time": 757,
     "timeDay": 0,
@@ -687,8 +687,7 @@
       "2023-05-16": 1129,
       "2023-05-15": 1440,
       "2023-05-14": 1440,
-      "2023-05-13": 1440,
-      "2023-05-12": 350
+      "2023-05-13": 1440
     }
   },
   {
@@ -881,7 +880,7 @@
     "timeDay": 1696,
     "timeWeek": 2985,
     "timeMonth": 1955,
-    "timeYear": 2712,
+    "timeYear": 2713,
     "dailyMinutesDown": {
       "2024-05-03": 16,
       "2024-04-20": 29,
@@ -1003,7 +1002,7 @@
     "status": "down",
     "uptime": "21.25%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "60.26%",
+    "uptimeWeek": "59.55%",
     "uptimeMonth": "39.89%",
     "uptimeYear": "48.47%",
     "time": 3040,
@@ -1012,7 +1011,8 @@
     "timeMonth": 2574,
     "timeYear": 3040,
     "dailyMinutesDown": {
-      "2024-05-10": 1391,
+      "2024-05-11": 22,
+      "2024-05-10": 1440,
       "2024-05-09": 1440,
       "2024-05-08": 1175,
       "2024-04-28": 195,
@@ -1227,8 +1227,7 @@
       "2023-05-16": 1440,
       "2023-05-15": 1440,
       "2023-05-14": 1440,
-      "2023-05-13": 1440,
-      "2023-05-12": 1440
+      "2023-05-13": 1440
     }
   },
   {
@@ -1306,7 +1305,7 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "97.02%",
     "time": 582,
-    "timeDay": 670,
+    "timeDay": 0,
     "timeWeek": 568,
     "timeMonth": 475,
     "timeYear": 599,
@@ -1372,18 +1371,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heterocycles.jp.ico",
     "slug": "hetereocycles",
     "status": "down",
-    "uptime": "84.02%",
+    "uptime": "84.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "63.41%",
+    "uptimeYear": "63.40%",
     "time": 2610,
     "timeDay": 0,
     "timeWeek": 1497,
     "timeMonth": 1380,
     "timeYear": 2673,
     "dailyMinutesDown": {
-      "2024-05-10": 1391,
+      "2024-05-11": 23,
+      "2024-05-10": 1440,
       "2024-05-09": 1440,
       "2024-05-08": 1440,
       "2024-05-07": 1440,
@@ -1632,7 +1632,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lookchem.com.ico",
     "slug": "look-chem",
     "status": "up",
-    "uptime": "95.53%",
+    "uptime": "95.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "40.32%",
