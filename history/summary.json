@@ -209,9 +209,9 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "90.25%",
-    "uptimeWeek": "88.20%",
-    "uptimeMonth": "94.23%",
+    "uptimeDay": "90.83%",
+    "uptimeWeek": "88.29%",
+    "uptimeMonth": "94.21%",
     "uptimeYear": "99.52%",
     "time": 1711,
     "timeDay": 602,
@@ -219,7 +219,7 @@
     "timeMonth": 1364,
     "timeYear": 1715,
     "dailyMinutesDown": {
-      "2024-05-14": 81,
+      "2024-05-14": 73,
       "2024-05-13": 101,
       "2024-05-12": 234,
       "2024-05-11": 155,
@@ -234,7 +234,7 @@
       "2024-05-02": 150,
       "2024-05-01": 178,
       "2024-04-30": 204,
-      "2024-04-29": 49
+      "2024-04-29": 65
     }
   },
   {
@@ -821,7 +821,7 @@
     "uptime": "98.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.49%",
+    "uptimeMonth": "98.52%",
     "uptimeYear": "96.30%",
     "time": 618,
     "timeDay": 9681,
@@ -873,18 +873,19 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
+    "status": "down",
     "uptime": "98.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "97.65%",
-    "time": 2622,
+    "time": 2623,
     "timeDay": 1606,
     "timeWeek": 3007,
     "timeMonth": 2272,
     "timeYear": 2756,
     "dailyMinutesDown": {
+      "2024-05-14": 5,
       "2024-05-03": 16,
       "2024-04-20": 29,
       "2024-04-17": 20,
@@ -923,7 +924,7 @@
       "2023-10-17": 3,
       "2023-10-15": 1435,
       "2023-10-14": 60,
-      "2023-10-13": 115
+      "2023-10-13": 91
     }
   },
   {
@@ -1005,7 +1006,7 @@
     "status": "down",
     "uptime": "21.16%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "8.77%",
+    "uptimeWeek": "8.67%",
     "uptimeMonth": "39.89%",
     "uptimeYear": "48.47%",
     "time": 3040,
@@ -1014,7 +1015,7 @@
     "timeMonth": 2574,
     "timeYear": 3040,
     "dailyMinutesDown": {
-      "2024-05-14": 820,
+      "2024-05-14": 831,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
@@ -1385,7 +1386,7 @@
     "timeMonth": 1342,
     "timeYear": 2652,
     "dailyMinutesDown": {
-      "2024-05-14": 821,
+      "2024-05-14": 831,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
@@ -1642,7 +1643,7 @@
     "uptime": "95.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "50.96%",
+    "uptimeMonth": "50.99%",
     "uptimeYear": "89.99%",
     "time": 1494,
     "timeDay": 254,
