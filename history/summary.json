@@ -13,7 +13,7 @@
     "time": 1051,
     "timeDay": 469,
     "timeWeek": 368,
-    "timeMonth": 378,
+    "timeMonth": 380,
     "timeYear": 955,
     "dailyMinutesDown": {
       "2024-05-11": 19,
@@ -209,17 +209,17 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "91.66%",
-    "uptimeWeek": "88.63%",
-    "uptimeMonth": "94.22%",
+    "uptimeDay": "92.23%",
+    "uptimeWeek": "89.17%",
+    "uptimeMonth": "94.20%",
     "uptimeYear": "99.52%",
     "time": 1711,
-    "timeDay": 587,
+    "timeDay": 580,
     "timeWeek": 799,
     "timeMonth": 1352,
     "timeYear": 1714,
     "dailyMinutesDown": {
-      "2024-05-14": 119,
+      "2024-05-14": 111,
       "2024-05-13": 101,
       "2024-05-12": 234,
       "2024-05-11": 155,
@@ -234,7 +234,7 @@
       "2024-05-02": 150,
       "2024-05-01": 178,
       "2024-04-30": 204,
-      "2024-04-29": 17
+      "2024-04-29": 33
     }
   },
   {
@@ -659,7 +659,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
-    "uptimeYear": "97.71%",
+    "uptimeYear": "97.72%",
     "time": 314,
     "timeDay": 145,
     "timeWeek": 274,
@@ -688,8 +688,7 @@
       "2023-07-17": 30,
       "2023-06-27": 223,
       "2023-06-16": 38,
-      "2023-05-19": 31,
-      "2023-05-16": 1129
+      "2023-05-19": 31
     }
   },
   {
@@ -1005,7 +1004,7 @@
     "status": "down",
     "uptime": "21.15%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "2.85%",
+    "uptimeWeek": "2.40%",
     "uptimeMonth": "39.89%",
     "uptimeYear": "48.47%",
     "time": 3040,
@@ -1014,7 +1013,8 @@
     "timeMonth": 2574,
     "timeYear": 3040,
     "dailyMinutesDown": {
-      "2024-05-14": 1417,
+      "2024-05-15": 22,
+      "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
@@ -1229,8 +1229,7 @@
       "2023-05-20": 1440,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
-      "2023-05-17": 1440,
-      "2023-05-16": 1440
+      "2023-05-17": 1440
     }
   },
   {
@@ -1374,18 +1373,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heterocycles.jp.ico",
     "slug": "hetereocycles",
     "status": "down",
-    "uptime": "83.62%",
+    "uptime": "83.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "62.31%",
+    "uptimeYear": "62.30%",
     "time": 2603,
     "timeDay": 1547,
     "timeWeek": 1342,
     "timeMonth": 1364,
     "timeYear": 2648,
     "dailyMinutesDown": {
-      "2024-05-14": 1417,
+      "2024-05-15": 23,
+      "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
@@ -1642,7 +1642,7 @@
     "uptime": "95.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "52.32%",
+    "uptimeMonth": "52.43%",
     "uptimeYear": "89.99%",
     "time": 1492,
     "timeDay": 499,
