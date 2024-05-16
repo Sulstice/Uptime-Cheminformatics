@@ -209,17 +209,17 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "98.30%",
-    "uptimeWeek": "90.63%",
-    "uptimeMonth": "94.22%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "90.71%",
+    "uptimeMonth": "94.20%",
     "uptimeYear": "99.52%",
     "time": 1710,
     "timeDay": 604,
-    "timeWeek": 776,
+    "timeWeek": 778,
     "timeMonth": 1313,
     "timeYear": 1709,
     "dailyMinutesDown": {
-      "2024-05-15": 25,
+      "2024-05-15": 17,
       "2024-05-14": 111,
       "2024-05-13": 101,
       "2024-05-12": 234,
@@ -234,7 +234,8 @@
       "2024-05-03": 177,
       "2024-05-02": 150,
       "2024-05-01": 178,
-      "2024-04-30": 204
+      "2024-04-30": 204,
+      "2024-04-29": 17
     }
   },
   {
@@ -660,7 +661,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
-    "uptimeYear": "97.98%",
+    "uptimeYear": "97.99%",
     "time": 315,
     "timeDay": 435,
     "timeWeek": 327,
@@ -1014,7 +1015,8 @@
     "timeMonth": 2574,
     "timeYear": 3040,
     "dailyMinutesDown": {
-      "2024-05-15": 1415,
+      "2024-05-16": 22,
+      "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
@@ -1229,8 +1231,7 @@
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
-      "2023-05-18": 1440,
-      "2023-05-17": 1440
+      "2023-05-18": 1440
     }
   },
   {
@@ -1374,18 +1375,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heterocycles.jp.ico",
     "slug": "hetereocycles",
     "status": "down",
-    "uptime": "83.52%",
+    "uptime": "83.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "62.04%",
+    "uptimeYear": "62.03%",
     "time": 2601,
     "timeDay": 907,
     "timeWeek": 1224,
     "timeMonth": 1353,
     "timeYear": 2639,
     "dailyMinutesDown": {
-      "2024-05-15": 1415,
+      "2024-05-16": 22,
+      "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
@@ -1644,7 +1646,7 @@
     "uptime": "95.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "55.61%",
+    "uptimeMonth": "55.71%",
     "uptimeYear": "89.99%",
     "time": 1492,
     "timeDay": 240,
