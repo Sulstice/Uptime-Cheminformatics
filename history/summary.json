@@ -208,18 +208,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
     "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "86.83%",
-    "uptimeWeek": "90.04%",
-    "uptimeMonth": "94.34%",
-    "uptimeYear": "99.53%",
+    "uptime": "99.79%",
+    "uptimeDay": "87.38%",
+    "uptimeWeek": "90.12%",
+    "uptimeMonth": "94.29%",
+    "uptimeYear": "99.52%",
     "time": 1708,
     "timeDay": 613,
     "timeWeek": 742,
     "timeMonth": 1275,
     "timeYear": 1702,
     "dailyMinutesDown": {
-      "2024-05-16": 189,
+      "2024-05-16": 181,
       "2024-05-15": 17,
       "2024-05-14": 111,
       "2024-05-13": 101,
@@ -234,7 +234,7 @@
       "2024-05-04": 172,
       "2024-05-03": 177,
       "2024-05-02": 150,
-      "2024-05-01": 150
+      "2024-05-01": 178
     }
   },
   {
@@ -657,18 +657,19 @@
     "url": "https://tripod.nih.gov/tox21/challenge/data.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/tripod.nih.gov.ico",
     "slug": "tox21",
-    "status": "up",
+    "status": "down",
     "uptime": "97.29%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "98.20%",
     "time": 314,
-    "timeDay": 146,
-    "timeWeek": 297,
-    "timeMonth": 215,
+    "timeDay": 140,
+    "timeWeek": 274,
+    "timeMonth": 212,
     "timeYear": 303,
     "dailyMinutesDown": {
+      "2024-05-17": 5,
       "2024-05-01": 97,
       "2024-04-18": 34,
       "2024-03-25": 1081,
@@ -959,7 +960,7 @@
     "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.44%",
+    "uptimeMonth": "96.51%",
     "uptimeYear": "98.82%",
     "time": 909,
     "timeDay": 373,
@@ -1017,7 +1018,8 @@
     "timeMonth": 2574,
     "timeYear": 3040,
     "dailyMinutesDown": {
-      "2024-05-16": 1422,
+      "2024-05-17": 13,
+      "2024-05-16": 1440,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
@@ -1232,8 +1234,7 @@
       "2023-05-22": 1440,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
-      "2023-05-19": 1440,
-      "2023-05-18": 1440
+      "2023-05-19": 1440
     }
   },
   {
@@ -1312,7 +1313,7 @@
     "uptimeYear": "97.02%",
     "time": 581,
     "timeDay": 619,
-    "timeWeek": 494,
+    "timeWeek": 464,
     "timeMonth": 479,
     "timeYear": 598,
     "dailyMinutesDown": {
@@ -1381,14 +1382,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "61.76%",
+    "uptimeYear": "61.75%",
     "time": 2601,
     "timeDay": 1523,
     "timeWeek": 1274,
     "timeMonth": 1370,
     "timeYear": 2634,
     "dailyMinutesDown": {
-      "2024-05-16": 1422,
+      "2024-05-17": 13,
+      "2024-05-16": 1440,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
@@ -1648,7 +1650,7 @@
     "uptime": "95.57%",
     "uptimeDay": "97.54%",
     "uptimeWeek": "99.65%",
-    "uptimeMonth": "58.83%",
+    "uptimeMonth": "58.90%",
     "uptimeYear": "89.98%",
     "time": 1499,
     "timeDay": 2684,
@@ -1752,8 +1754,7 @@
       "2023-08-02": 181,
       "2023-08-01": 70,
       "2023-07-13": 27,
-      "2023-06-13": 16,
-      "2023-05-18": 25
+      "2023-06-13": 16
     }
   },
   {
