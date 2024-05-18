@@ -207,19 +207,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "89.34%",
-    "uptimeWeek": "90.18%",
-    "uptimeMonth": "94.41%",
-    "uptimeYear": "99.53%",
+    "uptimeDay": "89.13%",
+    "uptimeWeek": "90.15%",
+    "uptimeMonth": "94.53%",
+    "uptimeYear": "99.54%",
     "time": 1701,
     "timeDay": 744,
     "timeWeek": 713,
     "timeMonth": 1182,
     "timeYear": 1692,
     "dailyMinutesDown": {
-      "2024-05-18": 136,
+      "2024-05-18": 139,
       "2024-05-17": 135,
       "2024-05-16": 181,
       "2024-05-15": 17,
@@ -234,7 +234,7 @@
       "2024-05-06": 185,
       "2024-05-05": 140,
       "2024-05-04": 172,
-      "2024-05-03": 177
+      "2024-05-03": 123
     }
   },
   {
@@ -321,17 +321,16 @@
     "slug": "binding-database",
     "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "91.69%",
-    "uptimeMonth": "93.73%",
-    "uptimeYear": "98.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "91.90%",
+    "uptimeMonth": "93.75%",
+    "uptimeYear": "98.77%",
     "time": 4657,
     "timeDay": 3039,
     "timeWeek": 3169,
     "timeMonth": 4234,
     "timeYear": 4842,
     "dailyMinutesDown": {
-      "2024-05-18": 11,
       "2024-05-16": 16,
       "2024-05-15": 16,
       "2024-05-12": 400,
@@ -367,7 +366,8 @@
       "2024-03-22": 25,
       "2024-03-21": 17,
       "2024-03-20": 238,
-      "2024-03-19": 748
+      "2024-03-19": 748,
+      "2024-03-14": 21
     }
   },
   {
@@ -1018,7 +1018,7 @@
     "timeMonth": 2574,
     "timeYear": 3040,
     "dailyMinutesDown": {
-      "2024-05-18": 1047,
+      "2024-05-18": 1058,
       "2024-05-17": 1440,
       "2024-05-16": 1440,
       "2024-05-15": 1440,
@@ -1389,7 +1389,7 @@
     "timeMonth": 1374,
     "timeYear": 2629,
     "dailyMinutesDown": {
-      "2024-05-18": 1047,
+      "2024-05-18": 1058,
       "2024-05-17": 1440,
       "2024-05-16": 1440,
       "2024-05-15": 1440,
@@ -1651,7 +1651,7 @@
     "uptime": "95.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.65%",
-    "uptimeMonth": "64.55%",
+    "uptimeMonth": "64.57%",
     "uptimeYear": "89.98%",
     "time": 1500,
     "timeDay": 524,
