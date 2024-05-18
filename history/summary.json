@@ -320,19 +320,20 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
-    "status": "down",
+    "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "90.03%",
-    "uptimeMonth": "93.67%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "89.99%",
+    "uptimeMonth": "93.66%",
     "uptimeYear": "98.78%",
     "time": 4649,
-    "timeDay": 5306,
-    "timeWeek": 3035,
-    "timeMonth": 4401,
-    "timeYear": 4845,
+    "timeDay": 4749,
+    "timeWeek": 2992,
+    "timeMonth": 4387,
+    "timeYear": 4843,
     "dailyMinutesDown": {
-      "2024-05-17": 4,
+      "2024-05-18": 0,
+      "2024-05-17": 8,
       "2024-05-16": 16,
       "2024-05-15": 16,
       "2024-05-12": 400,
@@ -693,8 +694,7 @@
       "2023-08-24": 62,
       "2023-07-17": 30,
       "2023-06-27": 223,
-      "2023-06-16": 38,
-      "2023-05-19": 31
+      "2023-06-16": 38
     }
   },
   {
@@ -962,7 +962,7 @@
     "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.76%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "98.82%",
     "time": 910,
     "timeDay": 435,
@@ -1020,7 +1020,8 @@
     "timeMonth": 2574,
     "timeYear": 3040,
     "dailyMinutesDown": {
-      "2024-05-17": 1437,
+      "2024-05-18": 7,
+      "2024-05-17": 1440,
       "2024-05-16": 1440,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
@@ -1235,8 +1236,7 @@
       "2023-05-23": 1440,
       "2023-05-22": 1440,
       "2023-05-21": 1440,
-      "2023-05-20": 1440,
-      "2023-05-19": 1440
+      "2023-05-20": 1440
     }
   },
   {
@@ -1391,7 +1391,8 @@
     "timeMonth": 1374,
     "timeYear": 2629,
     "dailyMinutesDown": {
-      "2024-05-17": 1437,
+      "2024-05-18": 7,
+      "2024-05-17": 1440,
       "2024-05-16": 1440,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
@@ -1652,7 +1653,7 @@
     "uptime": "95.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.65%",
-    "uptimeMonth": "62.15%",
+    "uptimeMonth": "62.17%",
     "uptimeYear": "89.98%",
     "time": 1500,
     "timeDay": 524,
