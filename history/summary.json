@@ -75,7 +75,7 @@
     "timeDay": 441,
     "timeWeek": 303,
     "timeMonth": 1413,
-    "timeYear": 1854,
+    "timeYear": 1855,
     "dailyMinutesDown": {
       "2024-05-11": 19,
       "2024-05-07": 21,
@@ -209,9 +209,9 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "90.44%",
-    "uptimeWeek": "90.71%",
-    "uptimeMonth": "94.41%",
+    "uptimeDay": "90.99%",
+    "uptimeWeek": "90.79%",
+    "uptimeMonth": "94.33%",
     "uptimeYear": "99.53%",
     "time": 1702,
     "timeDay": 595,
@@ -219,7 +219,7 @@
     "timeMonth": 1209,
     "timeYear": 1694,
     "dailyMinutesDown": {
-      "2024-05-18": 49,
+      "2024-05-18": 41,
       "2024-05-17": 135,
       "2024-05-16": 181,
       "2024-05-15": 17,
@@ -235,7 +235,7 @@
       "2024-05-05": 140,
       "2024-05-04": 172,
       "2024-05-03": 177,
-      "2024-05-02": 92
+      "2024-05-02": 132
     }
   },
   {
@@ -247,7 +247,7 @@
     "uptime": "99.28%",
     "uptimeDay": "98.81%",
     "uptimeWeek": "99.42%",
-    "uptimeMonth": "89.94%",
+    "uptimeMonth": "89.99%",
     "uptimeYear": "98.34%",
     "time": 2786,
     "timeDay": 669,
@@ -327,9 +327,9 @@
     "uptimeMonth": "93.72%",
     "uptimeYear": "98.77%",
     "time": 4649,
-    "timeDay": 2693,
+    "timeDay": 2946,
     "timeWeek": 2917,
-    "timeMonth": 4344,
+    "timeMonth": 4278,
     "timeYear": 4840,
     "dailyMinutesDown": {
       "2024-05-16": 16,
@@ -1019,7 +1019,7 @@
     "timeMonth": 2574,
     "timeYear": 3040,
     "dailyMinutesDown": {
-      "2024-05-18": 479,
+      "2024-05-18": 500,
       "2024-05-17": 1440,
       "2024-05-16": 1440,
       "2024-05-15": 1440,
@@ -1390,7 +1390,7 @@
     "timeMonth": 1374,
     "timeYear": 2629,
     "dailyMinutesDown": {
-      "2024-05-18": 479,
+      "2024-05-18": 500,
       "2024-05-17": 1440,
       "2024-05-16": 1440,
       "2024-05-15": 1440,
@@ -1542,18 +1542,19 @@
     "url": "https://cactus.nci.nih.gov/chemical/structure",
     "icon": "https://icons.duckduckgo.com/ip3/cactus.nci.nih.gov.ico",
     "slug": "chemical-resolver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "97.31%",
-    "uptimeWeek": "97.52%",
-    "uptimeMonth": "96.52%",
+    "uptimeDay": "97.52%",
+    "uptimeWeek": "97.49%",
+    "uptimeMonth": "96.53%",
     "uptimeYear": "98.37%",
-    "time": 879,
-    "timeDay": 100,
-    "timeWeek": 313,
-    "timeMonth": 437,
+    "time": 878,
+    "timeDay": 104,
+    "timeWeek": 300,
+    "timeMonth": 434,
     "timeYear": 896,
     "dailyMinutesDown": {
+      "2024-05-18": 4,
       "2024-05-17": 39,
       "2024-05-16": 46,
       "2024-05-15": 25,
@@ -1639,8 +1640,7 @@
       "2024-02-21": 45,
       "2024-02-20": 42,
       "2024-02-19": 124,
-      "2024-02-18": 25,
-      "2024-02-17": 25
+      "2024-02-18": 25
     }
   },
   {
@@ -1652,7 +1652,7 @@
     "uptime": "95.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.65%",
-    "uptimeMonth": "63.25%",
+    "uptimeMonth": "63.30%",
     "uptimeYear": "89.98%",
     "time": 1500,
     "timeDay": 524,
