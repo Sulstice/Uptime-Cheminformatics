@@ -957,18 +957,19 @@
     "url": "https://cfpub.epa.gov/ecotox/",
     "icon": "https://icons.duckduckgo.com/ip3/cfpub.epa.gov.ico",
     "slug": "ecology-toxicity",
-    "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "98.82%",
-    "time": 959,
+    "status": "down",
+    "uptime": "99.50%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "98.84%",
+    "time": 954,
     "timeDay": 463,
     "timeWeek": 3692,
     "timeMonth": 1452,
     "timeYear": 1024,
     "dailyMinutesDown": {
+      "2024-05-20": 5,
       "2024-05-18": 22,
       "2024-04-18": 100,
       "2024-04-17": 1440,
@@ -999,7 +1000,7 @@
       "2023-10-21": 16,
       "2023-09-15": 23,
       "2023-07-25": 34,
-      "2023-06-24": 258
+      "2023-06-24": 182
     }
   },
   {
@@ -1019,7 +1020,7 @@
     "timeMonth": 2574,
     "timeYear": 3040,
     "dailyMinutesDown": {
-      "2024-05-20": 904,
+      "2024-05-20": 916,
       "2024-05-19": 1440,
       "2024-05-18": 1440,
       "2024-05-17": 1440,
@@ -1390,7 +1391,7 @@
     "timeMonth": 1377,
     "timeYear": 2620,
     "dailyMinutesDown": {
-      "2024-05-20": 904,
+      "2024-05-20": 916,
       "2024-05-19": 1440,
       "2024-05-18": 1440,
       "2024-05-17": 1440,
@@ -1655,7 +1656,7 @@
     "uptime": "95.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.65%",
-    "uptimeMonth": "70.80%",
+    "uptimeMonth": "70.82%",
     "uptimeYear": "89.98%",
     "time": 1498,
     "timeDay": 672,
