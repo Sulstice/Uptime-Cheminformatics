@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 449,
     "timeMonth": 405,
-    "timeYear": 869,
+    "timeYear": 868,
     "dailyMinutesDown": {
       "2024-05-11": 19,
       "2024-05-07": 21,
@@ -75,7 +75,7 @@
     "timeDay": 0,
     "timeWeek": 372,
     "timeMonth": 1493,
-    "timeYear": 1804,
+    "timeYear": 1801,
     "dailyMinutesDown": {
       "2024-05-11": 19,
       "2024-05-07": 21,
@@ -207,19 +207,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "94.95%",
-    "uptimeWeek": "90.03%",
-    "uptimeMonth": "94.52%",
-    "uptimeYear": "99.54%",
+    "uptimeDay": "94.73%",
+    "uptimeWeek": "90.00%",
+    "uptimeMonth": "94.55%",
+    "uptimeYear": "99.55%",
     "time": 1682,
     "timeDay": 1790,
     "timeWeek": 777,
-    "timeMonth": 1018,
+    "timeMonth": 1013,
     "timeYear": 1679,
     "dailyMinutesDown": {
-      "2024-05-21": 54,
+      "2024-05-21": 57,
       "2024-05-20": 186,
       "2024-05-19": 206,
       "2024-05-18": 207,
@@ -234,7 +234,7 @@
       "2024-05-09": 124,
       "2024-05-08": 192,
       "2024-05-07": 187,
-      "2024-05-06": 114
+      "2024-05-06": 98
     }
   },
   {
@@ -960,18 +960,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cfpub.epa.gov.ico",
     "slug": "ecology-toxicity",
     "status": "up",
-    "uptime": "99.50%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "98.84%",
+    "uptime": "99.49%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "98.82%",
     "time": 908,
     "timeDay": 472,
     "timeWeek": 2696,
     "timeMonth": 1313,
     "timeYear": 1019,
     "dailyMinutesDown": {
-      "2024-05-21": 9,
       "2024-05-18": 22,
       "2024-04-18": 100,
       "2024-04-17": 1440,
@@ -1002,7 +1001,7 @@
       "2023-10-21": 16,
       "2023-09-15": 23,
       "2023-07-25": 34,
-      "2023-06-24": 182
+      "2023-06-24": 258
     }
   },
   {
@@ -1022,7 +1021,7 @@
     "timeMonth": 2574,
     "timeYear": 3040,
     "dailyMinutesDown": {
-      "2024-05-21": 1036,
+      "2024-05-21": 1057,
       "2024-05-20": 1440,
       "2024-05-19": 1440,
       "2024-05-18": 1440,
@@ -1393,7 +1392,7 @@
     "timeMonth": 1377,
     "timeYear": 2620,
     "dailyMinutesDown": {
-      "2024-05-21": 1036,
+      "2024-05-21": 1057,
       "2024-05-20": 1440,
       "2024-05-19": 1440,
       "2024-05-18": 1440,
@@ -1557,7 +1556,7 @@
     "time": 875,
     "timeDay": 229,
     "timeWeek": 232,
-    "timeMonth": 407,
+    "timeMonth": 410,
     "timeYear": 892,
     "dailyMinutesDown": {
       "2024-05-21": 38,
@@ -1659,7 +1658,7 @@
     "uptime": "95.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.65%",
-    "uptimeMonth": "74.38%",
+    "uptimeMonth": "74.43%",
     "uptimeYear": "89.98%",
     "time": 1498,
     "timeDay": 0,
