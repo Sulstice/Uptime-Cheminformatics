@@ -1,7 +1,7 @@
 url: https://cfpub.epa.gov/ecotox/
-status: up
-code: 200
-responseTime: 448
-lastUpdated: 2024-06-06T21:47:25.400Z
+status: down
+code: 503
+responseTime: 2281
+lastUpdated: 2024-06-06T22:05:05.450Z
 startTime: 2022-01-24T23:06:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
