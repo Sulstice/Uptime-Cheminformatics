@@ -219,17 +219,17 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "76.65%",
-    "uptimeWeek": "84.36%",
-    "uptimeMonth": "93.84%",
+    "uptimeDay": "80.70%",
+    "uptimeWeek": "84.44%",
+    "uptimeMonth": "93.82%",
     "uptimeYear": "99.49%",
     "time": 1702,
     "timeDay": 1567,
-    "timeWeek": 1722,
+    "timeWeek": 1703,
     "timeMonth": 1501,
     "timeYear": 1696,
     "dailyMinutesDown": {
-      "2024-06-11": 306,
+      "2024-06-11": 298,
       "2024-06-10": 279,
       "2024-06-09": 193,
       "2024-06-08": 212,
@@ -241,7 +241,8 @@
       "2024-06-02": 109,
       "2024-06-01": 112,
       "2024-05-31": 206,
-      "2024-05-30": 279
+      "2024-05-30": 279,
+      "2024-05-29": 17
     }
   },
   {
@@ -253,7 +254,7 @@
     "uptime": "97.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "48.35%",
+    "uptimeMonth": "48.23%",
     "uptimeYear": "94.05%",
     "time": 2762,
     "timeDay": 0,
@@ -261,7 +262,8 @@
     "timeMonth": 851,
     "timeYear": 2863,
     "dailyMinutesDown": {
-      "2024-06-11": 1411,
+      "2024-06-12": 22,
+      "2024-06-11": 1440,
       "2024-06-10": 1440,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
@@ -348,7 +350,7 @@
     "uptime": "99.65%",
     "uptimeDay": "96.75%",
     "uptimeWeek": "92.13%",
-    "uptimeMonth": "95.13%",
+    "uptimeMonth": "95.24%",
     "uptimeYear": "99.17%",
     "time": 4677,
     "timeDay": 4271,
@@ -421,8 +423,7 @@
       "2023-12-01": 25,
       "2023-11-17": 49,
       "2023-10-17": 29,
-      "2023-06-21": 29,
-      "2023-06-13": 18
+      "2023-06-21": 29
     }
   },
   {
@@ -678,7 +679,7 @@
     "status": "up",
     "uptime": "95.09%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "19.49%",
+    "uptimeWeek": "19.99%",
     "uptimeMonth": "35.05%",
     "uptimeYear": "92.80%",
     "time": 303,
@@ -1050,11 +1051,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heraproject.com.ico",
     "slug": "human-and-environment-risk-assessment",
     "status": "up",
-    "uptime": "22.29%",
-    "uptimeDay": "76.61%",
+    "uptime": "22.30%",
+    "uptimeDay": "80.14%",
     "uptimeWeek": "91.98%",
-    "uptimeMonth": "50.15%",
-    "uptimeYear": "52.81%",
+    "uptimeMonth": "50.27%",
+    "uptimeYear": "52.82%",
     "time": 3144,
     "timeDay": 2888,
     "timeWeek": 5207,
@@ -1269,8 +1270,7 @@
       "2023-06-17": 1440,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
-      "2023-06-14": 1440,
-      "2023-06-13": 1440
+      "2023-06-14": 1440
     }
   },
   {
@@ -1420,14 +1420,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "54.64%",
+    "uptimeYear": "54.63%",
     "time": 2653,
     "timeDay": 1557,
     "timeWeek": 1492,
     "timeMonth": 1315,
     "timeYear": 2502,
     "dailyMinutesDown": {
-      "2024-06-11": 1413,
+      "2024-06-12": 23,
+      "2024-06-11": 1440,
       "2024-06-10": 1440,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
@@ -1613,7 +1614,7 @@
     "timeDay": 504,
     "timeWeek": 280,
     "timeMonth": 256,
-    "timeYear": 733,
+    "timeYear": 726,
     "dailyMinutesDown": {
       "2024-06-11": 38,
       "2024-06-10": 39,
@@ -1816,8 +1817,7 @@
       "2023-11-13": 10,
       "2023-08-02": 181,
       "2023-08-01": 70,
-      "2023-07-13": 27,
-      "2023-06-13": 16
+      "2023-07-13": 27
     }
   },
   {
