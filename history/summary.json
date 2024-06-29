@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "97.62%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "60.16%",
+    "uptimeWeek": "60.25%",
     "uptimeMonth": "83.45%",
     "uptimeYear": "92.92%",
     "time": 884,
@@ -225,19 +225,20 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "87.94%",
-    "uptimeWeek": "86.76%",
-    "uptimeMonth": "94.52%",
-    "uptimeYear": "99.54%",
+    "uptimeDay": "87.75%",
+    "uptimeWeek": "86.74%",
+    "uptimeMonth": "94.56%",
+    "uptimeYear": "99.55%",
     "time": 1731,
     "timeDay": 1709,
     "timeWeek": 2360,
     "timeMonth": 2079,
     "timeYear": 1738,
     "dailyMinutesDown": {
-      "2024-06-28": 173,
+      "2024-06-29": 2,
+      "2024-06-28": 174,
       "2024-06-27": 172,
       "2024-06-26": 126,
       "2024-06-25": 189,
@@ -250,7 +251,7 @@
       "2024-06-18": 203,
       "2024-06-17": 161,
       "2024-06-16": 118,
-      "2024-06-15": 46
+      "2024-06-15": 24
     }
   },
   {
@@ -270,7 +271,8 @@
     "timeMonth": 0,
     "timeYear": 2906,
     "dailyMinutesDown": {
-      "2024-06-28": 1434,
+      "2024-06-29": 3,
+      "2024-06-28": 1440,
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
@@ -370,18 +372,19 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
-    "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "88.57%",
-    "uptimeWeek": "80.43%",
-    "uptimeMonth": "92.79%",
-    "uptimeYear": "99.40%",
-    "time": 5035,
+    "status": "down",
+    "uptime": "99.76%",
+    "uptimeDay": "88.32%",
+    "uptimeWeek": "80.39%",
+    "uptimeMonth": "93.09%",
+    "uptimeYear": "99.42%",
+    "time": 5036,
     "timeDay": 1686,
-    "timeWeek": 6974,
+    "timeWeek": 6845,
     "timeMonth": 7387,
     "timeYear": 5247,
     "dailyMinutesDown": {
+      "2024-06-29": 3,
       "2024-06-28": 165,
       "2024-06-27": 335,
       "2024-06-26": 256,
@@ -391,7 +394,7 @@
       "2024-06-22": 116,
       "2024-06-21": 352,
       "2024-06-20": 292,
-      "2024-06-19": 542
+      "2024-06-19": 406
     }
   },
   {
@@ -681,7 +684,7 @@
     "uptime": "95.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "58.52%",
+    "uptimeMonth": "58.54%",
     "uptimeYear": "92.85%",
     "time": 299,
     "timeDay": 96,
@@ -910,8 +913,7 @@
       "2023-09-13": 1028,
       "2023-08-08": 22,
       "2023-08-02": 85,
-      "2023-07-04": 23,
-      "2023-06-30": 48
+      "2023-07-04": 23
     }
   },
   {
@@ -921,17 +923,18 @@
     "slug": "adverse-drug-reaction-classification-system",
     "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "98.44%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "96.49%",
-    "uptimeYear": "98.54%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "96.47%",
+    "uptimeYear": "98.53%",
     "time": 2996,
     "timeDay": 1589,
     "timeWeek": 1819,
     "timeMonth": 2877,
     "timeYear": 3188,
     "dailyMinutesDown": {
-      "2024-06-28": 22,
+      "2024-06-29": 4,
+      "2024-06-28": 27,
       "2024-06-27": 15,
       "2024-06-26": 22,
       "2024-06-22": 15,
@@ -1067,7 +1070,7 @@
     "uptime": "23.75%",
     "uptimeDay": "92.90%",
     "uptimeWeek": "98.99%",
-    "uptimeMonth": "94.65%",
+    "uptimeMonth": "94.67%",
     "uptimeYear": "57.37%",
     "time": 3094,
     "timeDay": 2164,
@@ -1269,8 +1272,7 @@
       "2023-07-04": 1440,
       "2023-07-03": 1440,
       "2023-07-02": 1440,
-      "2023-07-01": 1440,
-      "2023-06-30": 1440
+      "2023-07-01": 1440
     }
   },
   {
@@ -1377,8 +1379,7 @@
       "2023-11-14": 17,
       "2023-11-03": 326,
       "2023-11-02": 766,
-      "2023-11-01": 52,
-      "2023-06-30": 415
+      "2023-11-01": 52
     }
   },
   {
@@ -1412,14 +1413,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "49.98%",
+    "uptimeYear": "49.97%",
     "time": 2583,
     "timeDay": 1618,
     "timeWeek": 1268,
     "timeMonth": 1378,
     "timeYear": 2404,
     "dailyMinutesDown": {
-      "2024-06-28": 1436,
+      "2024-06-29": 5,
+      "2024-06-28": 1440,
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
@@ -1614,8 +1616,8 @@
     "slug": "chemical-resolver",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "69.87%",
-    "uptimeWeek": "65.64%",
+    "uptimeDay": "70.48%",
+    "uptimeWeek": "65.73%",
     "uptimeMonth": "86.65%",
     "uptimeYear": "98.30%",
     "time": 934,
@@ -1795,8 +1797,7 @@
       "2023-07-27": 226,
       "2023-07-26": 125,
       "2023-07-12": 29,
-      "2023-07-11": 28,
-      "2023-06-30": 21
+      "2023-07-11": 28
     }
   },
   {
