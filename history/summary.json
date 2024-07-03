@@ -228,9 +228,9 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "84.83%",
-    "uptimeWeek": "86.52%",
-    "uptimeMonth": "94.42%",
+    "uptimeDay": "85.47%",
+    "uptimeWeek": "86.61%",
+    "uptimeMonth": "94.40%",
     "uptimeYear": "99.53%",
     "time": 1738,
     "timeDay": 564,
@@ -238,7 +238,7 @@
     "timeMonth": 1797,
     "timeYear": 1742,
     "dailyMinutesDown": {
-      "2024-07-03": 51,
+      "2024-07-03": 42,
       "2024-07-02": 227,
       "2024-07-01": 184,
       "2024-06-30": 286,
@@ -251,7 +251,7 @@
       "2024-06-23": 269,
       "2024-06-22": 224,
       "2024-06-21": 113,
-      "2024-06-20": 64
+      "2024-06-20": 80
     }
   },
   {
@@ -271,7 +271,7 @@
     "timeMonth": 0,
     "timeYear": 2915,
     "dailyMinutesDown": {
-      "2024-07-03": 462,
+      "2024-07-03": 471,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
@@ -376,19 +376,19 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "94.68%",
-    "uptimeWeek": "85.49%",
-    "uptimeMonth": "93.03%",
+    "uptimeDay": "94.50%",
+    "uptimeWeek": "85.46%",
+    "uptimeMonth": "93.08%",
     "uptimeYear": "99.42%",
-    "time": 5168,
+    "time": 5169,
     "timeDay": 7479,
     "timeWeek": 7236,
     "timeMonth": 8145,
     "timeYear": 5357,
     "dailyMinutesDown": {
-      "2024-07-03": 18,
+      "2024-07-03": 21,
       "2024-07-02": 195,
       "2024-07-01": 324,
       "2024-06-30": 196,
@@ -400,7 +400,7 @@
       "2024-06-24": 527,
       "2024-06-23": 164,
       "2024-06-22": 116,
-      "2024-06-21": 281
+      "2024-06-21": 260
     }
   },
   {
@@ -690,7 +690,7 @@
     "uptime": "95.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "76.02%",
+    "uptimeMonth": "76.04%",
     "uptimeYear": "92.85%",
     "time": 299,
     "timeDay": 106,
@@ -927,7 +927,7 @@
     "slug": "adverse-drug-reaction-classification-system",
     "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "82.22%",
+    "uptimeDay": "82.84%",
     "uptimeWeek": "94.16%",
     "uptimeMonth": "95.85%",
     "uptimeYear": "98.47%",
@@ -1019,8 +1019,8 @@
     "status": "down",
     "uptime": "99.15%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "52.84%",
-    "uptimeMonth": "88.62%",
+    "uptimeWeek": "52.75%",
+    "uptimeMonth": "88.60%",
     "uptimeYear": "97.94%",
     "time": 935,
     "timeDay": 0,
@@ -1028,7 +1028,7 @@
     "timeMonth": 911,
     "timeYear": 1044,
     "dailyMinutesDown": {
-      "2024-07-03": 463,
+      "2024-07-03": 472,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
       "2024-06-30": 1410,
@@ -1423,7 +1423,7 @@
     "timeMonth": 1430,
     "timeYear": 2394,
     "dailyMinutesDown": {
-      "2024-07-03": 464,
+      "2024-07-03": 472,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
