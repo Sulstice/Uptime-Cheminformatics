@@ -89,7 +89,7 @@
     "timeDay": 8254,
     "timeWeek": 11509,
     "timeMonth": 9270,
-    "timeYear": 2259,
+    "timeYear": 2260,
     "dailyMinutesDown": {
       "2024-07-01": 16,
       "2024-06-24": 18,
@@ -228,9 +228,9 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "90.35%",
-    "uptimeWeek": "86.32%",
-    "uptimeMonth": "94.41%",
+    "uptimeDay": "90.92%",
+    "uptimeWeek": "86.40%",
+    "uptimeMonth": "94.39%",
     "uptimeYear": "99.53%",
     "time": 1738,
     "timeDay": 596,
@@ -238,7 +238,7 @@
     "timeMonth": 1783,
     "timeYear": 1742,
     "dailyMinutesDown": {
-      "2024-07-03": 71,
+      "2024-07-03": 63,
       "2024-07-02": 227,
       "2024-07-01": 184,
       "2024-06-30": 286,
@@ -251,7 +251,7 @@
       "2024-06-23": 269,
       "2024-06-22": 224,
       "2024-06-21": 113,
-      "2024-06-20": 48
+      "2024-06-20": 64
     }
   },
   {
@@ -271,7 +271,7 @@
     "timeMonth": 0,
     "timeYear": 2915,
     "dailyMinutesDown": {
-      "2024-07-03": 905,
+      "2024-07-03": 916,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
@@ -376,19 +376,19 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
-    "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "94.07%",
-    "uptimeWeek": "85.58%",
-    "uptimeMonth": "93.03%",
-    "uptimeYear": "99.42%",
-    "time": 5199,
+    "status": "down",
+    "uptime": "99.77%",
+    "uptimeDay": "93.90%",
+    "uptimeWeek": "85.59%",
+    "uptimeMonth": "93.22%",
+    "uptimeYear": "99.43%",
+    "time": 5201,
     "timeDay": 11094,
     "timeWeek": 7709,
     "timeMonth": 8195,
     "timeYear": 5380,
     "dailyMinutesDown": {
-      "2024-07-03": 42,
+      "2024-07-03": 44,
       "2024-07-02": 195,
       "2024-07-01": 324,
       "2024-06-30": 196,
@@ -400,7 +400,7 @@
       "2024-06-24": 527,
       "2024-06-23": 164,
       "2024-06-22": 116,
-      "2024-06-21": 260
+      "2024-06-21": 174
     }
   },
   {
@@ -690,7 +690,7 @@
     "uptime": "95.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "77.03%",
+    "uptimeMonth": "77.06%",
     "uptimeYear": "92.85%",
     "time": 299,
     "timeDay": 106,
@@ -1019,8 +1019,8 @@
     "status": "down",
     "uptime": "99.12%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "48.45%",
-    "uptimeMonth": "87.61%",
+    "uptimeWeek": "48.34%",
+    "uptimeMonth": "87.58%",
     "uptimeYear": "97.85%",
     "time": 935,
     "timeDay": 0,
@@ -1028,7 +1028,7 @@
     "timeMonth": 911,
     "timeYear": 1044,
     "dailyMinutesDown": {
-      "2024-07-03": 906,
+      "2024-07-03": 917,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
       "2024-06-30": 1410,
@@ -1412,7 +1412,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heterocycles.jp.ico",
     "slug": "hetereocycles",
     "status": "down",
-    "uptime": "78.96%",
+    "uptime": "78.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1423,7 +1423,7 @@
     "timeMonth": 1430,
     "timeYear": 2394,
     "dailyMinutesDown": {
-      "2024-07-03": 906,
+      "2024-07-03": 917,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
