@@ -12,7 +12,7 @@
     "uptimeYear": "92.92%",
     "time": 940,
     "timeDay": 546,
-    "timeWeek": 1319,
+    "timeWeek": 861,
     "timeMonth": 1810,
     "timeYear": 972,
     "dailyMinutesDown": {
@@ -233,7 +233,7 @@
     "uptimeWeek": "83.69%",
     "uptimeMonth": "93.21%",
     "uptimeYear": "99.43%",
-    "time": 1725,
+    "time": 1723,
     "timeDay": 1152,
     "timeWeek": 1091,
     "timeMonth": 1593,
@@ -273,7 +273,7 @@
     "timeMonth": 0,
     "timeYear": 2885,
     "dailyMinutesDown": {
-      "2024-07-10": 1059,
+      "2024-07-10": 1067,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
@@ -385,19 +385,19 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "49.50%",
-    "uptimeWeek": "66.56%",
-    "uptimeMonth": "91.72%",
-    "uptimeYear": "99.31%",
-    "time": 5587,
+    "uptimeDay": "49.30%",
+    "uptimeWeek": "66.54%",
+    "uptimeMonth": "91.85%",
+    "uptimeYear": "99.32%",
+    "time": 5588,
     "timeDay": 9478,
-    "timeWeek": 11819,
+    "timeWeek": 11880,
     "timeMonth": 9283,
     "timeYear": 5731,
     "dailyMinutesDown": {
-      "2024-07-10": 666,
+      "2024-07-10": 669,
       "2024-07-09": 274,
       "2024-07-08": 413,
       "2024-07-07": 442,
@@ -405,8 +405,7 @@
       "2024-07-05": 522,
       "2024-07-04": 382,
       "2024-07-03": 104,
-      "2024-07-02": 195,
-      "2024-07-01": 21
+      "2024-07-02": 155
     }
   },
   {
@@ -1029,7 +1028,7 @@
     "uptime": "98.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "64.51%",
+    "uptimeMonth": "64.49%",
     "uptimeYear": "95.91%",
     "time": 937,
     "timeDay": 0,
@@ -1037,7 +1036,7 @@
     "timeMonth": 904,
     "timeYear": 1051,
     "dailyMinutesDown": {
-      "2024-07-10": 1060,
+      "2024-07-10": 1068,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
@@ -1335,9 +1334,9 @@
     "slug": "national-pesticide-center",
     "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "95.69%",
-    "uptimeWeek": "99.38%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "95.15%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.97%",
     "time": 372,
     "timeDay": 555,
@@ -1345,7 +1344,7 @@
     "timeMonth": 403,
     "timeYear": 373,
     "dailyMinutesDown": {
-      "2024-07-10": 62,
+      "2024-07-10": 70,
       "2023-09-01": 79,
       "2023-08-31": 11
     }
@@ -1433,7 +1432,7 @@
     "timeMonth": 1418,
     "timeYear": 2356,
     "dailyMinutesDown": {
-      "2024-07-10": 1061,
+      "2024-07-10": 1069,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
