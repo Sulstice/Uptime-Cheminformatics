@@ -229,17 +229,17 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "94.91%",
-    "uptimeWeek": "83.62%",
-    "uptimeMonth": "93.24%",
-    "uptimeYear": "99.44%",
+    "uptimeDay": "95.45%",
+    "uptimeWeek": "83.69%",
+    "uptimeMonth": "93.21%",
+    "uptimeYear": "99.43%",
     "time": 1724,
     "timeDay": 1137,
     "timeWeek": 1075,
     "timeMonth": 1584,
     "timeYear": 1721,
     "dailyMinutesDown": {
-      "2024-07-10": 73,
+      "2024-07-10": 65,
       "2024-07-09": 103,
       "2024-07-08": 368,
       "2024-07-07": 483,
@@ -253,7 +253,7 @@
       "2024-06-29": 185,
       "2024-06-28": 174,
       "2024-06-27": 172,
-      "2024-06-26": 16
+      "2024-06-26": 39
     }
   },
   {
@@ -273,7 +273,7 @@
     "timeMonth": 0,
     "timeYear": 2885,
     "dailyMinutesDown": {
-      "2024-07-10": 1316,
+      "2024-07-10": 1325,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
@@ -385,19 +385,19 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "47.58%",
-    "uptimeWeek": "65.74%",
-    "uptimeMonth": "91.89%",
-    "uptimeYear": "99.32%",
-    "time": 5465,
+    "uptimeDay": "47.39%",
+    "uptimeWeek": "65.71%",
+    "uptimeMonth": "91.92%",
+    "uptimeYear": "99.33%",
+    "time": 5466,
     "timeDay": 8368,
     "timeWeek": 11330,
     "timeMonth": 9221,
     "timeYear": 5725,
     "dailyMinutesDown": {
-      "2024-07-10": 749,
+      "2024-07-10": 752,
       "2024-07-09": 274,
       "2024-07-08": 413,
       "2024-07-07": 442,
@@ -405,7 +405,7 @@
       "2024-07-05": 522,
       "2024-07-04": 382,
       "2024-07-03": 104,
-      "2024-07-02": 58
+      "2024-07-02": 43
     }
   },
   {
@@ -1028,7 +1028,7 @@
     "uptime": "98.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "63.93%",
+    "uptimeMonth": "63.91%",
     "uptimeYear": "95.86%",
     "time": 937,
     "timeDay": 0,
@@ -1036,7 +1036,7 @@
     "timeMonth": 904,
     "timeYear": 1051,
     "dailyMinutesDown": {
-      "2024-07-10": 1317,
+      "2024-07-10": 1326,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
@@ -1092,7 +1092,7 @@
     "uptime": "24.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.86%",
+    "uptimeMonth": "97.88%",
     "uptimeYear": "60.64%",
     "time": 3072,
     "timeDay": 2591,
@@ -1334,9 +1334,9 @@
     "slug": "national-pesticide-center",
     "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "77.86%",
-    "uptimeWeek": "96.84%",
-    "uptimeMonth": "99.27%",
+    "uptimeDay": "77.27%",
+    "uptimeWeek": "96.75%",
+    "uptimeMonth": "99.25%",
     "uptimeYear": "99.92%",
     "time": 372,
     "timeDay": 555,
@@ -1344,7 +1344,7 @@
     "timeMonth": 403,
     "timeYear": 373,
     "dailyMinutesDown": {
-      "2024-07-10": 319,
+      "2024-07-10": 327,
       "2023-09-01": 79,
       "2023-08-31": 11
     }
@@ -1432,7 +1432,7 @@
     "timeMonth": 1418,
     "timeYear": 2356,
     "dailyMinutesDown": {
-      "2024-07-10": 1318,
+      "2024-07-10": 1326,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
@@ -1639,7 +1639,7 @@
     "slug": "chemical-resolver",
     "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "18.12%",
+    "uptimeDay": "18.70%",
     "uptimeWeek": "80.80%",
     "uptimeMonth": "83.30%",
     "uptimeYear": "97.99%",
