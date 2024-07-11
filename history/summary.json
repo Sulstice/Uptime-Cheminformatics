@@ -231,9 +231,9 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "89.21%",
-    "uptimeWeek": "83.79%",
-    "uptimeMonth": "93.27%",
+    "uptimeDay": "89.77%",
+    "uptimeWeek": "83.87%",
+    "uptimeMonth": "93.25%",
     "uptimeYear": "99.44%",
     "time": 1724,
     "timeDay": 1941,
@@ -241,7 +241,7 @@
     "timeMonth": 1594,
     "timeYear": 1721,
     "dailyMinutesDown": {
-      "2024-07-11": 155,
+      "2024-07-11": 147,
       "2024-07-10": 65,
       "2024-07-09": 103,
       "2024-07-08": 368,
@@ -255,7 +255,7 @@
       "2024-06-30": 286,
       "2024-06-29": 185,
       "2024-06-28": 174,
-      "2024-06-27": 29
+      "2024-06-27": 46
     }
   },
   {
@@ -275,7 +275,7 @@
     "timeMonth": 0,
     "timeYear": 2891,
     "dailyMinutesDown": {
-      "2024-07-11": 1425,
+      "2024-07-11": 1434,
       "2024-07-10": 1440,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
@@ -388,26 +388,26 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "82.99%",
-    "uptimeWeek": "67.21%",
-    "uptimeMonth": "91.82%",
+    "uptimeDay": "82.84%",
+    "uptimeWeek": "67.22%",
+    "uptimeMonth": "91.86%",
     "uptimeYear": "99.32%",
     "time": 5543,
-    "timeDay": 5328,
-    "timeWeek": 10249,
-    "timeMonth": 9066,
-    "timeYear": 5728,
+    "timeDay": 5148,
+    "timeWeek": 10134,
+    "timeMonth": 9053,
+    "timeYear": 5726,
     "dailyMinutesDown": {
-      "2024-07-11": 242,
+      "2024-07-11": 244,
       "2024-07-10": 798,
       "2024-07-09": 274,
       "2024-07-08": 413,
       "2024-07-07": 442,
       "2024-07-06": 606,
       "2024-07-05": 522,
-      "2024-07-04": 286
+      "2024-07-04": 264
     }
   },
   {
@@ -1031,7 +1031,7 @@
     "uptime": "98.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "60.39%",
+    "uptimeMonth": "60.37%",
     "uptimeYear": "95.56%",
     "time": 939,
     "timeDay": 0,
@@ -1039,7 +1039,7 @@
     "timeMonth": 964,
     "timeYear": 1054,
     "dailyMinutesDown": {
-      "2024-07-11": 1426,
+      "2024-07-11": 1435,
       "2024-07-10": 1440,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
@@ -1337,7 +1337,7 @@
     "slug": "national-pesticide-center",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "91.63%",
+    "uptimeDay": "92.22%",
     "uptimeWeek": "94.56%",
     "uptimeMonth": "98.75%",
     "uptimeYear": "99.88%",
@@ -1436,7 +1436,7 @@
     "timeMonth": 1420,
     "timeYear": 2345,
     "dailyMinutesDown": {
-      "2024-07-11": 1426,
+      "2024-07-11": 1435,
       "2024-07-10": 1440,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
