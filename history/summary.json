@@ -233,9 +233,9 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "85.17%",
-    "uptimeWeek": "89.86%",
-    "uptimeMonth": "93.31%",
+    "uptimeDay": "85.71%",
+    "uptimeWeek": "89.94%",
+    "uptimeMonth": "93.29%",
     "uptimeYear": "99.44%",
     "time": 1721,
     "timeDay": 2144,
@@ -243,7 +243,7 @@
     "timeMonth": 1537,
     "timeYear": 1724,
     "dailyMinutesDown": {
-      "2024-07-15": 55,
+      "2024-07-15": 47,
       "2024-07-14": 229,
       "2024-07-13": 208,
       "2024-07-12": 173,
@@ -257,7 +257,8 @@
       "2024-07-04": 162,
       "2024-07-03": 66,
       "2024-07-02": 227,
-      "2024-07-01": 184
+      "2024-07-01": 184,
+      "2024-06-30": 18
     }
   },
   {
@@ -277,7 +278,7 @@
     "timeMonth": 0,
     "timeYear": 2897,
     "dailyMinutesDown": {
-      "2024-07-15": 706,
+      "2024-07-15": 716,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
       "2024-07-12": 1440,
@@ -394,19 +395,19 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "87.72%",
-    "uptimeWeek": "77.44%",
-    "uptimeMonth": "91.92%",
+    "uptimeDay": "87.52%",
+    "uptimeWeek": "77.41%",
+    "uptimeMonth": "91.97%",
     "uptimeYear": "99.33%",
-    "time": 5669,
-    "timeDay": 11564,
+    "time": 5670,
+    "timeDay": 11466,
     "timeWeek": 9058,
     "timeMonth": 9307,
     "timeYear": 5819,
     "dailyMinutesDown": {
-      "2024-07-15": 144,
+      "2024-07-15": 147,
       "2024-07-14": 160,
       "2024-07-13": 266,
       "2024-07-12": 235,
@@ -415,7 +416,7 @@
       "2024-07-09": 274,
       "2024-07-08": 413,
       "2024-07-07": 442,
-      "2024-07-06": 562
+      "2024-07-06": 537
     }
   },
   {
@@ -1040,7 +1041,7 @@
     "uptime": "97.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "48.88%",
+    "uptimeMonth": "48.86%",
     "uptimeYear": "94.60%",
     "time": 941,
     "timeDay": 0,
@@ -1048,7 +1049,7 @@
     "timeMonth": 1165,
     "timeYear": 1058,
     "dailyMinutesDown": {
-      "2024-07-15": 707,
+      "2024-07-15": 717,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
       "2024-07-12": 1440,
@@ -1445,7 +1446,7 @@
     "timeMonth": 1420,
     "timeYear": 2330,
     "dailyMinutesDown": {
-      "2024-07-15": 707,
+      "2024-07-15": 718,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
       "2024-07-12": 1440,
