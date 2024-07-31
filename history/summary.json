@@ -230,11 +230,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "72.32%",
-    "uptimeWeek": "78.34%",
-    "uptimeMonth": "93.14%",
+    "uptimeDay": "73.11%",
+    "uptimeWeek": "78.33%",
+    "uptimeMonth": "93.18%",
     "uptimeYear": "99.43%",
     "time": 1716,
     "timeDay": 929,
@@ -242,7 +242,7 @@
     "timeMonth": 1654,
     "timeYear": 1711,
     "dailyMinutesDown": {
-      "2024-07-31": 167,
+      "2024-07-31": 168,
       "2024-07-30": 357,
       "2024-07-29": 284,
       "2024-07-28": 241,
@@ -254,7 +254,7 @@
       "2024-07-22": 109,
       "2024-07-21": 145,
       "2024-07-20": 228,
-      "2024-07-19": 54
+      "2024-07-19": 36
     }
   },
   {
@@ -274,7 +274,7 @@
     "timeMonth": 0,
     "timeYear": 2954,
     "dailyMinutesDown": {
-      "2024-07-31": 268,
+      "2024-07-31": 280,
       "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
@@ -449,8 +449,8 @@
     "status": "down",
     "uptime": "92.31%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "25.61%",
-    "uptimeMonth": "82.88%",
+    "uptimeWeek": "25.49%",
+    "uptimeMonth": "82.85%",
     "uptimeYear": "97.22%",
     "time": 2046,
     "timeDay": 0,
@@ -458,7 +458,7 @@
     "timeMonth": 886,
     "timeYear": 1944,
     "dailyMinutesDown": {
-      "2024-07-31": 268,
+      "2024-07-31": 280,
       "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
@@ -971,7 +971,7 @@
     "slug": "adverse-drug-reaction-classification-system",
     "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "83.48%",
+    "uptimeDay": "84.33%",
     "uptimeWeek": "42.69%",
     "uptimeMonth": "84.78%",
     "uptimeYear": "97.95%",
@@ -1074,7 +1074,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cfpub.epa.gov.ico",
     "slug": "ecology-toxicity",
     "status": "down",
-    "uptime": "96.15%",
+    "uptime": "96.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1085,7 +1085,7 @@
     "timeMonth": 0,
     "timeYear": 1068,
     "dailyMinutesDown": {
-      "2024-07-31": 269,
+      "2024-07-31": 281,
       "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
@@ -1482,7 +1482,7 @@
     "timeMonth": 1548,
     "timeYear": 2254,
     "dailyMinutesDown": {
-      "2024-07-31": 269,
+      "2024-07-31": 281,
       "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
