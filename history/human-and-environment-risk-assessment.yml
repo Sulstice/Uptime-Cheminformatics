@@ -1,7 +1,7 @@
 url: https://www.heraproject.com/RiskAssessment.cfm
-status: up
-code: 200
-responseTime: 2315
-lastUpdated: 2024-07-31T23:19:30.415Z
+status: down
+code: 500
+responseTime: 2231
+lastUpdated: 2024-08-01T05:00:29.230Z
 startTime: 2022-01-24T23:06:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
