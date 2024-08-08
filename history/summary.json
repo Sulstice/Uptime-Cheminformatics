@@ -91,7 +91,7 @@
     "time": 2604,
     "timeDay": 194,
     "timeWeek": 343,
-    "timeMonth": 3454,
+    "timeMonth": 3366,
     "timeYear": 2787,
     "dailyMinutesDown": {
       "2024-08-03": 35,
@@ -234,9 +234,9 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "90.26%",
-    "uptimeWeek": "82.42%",
-    "uptimeMonth": "92.42%",
+    "uptimeDay": "90.81%",
+    "uptimeWeek": "82.50%",
+    "uptimeMonth": "92.40%",
     "uptimeYear": "99.37%",
     "time": 1702,
     "timeDay": 990,
@@ -244,8 +244,7 @@
     "timeMonth": 1715,
     "timeYear": 1705,
     "dailyMinutesDown": {
-      "2024-08-08": 0,
-      "2024-08-07": 140,
+      "2024-08-07": 132,
       "2024-08-06": 292,
       "2024-08-05": 269,
       "2024-08-04": 415,
@@ -257,7 +256,7 @@
       "2024-07-29": 284,
       "2024-07-28": 241,
       "2024-07-27": 272,
-      "2024-07-26": 35
+      "2024-07-26": 54
     }
   },
   {
@@ -277,7 +276,7 @@
     "timeMonth": 0,
     "timeYear": 2974,
     "dailyMinutesDown": {
-      "2024-08-08": 2,
+      "2024-08-08": 22,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
       "2024-08-05": 1440,
@@ -463,7 +462,7 @@
     "uptime": "91.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "57.19%",
+    "uptimeMonth": "57.14%",
     "uptimeYear": "95.08%",
     "time": 2002,
     "timeDay": 0,
@@ -471,7 +470,7 @@
     "timeMonth": 904,
     "timeYear": 1945,
     "dailyMinutesDown": {
-      "2024-08-08": 3,
+      "2024-08-08": 23,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
       "2024-08-05": 1440,
@@ -531,7 +530,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chemspider.com.ico",
     "slug": "chem-spider",
     "status": "up",
-    "uptime": "97.94%",
+    "uptime": "97.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1106,7 +1105,7 @@
     "timeMonth": 0,
     "timeYear": 1077,
     "dailyMinutesDown": {
-      "2024-08-08": 3,
+      "2024-08-08": 23,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
       "2024-08-05": 1440,
@@ -1497,14 +1496,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "39.02%",
+    "uptimeYear": "39.01%",
     "time": 2455,
     "timeDay": 1317,
     "timeWeek": 1381,
     "timeMonth": 1531,
     "timeYear": 2215,
     "dailyMinutesDown": {
-      "2024-08-08": 4,
+      "2024-08-08": 24,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
       "2024-08-05": 1440,
