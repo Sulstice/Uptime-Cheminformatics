@@ -85,7 +85,7 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "98.71%",
-    "uptimeDay": "47.49%",
+    "uptimeDay": "48.11%",
     "uptimeWeek": "91.09%",
     "uptimeMonth": "95.38%",
     "uptimeYear": "96.00%",
@@ -232,19 +232,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "79.91%",
-    "uptimeWeek": "83.24%",
-    "uptimeMonth": "92.71%",
-    "uptimeYear": "99.39%",
+    "uptimeDay": "79.84%",
+    "uptimeWeek": "83.23%",
+    "uptimeMonth": "92.76%",
+    "uptimeYear": "99.40%",
     "time": 1700,
     "timeDay": 881,
     "timeWeek": 955,
     "timeMonth": 1707,
     "timeYear": 1704,
     "dailyMinutesDown": {
-      "2024-08-09": 241,
+      "2024-08-09": 242,
       "2024-08-08": 126,
       "2024-08-07": 132,
       "2024-08-06": 292,
@@ -256,7 +256,7 @@
       "2024-07-31": 354,
       "2024-07-30": 357,
       "2024-07-29": 284,
-      "2024-07-28": 62
+      "2024-07-28": 38
     }
   },
   {
@@ -276,7 +276,7 @@
     "timeMonth": 0,
     "timeYear": 2976,
     "dailyMinutesDown": {
-      "2024-08-09": 1053,
+      "2024-08-09": 1062,
       "2024-08-08": 1440,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
@@ -465,7 +465,7 @@
     "uptime": "91.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "51.50%",
+    "uptimeMonth": "51.48%",
     "uptimeYear": "94.61%",
     "time": 2002,
     "timeDay": 0,
@@ -473,7 +473,7 @@
     "timeMonth": 901,
     "timeYear": 1933,
     "dailyMinutesDown": {
-      "2024-08-09": 1053,
+      "2024-08-09": 1063,
       "2024-08-08": 1440,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
@@ -1108,7 +1108,7 @@
     "timeMonth": 0,
     "timeYear": 1078,
     "dailyMinutesDown": {
-      "2024-08-09": 1054,
+      "2024-08-09": 1064,
       "2024-08-08": 1440,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
@@ -1506,7 +1506,7 @@
     "timeMonth": 1525,
     "timeYear": 2209,
     "dailyMinutesDown": {
-      "2024-08-09": 1054,
+      "2024-08-09": 1064,
       "2024-08-08": 1440,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
