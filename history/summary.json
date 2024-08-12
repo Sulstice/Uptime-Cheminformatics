@@ -83,19 +83,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.05%",
-    "uptimeDay": "54.00%",
-    "uptimeWeek": "72.77%",
+    "uptimeDay": "54.53%",
+    "uptimeWeek": "72.76%",
     "uptimeMonth": "93.41%",
-    "uptimeYear": "97.04%",
-    "time": 3788,
+    "uptimeYear": "97.05%",
+    "time": 3791,
     "timeDay": 21744,
     "timeWeek": 16751,
     "timeMonth": 12569,
-    "timeYear": 3934,
+    "timeYear": 3937,
     "dailyMinutesDown": {
-      "2024-08-12": 116,
+      "2024-08-12": 117,
       "2024-08-11": 712,
       "2024-08-10": 847,
       "2024-08-09": 944,
@@ -132,7 +132,7 @@
       "2024-01-25": 114,
       "2024-01-24": 30,
       "2024-01-19": 16,
-      "2024-01-05": 82
+      "2024-01-05": 47
     }
   },
   {
@@ -266,7 +266,7 @@
     "timeMonth": 0,
     "timeYear": 2984,
     "dailyMinutesDown": {
-      "2024-08-12": 456,
+      "2024-08-12": 464,
       "2024-08-11": 1440,
       "2024-08-10": 1440,
       "2024-08-09": 1440,
@@ -411,10 +411,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
     "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "93.53%",
-    "uptimeWeek": "93.95%",
-    "uptimeMonth": "93.13%",
+    "uptime": "99.77%",
+    "uptimeDay": "94.05%",
+    "uptimeWeek": "94.02%",
+    "uptimeMonth": "93.11%",
     "uptimeYear": "99.43%",
     "time": 5962,
     "timeDay": 12983,
@@ -422,7 +422,7 @@
     "timeMonth": 9050,
     "timeYear": 6145,
     "dailyMinutesDown": {
-      "2024-08-12": 94,
+      "2024-08-12": 86,
       "2024-08-11": 90,
       "2024-08-09": 15,
       "2024-08-08": 79,
@@ -447,7 +447,7 @@
       "2024-07-19": 65,
       "2024-07-18": 57,
       "2024-07-17": 90,
-      "2024-07-16": 103
+      "2024-07-16": 120
     }
   },
   {
@@ -459,7 +459,7 @@
     "uptime": "91.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "43.01%",
+    "uptimeMonth": "42.99%",
     "uptimeYear": "93.90%",
     "time": 2003,
     "timeDay": 0,
@@ -467,7 +467,7 @@
     "timeMonth": 880,
     "timeYear": 1933,
     "dailyMinutesDown": {
-      "2024-08-12": 456,
+      "2024-08-12": 465,
       "2024-08-11": 1440,
       "2024-08-10": 1440,
       "2024-08-09": 1440,
@@ -1101,7 +1101,7 @@
     "timeMonth": 0,
     "timeYear": 1081,
     "dailyMinutesDown": {
-      "2024-08-12": 457,
+      "2024-08-12": 465,
       "2024-08-11": 1440,
       "2024-08-10": 1440,
       "2024-08-09": 1440,
@@ -1499,7 +1499,7 @@
     "timeMonth": 1484,
     "timeYear": 2197,
     "dailyMinutesDown": {
-      "2024-08-12": 457,
+      "2024-08-12": 466,
       "2024-08-11": 1440,
       "2024-08-10": 1440,
       "2024-08-09": 1440,
@@ -1849,7 +1849,7 @@
     "slug": "look-chem",
     "status": "up",
     "uptime": "95.96%",
-    "uptimeDay": "98.70%",
+    "uptimeDay": "99.30%",
     "uptimeWeek": "96.55%",
     "uptimeMonth": "97.53%",
     "uptimeYear": "90.00%",
