@@ -6,9 +6,9 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "97.72%",
-    "uptimeDay": "71.85%",
-    "uptimeWeek": "95.54%",
-    "uptimeMonth": "98.27%",
+    "uptimeDay": "72.44%",
+    "uptimeWeek": "95.63%",
+    "uptimeMonth": "98.28%",
     "uptimeYear": "92.90%",
     "time": 1490,
     "timeDay": 2199,
@@ -16,7 +16,7 @@
     "timeMonth": 3277,
     "timeYear": 1423,
     "dailyMinutesDown": {
-      "2024-08-19": 325,
+      "2024-08-19": 317,
       "2024-08-18": 126,
       "2024-08-10": 24,
       "2024-08-09": 206,
@@ -73,7 +73,7 @@
       "2023-09-10": 103,
       "2023-09-09": 264,
       "2023-09-08": 244,
-      "2023-09-07": 35
+      "2023-09-07": 51
     }
   },
   {
@@ -192,19 +192,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "88.43%",
-    "uptimeWeek": "86.35%",
-    "uptimeMonth": "93.98%",
+    "status": "down",
+    "uptime": "99.81%",
+    "uptimeDay": "88.62%",
+    "uptimeWeek": "86.34%",
+    "uptimeMonth": "94.03%",
     "uptimeYear": "99.50%",
-    "time": 1678,
-    "timeDay": 1272,
+    "time": 1679,
+    "timeDay": 1298,
     "timeWeek": 830,
     "timeMonth": 1179,
     "timeYear": 1672,
     "dailyMinutesDown": {
-      "2024-08-19": 35,
+      "2024-08-19": 36,
       "2024-08-18": 235,
       "2024-08-17": 228,
       "2024-08-16": 215,
@@ -218,7 +218,7 @@
       "2024-08-08": 126,
       "2024-08-07": 132,
       "2024-08-06": 292,
-      "2024-08-05": 64
+      "2024-08-05": 44
     }
   },
   {
@@ -236,9 +236,9 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3002,
+    "timeYear": 3001,
     "dailyMinutesDown": {
-      "2024-08-19": 814,
+      "2024-08-19": 824,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
@@ -440,7 +440,7 @@
     "uptime": "90.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "19.18%",
+    "uptimeMonth": "19.15%",
     "uptimeYear": "91.91%",
     "time": 2002,
     "timeDay": 0,
@@ -448,7 +448,7 @@
     "timeMonth": 901,
     "timeYear": 1931,
     "dailyMinutesDown": {
-      "2024-08-19": 815,
+      "2024-08-19": 824,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
@@ -520,8 +520,8 @@
     "slug": "chem-spider",
     "status": "up",
     "uptime": "97.23%",
-    "uptimeDay": "21.32%",
-    "uptimeWeek": "3.05%",
+    "uptimeDay": "21.98%",
+    "uptimeWeek": "3.14%",
     "uptimeMonth": "77.20%",
     "uptimeYear": "94.18%",
     "time": 4280,
@@ -1098,7 +1098,7 @@
     "timeMonth": 0,
     "timeYear": 1085,
     "dailyMinutesDown": {
-      "2024-08-19": 815,
+      "2024-08-19": 825,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
@@ -1498,7 +1498,7 @@
     "timeMonth": 1410,
     "timeYear": 2169,
     "dailyMinutesDown": {
-      "2024-08-19": 816,
+      "2024-08-19": 826,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
