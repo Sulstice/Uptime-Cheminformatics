@@ -1,7 +1,7 @@
 url: http://www.bindingdb.org/bind/index.jsp
-status: up
-code: 200
-responseTime: 925
-lastUpdated: 2024-09-01T03:41:18.571Z
+status: down
+code: 503
+responseTime: 687
+lastUpdated: 2024-09-01T10:53:05.848Z
 startTime: 2022-01-24T16:16:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
