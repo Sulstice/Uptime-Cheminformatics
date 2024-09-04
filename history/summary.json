@@ -204,19 +204,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "91.85%",
-    "uptimeWeek": "86.89%",
-    "uptimeMonth": "94.27%",
-    "uptimeYear": "99.52%",
-    "time": 1652,
+    "uptimeDay": "91.75%",
+    "uptimeWeek": "86.88%",
+    "uptimeMonth": "94.31%",
+    "uptimeYear": "99.53%",
+    "time": 1653,
     "timeDay": 1161,
     "timeWeek": 1421,
     "timeMonth": 1441,
     "timeYear": 1652,
     "dailyMinutesDown": {
-      "2024-09-04": 117,
+      "2024-09-04": 118,
       "2024-09-03": 182,
       "2024-09-02": 187,
       "2024-09-01": 168,
@@ -229,7 +229,7 @@
       "2024-08-25": 169,
       "2024-08-24": 236,
       "2024-08-23": 118,
-      "2024-08-22": 83
+      "2024-08-22": 65
     }
   },
   {
@@ -249,7 +249,7 @@
     "timeMonth": 0,
     "timeYear": 3093,
     "dailyMinutesDown": {
-      "2024-09-04": 1083,
+      "2024-09-04": 1096,
       "2024-09-03": 1440,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
@@ -418,17 +418,16 @@
     "slug": "binding-database",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "97.32%",
-    "uptimeYear": "99.43%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "97.34%",
+    "uptimeYear": "99.42%",
     "time": 5965,
     "timeDay": 789,
     "timeWeek": 1525,
     "timeMonth": 6820,
     "timeYear": 6121,
     "dailyMinutesDown": {
-      "2024-09-04": 8,
       "2024-08-28": 35,
       "2024-08-27": 16,
       "2024-08-25": 43,
@@ -460,7 +459,7 @@
       "2024-07-24": 303,
       "2024-07-23": 145,
       "2024-07-22": 149,
-      "2024-07-21": 17
+      "2024-07-21": 38
     }
   },
   {
@@ -472,7 +471,7 @@
     "uptime": "89.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "22.32%",
+    "uptimeMonth": "22.35%",
     "uptimeYear": "89.50%",
     "time": 1985,
     "timeDay": 1047,
@@ -562,7 +561,7 @@
     "status": "up",
     "uptime": "96.12%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "30.66%",
+    "uptimeWeek": "30.79%",
     "uptimeMonth": "40.71%",
     "uptimeYear": "91.19%",
     "time": 2835,
@@ -1146,7 +1145,7 @@
     "timeMonth": 0,
     "timeYear": 1103,
     "dailyMinutesDown": {
-      "2024-09-04": 1084,
+      "2024-09-04": 1097,
       "2024-09-03": 1440,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
@@ -1546,7 +1545,7 @@
     "timeMonth": 1389,
     "timeYear": 2095,
     "dailyMinutesDown": {
-      "2024-09-04": 1085,
+      "2024-09-04": 1098,
       "2024-09-03": 1440,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
