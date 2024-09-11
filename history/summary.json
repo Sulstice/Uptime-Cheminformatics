@@ -89,7 +89,7 @@
     "time": 7171,
     "timeDay": 1562,
     "timeWeek": 1236,
-    "timeMonth": 10878,
+    "timeMonth": 10817,
     "timeYear": 7652,
     "dailyMinutesDown": {
       "2024-09-11": 184,
@@ -205,11 +205,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "81.84%",
-    "uptimeWeek": "88.12%",
-    "uptimeMonth": "94.20%",
+    "uptimeDay": "81.77%",
+    "uptimeWeek": "88.11%",
+    "uptimeMonth": "94.25%",
     "uptimeYear": "99.52%",
     "time": 1646,
     "timeDay": 1168,
@@ -217,7 +217,7 @@
     "timeMonth": 1430,
     "timeYear": 1647,
     "dailyMinutesDown": {
-      "2024-09-11": 173,
+      "2024-09-11": 174,
       "2024-09-10": 261,
       "2024-09-09": 93,
       "2024-09-08": 139,
@@ -231,7 +231,7 @@
       "2024-08-31": 284,
       "2024-08-30": 123,
       "2024-08-29": 175,
-      "2024-08-28": 105
+      "2024-08-28": 85
     }
   },
   {
@@ -251,7 +251,7 @@
     "timeMonth": 0,
     "timeYear": 3131,
     "dailyMinutesDown": {
-      "2024-09-11": 1069,
+      "2024-09-11": 1078,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
@@ -433,7 +433,7 @@
     "uptimeYear": "99.43%",
     "time": 5965,
     "timeDay": 879,
-    "timeWeek": 775,
+    "timeWeek": 774,
     "timeMonth": 5216,
     "timeYear": 6091,
     "dailyMinutesDown": {
@@ -482,7 +482,7 @@
     "uptime": "89.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "45.30%",
+    "uptimeMonth": "45.32%",
     "uptimeYear": "89.50%",
     "time": 1966,
     "timeDay": 1135,
@@ -1155,7 +1155,7 @@
     "timeMonth": 0,
     "timeYear": 1113,
     "dailyMinutesDown": {
-      "2024-09-11": 1071,
+      "2024-09-11": 1079,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
@@ -1561,7 +1561,7 @@
     "timeMonth": 1462,
     "timeYear": 2060,
     "dailyMinutesDown": {
-      "2024-09-11": 1071,
+      "2024-09-11": 1080,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
