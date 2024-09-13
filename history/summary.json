@@ -6,7 +6,7 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "98.66%",
-    "uptimeDay": "85.98%",
+    "uptimeDay": "86.63%",
     "uptimeWeek": "93.84%",
     "uptimeMonth": "84.64%",
     "uptimeYear": "95.73%",
@@ -72,7 +72,7 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "86.07%",
+    "uptimeDay": "86.70%",
     "uptimeWeek": "94.12%",
     "uptimeMonth": "80.72%",
     "uptimeYear": "98.39%",
@@ -240,7 +240,7 @@
     "timeMonth": 0,
     "timeYear": 3138,
     "dailyMinutesDown": {
-      "2024-09-13": 2,
+      "2024-09-13": 24,
       "2024-09-12": 1440,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
@@ -418,9 +418,9 @@
     "slug": "binding-database",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "98.59%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "98.61%",
     "uptimeYear": "99.43%",
     "time": 5853,
     "timeDay": 933,
@@ -428,8 +428,6 @@
     "timeMonth": 4076,
     "timeYear": 6086,
     "dailyMinutesDown": {
-      "2024-09-13": 0,
-      "2024-09-12": 8,
       "2024-09-10": 34,
       "2024-09-08": 18,
       "2024-09-07": 16,
@@ -463,7 +461,7 @@
       "2024-07-25": 32,
       "2024-07-24": 303,
       "2024-07-23": 145,
-      "2024-07-22": 93
+      "2024-07-22": 111
     }
   },
   {
@@ -475,7 +473,7 @@
     "uptime": "89.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "49.44%",
+    "uptimeMonth": "49.49%",
     "uptimeYear": "89.50%",
     "time": 1961,
     "timeDay": 1134,
@@ -566,7 +564,7 @@
     "uptime": "96.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "42.63%",
+    "uptimeMonth": "42.68%",
     "uptimeYear": "91.19%",
     "time": 2833,
     "timeDay": 1241,
@@ -1146,7 +1144,7 @@
     "timeMonth": 0,
     "timeYear": 1115,
     "dailyMinutesDown": {
-      "2024-09-13": 3,
+      "2024-09-13": 26,
       "2024-09-12": 1440,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
@@ -1554,7 +1552,7 @@
     "timeMonth": 1472,
     "timeYear": 2052,
     "dailyMinutesDown": {
-      "2024-09-13": 3,
+      "2024-09-13": 26,
       "2024-09-12": 1440,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
