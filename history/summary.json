@@ -6,17 +6,17 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.11%",
-    "uptimeDay": "82.58%",
-    "uptimeWeek": "97.35%",
-    "uptimeMonth": "93.75%",
-    "uptimeYear": "97.12%",
+    "uptimeDay": "83.61%",
+    "uptimeWeek": "97.49%",
+    "uptimeMonth": "93.82%",
+    "uptimeYear": "97.11%",
     "time": 1515,
     "timeDay": 2370,
     "timeWeek": 912,
-    "timeMonth": 1190,
+    "timeMonth": 1152,
     "timeYear": 1655,
     "dailyMinutesDown": {
-      "2024-09-27": 251,
+      "2024-09-27": 236,
       "2024-09-26": 17,
       "2024-09-20": 161,
       "2024-09-17": 41,
@@ -58,7 +58,8 @@
       "2024-06-20": 208,
       "2024-06-18": 1060,
       "2024-06-17": 418,
-      "2024-06-11": 61
+      "2024-06-11": 61,
+      "2024-05-29": 30
     }
   },
   {
@@ -68,17 +69,17 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.14%",
-    "uptimeDay": "82.63%",
-    "uptimeWeek": "97.36%",
-    "uptimeMonth": "80.82%",
+    "uptimeDay": "83.64%",
+    "uptimeWeek": "97.50%",
+    "uptimeMonth": "80.89%",
     "uptimeYear": "97.23%",
     "time": 7314,
     "timeDay": 2929,
     "timeWeek": 1000,
-    "timeMonth": 2633,
+    "timeMonth": 2575,
     "timeYear": 7744,
     "dailyMinutesDown": {
-      "2024-09-27": 251,
+      "2024-09-27": 236,
       "2024-09-26": 16,
       "2024-09-20": 161,
       "2024-09-19": 25,
@@ -108,7 +109,7 @@
       "2024-08-21": 981,
       "2024-08-20": 376,
       "2024-08-19": 789,
-      "2024-08-18": 329
+      "2024-08-18": 356
     }
   },
   {
@@ -138,19 +139,19 @@
     "url": "https://webbook.nist.gov/chemistry/",
     "icon": "https://icons.duckduckgo.com/ip3/webbook.nist.gov.ico",
     "slug": "nist-chemistry-webhook",
-    "status": "up",
-    "uptime": "99.09%",
-    "uptimeDay": "86.35%",
-    "uptimeWeek": "98.05%",
+    "status": "down",
+    "uptime": "99.16%",
+    "uptimeDay": "86.27%",
+    "uptimeWeek": "98.04%",
     "uptimeMonth": "99.55%",
-    "uptimeYear": "97.55%",
-    "time": 1309,
+    "uptimeYear": "97.74%",
+    "time": 1311,
     "timeDay": 1991,
     "timeWeek": 874,
     "timeMonth": 423,
     "timeYear": 1611,
     "dailyMinutesDown": {
-      "2024-09-27": 197,
+      "2024-09-27": 198,
       "2024-08-06": 49,
       "2024-06-25": 20,
       "2024-06-24": 40,
@@ -187,9 +188,7 @@
       "2023-11-20": 145,
       "2023-11-07": 113,
       "2023-10-22": 1115,
-      "2023-10-21": 1410,
-      "2023-10-20": 419,
-      "2023-10-19": 555
+      "2023-10-21": 1410
     }
   },
   {
@@ -199,17 +198,17 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "82.13%",
-    "uptimeWeek": "86.17%",
-    "uptimeMonth": "94.11%",
+    "uptimeDay": "83.11%",
+    "uptimeWeek": "86.33%",
+    "uptimeMonth": "94.10%",
     "uptimeYear": "99.51%",
     "time": 1621,
     "timeDay": 1856,
-    "timeWeek": 2191,
+    "timeWeek": 2175,
     "timeMonth": 1623,
     "timeYear": 1615,
     "dailyMinutesDown": {
-      "2024-09-27": 128,
+      "2024-09-27": 114,
       "2024-09-26": 285,
       "2024-09-25": 331,
       "2024-09-24": 158,
@@ -223,7 +222,7 @@
       "2024-09-16": 240,
       "2024-09-15": 107,
       "2024-09-14": 184,
-      "2024-09-13": 67
+      "2024-09-13": 87
     }
   },
   {
@@ -243,7 +242,7 @@
     "timeMonth": 0,
     "timeYear": 3073,
     "dailyMinutesDown": {
-      "2024-09-27": 794,
+      "2024-09-27": 819,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
       "2024-09-24": 1440,
@@ -494,7 +493,7 @@
     "uptime": "89.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.27%",
+    "uptimeMonth": "97.33%",
     "uptimeYear": "89.50%",
     "time": 1930,
     "timeDay": 1125,
@@ -585,7 +584,7 @@
     "uptime": "96.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "80.10%",
+    "uptimeMonth": "80.15%",
     "uptimeYear": "91.21%",
     "time": 2684,
     "timeDay": 545,
@@ -1167,7 +1166,7 @@
     "timeMonth": 0,
     "timeYear": 1129,
     "dailyMinutesDown": {
-      "2024-09-27": 795,
+      "2024-09-27": 821,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
       "2024-09-24": 1440,
@@ -1590,7 +1589,7 @@
     "timeMonth": 1480,
     "timeYear": 1976,
     "dailyMinutesDown": {
-      "2024-09-27": 795,
+      "2024-09-27": 821,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
       "2024-09-24": 1440,
@@ -1873,7 +1872,7 @@
     "slug": "chemical-resolver",
     "status": "up",
     "uptime": "98.99%",
-    "uptimeDay": "93.23%",
+    "uptimeDay": "95.02%",
     "uptimeWeek": "94.70%",
     "uptimeMonth": "93.24%",
     "uptimeYear": "97.31%",
@@ -2077,7 +2076,7 @@
     "uptimeYear": "99.89%",
     "time": 1426,
     "timeDay": 821,
-    "timeWeek": 1290,
+    "timeWeek": 1314,
     "timeMonth": 1353,
     "timeYear": 1439,
     "dailyMinutesDown": {
