@@ -236,7 +236,7 @@
     "timeMonth": 0,
     "timeYear": 3131,
     "dailyMinutesDown": {
-      "2024-10-07": 26,
+      "2024-10-07": 33,
       "2024-10-06": 1440,
       "2024-10-05": 1440,
       "2024-10-04": 1440,
@@ -436,18 +436,19 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.49%",
-    "uptimeYear": "99.42%",
-    "time": 5853,
-    "timeDay": 692,
-    "timeWeek": 717,
-    "timeMonth": 762,
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.43%",
+    "time": 5854,
+    "timeDay": 1210,
+    "timeWeek": 805,
+    "timeMonth": 796,
     "timeYear": 6020,
     "dailyMinutesDown": {
+      "2024-10-07": 2,
       "2024-10-05": 15,
       "2024-09-28": 52,
       "2024-09-25": 28,
@@ -486,7 +487,7 @@
       "2024-07-26": 52,
       "2024-07-25": 32,
       "2024-07-24": 303,
-      "2024-07-23": 106
+      "2024-07-23": 85
     }
   },
   {
@@ -1175,7 +1176,7 @@
     "timeMonth": 0,
     "timeYear": 1143,
     "dailyMinutesDown": {
-      "2024-10-07": 27,
+      "2024-10-07": 34,
       "2024-10-06": 1440,
       "2024-10-05": 1440,
       "2024-10-04": 1440,
@@ -1608,7 +1609,7 @@
     "timeMonth": 1439,
     "timeYear": 1933,
     "dailyMinutesDown": {
-      "2024-10-07": 27,
+      "2024-10-07": 35,
       "2024-10-06": 1440,
       "2024-10-05": 1440,
       "2024-10-04": 1440,
