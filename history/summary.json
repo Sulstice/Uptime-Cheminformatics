@@ -190,11 +190,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "90.72%",
+    "uptimeDay": "90.65%",
     "uptimeWeek": "88.71%",
-    "uptimeMonth": "93.82%",
+    "uptimeMonth": "93.87%",
     "uptimeYear": "99.49%",
     "time": 1617,
     "timeDay": 1136,
@@ -202,7 +202,7 @@
     "timeMonth": 1624,
     "timeYear": 1625,
     "dailyMinutesDown": {
-      "2024-10-09": 66,
+      "2024-10-09": 67,
       "2024-10-08": 152,
       "2024-10-07": 166,
       "2024-10-06": 186,
@@ -216,8 +216,7 @@
       "2024-09-28": 104,
       "2024-09-27": 187,
       "2024-09-26": 285,
-      "2024-09-25": 331,
-      "2024-09-24": 21
+      "2024-09-25": 331
     }
   },
   {
@@ -237,7 +236,7 @@
     "timeMonth": 0,
     "timeYear": 3139,
     "dailyMinutesDown": {
-      "2024-10-09": 852,
+      "2024-10-09": 864,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
@@ -441,13 +440,13 @@
     "slug": "binding-database",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "32.02%",
+    "uptimeDay": "32.86%",
     "uptimeWeek": "84.07%",
     "uptimeMonth": "95.93%",
     "uptimeYear": "99.14%",
     "time": 5855,
     "timeDay": 797,
-    "timeWeek": 846,
+    "timeWeek": 843,
     "timeMonth": 807,
     "timeYear": 6007,
     "dailyMinutesDown": {
@@ -1182,7 +1181,7 @@
     "timeMonth": 0,
     "timeYear": 1143,
     "dailyMinutesDown": {
-      "2024-10-09": 853,
+      "2024-10-09": 865,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
@@ -1617,7 +1616,7 @@
     "timeMonth": 1427,
     "timeYear": 1786,
     "dailyMinutesDown": {
-      "2024-10-09": 854,
+      "2024-10-09": 866,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
@@ -1909,18 +1908,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cactus.nci.nih.gov.ico",
     "slug": "chemical-resolver",
     "status": "up",
-    "uptime": "98.91%",
-    "uptimeDay": "93.49%",
-    "uptimeWeek": "88.29%",
-    "uptimeMonth": "90.82%",
-    "uptimeYear": "97.04%",
+    "uptime": "98.90%",
+    "uptimeDay": "94.25%",
+    "uptimeWeek": "88.40%",
+    "uptimeMonth": "90.84%",
+    "uptimeYear": "97.03%",
     "time": 1219,
     "timeDay": 5529,
     "timeWeek": 5221,
     "timeMonth": 3661,
     "timeYear": 1142,
     "dailyMinutesDown": {
-      "2024-10-09": 11,
       "2024-10-08": 83,
       "2024-10-04": 39,
       "2024-10-03": 520,
@@ -2005,7 +2003,8 @@
       "2024-05-21": 38,
       "2024-05-20": 37,
       "2024-05-19": 25,
-      "2024-05-18": 37
+      "2024-05-18": 37,
+      "2024-05-17": 39
     }
   },
   {
