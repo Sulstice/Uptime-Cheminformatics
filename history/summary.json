@@ -63,7 +63,7 @@
     "uptime": "99.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.54%",
+    "uptimeMonth": "88.56%",
     "uptimeYear": "97.18%",
     "time": 7257,
     "timeDay": 368,
@@ -190,11 +190,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "88.17%",
-    "uptimeWeek": "86.56%",
-    "uptimeMonth": "93.73%",
+    "uptimeDay": "88.11%",
+    "uptimeWeek": "86.55%",
+    "uptimeMonth": "93.78%",
     "uptimeYear": "99.48%",
     "time": 1626,
     "timeDay": 2162,
@@ -202,7 +202,7 @@
     "timeMonth": 1710,
     "timeYear": 1619,
     "dailyMinutesDown": {
-      "2024-10-14": 164,
+      "2024-10-14": 165,
       "2024-10-13": 285,
       "2024-10-12": 143,
       "2024-10-11": 392,
@@ -216,7 +216,7 @@
       "2024-10-03": 160,
       "2024-10-02": 245,
       "2024-10-01": 335,
-      "2024-09-30": 41
+      "2024-09-30": 20
     }
   },
   {
@@ -225,7 +225,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nmrshiftdb.nmr.uni-koeln.de.ico",
     "slug": "nmr-shift-database",
     "status": "down",
-    "uptime": "85.26%",
+    "uptime": "85.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -236,7 +236,7 @@
     "timeMonth": 0,
     "timeYear": 3138,
     "dailyMinutesDown": {
-      "2024-10-14": 1253,
+      "2024-10-14": 1262,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
@@ -1189,7 +1189,7 @@
     "timeMonth": 0,
     "timeYear": 1155,
     "dailyMinutesDown": {
-      "2024-10-14": 1254,
+      "2024-10-14": 1263,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
@@ -1630,7 +1630,7 @@
     "timeMonth": 1415,
     "timeYear": 1762,
     "dailyMinutesDown": {
-      "2024-10-14": 1255,
+      "2024-10-14": 1264,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
