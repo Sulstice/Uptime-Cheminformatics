@@ -63,7 +63,7 @@
     "uptime": "99.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "87.20%",
+    "uptimeMonth": "87.25%",
     "uptimeYear": "97.18%",
     "time": 7257,
     "timeDay": 503,
@@ -192,17 +192,17 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "84.61%",
-    "uptimeWeek": "86.60%",
-    "uptimeMonth": "93.87%",
+    "uptimeDay": "85.28%",
+    "uptimeWeek": "86.69%",
+    "uptimeMonth": "93.85%",
     "uptimeYear": "99.49%",
     "time": 1628,
     "timeDay": 2412,
-    "timeWeek": 1762,
+    "timeWeek": 1747,
     "timeMonth": 1706,
     "timeYear": 1620,
     "dailyMinutesDown": {
-      "2024-10-14": 63,
+      "2024-10-14": 53,
       "2024-10-13": 285,
       "2024-10-12": 143,
       "2024-10-11": 392,
@@ -216,7 +216,8 @@
       "2024-10-03": 160,
       "2024-10-02": 245,
       "2024-10-01": 335,
-      "2024-09-30": 84
+      "2024-09-30": 84,
+      "2024-09-29": 17
     }
   },
   {
@@ -236,7 +237,7 @@
     "timeMonth": 0,
     "timeYear": 3138,
     "dailyMinutesDown": {
-      "2024-10-14": 667,
+      "2024-10-14": 690,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
@@ -1055,18 +1056,19 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.23%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.19%",
     "uptimeMonth": "97.25%",
     "uptimeYear": "97.99%",
-    "time": 3530,
-    "timeDay": 1480,
+    "time": 3505,
+    "timeDay": 1471,
     "timeWeek": 1691,
     "timeMonth": 3444,
     "timeYear": 3810,
     "dailyMinutesDown": {
+      "2024-10-14": 4,
       "2024-10-13": 18,
       "2024-10-11": 28,
       "2024-10-09": 31,
@@ -1147,7 +1149,7 @@
       "2024-04-17": 20,
       "2024-04-16": 20,
       "2024-04-06": 177,
-      "2024-04-05": 318
+      "2024-04-05": 300
     }
   },
   {
@@ -1189,7 +1191,7 @@
     "timeMonth": 0,
     "timeYear": 1155,
     "dailyMinutesDown": {
-      "2024-10-14": 668,
+      "2024-10-14": 692,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
@@ -1630,7 +1632,7 @@
     "timeMonth": 1415,
     "timeYear": 1762,
     "dailyMinutesDown": {
-      "2024-10-14": 668,
+      "2024-10-14": 692,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
