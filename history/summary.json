@@ -63,7 +63,7 @@
     "uptime": "99.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "89.69%",
-    "uptimeMonth": "93.22%",
+    "uptimeMonth": "93.24%",
     "uptimeYear": "96.99%",
     "time": 6845,
     "timeDay": 604,
@@ -194,12 +194,12 @@
     "status": "up",
     "uptime": "99.81%",
     "uptimeDay": "85.93%",
-    "uptimeWeek": "84.89%",
+    "uptimeWeek": "84.94%",
     "uptimeMonth": "93.80%",
     "uptimeYear": "99.48%",
     "time": 1624,
     "timeDay": 2134,
-    "timeWeek": 2211,
+    "timeWeek": 2221,
     "timeMonth": 1772,
     "timeYear": 1620,
     "dailyMinutesDown": {
@@ -237,7 +237,7 @@
     "timeMonth": 0,
     "timeYear": 3150,
     "dailyMinutesDown": {
-      "2024-10-17": 25,
+      "2024-10-17": 33,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
@@ -1061,18 +1061,19 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.54%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.51%",
     "uptimeMonth": "97.42%",
     "uptimeYear": "97.99%",
-    "time": 3632,
+    "time": 3513,
     "timeDay": 1393,
     "timeWeek": 2232,
     "timeMonth": 3255,
     "timeYear": 3754,
     "dailyMinutesDown": {
+      "2024-10-17": 3,
       "2024-10-13": 18,
       "2024-10-11": 28,
       "2024-10-09": 31,
@@ -1153,7 +1154,7 @@
       "2024-04-17": 20,
       "2024-04-16": 20,
       "2024-04-06": 177,
-      "2024-04-05": 318
+      "2024-04-05": 300
     }
   },
   {
@@ -1195,7 +1196,7 @@
     "timeMonth": 0,
     "timeYear": 1157,
     "dailyMinutesDown": {
-      "2024-10-17": 26,
+      "2024-10-17": 35,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
@@ -1639,7 +1640,7 @@
     "timeMonth": 1442,
     "timeYear": 1752,
     "dailyMinutesDown": {
-      "2024-10-17": 26,
+      "2024-10-17": 35,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
