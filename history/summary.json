@@ -193,9 +193,9 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "86.91%",
-    "uptimeWeek": "83.31%",
-    "uptimeMonth": "93.90%",
+    "uptimeDay": "87.52%",
+    "uptimeWeek": "83.40%",
+    "uptimeMonth": "93.87%",
     "uptimeYear": "99.49%",
     "time": 1624,
     "timeDay": 2697,
@@ -203,7 +203,7 @@
     "timeMonth": 1814,
     "timeYear": 1621,
     "dailyMinutesDown": {
-      "2024-10-17": 189,
+      "2024-10-17": 180,
       "2024-10-16": 204,
       "2024-10-15": 216,
       "2024-10-14": 229,
@@ -217,7 +217,7 @@
       "2024-10-06": 186,
       "2024-10-05": 114,
       "2024-10-04": 148,
-      "2024-10-03": 33
+      "2024-10-03": 57
     }
   },
   {
@@ -237,7 +237,7 @@
     "timeMonth": 0,
     "timeYear": 3150,
     "dailyMinutesDown": {
-      "2024-10-17": 1177,
+      "2024-10-17": 1203,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
@@ -447,18 +447,19 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.29%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.27%",
     "uptimeMonth": "95.92%",
     "uptimeYear": "99.16%",
     "time": 5858,
-    "timeDay": 811,
-    "timeWeek": 891,
-    "timeMonth": 808,
-    "timeYear": 5973,
+    "timeDay": 855,
+    "timeWeek": 893,
+    "timeMonth": 809,
+    "timeYear": 5972,
     "dailyMinutesDown": {
+      "2024-10-17": 2,
       "2024-10-16": 15,
       "2024-10-15": 26,
       "2024-10-13": 30,
@@ -503,7 +504,7 @@
       "2024-07-27": 97,
       "2024-07-26": 52,
       "2024-07-25": 32,
-      "2024-07-24": 129
+      "2024-07-24": 110
     }
   },
   {
@@ -937,7 +938,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.70%",
     "time": 1157,
-    "timeDay": 610,
+    "timeDay": 551,
     "timeWeek": 616,
     "timeMonth": 716,
     "timeYear": 1250,
@@ -1196,7 +1197,7 @@
     "timeMonth": 0,
     "timeYear": 1157,
     "dailyMinutesDown": {
-      "2024-10-17": 1179,
+      "2024-10-17": 1204,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
@@ -1640,7 +1641,7 @@
     "timeMonth": 1442,
     "timeYear": 1752,
     "dailyMinutesDown": {
-      "2024-10-17": 1179,
+      "2024-10-17": 1205,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
