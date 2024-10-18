@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "99.41%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "88.54%",
+    "uptimeWeek": "88.68%",
     "uptimeMonth": "93.82%",
     "uptimeYear": "98.07%",
     "time": 1539,
@@ -237,7 +237,7 @@
     "timeMonth": 0,
     "timeYear": 3154,
     "dailyMinutesDown": {
-      "2024-10-18": 909,
+      "2024-10-18": 923,
       "2024-10-17": 1440,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
@@ -456,7 +456,7 @@
     "uptimeYear": "99.16%",
     "time": 5746,
     "timeDay": 1091,
-    "timeWeek": 964,
+    "timeWeek": 965,
     "timeMonth": 830,
     "timeYear": 5956,
     "dailyMinutesDown": {
@@ -1062,10 +1062,10 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
-    "uptime": "99.26%",
-    "uptimeDay": "80.69%",
-    "uptimeWeek": "96.82%",
+    "status": "down",
+    "uptime": "99.27%",
+    "uptimeDay": "80.48%",
+    "uptimeWeek": "96.79%",
     "uptimeMonth": "96.77%",
     "uptimeYear": "97.99%",
     "time": 3656,
@@ -1074,7 +1074,7 @@
     "timeMonth": 5179,
     "timeYear": 3925,
     "dailyMinutesDown": {
-      "2024-10-18": 277,
+      "2024-10-18": 280,
       "2024-10-17": 25,
       "2024-10-13": 18,
       "2024-10-11": 28,
@@ -1155,8 +1155,7 @@
       "2024-04-20": 29,
       "2024-04-17": 20,
       "2024-04-16": 20,
-      "2024-04-06": 177,
-      "2024-04-05": 40
+      "2024-04-06": 174
     }
   },
   {
@@ -1198,7 +1197,7 @@
     "timeMonth": 0,
     "timeYear": 1159,
     "dailyMinutesDown": {
-      "2024-10-18": 911,
+      "2024-10-18": 925,
       "2024-10-17": 1440,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
@@ -1568,7 +1567,7 @@
     "uptime": "98.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "98.76%",
     "time": 621,
     "timeDay": 432,
@@ -1643,7 +1642,7 @@
     "timeMonth": 1430,
     "timeYear": 1748,
     "dailyMinutesDown": {
-      "2024-10-18": 911,
+      "2024-10-18": 925,
       "2024-10-17": 1440,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
