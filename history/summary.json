@@ -191,19 +191,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "80.51%",
-    "uptimeWeek": "84.02%",
-    "uptimeMonth": "93.73%",
+    "uptimeDay": "81.07%",
+    "uptimeWeek": "84.10%",
+    "uptimeMonth": "93.75%",
     "uptimeYear": "99.48%",
     "time": 1626,
-    "timeDay": 2980,
+    "timeDay": 2902,
     "timeWeek": 2546,
     "timeMonth": 1848,
     "timeYear": 1623,
     "dailyMinutesDown": {
-      "2024-10-18": 278,
+      "2024-10-18": 270,
       "2024-10-17": 182,
       "2024-10-16": 204,
       "2024-10-15": 216,
@@ -236,7 +236,7 @@
     "timeMonth": 0,
     "timeYear": 3154,
     "dailyMinutesDown": {
-      "2024-10-18": 1162,
+      "2024-10-18": 1180,
       "2024-10-17": 1440,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
@@ -449,9 +449,9 @@
     "slug": "binding-database",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "97.01%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "95.82%",
+    "uptimeDay": "97.63%",
+    "uptimeWeek": "98.96%",
+    "uptimeMonth": "95.84%",
     "uptimeYear": "99.16%",
     "time": 5746,
     "timeDay": 1074,
@@ -459,7 +459,7 @@
     "timeMonth": 831,
     "timeYear": 5954,
     "dailyMinutesDown": {
-      "2024-10-18": 43,
+      "2024-10-18": 34,
       "2024-10-16": 15,
       "2024-10-15": 26,
       "2024-10-13": 30,
@@ -504,7 +504,7 @@
       "2024-07-27": 97,
       "2024-07-26": 52,
       "2024-07-25": 32,
-      "2024-07-24": 78
+      "2024-07-24": 110
     }
   },
   {
@@ -1194,7 +1194,7 @@
     "timeMonth": 0,
     "timeYear": 1159,
     "dailyMinutesDown": {
-      "2024-10-18": 1164,
+      "2024-10-18": 1181,
       "2024-10-17": 1440,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
@@ -1639,7 +1639,7 @@
     "timeMonth": 1430,
     "timeYear": 1748,
     "dailyMinutesDown": {
-      "2024-10-18": 1164,
+      "2024-10-18": 1181,
       "2024-10-17": 1440,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
