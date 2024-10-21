@@ -61,9 +61,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.09%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "89.57%",
-    "uptimeMonth": "96.13%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "89.69%",
+    "uptimeMonth": "96.16%",
     "uptimeYear": "96.99%",
     "time": 6893,
     "timeDay": 4921,
@@ -71,7 +71,6 @@
     "timeMonth": 1854,
     "timeYear": 7620,
     "dailyMinutesDown": {
-      "2024-10-21": 12,
       "2024-10-15": 1039,
       "2024-10-02": 242,
       "2024-09-30": 59,
@@ -105,7 +104,7 @@
       "2024-08-21": 981,
       "2024-08-20": 376,
       "2024-08-19": 789,
-      "2024-08-18": 148
+      "2024-08-18": 191
     }
   },
   {
@@ -140,7 +139,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.24%",
-    "uptimeYear": "97.96%",
+    "uptimeYear": "97.97%",
     "time": 1313,
     "timeDay": 0,
     "timeWeek": 352,
@@ -192,17 +191,17 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "83.61%",
-    "uptimeWeek": "83.87%",
-    "uptimeMonth": "93.63%",
+    "uptimeDay": "84.39%",
+    "uptimeWeek": "83.98%",
+    "uptimeMonth": "93.62%",
     "uptimeYear": "99.47%",
     "time": 1629,
     "timeDay": 2574,
     "timeWeek": 2636,
-    "timeMonth": 1849,
+    "timeMonth": 1845,
     "timeYear": 1628,
     "dailyMinutesDown": {
-      "2024-10-21": 231,
+      "2024-10-21": 220,
       "2024-10-20": 285,
       "2024-10-19": 196,
       "2024-10-18": 295,
@@ -214,7 +213,7 @@
       "2024-10-12": 143,
       "2024-10-11": 392,
       "2024-10-10": 77,
-      "2024-10-09": 53
+      "2024-10-09": 72
     }
   },
   {
@@ -234,7 +233,7 @@
     "timeMonth": 0,
     "timeYear": 3168,
     "dailyMinutesDown": {
-      "2024-10-21": 1342,
+      "2024-10-21": 1363,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
       "2024-10-18": 1440,
@@ -448,18 +447,19 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.25%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.24%",
     "uptimeMonth": "95.84%",
     "uptimeYear": "99.16%",
     "time": 5744,
-    "timeDay": 1132,
-    "timeWeek": 885,
+    "timeDay": 1100,
+    "timeWeek": 884,
     "timeMonth": 844,
-    "timeYear": 5925,
+    "timeYear": 5924,
     "dailyMinutesDown": {
+      "2024-10-21": 2,
       "2024-10-18": 34,
       "2024-10-16": 15,
       "2024-10-15": 26,
@@ -505,7 +505,7 @@
       "2024-07-27": 97,
       "2024-07-26": 52,
       "2024-07-25": 32,
-      "2024-07-24": 110
+      "2024-07-24": 78
     }
   },
   {
@@ -1192,7 +1192,7 @@
     "timeMonth": 0,
     "timeYear": 1163,
     "dailyMinutesDown": {
-      "2024-10-21": 1343,
+      "2024-10-21": 1364,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
       "2024-10-18": 1440,
@@ -1348,7 +1348,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heraproject.com.ico",
     "slug": "human-and-environment-risk-assessment",
     "status": "up",
-    "uptime": "32.44%",
+    "uptime": "32.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1631,14 +1631,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "19.03%",
+    "uptimeYear": "19.02%",
     "time": 2155,
     "timeDay": 0,
     "timeWeek": 1366,
     "timeMonth": 1438,
     "timeYear": 1738,
     "dailyMinutesDown": {
-      "2024-10-21": 1344,
+      "2024-10-21": 1364,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
       "2024-10-18": 1440,
