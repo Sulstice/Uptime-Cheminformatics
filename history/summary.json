@@ -192,18 +192,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
     "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "84.89%",
-    "uptimeWeek": "84.80%",
-    "uptimeMonth": "93.96%",
-    "uptimeYear": "99.50%",
+    "uptime": "99.81%",
+    "uptimeDay": "85.43%",
+    "uptimeWeek": "84.88%",
+    "uptimeMonth": "93.89%",
+    "uptimeYear": "99.49%",
     "time": 1630,
     "timeDay": 1901,
     "timeWeek": 2614,
     "timeMonth": 1824,
     "timeYear": 1628,
     "dailyMinutesDown": {
-      "2024-10-23": 219,
+      "2024-10-23": 211,
       "2024-10-22": 136,
       "2024-10-21": 220,
       "2024-10-20": 285,
@@ -215,7 +215,7 @@
       "2024-10-14": 229,
       "2024-10-13": 285,
       "2024-10-12": 143,
-      "2024-10-11": 37
+      "2024-10-11": 73
     }
   },
   {
@@ -235,7 +235,7 @@
     "timeMonth": 0,
     "timeYear": 3175,
     "dailyMinutesDown": {
-      "2024-10-23": 1254,
+      "2024-10-23": 1265,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
@@ -1063,11 +1063,11 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "98.69%",
-    "uptimeWeek": "94.72%",
-    "uptimeMonth": "96.33%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "94.69%",
+    "uptimeMonth": "96.32%",
     "uptimeYear": "98.00%",
     "time": 3731,
     "timeDay": 1565,
@@ -1075,7 +1075,7 @@
     "timeMonth": 5278,
     "timeYear": 3800,
     "dailyMinutesDown": {
-      "2024-10-23": 19,
+      "2024-10-23": 22,
       "2024-10-21": 15,
       "2024-10-19": 19,
       "2024-10-18": 453,
@@ -1153,8 +1153,7 @@
       "2024-05-30": 22,
       "2024-05-29": 19,
       "2024-05-28": 39,
-      "2024-05-27": 15,
-      "2024-05-16": 15
+      "2024-05-27": 15
     }
   },
   {
@@ -1196,7 +1195,7 @@
     "timeMonth": 0,
     "timeYear": 1165,
     "dailyMinutesDown": {
-      "2024-10-23": 1256,
+      "2024-10-23": 1266,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
@@ -1354,7 +1353,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heraproject.com.ico",
     "slug": "human-and-environment-risk-assessment",
     "status": "up",
-    "uptime": "32.57%",
+    "uptime": "32.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1637,14 +1636,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "18.50%",
+    "uptimeYear": "18.49%",
     "time": 2148,
     "timeDay": 1516,
     "timeWeek": 1433,
     "timeMonth": 1459,
     "timeYear": 1735,
     "dailyMinutesDown": {
-      "2024-10-23": 1256,
+      "2024-10-23": 1266,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
