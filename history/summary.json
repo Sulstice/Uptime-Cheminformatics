@@ -6,17 +6,16 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "95.86%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "93.91%",
-    "uptimeYear": "98.07%",
+    "uptimeDay": "96.78%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "93.94%",
+    "uptimeYear": "98.06%",
     "time": 1558,
     "timeDay": 5680,
     "timeWeek": 3479,
     "timeMonth": 2057,
     "timeYear": 1759,
     "dailyMinutesDown": {
-      "2024-10-23": 13,
       "2024-10-22": 46,
       "2024-10-21": 23,
       "2024-10-19": 39,
@@ -53,7 +52,7 @@
       "2024-08-19": 346,
       "2024-08-18": 126,
       "2024-08-10": 24,
-      "2024-08-09": 163
+      "2024-08-09": 182
     }
   },
   {
@@ -63,9 +62,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.10%",
-    "uptimeDay": "85.60%",
-    "uptimeWeek": "97.94%",
-    "uptimeMonth": "95.68%",
+    "uptimeDay": "86.45%",
+    "uptimeWeek": "98.06%",
+    "uptimeMonth": "95.71%",
     "uptimeYear": "97.02%",
     "time": 6941,
     "timeDay": 8307,
@@ -73,7 +72,7 @@
     "timeMonth": 2560,
     "timeYear": 7625,
     "dailyMinutesDown": {
-      "2024-10-23": 48,
+      "2024-10-23": 36,
       "2024-10-22": 159,
       "2024-10-15": 1039,
       "2024-10-02": 242,
@@ -107,7 +106,7 @@
       "2024-08-22": 279,
       "2024-08-21": 981,
       "2024-08-20": 376,
-      "2024-08-19": 582
+      "2024-08-19": 616
     }
   },
   {
@@ -192,19 +191,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "85.23%",
-    "uptimeWeek": "84.73%",
-    "uptimeMonth": "93.78%",
-    "uptimeYear": "99.48%",
+    "uptimeDay": "85.17%",
+    "uptimeWeek": "84.72%",
+    "uptimeMonth": "93.83%",
+    "uptimeYear": "99.49%",
     "time": 1629,
     "timeDay": 1490,
-    "timeWeek": 2587,
-    "timeMonth": 1824,
+    "timeWeek": 2571,
+    "timeMonth": 1820,
     "timeYear": 1627,
     "dailyMinutesDown": {
-      "2024-10-23": 106,
+      "2024-10-23": 107,
       "2024-10-22": 136,
       "2024-10-21": 220,
       "2024-10-20": 285,
@@ -216,7 +215,7 @@
       "2024-10-14": 229,
       "2024-10-13": 285,
       "2024-10-12": 143,
-      "2024-10-11": 226
+      "2024-10-11": 205
     }
   },
   {
@@ -236,7 +235,7 @@
     "timeMonth": 0,
     "timeYear": 3172,
     "dailyMinutesDown": {
-      "2024-10-23": 627,
+      "2024-10-23": 639,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
@@ -1186,7 +1185,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cfpub.epa.gov.ico",
     "slug": "ecology-toxicity",
     "status": "down",
-    "uptime": "88.07%",
+    "uptime": "88.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1197,7 +1196,7 @@
     "timeMonth": 0,
     "timeYear": 1165,
     "dailyMinutesDown": {
-      "2024-10-23": 628,
+      "2024-10-23": 640,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
@@ -1638,14 +1637,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "18.62%",
+    "uptimeYear": "18.61%",
     "time": 2148,
     "timeDay": 1516,
     "timeWeek": 1433,
     "timeMonth": 1459,
     "timeYear": 1735,
     "dailyMinutesDown": {
-      "2024-10-23": 629,
+      "2024-10-23": 641,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
