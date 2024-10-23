@@ -60,19 +60,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "97.52%",
-    "uptimeWeek": "98.06%",
+    "uptimeDay": "97.44%",
+    "uptimeWeek": "98.05%",
     "uptimeMonth": "95.71%",
     "uptimeYear": "97.02%",
-    "time": 6942,
+    "time": 6950,
     "timeDay": 4449,
     "timeWeek": 5065,
     "timeMonth": 2548,
     "timeYear": 7618,
     "dailyMinutesDown": {
-      "2024-10-23": 36,
+      "2024-10-23": 37,
       "2024-10-22": 159,
       "2024-10-15": 1039,
       "2024-10-02": 242,
@@ -106,7 +106,7 @@
       "2024-08-22": 279,
       "2024-08-21": 981,
       "2024-08-20": 376,
-      "2024-08-19": 616
+      "2024-08-19": 582
     }
   },
   {
@@ -191,19 +191,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "85.43%",
-    "uptimeWeek": "84.88%",
-    "uptimeMonth": "93.89%",
-    "uptimeYear": "99.49%",
+    "status": "down",
+    "uptime": "99.82%",
+    "uptimeDay": "85.37%",
+    "uptimeWeek": "84.87%",
+    "uptimeMonth": "93.97%",
+    "uptimeYear": "99.50%",
     "time": 1630,
-    "timeDay": 1901,
+    "timeDay": 1959,
     "timeWeek": 2603,
     "timeMonth": 1824,
     "timeYear": 1628,
     "dailyMinutesDown": {
-      "2024-10-23": 211,
+      "2024-10-23": 212,
       "2024-10-22": 136,
       "2024-10-21": 220,
       "2024-10-20": 285,
@@ -215,7 +215,7 @@
       "2024-10-14": 229,
       "2024-10-13": 285,
       "2024-10-12": 143,
-      "2024-10-11": 73
+      "2024-10-11": 37
     }
   },
   {
@@ -235,7 +235,7 @@
     "timeMonth": 0,
     "timeYear": 3175,
     "dailyMinutesDown": {
-      "2024-10-23": 1275,
+      "2024-10-23": 1288,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
@@ -1065,9 +1065,9 @@
     "slug": "adverse-drug-reaction-classification-system",
     "status": "up",
     "uptime": "99.27%",
-    "uptimeDay": "97.99%",
-    "uptimeWeek": "94.62%",
-    "uptimeMonth": "96.30%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "94.72%",
+    "uptimeMonth": "96.33%",
     "uptimeYear": "98.00%",
     "time": 3730,
     "timeDay": 1580,
@@ -1075,7 +1075,7 @@
     "timeMonth": 5227,
     "timeYear": 3797,
     "dailyMinutesDown": {
-      "2024-10-23": 29,
+      "2024-10-23": 19,
       "2024-10-21": 15,
       "2024-10-19": 19,
       "2024-10-18": 453,
@@ -1153,7 +1153,8 @@
       "2024-05-30": 22,
       "2024-05-29": 19,
       "2024-05-28": 39,
-      "2024-05-27": 15
+      "2024-05-27": 15,
+      "2024-05-16": 15
     }
   },
   {
@@ -1195,7 +1196,7 @@
     "timeMonth": 0,
     "timeYear": 1165,
     "dailyMinutesDown": {
-      "2024-10-23": 1276,
+      "2024-10-23": 1289,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
@@ -1643,7 +1644,7 @@
     "timeMonth": 1459,
     "timeYear": 1735,
     "dailyMinutesDown": {
-      "2024-10-23": 1277,
+      "2024-10-23": 1290,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
