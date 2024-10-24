@@ -192,10 +192,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
     "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "82.91%",
-    "uptimeWeek": "84.20%",
-    "uptimeMonth": "93.91%",
+    "uptime": "99.81%",
+    "uptimeDay": "83.48%",
+    "uptimeWeek": "84.28%",
+    "uptimeMonth": "93.89%",
     "uptimeYear": "99.49%",
     "time": 1631,
     "timeDay": 1983,
@@ -203,7 +203,7 @@
     "timeMonth": 1823,
     "timeYear": 1628,
     "dailyMinutesDown": {
-      "2024-10-24": 143,
+      "2024-10-24": 135,
       "2024-10-23": 227,
       "2024-10-22": 136,
       "2024-10-21": 220,
@@ -215,7 +215,7 @@
       "2024-10-15": 216,
       "2024-10-14": 229,
       "2024-10-13": 285,
-      "2024-10-12": 52
+      "2024-10-12": 68
     }
   },
   {
@@ -235,7 +235,7 @@
     "timeMonth": 0,
     "timeYear": 3179,
     "dailyMinutesDown": {
-      "2024-10-24": 662,
+      "2024-10-24": 673,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
@@ -452,18 +452,19 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.37%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.35%",
     "uptimeMonth": "95.81%",
     "uptimeYear": "99.16%",
     "time": 5745,
-    "timeDay": 772,
-    "timeWeek": 881,
+    "timeDay": 766,
+    "timeWeek": 879,
     "timeMonth": 838,
-    "timeYear": 5893,
+    "timeYear": 5892,
     "dailyMinutesDown": {
+      "2024-10-24": 2,
       "2024-10-23": 29,
       "2024-10-18": 34,
       "2024-10-16": 15,
@@ -510,7 +511,7 @@
       "2024-07-27": 97,
       "2024-07-26": 52,
       "2024-07-25": 32,
-      "2024-07-24": 78
+      "2024-07-24": 57
     }
   },
   {
@@ -1186,7 +1187,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cfpub.epa.gov.ico",
     "slug": "ecology-toxicity",
     "status": "down",
-    "uptime": "87.98%",
+    "uptime": "87.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1197,7 +1198,7 @@
     "timeMonth": 0,
     "timeYear": 1166,
     "dailyMinutesDown": {
-      "2024-10-24": 663,
+      "2024-10-24": 674,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
@@ -1638,14 +1639,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "18.34%",
+    "uptimeYear": "18.33%",
     "time": 2146,
     "timeDay": 1596,
     "timeWeek": 1464,
     "timeMonth": 1481,
     "timeYear": 1731,
     "dailyMinutesDown": {
-      "2024-10-24": 664,
+      "2024-10-24": 675,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
