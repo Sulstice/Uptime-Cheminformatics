@@ -193,17 +193,17 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "83.16%",
-    "uptimeWeek": "84.09%",
-    "uptimeMonth": "93.88%",
-    "uptimeYear": "99.49%",
+    "uptimeDay": "83.72%",
+    "uptimeWeek": "84.43%",
+    "uptimeMonth": "93.82%",
+    "uptimeYear": "99.48%",
     "time": 1630,
     "timeDay": 1958,
     "timeWeek": 2492,
     "timeMonth": 1824,
     "timeYear": 1628,
     "dailyMinutesDown": {
-      "2024-10-24": 244,
+      "2024-10-24": 236,
       "2024-10-23": 227,
       "2024-10-22": 136,
       "2024-10-21": 220,
@@ -214,7 +214,7 @@
       "2024-10-16": 204,
       "2024-10-15": 216,
       "2024-10-14": 229,
-      "2024-10-13": 248
+      "2024-10-13": 285
     }
   },
   {
@@ -223,7 +223,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nmrshiftdb.nmr.uni-koeln.de.ico",
     "slug": "nmr-shift-database",
     "status": "down",
-    "uptime": "84.40%",
+    "uptime": "84.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -234,7 +234,8 @@
     "timeMonth": 0,
     "timeYear": 3188,
     "dailyMinutesDown": {
-      "2024-10-24": 1431,
+      "2024-10-25": 25,
+      "2024-10-24": 1440,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
@@ -1002,8 +1003,7 @@
       "2023-11-01": 109,
       "2023-10-31": 89,
       "2023-10-30": 19,
-      "2023-10-29": 160,
-      "2023-10-26": 71
+      "2023-10-29": 160
     }
   },
   {
@@ -1196,7 +1196,8 @@
     "timeMonth": 0,
     "timeYear": 1169,
     "dailyMinutesDown": {
-      "2024-10-24": 1432,
+      "2024-10-25": 26,
+      "2024-10-24": 1440,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
@@ -1344,8 +1345,7 @@
       "2023-11-14": 16,
       "2023-11-10": 26,
       "2023-11-07": 331,
-      "2023-10-27": 1033,
-      "2023-10-26": 913
+      "2023-10-27": 1033
     }
   },
   {
@@ -1566,7 +1566,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pesticideinfo.org.ico",
     "slug": "pesticide-info",
     "status": "up",
-    "uptime": "98.83%",
+    "uptime": "98.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1637,14 +1637,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "18.19%",
+    "uptimeYear": "18.18%",
     "time": 2142,
     "timeDay": 1415,
     "timeWeek": 1499,
     "timeMonth": 1472,
     "timeYear": 1726,
     "dailyMinutesDown": {
-      "2024-10-24": 1433,
+      "2024-10-25": 27,
+      "2024-10-24": 1440,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
@@ -1954,7 +1955,7 @@
     "uptime": "98.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.25%",
-    "uptimeMonth": "93.05%",
+    "uptimeMonth": "93.13%",
     "uptimeYear": "96.89%",
     "time": 1305,
     "timeDay": 148,
