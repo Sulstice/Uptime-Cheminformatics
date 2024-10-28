@@ -191,19 +191,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "85.00%",
-    "uptimeWeek": "86.69%",
-    "uptimeMonth": "94.06%",
-    "uptimeYear": "99.50%",
+    "uptimeDay": "84.94%",
+    "uptimeWeek": "86.68%",
+    "uptimeMonth": "94.10%",
+    "uptimeYear": "99.51%",
     "time": 1619,
     "timeDay": 890,
     "timeWeek": 1557,
     "timeMonth": 1731,
     "timeYear": 1613,
     "dailyMinutesDown": {
-      "2024-10-28": 152,
+      "2024-10-28": 153,
       "2024-10-27": 157,
       "2024-10-26": 129,
       "2024-10-25": 147,
@@ -216,7 +216,7 @@
       "2024-10-18": 295,
       "2024-10-17": 182,
       "2024-10-16": 204,
-      "2024-10-15": 36
+      "2024-10-15": 17
     }
   },
   {
@@ -236,7 +236,7 @@
     "timeMonth": 0,
     "timeYear": 3201,
     "dailyMinutesDown": {
-      "2024-10-28": 721,
+      "2024-10-28": 735,
       "2024-10-27": 1440,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
@@ -467,7 +467,7 @@
     "timeDay": 603,
     "timeWeek": 801,
     "timeMonth": 836,
-    "timeYear": 5889,
+    "timeYear": 5890,
     "dailyMinutesDown": {
       "2024-10-25": 18,
       "2024-10-23": 29,
@@ -1203,7 +1203,7 @@
     "timeMonth": 0,
     "timeYear": 1262,
     "dailyMinutesDown": {
-      "2024-10-28": 723,
+      "2024-10-28": 737,
       "2024-10-27": 1440,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
@@ -1363,7 +1363,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heraproject.com.ico",
     "slug": "human-and-environment-risk-assessment",
     "status": "up",
-    "uptime": "32.88%",
+    "uptime": "32.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1530,7 +1530,7 @@
     "slug": "japan-exisiting-database",
     "status": "up",
     "uptime": "99.05%",
-    "uptimeDay": "40.94%",
+    "uptimeDay": "41.90%",
     "uptimeWeek": "61.36%",
     "uptimeMonth": "90.63%",
     "uptimeYear": "98.80%",
@@ -1654,7 +1654,7 @@
     "timeMonth": 1466,
     "timeYear": 1709,
     "dailyMinutesDown": {
-      "2024-10-28": 723,
+      "2024-10-28": 737,
       "2024-10-27": 1440,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
