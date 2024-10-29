@@ -193,14 +193,14 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "82.32%",
+    "uptimeDay": "84.12%",
     "uptimeWeek": "87.26%",
     "uptimeMonth": "94.11%",
     "uptimeYear": "99.51%",
     "time": 1616,
-    "timeDay": 895,
-    "timeWeek": 1454,
-    "timeMonth": 1735,
+    "timeDay": 909,
+    "timeWeek": 1433,
+    "timeMonth": 1736,
     "timeYear": 1611,
     "dailyMinutesDown": {
       "2024-10-28": 251,
@@ -228,14 +228,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "55.97%",
+    "uptimeYear": "55.96%",
     "time": 3004,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 3210,
     "dailyMinutesDown": {
-      "2024-10-28": 1422,
+      "2024-10-29": 26,
+      "2024-10-28": 1440,
       "2024-10-27": 1440,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
@@ -457,10 +458,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
     "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "95.93%",
+    "uptime": "99.69%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "95.95%",
     "uptimeYear": "99.16%",
     "time": 5746,
     "timeDay": 708,
@@ -468,7 +469,6 @@
     "timeMonth": 837,
     "timeYear": 5884,
     "dailyMinutesDown": {
-      "2024-10-28": 9,
       "2024-10-25": 18,
       "2024-10-23": 29,
       "2024-10-18": 34,
@@ -516,7 +516,7 @@
       "2024-07-27": 97,
       "2024-07-26": 52,
       "2024-07-25": 32,
-      "2024-07-24": 27
+      "2024-07-24": 57
     }
   },
   {
@@ -1010,8 +1010,7 @@
       "2023-11-04": 32,
       "2023-11-03": 19,
       "2023-11-01": 109,
-      "2023-10-31": 89,
-      "2023-10-30": 19
+      "2023-10-31": 89
     }
   },
   {
@@ -1196,14 +1195,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "66.12%",
+    "uptimeYear": "66.11%",
     "time": 1167,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1264,
     "dailyMinutesDown": {
-      "2024-10-28": 1424,
+      "2024-10-29": 27,
+      "2024-10-28": 1440,
       "2024-10-27": 1440,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
@@ -1530,10 +1530,10 @@
     "slug": "japan-exisiting-database",
     "status": "up",
     "uptime": "99.05%",
-    "uptimeDay": "89.63%",
+    "uptimeDay": "92.60%",
     "uptimeWeek": "61.36%",
     "uptimeMonth": "90.63%",
-    "uptimeYear": "98.93%",
+    "uptimeYear": "98.94%",
     "time": 890,
     "timeDay": 989,
     "timeWeek": 915,
@@ -1545,8 +1545,7 @@
       "2024-10-26": 1440,
       "2024-10-25": 881,
       "2024-10-13": 209,
-      "2024-08-20": 18,
-      "2023-10-30": 45
+      "2024-08-20": 18
     }
   },
   {
@@ -1655,7 +1654,8 @@
     "timeMonth": 1478,
     "timeYear": 1704,
     "dailyMinutesDown": {
-      "2024-10-28": 1424,
+      "2024-10-29": 27,
+      "2024-10-28": 1440,
       "2024-10-27": 1440,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
