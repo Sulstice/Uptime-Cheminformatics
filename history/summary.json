@@ -197,9 +197,9 @@
     "slug": "chem-exper",
     "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "84.79%",
-    "uptimeWeek": "86.11%",
-    "uptimeMonth": "94.30%",
+    "uptimeDay": "83.27%",
+    "uptimeWeek": "85.89%",
+    "uptimeMonth": "94.25%",
     "uptimeYear": "99.52%",
     "time": 1614,
     "timeDay": 1114,
@@ -207,7 +207,7 @@
     "timeMonth": 1699,
     "timeYear": 1605,
     "dailyMinutesDown": {
-      "2024-10-30": 137,
+      "2024-10-30": 159,
       "2024-10-29": 239,
       "2024-10-28": 251,
       "2024-10-27": 157,
@@ -239,7 +239,7 @@
     "timeMonth": 0,
     "timeYear": 3215,
     "dailyMinutesDown": {
-      "2024-10-30": 751,
+      "2024-10-30": 773,
       "2024-10-29": 1440,
       "2024-10-28": 1440,
       "2024-10-27": 1440,
@@ -1073,18 +1073,19 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.69%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "96.36%",
     "uptimeYear": "98.00%",
     "time": 3954,
     "timeDay": 1630,
-    "timeWeek": 2906,
+    "timeWeek": 2981,
     "timeMonth": 5306,
     "timeYear": 3502,
     "dailyMinutesDown": {
+      "2024-10-30": 3,
       "2024-10-29": 15,
       "2024-10-23": 19,
       "2024-10-21": 15,
@@ -1163,8 +1164,7 @@
       "2024-05-31": 207,
       "2024-05-30": 22,
       "2024-05-29": 19,
-      "2024-05-28": 39,
-      "2024-05-27": 15
+      "2024-05-28": 39
     }
   },
   {
@@ -1206,7 +1206,7 @@
     "timeMonth": 0,
     "timeYear": 1264,
     "dailyMinutesDown": {
-      "2024-10-30": 753,
+      "2024-10-30": 774,
       "2024-10-29": 1440,
       "2024-10-28": 1440,
       "2024-10-27": 1440,
@@ -1659,7 +1659,7 @@
     "timeMonth": 1458,
     "timeYear": 1702,
     "dailyMinutesDown": {
-      "2024-10-30": 753,
+      "2024-10-30": 775,
       "2024-10-29": 1440,
       "2024-10-28": 1440,
       "2024-10-27": 1440,
