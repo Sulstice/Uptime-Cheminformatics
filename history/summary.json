@@ -195,19 +195,20 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "83.60%",
-    "uptimeWeek": "85.56%",
-    "uptimeMonth": "94.14%",
+    "uptimeDay": "84.76%",
+    "uptimeWeek": "85.63%",
+    "uptimeMonth": "94.16%",
     "uptimeYear": "99.51%",
     "time": 1599,
-    "timeDay": 793,
+    "timeDay": 806,
     "timeWeek": 943,
-    "timeMonth": 1656,
+    "timeMonth": 1658,
     "timeYear": 1591,
     "dailyMinutesDown": {
-      "2024-11-01": 229,
+      "2024-11-02": 1,
+      "2024-11-01": 221,
       "2024-10-31": 205,
       "2024-10-30": 245,
       "2024-10-29": 239,
@@ -239,7 +240,8 @@
     "timeMonth": 0,
     "timeYear": 3232,
     "dailyMinutesDown": {
-      "2024-11-01": 1429,
+      "2024-11-02": 27,
+      "2024-11-01": 1440,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
@@ -836,8 +838,7 @@
       "2023-11-10": 936,
       "2023-11-06": 151,
       "2023-11-05": 1440,
-      "2023-11-04": 1440,
-      "2023-11-03": 1440
+      "2023-11-04": 1440
     }
   },
   {
@@ -904,10 +905,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/xundrug.cn.ico",
     "slug": "drug-safety-analysis-system",
     "status": "down",
-    "uptime": "99.17%",
-    "uptimeDay": "58.94%",
-    "uptimeWeek": "85.05%",
-    "uptimeMonth": "96.56%",
+    "uptime": "99.16%",
+    "uptimeDay": "56.29%",
+    "uptimeWeek": "84.68%",
+    "uptimeMonth": "96.47%",
     "uptimeYear": "98.56%",
     "time": 1116,
     "timeDay": 789,
@@ -915,7 +916,8 @@
     "timeMonth": 900,
     "timeYear": 1016,
     "dailyMinutesDown": {
-      "2024-11-01": 591,
+      "2024-11-02": 28,
+      "2024-11-01": 602,
       "2024-10-31": 438,
       "2024-10-30": 477,
       "2024-05-19": 37,
@@ -1017,8 +1019,7 @@
       "2023-11-14": 37,
       "2023-11-13": 75,
       "2023-11-05": 35,
-      "2023-11-04": 32,
-      "2023-11-03": 19
+      "2023-11-04": 32
     }
   },
   {
@@ -1210,7 +1211,8 @@
     "timeMonth": 0,
     "timeYear": 1273,
     "dailyMinutesDown": {
-      "2024-11-01": 1430,
+      "2024-11-02": 28,
+      "2024-11-01": 1440,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
@@ -1542,7 +1544,7 @@
     "status": "up",
     "uptime": "99.06%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "70.01%",
+    "uptimeWeek": "70.38%",
     "uptimeMonth": "90.63%",
     "uptimeYear": "99.22%",
     "time": 891,
@@ -1591,7 +1593,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.77%",
+    "uptimeYear": "98.78%",
     "time": 622,
     "timeDay": 600,
     "timeWeek": 601,
@@ -1621,8 +1623,7 @@
       "2023-11-17": 274,
       "2023-11-16": 31,
       "2023-11-15": 21,
-      "2023-11-14": 17,
-      "2023-11-03": 326
+      "2023-11-14": 17
     }
   },
   {
@@ -1652,18 +1653,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heterocycles.jp.ico",
     "slug": "hetereocycles",
     "status": "down",
-    "uptime": "69.49%",
+    "uptime": "69.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "16.00%",
+    "uptimeYear": "15.99%",
     "time": 2114,
     "timeDay": 1448,
     "timeWeek": 1461,
     "timeMonth": 1469,
     "timeYear": 1690,
     "dailyMinutesDown": {
-      "2024-11-01": 1430,
+      "2024-11-02": 28,
+      "2024-11-01": 1440,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
