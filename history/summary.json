@@ -203,7 +203,7 @@
     "time": 1567,
     "timeDay": 1143,
     "timeWeek": 983,
-    "timeMonth": 1644,
+    "timeMonth": 1646,
     "timeYear": 1567,
     "dailyMinutesDown": {
       "2024-11-09": 112,
@@ -234,14 +234,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.92%",
+    "uptimeYear": "52.91%",
     "time": 3032,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 3262,
     "dailyMinutesDown": {
-      "2024-11-09": 184,
+      "2024-11-09": 211,
       "2024-11-08": 1440,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
@@ -476,9 +476,9 @@
     "slug": "binding-database",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "98.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "98.94%",
     "uptimeYear": "99.16%",
     "time": 5648,
     "timeDay": 770,
@@ -486,7 +486,6 @@
     "timeMonth": 1046,
     "timeYear": 5803,
     "dailyMinutesDown": {
-      "2024-11-09": 12,
       "2024-11-05": 17,
       "2024-11-02": 53,
       "2024-11-01": 18,
@@ -535,7 +534,7 @@
       "2024-07-30": 132,
       "2024-07-29": 153,
       "2024-07-28": 259,
-      "2024-07-27": 75
+      "2024-07-27": 97
     }
   },
   {
@@ -833,17 +832,17 @@
     "slug": "amed-cardiotoxicity-database",
     "status": "down",
     "uptime": "99.00%",
-    "uptimeDay": "23.63%",
-    "uptimeWeek": "89.09%",
-    "uptimeMonth": "97.49%",
-    "uptimeYear": "99.07%",
+    "uptimeDay": "21.75%",
+    "uptimeWeek": "88.82%",
+    "uptimeMonth": "97.43%",
+    "uptimeYear": "99.06%",
     "time": 1080,
     "timeDay": 0,
     "timeWeek": 958,
     "timeMonth": 1064,
     "timeYear": 1074,
     "dailyMinutesDown": {
-      "2024-11-09": 185,
+      "2024-11-09": 212,
       "2024-11-08": 915,
       "2023-11-12": 1438,
       "2023-11-11": 1440
@@ -1085,18 +1084,19 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "98.89%",
-    "uptimeWeek": "99.02%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "98.99%",
     "uptimeMonth": "98.19%",
     "uptimeYear": "97.98%",
-    "time": 3833,
+    "time": 3836,
     "timeDay": 1550,
-    "timeWeek": 2713,
+    "timeWeek": 2760,
     "timeMonth": 4811,
     "timeYear": 3050,
     "dailyMinutesDown": {
+      "2024-11-09": 2,
       "2024-11-08": 16,
       "2024-11-07": 83,
       "2024-10-31": 99,
@@ -1175,8 +1175,7 @@
       "2024-06-08": 36,
       "2024-06-07": 35,
       "2024-06-04": 22,
-      "2024-05-31": 207,
-      "2024-05-30": 22
+      "2024-05-31": 207
     }
   },
   {
@@ -1218,7 +1217,7 @@
     "timeMonth": 0,
     "timeYear": 1265,
     "dailyMinutesDown": {
-      "2024-11-09": 185,
+      "2024-11-09": 212,
       "2024-11-08": 1440,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
@@ -1680,7 +1679,7 @@
     "timeMonth": 1421,
     "timeYear": 1663,
     "dailyMinutesDown": {
-      "2024-11-09": 186,
+      "2024-11-09": 213,
       "2024-11-08": 1440,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
