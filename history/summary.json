@@ -201,8 +201,8 @@
     "uptimeMonth": "93.30%",
     "uptimeYear": "99.44%",
     "time": 1559,
-    "timeDay": 726,
-    "timeWeek": 885,
+    "timeDay": 736,
+    "timeWeek": 887,
     "timeMonth": 1587,
     "timeYear": 1558,
     "dailyMinutesDown": {
@@ -233,14 +233,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.14%",
+    "uptimeYear": "52.13%",
     "time": 3036,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 3285,
     "dailyMinutesDown": {
-      "2024-11-11": 1401,
+      "2024-11-12": 25,
+      "2024-11-11": 1440,
       "2024-11-10": 1440,
       "2024-11-09": 1440,
       "2024-11-08": 1440,
@@ -456,18 +457,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/go.drugbank.com.ico",
     "slug": "drug-bank",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "90.13%",
-    "uptimeWeek": "98.59%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.96%",
+    "uptimeDay": "85.67%",
+    "uptimeWeek": "97.95%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.96%",
     "time": 348,
     "timeDay": 83,
     "timeWeek": 296,
     "timeMonth": 368,
     "timeYear": 358,
     "dailyMinutesDown": {
-      "2024-11-11": 142,
+      "2024-11-12": 25,
+      "2024-11-11": 181,
       "2024-05-16": 29
     }
   },
@@ -834,10 +836,10 @@
     "slug": "amed-cardiotoxicity-database",
     "status": "up",
     "uptime": "98.82%",
-    "uptimeDay": "95.07%",
+    "uptimeDay": "99.54%",
     "uptimeWeek": "62.03%",
     "uptimeMonth": "91.26%",
-    "uptimeYear": "98.99%",
+    "uptimeYear": "99.00%",
     "time": 1080,
     "timeDay": 1204,
     "timeWeek": 1079,
@@ -1026,8 +1028,7 @@
       "2023-12-16": 15,
       "2023-12-04": 22,
       "2023-12-02": 143,
-      "2023-11-14": 37,
-      "2023-11-13": 75
+      "2023-11-14": 37
     }
   },
   {
@@ -1212,14 +1213,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "62.36%",
+    "uptimeYear": "62.34%",
     "time": 1173,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1276,
     "dailyMinutesDown": {
-      "2024-11-11": 1402,
+      "2024-11-12": 27,
+      "2024-11-11": 1440,
       "2024-11-10": 1440,
       "2024-11-09": 1440,
       "2024-11-08": 1440,
@@ -1671,18 +1673,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heterocycles.jp.ico",
     "slug": "hetereocycles",
     "status": "down",
-    "uptime": "68.81%",
+    "uptime": "68.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "13.26%",
+    "uptimeYear": "13.25%",
     "time": 2071,
     "timeDay": 1474,
     "timeWeek": 1475,
     "timeMonth": 1425,
     "timeYear": 1648,
     "dailyMinutesDown": {
-      "2024-11-11": 1403,
+      "2024-11-12": 27,
+      "2024-11-11": 1440,
       "2024-11-10": 1440,
       "2024-11-09": 1440,
       "2024-11-08": 1440,
@@ -2008,17 +2011,17 @@
     "slug": "chemical-resolver",
     "status": "up",
     "uptime": "98.82%",
-    "uptimeDay": "62.62%",
-    "uptimeWeek": "90.08%",
-    "uptimeMonth": "95.30%",
-    "uptimeYear": "96.69%",
+    "uptimeDay": "67.84%",
+    "uptimeWeek": "90.27%",
+    "uptimeMonth": "95.32%",
+    "uptimeYear": "96.68%",
     "time": 1308,
     "timeDay": 224,
-    "timeWeek": 2192,
+    "timeWeek": 2344,
     "timeMonth": 3441,
     "timeYear": 1327,
     "dailyMinutesDown": {
-      "2024-11-11": 501,
+      "2024-11-11": 490,
       "2024-11-10": 206,
       "2024-11-08": 47,
       "2024-11-07": 47,
@@ -2102,7 +2105,8 @@
       "2024-06-10": 39,
       "2024-06-09": 47,
       "2024-06-08": 45,
-      "2024-06-07": 37
+      "2024-06-07": 37,
+      "2024-06-06": 50
     }
   },
   {
@@ -2190,8 +2194,7 @@
       "2023-11-30": 33,
       "2023-11-29": 42,
       "2023-11-18": 25,
-      "2023-11-17": 1,
-      "2023-11-13": 217
+      "2023-11-17": 1
     }
   },
   {
@@ -2219,8 +2222,7 @@
       "2024-03-08": 110,
       "2024-01-22": 18,
       "2023-12-03": 61,
-      "2023-11-14": 22,
-      "2023-11-13": 10
+      "2023-11-14": 22
     }
   },
   {
