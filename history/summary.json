@@ -196,9 +196,9 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "89.00%",
-    "uptimeWeek": "85.99%",
-    "uptimeMonth": "93.29%",
+    "uptimeDay": "89.62%",
+    "uptimeWeek": "86.08%",
+    "uptimeMonth": "93.27%",
     "uptimeYear": "99.44%",
     "time": 1558,
     "timeDay": 945,
@@ -206,7 +206,7 @@
     "timeMonth": 1555,
     "timeYear": 1555,
     "dailyMinutesDown": {
-      "2024-11-12": 37,
+      "2024-11-12": 28,
       "2024-11-11": 211,
       "2024-11-10": 240,
       "2024-11-09": 281,
@@ -221,7 +221,7 @@
       "2024-10-31": 205,
       "2024-10-30": 245,
       "2024-10-29": 239,
-      "2024-10-28": 64
+      "2024-10-28": 83
     }
   },
   {
@@ -234,14 +234,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "51.98%",
+    "uptimeYear": "51.97%",
     "time": 3036,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 3285,
     "dailyMinutesDown": {
-      "2024-11-12": 822,
+      "2024-11-12": 832,
       "2024-11-11": 1440,
       "2024-11-10": 1440,
       "2024-11-09": 1440,
@@ -459,9 +459,9 @@
     "slug": "drug-bank",
     "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "30.35%",
-    "uptimeWeek": "90.05%",
-    "uptimeMonth": "97.71%",
+    "uptimeDay": "29.61%",
+    "uptimeWeek": "89.94%",
+    "uptimeMonth": "97.69%",
     "uptimeYear": "99.80%",
     "time": 348,
     "timeDay": 83,
@@ -469,7 +469,7 @@
     "timeMonth": 368,
     "timeYear": 358,
     "dailyMinutesDown": {
-      "2024-11-12": 822,
+      "2024-11-12": 832,
       "2024-11-11": 181,
       "2024-05-16": 29
     }
@@ -842,7 +842,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "62.03%",
     "uptimeMonth": "91.26%",
-    "uptimeYear": "99.15%",
+    "uptimeYear": "99.16%",
     "time": 1080,
     "timeDay": 1224,
     "timeWeek": 1079,
@@ -1223,7 +1223,7 @@
     "timeMonth": 0,
     "timeYear": 1276,
     "dailyMinutesDown": {
-      "2024-11-12": 823,
+      "2024-11-12": 833,
       "2024-11-11": 1440,
       "2024-11-10": 1440,
       "2024-11-09": 1440,
@@ -1687,7 +1687,7 @@
     "timeMonth": 1425,
     "timeYear": 1648,
     "dailyMinutesDown": {
-      "2024-11-12": 823,
+      "2024-11-12": 834,
       "2024-11-11": 1440,
       "2024-11-10": 1440,
       "2024-11-09": 1440,
@@ -2012,19 +2012,19 @@
     "url": "https://cactus.nci.nih.gov/chemical/structure",
     "icon": "https://icons.duckduckgo.com/ip3/cactus.nci.nih.gov.ico",
     "slug": "chemical-resolver",
-    "status": "up",
+    "status": "down",
     "uptime": "98.81%",
-    "uptimeDay": "90.36%",
-    "uptimeWeek": "88.89%",
-    "uptimeMonth": "95.01%",
+    "uptimeDay": "90.12%",
+    "uptimeWeek": "88.85%",
+    "uptimeMonth": "95.00%",
     "uptimeYear": "96.67%",
-    "time": 1318,
+    "time": 1315,
     "timeDay": 5891,
     "timeWeek": 3131,
     "timeMonth": 3603,
     "timeYear": 1343,
     "dailyMinutesDown": {
-      "2024-11-12": 139,
+      "2024-11-12": 142,
       "2024-11-11": 490,
       "2024-11-10": 206,
       "2024-11-08": 47,
@@ -2108,8 +2108,7 @@
       "2024-06-11": 38,
       "2024-06-10": 39,
       "2024-06-09": 47,
-      "2024-06-08": 45,
-      "2024-06-07": 37
+      "2024-06-08": 45
     }
   },
   {
