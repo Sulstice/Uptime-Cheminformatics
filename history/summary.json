@@ -203,7 +203,7 @@
     "time": 1554,
     "timeDay": 597,
     "timeWeek": 813,
-    "timeMonth": 1464,
+    "timeMonth": 1465,
     "timeYear": 1549,
     "dailyMinutesDown": {
       "2024-11-13": 109,
@@ -241,7 +241,7 @@
     "timeMonth": 0,
     "timeYear": 3285,
     "dailyMinutesDown": {
-      "2024-11-13": 1284,
+      "2024-11-13": 1293,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
       "2024-11-10": 1440,
@@ -461,16 +461,16 @@
     "status": "down",
     "uptime": "99.79%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "71.93%",
-    "uptimeMonth": "93.54%",
-    "uptimeYear": "99.46%",
+    "uptimeWeek": "71.84%",
+    "uptimeMonth": "93.52%",
+    "uptimeYear": "99.45%",
     "time": 341,
     "timeDay": 139,
     "timeWeek": 264,
     "timeMonth": 355,
     "timeYear": 356,
     "dailyMinutesDown": {
-      "2024-11-13": 1284,
+      "2024-11-13": 1293,
       "2024-11-12": 1365,
       "2024-11-11": 181,
       "2024-05-16": 29
@@ -1091,19 +1091,19 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "88.48%",
-    "uptimeWeek": "97.10%",
-    "uptimeMonth": "97.86%",
+    "uptimeDay": "88.29%",
+    "uptimeWeek": "97.07%",
+    "uptimeMonth": "97.85%",
     "uptimeYear": "97.99%",
-    "time": 3768,
+    "time": 3771,
     "timeDay": 17992,
     "timeWeek": 4003,
     "timeMonth": 5151,
     "timeYear": 3100,
     "dailyMinutesDown": {
-      "2024-11-13": 166,
+      "2024-11-13": 169,
       "2024-11-10": 28,
       "2024-11-08": 16,
       "2024-11-07": 83,
@@ -1181,7 +1181,7 @@
       "2024-06-10": 53,
       "2024-06-09": 68,
       "2024-06-08": 36,
-      "2024-06-07": 35
+      "2024-06-07": 17
     }
   },
   {
@@ -1223,7 +1223,7 @@
     "timeMonth": 0,
     "timeYear": 1276,
     "dailyMinutesDown": {
-      "2024-11-13": 1285,
+      "2024-11-13": 1294,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
       "2024-11-10": 1440,
@@ -1686,7 +1686,7 @@
     "timeMonth": 1414,
     "timeYear": 1647,
     "dailyMinutesDown": {
-      "2024-11-13": 1285,
+      "2024-11-13": 1294,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
       "2024-11-10": 1440,
