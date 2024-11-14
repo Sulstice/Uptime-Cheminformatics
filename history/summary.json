@@ -194,11 +194,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "92.41%",
+    "uptimeDay": "92.36%",
     "uptimeWeek": "87.34%",
-    "uptimeMonth": "93.35%",
+    "uptimeMonth": "93.38%",
     "uptimeYear": "99.45%",
     "time": 1554,
     "timeDay": 578,
@@ -206,6 +206,7 @@
     "timeMonth": 1455,
     "timeYear": 1548,
     "dailyMinutesDown": {
+      "2024-11-14": 1,
       "2024-11-13": 109,
       "2024-11-12": 44,
       "2024-11-11": 211,
@@ -221,7 +222,7 @@
       "2024-11-01": 221,
       "2024-10-31": 205,
       "2024-10-30": 245,
-      "2024-10-29": 164
+      "2024-10-29": 146
     }
   },
   {
@@ -241,7 +242,7 @@
     "timeMonth": 0,
     "timeYear": 3290,
     "dailyMinutesDown": {
-      "2024-11-14": 25,
+      "2024-11-14": 36,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
@@ -462,8 +463,8 @@
     "status": "down",
     "uptime": "99.77%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "70.14%",
-    "uptimeMonth": "93.13%",
+    "uptimeWeek": "70.03%",
+    "uptimeMonth": "93.10%",
     "uptimeYear": "99.42%",
     "time": 340,
     "timeDay": 123,
@@ -471,7 +472,7 @@
     "timeMonth": 345,
     "timeYear": 356,
     "dailyMinutesDown": {
-      "2024-11-14": 25,
+      "2024-11-14": 36,
       "2024-11-13": 1440,
       "2024-11-12": 1365,
       "2024-11-11": 181,
@@ -1218,14 +1219,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "61.80%",
+    "uptimeYear": "61.79%",
     "time": 1174,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1278,
     "dailyMinutesDown": {
-      "2024-11-14": 26,
+      "2024-11-14": 37,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
@@ -1688,7 +1689,7 @@
     "timeMonth": 1409,
     "timeYear": 1643,
     "dailyMinutesDown": {
-      "2024-11-14": 26,
+      "2024-11-14": 37,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
