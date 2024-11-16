@@ -1,7 +1,7 @@
 url: http://csbg.cnb.csic.es/mbrole2/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-16T00:08:53.048Z
+status: up
+code: 200
+responseTime: 626
+lastUpdated: 2024-11-16T01:39:43.466Z
 startTime: 2022-01-24T23:06:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
