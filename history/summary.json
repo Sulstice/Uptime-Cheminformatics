@@ -196,9 +196,9 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "90.26%",
-    "uptimeWeek": "88.62%",
-    "uptimeMonth": "93.40%",
+    "uptimeDay": "93.16%",
+    "uptimeWeek": "89.07%",
+    "uptimeMonth": "93.37%",
     "uptimeYear": "99.45%",
     "time": 1543,
     "timeDay": 932,
@@ -206,7 +206,7 @@
     "timeMonth": 1320,
     "timeYear": 1539,
     "dailyMinutesDown": {
-      "2024-11-16": 134,
+      "2024-11-16": 126,
       "2024-11-15": 168,
       "2024-11-14": 229,
       "2024-11-13": 109,
@@ -222,7 +222,7 @@
       "2024-11-03": 203,
       "2024-11-02": 134,
       "2024-11-01": 221,
-      "2024-10-31": 59
+      "2024-10-31": 78
     }
   },
   {
@@ -231,7 +231,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nmrshiftdb.nmr.uni-koeln.de.ico",
     "slug": "nmr-shift-database",
     "status": "down",
-    "uptime": "82.51%",
+    "uptime": "82.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -242,7 +242,8 @@
     "timeMonth": 0,
     "timeYear": 3330,
     "dailyMinutesDown": {
-      "2024-11-16": 1431,
+      "2024-11-17": 28,
+      "2024-11-16": 1440,
       "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
@@ -463,18 +464,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/go.drugbank.com.ico",
     "slug": "drug-bank",
     "status": "down",
-    "uptime": "99.49%",
+    "uptime": "99.48%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "27.61%",
-    "uptimeMonth": "83.34%",
-    "uptimeYear": "98.61%",
+    "uptimeWeek": "27.24%",
+    "uptimeMonth": "83.26%",
+    "uptimeYear": "98.60%",
     "time": 340,
     "timeDay": 51,
     "timeWeek": 169,
     "timeMonth": 324,
     "timeYear": 354,
     "dailyMinutesDown": {
-      "2024-11-16": 1431,
+      "2024-11-17": 28,
+      "2024-11-16": 1440,
       "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
@@ -848,7 +850,7 @@
     "status": "up",
     "uptime": "98.83%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "85.31%",
+    "uptimeWeek": "85.68%",
     "uptimeMonth": "91.26%",
     "uptimeYear": "99.27%",
     "time": 1060,
@@ -978,12 +980,12 @@
     "slug": "metabolites-biological-role",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "56.54%",
+    "uptimeDay": "58.06%",
     "uptimeWeek": "90.14%",
     "uptimeMonth": "97.49%",
     "uptimeYear": "98.72%",
     "time": 1344,
-    "timeDay": 4572,
+    "timeDay": 4883,
     "timeWeek": 4636,
     "timeMonth": 2928,
     "timeYear": 1439,
@@ -1230,7 +1232,8 @@
     "timeMonth": 0,
     "timeYear": 1277,
     "dailyMinutesDown": {
-      "2024-11-16": 1432,
+      "2024-11-17": 29,
+      "2024-11-16": 1440,
       "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
@@ -1545,8 +1548,7 @@
       "2023-11-22": 1029,
       "2023-11-21": 947,
       "2023-11-20": 248,
-      "2023-11-19": 489,
-      "2023-11-18": 93
+      "2023-11-19": 489
     }
   },
   {
@@ -1649,8 +1651,7 @@
       "2023-12-14": 91,
       "2023-11-21": 102,
       "2023-11-20": 245,
-      "2023-11-19": 46,
-      "2023-11-18": 144
+      "2023-11-19": 46
     }
   },
   {
@@ -1685,14 +1686,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "11.89%",
+    "uptimeYear": "11.88%",
     "time": 2053,
     "timeDay": 1668,
     "timeWeek": 1492,
     "timeMonth": 1421,
     "timeYear": 1624,
     "dailyMinutesDown": {
-      "2024-11-16": 1432,
+      "2024-11-17": 30,
+      "2024-11-16": 1440,
       "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
@@ -2023,17 +2025,18 @@
     "slug": "chemical-resolver",
     "status": "down",
     "uptime": "98.79%",
-    "uptimeDay": "81.67%",
-    "uptimeWeek": "87.07%",
-    "uptimeMonth": "94.42%",
-    "uptimeYear": "96.61%",
+    "uptimeDay": "79.09%",
+    "uptimeWeek": "86.70%",
+    "uptimeMonth": "94.34%",
+    "uptimeYear": "96.60%",
     "time": 1325,
     "timeDay": 15129,
     "timeWeek": 5686,
     "timeMonth": 3957,
     "timeYear": 1386,
     "dailyMinutesDown": {
-      "2024-11-16": 264,
+      "2024-11-17": 30,
+      "2024-11-16": 271,
       "2024-11-15": 106,
       "2024-11-14": 38,
       "2024-11-13": 60,
@@ -2204,8 +2207,7 @@
       "2023-12-20": 1221,
       "2023-12-19": 30,
       "2023-11-30": 33,
-      "2023-11-29": 42,
-      "2023-11-18": 25
+      "2023-11-29": 42
     }
   },
   {
