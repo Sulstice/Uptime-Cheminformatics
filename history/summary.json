@@ -194,19 +194,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "83.25%",
+    "uptimeDay": "83.19%",
     "uptimeWeek": "87.72%",
-    "uptimeMonth": "93.33%",
-    "uptimeYear": "99.44%",
+    "uptimeMonth": "93.38%",
+    "uptimeYear": "99.45%",
     "time": 1540,
     "timeDay": 1040,
     "timeWeek": 885,
     "timeMonth": 1241,
     "timeYear": 1536,
     "dailyMinutesDown": {
-      "2024-11-18": 186,
+      "2024-11-18": 187,
       "2024-11-17": 225,
       "2024-11-16": 126,
       "2024-11-15": 168,
@@ -222,7 +222,7 @@
       "2024-11-05": 249,
       "2024-11-04": 35,
       "2024-11-03": 203,
-      "2024-11-02": 41
+      "2024-11-02": 19
     }
   },
   {
@@ -242,7 +242,7 @@
     "timeMonth": 0,
     "timeYear": 3341,
     "dailyMinutesDown": {
-      "2024-11-18": 631,
+      "2024-11-18": 644,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
@@ -467,8 +467,8 @@
     "status": "down",
     "uptime": "99.35%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "6.97%",
-    "uptimeMonth": "78.59%",
+    "uptimeWeek": "6.85%",
+    "uptimeMonth": "78.57%",
     "uptimeYear": "98.21%",
     "time": 339,
     "timeDay": 83,
@@ -476,7 +476,7 @@
     "timeMonth": 315,
     "timeYear": 353,
     "dailyMinutesDown": {
-      "2024-11-18": 632,
+      "2024-11-18": 644,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
@@ -501,7 +501,7 @@
     "time": 5640,
     "timeDay": 737,
     "timeWeek": 726,
-    "timeMonth": 1012,
+    "timeMonth": 991,
     "timeYear": 5755,
     "dailyMinutesDown": {
       "2024-11-18": 16,
@@ -1234,7 +1234,7 @@
     "timeMonth": 0,
     "timeYear": 1280,
     "dailyMinutesDown": {
-      "2024-11-18": 633,
+      "2024-11-18": 645,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
@@ -1683,7 +1683,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heterocycles.jp.ico",
     "slug": "hetereocycles",
     "status": "down",
-    "uptime": "68.38%",
+    "uptime": "68.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1694,7 +1694,7 @@
     "timeMonth": 1434,
     "timeYear": 1619,
     "dailyMinutesDown": {
-      "2024-11-18": 633,
+      "2024-11-18": 646,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
