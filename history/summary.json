@@ -194,19 +194,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "81.48%",
-    "uptimeWeek": "88.04%",
-    "uptimeMonth": "93.38%",
+    "status": "down",
+    "uptime": "99.81%",
+    "uptimeDay": "81.42%",
+    "uptimeWeek": "88.03%",
+    "uptimeMonth": "93.43%",
     "uptimeYear": "99.45%",
     "time": 1539,
-    "timeDay": 1084,
+    "timeDay": 1099,
     "timeWeek": 877,
-    "timeMonth": 1212,
+    "timeMonth": 1206,
     "timeYear": 1535,
     "dailyMinutesDown": {
-      "2024-11-18": 268,
+      "2024-11-18": 269,
       "2024-11-17": 225,
       "2024-11-16": 126,
       "2024-11-15": 168,
@@ -221,7 +221,7 @@
       "2024-11-06": 169,
       "2024-11-05": 249,
       "2024-11-04": 35,
-      "2024-11-03": 143
+      "2024-11-03": 117
     }
   },
   {
@@ -241,7 +241,7 @@
     "timeMonth": 0,
     "timeYear": 3341,
     "dailyMinutesDown": {
-      "2024-11-18": 1151,
+      "2024-11-18": 1163,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
@@ -466,8 +466,8 @@
     "status": "down",
     "uptime": "99.31%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "1.82%",
-    "uptimeMonth": "77.41%",
+    "uptimeWeek": "1.70%",
+    "uptimeMonth": "77.38%",
     "uptimeYear": "98.11%",
     "time": 339,
     "timeDay": 83,
@@ -475,7 +475,7 @@
     "timeMonth": 315,
     "timeYear": 353,
     "dailyMinutesDown": {
-      "2024-11-18": 1151,
+      "2024-11-18": 1163,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
@@ -492,10 +492,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
     "status": "up",
-    "uptime": "99.71%",
-    "uptimeDay": "96.79%",
-    "uptimeWeek": "99.08%",
-    "uptimeMonth": "99.35%",
+    "uptime": "99.70%",
+    "uptimeDay": "97.53%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.38%",
     "uptimeYear": "99.17%",
     "time": 5640,
     "timeDay": 708,
@@ -503,7 +503,7 @@
     "timeMonth": 989,
     "timeYear": 5750,
     "dailyMinutesDown": {
-      "2024-11-18": 47,
+      "2024-11-18": 36,
       "2024-11-13": 16,
       "2024-11-12": 31,
       "2024-11-11": 27,
@@ -554,7 +554,7 @@
       "2024-08-01": 46,
       "2024-07-30": 132,
       "2024-07-29": 153,
-      "2024-07-28": 192
+      "2024-07-28": 215
     }
   },
   {
@@ -1233,7 +1233,7 @@
     "timeMonth": 0,
     "timeYear": 1280,
     "dailyMinutesDown": {
-      "2024-11-18": 1152,
+      "2024-11-18": 1164,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
@@ -1693,7 +1693,7 @@
     "timeMonth": 1434,
     "timeYear": 1619,
     "dailyMinutesDown": {
-      "2024-11-18": 1153,
+      "2024-11-18": 1164,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
