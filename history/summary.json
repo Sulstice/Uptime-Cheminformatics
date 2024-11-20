@@ -193,19 +193,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "79.61%",
-    "uptimeWeek": "85.13%",
-    "uptimeMonth": "93.55%",
-    "uptimeYear": "99.46%",
+    "uptimeDay": "79.55%",
+    "uptimeWeek": "85.22%",
+    "uptimeMonth": "93.63%",
+    "uptimeYear": "99.47%",
     "time": 1532,
     "timeDay": 671,
-    "timeWeek": 837,
-    "timeMonth": 1107,
+    "timeWeek": 839,
+    "timeMonth": 1103,
     "timeYear": 1532,
     "dailyMinutesDown": {
-      "2024-11-20": 116,
+      "2024-11-20": 117,
       "2024-11-19": 294,
       "2024-11-18": 300,
       "2024-11-17": 225,
@@ -219,7 +219,7 @@
       "2024-11-09": 281,
       "2024-11-08": 185,
       "2024-11-07": 220,
-      "2024-11-06": 83
+      "2024-11-06": 44
     }
   },
   {
@@ -239,7 +239,7 @@
     "timeMonth": 0,
     "timeYear": 3347,
     "dailyMinutesDown": {
-      "2024-11-20": 574,
+      "2024-11-20": 593,
       "2024-11-19": 1440,
       "2024-11-18": 1440,
       "2024-11-17": 1440,
@@ -467,7 +467,7 @@
     "uptime": "99.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "72.15%",
+    "uptimeMonth": "72.11%",
     "uptimeYear": "97.67%",
     "time": 338,
     "timeDay": 88,
@@ -475,7 +475,7 @@
     "timeMonth": 298,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2024-11-20": 574,
+      "2024-11-20": 593,
       "2024-11-19": 1440,
       "2024-11-18": 1440,
       "2024-11-17": 1440,
@@ -495,17 +495,16 @@
     "slug": "binding-database",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.02%",
-    "uptimeMonth": "99.27%",
-    "uptimeYear": "99.19%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.18%",
     "time": 5640,
     "timeDay": 1383,
     "timeWeek": 1164,
     "timeMonth": 1060,
     "timeYear": 5730,
     "dailyMinutesDown": {
-      "2024-11-20": 11,
       "2024-11-19": 30,
       "2024-11-18": 42,
       "2024-11-13": 16,
@@ -558,7 +557,7 @@
       "2024-08-01": 46,
       "2024-07-30": 132,
       "2024-07-29": 153,
-      "2024-07-28": 52
+      "2024-07-28": 133
     }
   },
   {
@@ -1061,7 +1060,7 @@
     "time": 726,
     "timeDay": 256,
     "timeWeek": 743,
-    "timeMonth": 1613,
+    "timeMonth": 1072,
     "timeYear": 825,
     "dailyMinutesDown": {
       "2024-10-20": 107,
@@ -1224,7 +1223,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cfpub.epa.gov.ico",
     "slug": "ecology-toxicity",
     "status": "down",
-    "uptime": "85.68%",
+    "uptime": "85.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1235,7 +1234,7 @@
     "timeMonth": 0,
     "timeYear": 1283,
     "dailyMinutesDown": {
-      "2024-11-20": 575,
+      "2024-11-20": 594,
       "2024-11-19": 1440,
       "2024-11-18": 1440,
       "2024-11-17": 1440,
@@ -1682,7 +1681,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heterocycles.jp.ico",
     "slug": "hetereocycles",
     "status": "down",
-    "uptime": "68.25%",
+    "uptime": "68.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1693,7 +1692,7 @@
     "timeMonth": 1424,
     "timeYear": 1611,
     "dailyMinutesDown": {
-      "2024-11-20": 576,
+      "2024-11-20": 595,
       "2024-11-19": 1440,
       "2024-11-18": 1440,
       "2024-11-17": 1440,
@@ -2036,7 +2035,7 @@
     "timeDay": 7479,
     "timeWeek": 7078,
     "timeMonth": 3951,
-    "timeYear": 1439,
+    "timeYear": 1440,
     "dailyMinutesDown": {
       "2024-11-19": 129,
       "2024-11-18": 67,
