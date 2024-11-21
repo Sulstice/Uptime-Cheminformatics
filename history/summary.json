@@ -193,19 +193,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "74.88%",
-    "uptimeWeek": "83.33%",
-    "uptimeMonth": "93.07%",
-    "uptimeYear": "99.42%",
+    "uptimeDay": "74.79%",
+    "uptimeWeek": "83.31%",
+    "uptimeMonth": "93.20%",
+    "uptimeYear": "99.43%",
     "time": 1531,
     "timeDay": 1039,
     "timeWeek": 898,
-    "timeMonth": 1070,
+    "timeMonth": 1071,
     "timeYear": 1531,
     "dailyMinutesDown": {
-      "2024-11-21": 186,
+      "2024-11-21": 187,
       "2024-11-20": 264,
       "2024-11-19": 294,
       "2024-11-18": 300,
@@ -219,7 +219,7 @@
       "2024-11-10": 240,
       "2024-11-09": 281,
       "2024-11-08": 185,
-      "2024-11-07": 176
+      "2024-11-07": 122
     }
   },
   {
@@ -239,7 +239,7 @@
     "timeMonth": 0,
     "timeYear": 3347,
     "dailyMinutesDown": {
-      "2024-11-21": 341,
+      "2024-11-21": 360,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
       "2024-11-18": 1440,
@@ -468,7 +468,7 @@
     "uptime": "99.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "69.39%",
+    "uptimeMonth": "69.35%",
     "uptimeYear": "97.44%",
     "time": 338,
     "timeDay": 0,
@@ -476,7 +476,7 @@
     "timeMonth": 298,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2024-11-21": 341,
+      "2024-11-21": 360,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
       "2024-11-18": 1440,
@@ -497,9 +497,9 @@
     "slug": "binding-database",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "98.14%",
-    "uptimeWeek": "99.03%",
-    "uptimeMonth": "99.23%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.26%",
     "uptimeYear": "99.19%",
     "time": 5639,
     "timeDay": 854,
@@ -507,7 +507,6 @@
     "timeMonth": 1067,
     "timeYear": 5721,
     "dailyMinutesDown": {
-      "2024-11-21": 10,
       "2024-11-20": 17,
       "2024-11-19": 30,
       "2024-11-18": 42,
@@ -561,7 +560,7 @@
       "2024-08-01": 46,
       "2024-07-30": 132,
       "2024-07-29": 153,
-      "2024-07-28": 32
+      "2024-07-28": 52
     }
   },
   {
@@ -984,7 +983,7 @@
     "slug": "metabolites-biological-role",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "95.33%",
+    "uptimeDay": "96.61%",
     "uptimeWeek": "88.44%",
     "uptimeMonth": "97.10%",
     "uptimeYear": "98.71%",
@@ -1225,7 +1224,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cfpub.epa.gov.ico",
     "slug": "ecology-toxicity",
     "status": "down",
-    "uptime": "85.61%",
+    "uptime": "85.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1236,7 +1235,7 @@
     "timeMonth": 0,
     "timeYear": 1283,
     "dailyMinutesDown": {
-      "2024-11-21": 343,
+      "2024-11-21": 361,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
       "2024-11-18": 1440,
@@ -1694,7 +1693,7 @@
     "timeMonth": 1424,
     "timeYear": 1611,
     "dailyMinutesDown": {
-      "2024-11-21": 343,
+      "2024-11-21": 362,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
       "2024-11-18": 1440,
