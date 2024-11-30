@@ -193,11 +193,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "93.63%",
-    "uptimeWeek": "89.59%",
-    "uptimeMonth": "92.93%",
+    "uptimeDay": "93.55%",
+    "uptimeWeek": "89.58%",
+    "uptimeMonth": "92.98%",
     "uptimeYear": "99.41%",
     "time": 1524,
     "timeDay": 606,
@@ -205,7 +205,7 @@
     "timeMonth": 842,
     "timeYear": 1528,
     "dailyMinutesDown": {
-      "2024-11-30": 35,
+      "2024-11-30": 36,
       "2024-11-29": 83,
       "2024-11-28": 149,
       "2024-11-27": 107,
@@ -221,7 +221,7 @@
       "2024-11-17": 225,
       "2024-11-16": 126,
       "2024-11-15": 168,
-      "2024-11-14": 147
+      "2024-11-14": 124
     }
   },
   {
@@ -241,7 +241,7 @@
     "timeMonth": 0,
     "timeYear": 3407,
     "dailyMinutesDown": {
-      "2024-11-30": 326,
+      "2024-11-30": 338,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
       "2024-11-27": 1440,
@@ -478,7 +478,7 @@
     "status": "up",
     "uptime": "98.65%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "64.06%",
+    "uptimeWeek": "64.17%",
     "uptimeMonth": "54.58%",
     "uptimeYear": "96.21%",
     "time": 339,
@@ -512,17 +512,17 @@
     "slug": "binding-database",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "90.13%",
-    "uptimeWeek": "98.22%",
-    "uptimeMonth": "98.88%",
-    "uptimeYear": "99.21%",
+    "uptimeDay": "91.04%",
+    "uptimeWeek": "98.34%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "99.20%",
     "time": 5535,
     "timeDay": 768,
     "timeWeek": 762,
     "timeMonth": 1051,
     "timeYear": 5649,
     "dailyMinutesDown": {
-      "2024-11-30": 92,
+      "2024-11-30": 79,
       "2024-11-29": 51,
       "2024-11-26": 17,
       "2024-11-24": 21,
@@ -578,7 +578,8 @@
       "2024-08-04": 145,
       "2024-08-03": 193,
       "2024-08-02": 119,
-      "2024-08-01": 46
+      "2024-08-01": 46,
+      "2024-07-30": 65
     }
   },
   {
@@ -888,7 +889,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "93.33%",
+    "uptimeYear": "93.34%",
     "time": 269,
     "timeDay": 163,
     "timeWeek": 291,
@@ -1241,7 +1242,7 @@
     "timeMonth": 0,
     "timeYear": 1311,
     "dailyMinutesDown": {
-      "2024-11-30": 328,
+      "2024-11-30": 339,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
       "2024-11-27": 1440,
@@ -1432,7 +1433,7 @@
     "status": "up",
     "uptime": "34.92%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.59%",
+    "uptimeWeek": "99.71%",
     "uptimeMonth": "97.52%",
     "uptimeYear": "76.70%",
     "time": 2929,
@@ -1708,7 +1709,7 @@
     "timeMonth": 1379,
     "timeYear": 1565,
     "dailyMinutesDown": {
-      "2024-11-30": 328,
+      "2024-11-30": 340,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
       "2024-11-27": 1440,
