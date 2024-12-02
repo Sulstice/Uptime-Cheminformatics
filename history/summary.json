@@ -201,7 +201,7 @@
     "uptimeYear": "99.39%",
     "time": 1522,
     "timeDay": 545,
-    "timeWeek": 668,
+    "timeWeek": 669,
     "timeMonth": 823,
     "timeYear": 1525,
     "dailyMinutesDown": {
@@ -241,7 +241,7 @@
     "timeMonth": 0,
     "timeYear": 3435,
     "dailyMinutesDown": {
-      "2024-12-02": 518,
+      "2024-12-02": 530,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
@@ -480,7 +480,7 @@
     "status": "up",
     "uptime": "98.65%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.53%",
+    "uptimeWeek": "94.65%",
     "uptimeMonth": "54.58%",
     "uptimeYear": "96.21%",
     "time": 339,
@@ -514,17 +514,16 @@
     "slug": "binding-database",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "98.41%",
-    "uptimeMonth": "99.07%",
-    "uptimeYear": "99.21%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "99.10%",
+    "uptimeYear": "99.20%",
     "time": 5532,
     "timeDay": 790,
     "timeWeek": 759,
     "timeMonth": 971,
     "timeYear": 5650,
     "dailyMinutesDown": {
-      "2024-12-02": 15,
       "2024-11-30": 79,
       "2024-11-29": 51,
       "2024-11-26": 17,
@@ -581,7 +580,8 @@
       "2024-08-04": 145,
       "2024-08-03": 193,
       "2024-08-02": 119,
-      "2024-08-01": 46
+      "2024-08-01": 46,
+      "2024-07-30": 65
     }
   },
   {
@@ -1242,7 +1242,7 @@
     "timeMonth": 0,
     "timeYear": 1319,
     "dailyMinutesDown": {
-      "2024-12-02": 520,
+      "2024-12-02": 531,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
@@ -1711,7 +1711,7 @@
     "timeMonth": 1344,
     "timeYear": 1551,
     "dailyMinutesDown": {
-      "2024-12-02": 521,
+      "2024-12-02": 532,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
@@ -2241,10 +2241,10 @@
     "url": "https://www.lipidmaps.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.lipidmaps.org.ico",
     "slug": "lipid-maps",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.38%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.34%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.87%",
     "time": 1396,
@@ -2253,6 +2253,7 @@
     "timeMonth": 1272,
     "timeYear": 1407,
     "dailyMinutesDown": {
+      "2024-12-02": 3,
       "2024-12-01": 29,
       "2024-11-30": 32,
       "2024-11-29": 2,
