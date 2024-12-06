@@ -192,11 +192,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "74.42%",
-    "uptimeWeek": "84.45%",
-    "uptimeMonth": "93.36%",
+    "uptimeDay": "74.36%",
+    "uptimeWeek": "84.44%",
+    "uptimeMonth": "93.41%",
     "uptimeYear": "99.45%",
     "time": 1506,
     "timeDay": 586,
@@ -204,7 +204,7 @@
     "timeMonth": 779,
     "timeYear": 1499,
     "dailyMinutesDown": {
-      "2024-12-06": 352,
+      "2024-12-06": 353,
       "2024-12-05": 242,
       "2024-12-04": 140,
       "2024-12-03": 149,
@@ -218,8 +218,7 @@
       "2024-11-25": 216,
       "2024-11-24": 192,
       "2024-11-23": 223,
-      "2024-11-22": 180,
-      "2024-11-21": 26
+      "2024-11-22": 180
     }
   },
   {
@@ -239,7 +238,7 @@
     "timeMonth": 0,
     "timeYear": 3506,
     "dailyMinutesDown": {
-      "2024-12-06": 1292,
+      "2024-12-06": 1318,
       "2024-12-05": 1440,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
@@ -1230,7 +1229,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cfpub.epa.gov.ico",
     "slug": "ecology-toxicity",
     "status": "down",
-    "uptime": "84.33%",
+    "uptime": "84.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1241,7 +1240,7 @@
     "timeMonth": 0,
     "timeYear": 1293,
     "dailyMinutesDown": {
-      "2024-12-06": 1293,
+      "2024-12-06": 1320,
       "2024-12-05": 1440,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
@@ -1437,9 +1436,9 @@
     "slug": "human-and-environment-risk-assessment",
     "status": "up",
     "uptime": "35.34%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "97.50%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "97.52%",
     "uptimeYear": "76.70%",
     "time": 2922,
     "timeDay": 2386,
@@ -1447,7 +1446,6 @@
     "timeMonth": 3210,
     "timeYear": 2741,
     "dailyMinutesDown": {
-      "2024-12-06": 10,
       "2024-11-23": 369,
       "2024-11-22": 525,
       "2024-11-08": 146,
@@ -1715,7 +1713,7 @@
     "timeMonth": 1395,
     "timeYear": 1525,
     "dailyMinutesDown": {
-      "2024-12-06": 1293,
+      "2024-12-06": 1320,
       "2024-12-05": 1440,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
