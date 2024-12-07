@@ -192,19 +192,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "86.26%",
-    "uptimeWeek": "83.89%",
-    "uptimeMonth": "93.36%",
+    "uptimeDay": "86.19%",
+    "uptimeWeek": "83.88%",
+    "uptimeMonth": "93.42%",
     "uptimeYear": "99.45%",
     "time": 1502,
     "timeDay": 557,
     "timeWeek": 640,
     "timeMonth": 778,
-    "timeYear": 1498,
+    "timeYear": 1499,
     "dailyMinutesDown": {
-      "2024-12-07": 111,
+      "2024-12-07": 112,
       "2024-12-06": 352,
       "2024-12-05": 242,
       "2024-12-04": 140,
@@ -219,7 +219,7 @@
       "2024-11-25": 216,
       "2024-11-24": 192,
       "2024-11-23": 223,
-      "2024-11-22": 94
+      "2024-11-22": 68
     }
   },
   {
@@ -239,7 +239,7 @@
     "timeMonth": 0,
     "timeYear": 3513,
     "dailyMinutesDown": {
-      "2024-12-07": 832,
+      "2024-12-07": 841,
       "2024-12-06": 1440,
       "2024-12-05": 1440,
       "2024-12-04": 1440,
@@ -517,17 +517,16 @@
     "slug": "binding-database",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.08%",
-    "uptimeMonth": "98.97%",
-    "uptimeYear": "99.22%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "98.99%",
+    "uptimeYear": "99.21%",
     "time": 5538,
     "timeDay": 782,
     "timeWeek": 1568,
     "timeMonth": 1016,
     "timeYear": 5646,
     "dailyMinutesDown": {
-      "2024-12-07": 8,
       "2024-12-04": 61,
       "2024-12-03": 24,
       "2024-11-30": 79,
@@ -585,7 +584,7 @@
       "2024-08-05": 175,
       "2024-08-04": 145,
       "2024-08-03": 193,
-      "2024-08-02": 27
+      "2024-08-02": 88
     }
   },
   {
@@ -1242,7 +1241,7 @@
     "timeMonth": 0,
     "timeYear": 1297,
     "dailyMinutesDown": {
-      "2024-12-07": 833,
+      "2024-12-07": 843,
       "2024-12-06": 1440,
       "2024-12-05": 1440,
       "2024-12-04": 1440,
@@ -1716,7 +1715,7 @@
     "timeMonth": 1399,
     "timeYear": 1520,
     "dailyMinutesDown": {
-      "2024-12-07": 833,
+      "2024-12-07": 843,
       "2024-12-06": 1440,
       "2024-12-05": 1440,
       "2024-12-04": 1440,
