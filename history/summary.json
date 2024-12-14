@@ -191,9 +191,9 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "87.30%",
-    "uptimeWeek": "86.01%",
-    "uptimeMonth": "93.80%",
+    "uptimeDay": "87.84%",
+    "uptimeWeek": "86.08%",
+    "uptimeMonth": "93.78%",
     "uptimeYear": "99.48%",
     "time": 1479,
     "timeDay": 1295,
@@ -201,7 +201,7 @@
     "timeMonth": 764,
     "timeYear": 1480,
     "dailyMinutesDown": {
-      "2024-12-14": 67,
+      "2024-12-14": 59,
       "2024-12-13": 184,
       "2024-12-12": 199,
       "2024-12-11": 310,
@@ -214,7 +214,7 @@
       "2024-12-04": 140,
       "2024-12-03": 149,
       "2024-12-02": 292,
-      "2024-12-01": 17
+      "2024-12-01": 34
     }
   },
   {
@@ -234,7 +234,7 @@
     "timeMonth": 0,
     "timeYear": 3615,
     "dailyMinutesDown": {
-      "2024-12-14": 691,
+      "2024-12-14": 700,
       "2024-12-13": 1440,
       "2024-12-12": 1440,
       "2024-12-11": 1440,
@@ -486,7 +486,7 @@
     "uptime": "98.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "62.97%",
+    "uptimeMonth": "63.00%",
     "uptimeYear": "96.21%",
     "time": 345,
     "timeDay": 379,
@@ -526,7 +526,7 @@
     "time": 5517,
     "timeDay": 596,
     "timeWeek": 1113,
-    "timeMonth": 1106,
+    "timeMonth": 1107,
     "timeYear": 5625,
     "dailyMinutesDown": {
       "2024-12-13": 23,
@@ -1208,11 +1208,11 @@
     "url": "http://www-metrabase.ch.cam.ac.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www-metrabase.ch.cam.ac.uk.ico",
     "slug": "metabolism-and-transport-database",
-    "status": "up",
+    "status": "down",
     "uptime": "98.14%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.89%",
     "time": 4409,
     "timeDay": 1154,
@@ -1220,6 +1220,7 @@
     "timeMonth": 1159,
     "timeYear": 3418,
     "dailyMinutesDown": {
+      "2024-12-14": 3,
       "2024-06-23": 180,
       "2024-04-20": 385,
       "2024-02-19": 16
@@ -1242,7 +1243,7 @@
     "timeMonth": 0,
     "timeYear": 1316,
     "dailyMinutesDown": {
-      "2024-12-14": 692,
+      "2024-12-14": 701,
       "2024-12-13": 1440,
       "2024-12-12": 1440,
       "2024-12-11": 1440,
@@ -1719,7 +1720,7 @@
     "timeMonth": 1375,
     "timeYear": 1485,
     "dailyMinutesDown": {
-      "2024-12-14": 692,
+      "2024-12-14": 701,
       "2024-12-13": 1440,
       "2024-12-12": 1440,
       "2024-12-11": 1440,
