@@ -191,17 +191,17 @@
     "slug": "chem-exper",
     "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "90.39%",
-    "uptimeWeek": "85.90%",
-    "uptimeMonth": "94.02%",
+    "uptimeDay": "89.84%",
+    "uptimeWeek": "85.82%",
+    "uptimeMonth": "94.05%",
     "uptimeYear": "99.50%",
     "time": 1479,
-    "timeDay": 1188,
-    "timeWeek": 896,
+    "timeDay": 1165,
+    "timeWeek": 897,
     "timeMonth": 774,
     "timeYear": 1477,
     "dailyMinutesDown": {
-      "2024-12-16": 62,
+      "2024-12-16": 70,
       "2024-12-15": 112,
       "2024-12-14": 173,
       "2024-12-13": 184,
@@ -214,7 +214,7 @@
       "2024-12-06": 352,
       "2024-12-05": 242,
       "2024-12-04": 140,
-      "2024-12-03": 87
+      "2024-12-03": 62
     }
   },
   {
@@ -234,7 +234,7 @@
     "timeMonth": 0,
     "timeYear": 3682,
     "dailyMinutesDown": {
-      "2024-12-16": 534,
+      "2024-12-16": 555,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
       "2024-12-13": 1440,
@@ -488,7 +488,7 @@
     "uptime": "98.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "69.19%",
+    "uptimeMonth": "69.24%",
     "uptimeYear": "96.21%",
     "time": 353,
     "timeDay": 353,
@@ -990,7 +990,7 @@
     "uptime": "99.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
-    "uptimeMonth": "98.99%",
+    "uptimeMonth": "99.04%",
     "uptimeYear": "98.72%",
     "time": 1348,
     "timeDay": 751,
@@ -1241,7 +1241,7 @@
     "timeMonth": 0,
     "timeYear": 1327,
     "dailyMinutesDown": {
-      "2024-12-16": 536,
+      "2024-12-16": 556,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
       "2024-12-13": 1440,
@@ -1718,7 +1718,7 @@
     "timeMonth": 1356,
     "timeYear": 1475,
     "dailyMinutesDown": {
-      "2024-12-16": 536,
+      "2024-12-16": 556,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
       "2024-12-13": 1440,
@@ -2087,7 +2087,7 @@
     "timeDay": 381,
     "timeWeek": 176,
     "timeMonth": 4639,
-    "timeYear": 1727,
+    "timeYear": 1729,
     "dailyMinutesDown": {
       "2024-12-16": 144,
       "2024-12-13": 94,
