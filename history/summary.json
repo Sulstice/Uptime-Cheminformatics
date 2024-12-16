@@ -191,9 +191,9 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "85.75%",
-    "uptimeWeek": "85.33%",
-    "uptimeMonth": "94.00%",
+    "uptimeDay": "86.30%",
+    "uptimeWeek": "85.41%",
+    "uptimeMonth": "93.95%",
     "uptimeYear": "99.50%",
     "time": 1478,
     "timeDay": 916,
@@ -201,7 +201,7 @@
     "timeMonth": 774,
     "timeYear": 1476,
     "dailyMinutesDown": {
-      "2024-12-16": 158,
+      "2024-12-16": 150,
       "2024-12-15": 112,
       "2024-12-14": 173,
       "2024-12-13": 184,
@@ -213,7 +213,8 @@
       "2024-12-07": 180,
       "2024-12-06": 352,
       "2024-12-05": 242,
-      "2024-12-04": 140
+      "2024-12-04": 140,
+      "2024-12-03": 26
     }
   },
   {
@@ -233,7 +234,7 @@
     "timeMonth": 0,
     "timeYear": 3682,
     "dailyMinutesDown": {
-      "2024-12-16": 903,
+      "2024-12-16": 914,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
       "2024-12-13": 1440,
@@ -487,7 +488,7 @@
     "uptime": "98.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "70.03%",
+    "uptimeMonth": "70.06%",
     "uptimeYear": "96.21%",
     "time": 353,
     "timeDay": 353,
@@ -518,18 +519,19 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.07%",
-    "uptimeYear": "99.22%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.06%",
+    "uptimeYear": "99.23%",
     "time": 5446,
-    "timeDay": 761,
-    "timeWeek": 990,
-    "timeMonth": 1078,
-    "timeYear": 5611,
+    "timeDay": 768,
+    "timeWeek": 986,
+    "timeMonth": 1077,
+    "timeYear": 5610,
     "dailyMinutesDown": {
+      "2024-12-16": 2,
       "2024-12-13": 23,
       "2024-12-12": 16,
       "2024-12-04": 61,
@@ -588,7 +590,7 @@
       "2024-08-06": 119,
       "2024-08-05": 175,
       "2024-08-04": 145,
-      "2024-08-03": 193
+      "2024-08-03": 175
     }
   },
   {
@@ -989,7 +991,7 @@
     "uptime": "99.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.48%",
+    "uptimeMonth": "99.51%",
     "uptimeYear": "98.72%",
     "time": 1348,
     "timeDay": 751,
@@ -1240,7 +1242,7 @@
     "timeMonth": 0,
     "timeYear": 1327,
     "dailyMinutesDown": {
-      "2024-12-16": 905,
+      "2024-12-16": 915,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
       "2024-12-13": 1440,
@@ -1717,7 +1719,7 @@
     "timeMonth": 1356,
     "timeYear": 1475,
     "dailyMinutesDown": {
-      "2024-12-16": 906,
+      "2024-12-16": 916,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
       "2024-12-13": 1440,
