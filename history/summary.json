@@ -121,7 +121,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pubchem.ncbi.nlm.nih.gov.ico",
     "slug": "pub-chem",
     "status": "up",
-    "uptime": "98.93%",
+    "uptime": "98.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -189,19 +189,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "93.78%",
-    "uptimeWeek": "88.18%",
-    "uptimeMonth": "93.96%",
+    "uptimeDay": "93.60%",
+    "uptimeWeek": "88.15%",
+    "uptimeMonth": "93.99%",
     "uptimeYear": "99.50%",
     "time": 1475,
     "timeDay": 1240,
-    "timeWeek": 1082,
+    "timeWeek": 1084,
     "timeMonth": 785,
     "timeYear": 1474,
     "dailyMinutesDown": {
-      "2024-12-19": 59,
+      "2024-12-19": 62,
       "2024-12-18": 211,
       "2024-12-17": 203,
       "2024-12-16": 215,
@@ -214,7 +214,7 @@
       "2024-12-09": 125,
       "2024-12-08": 150,
       "2024-12-07": 180,
-      "2024-12-06": 218
+      "2024-12-06": 202
     }
   },
   {
@@ -234,7 +234,7 @@
     "timeMonth": 0,
     "timeYear": 3732,
     "dailyMinutesDown": {
-      "2024-12-19": 1191,
+      "2024-12-19": 1202,
       "2024-12-18": 1440,
       "2024-12-17": 1440,
       "2024-12-16": 1440,
@@ -491,7 +491,7 @@
     "uptime": "98.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "80.55%",
+    "uptimeMonth": "80.58%",
     "uptimeYear": "96.21%",
     "time": 346,
     "timeDay": 290,
@@ -782,9 +782,9 @@
     "slug": "comparative-toxicogenomics-database",
     "status": "down",
     "uptime": "97.53%",
-    "uptimeDay": "74.02%",
-    "uptimeWeek": "96.29%",
-    "uptimeMonth": "98.14%",
+    "uptimeDay": "73.30%",
+    "uptimeWeek": "96.19%",
+    "uptimeMonth": "98.11%",
     "uptimeYear": "93.78%",
     "time": 733,
     "timeDay": 569,
@@ -792,7 +792,7 @@
     "timeMonth": 568,
     "timeYear": 773,
     "dailyMinutesDown": {
-      "2024-12-19": 373,
+      "2024-12-19": 383,
       "2024-11-26": 442,
       "2024-11-12": 60,
       "2024-11-03": 166,
@@ -1110,9 +1110,9 @@
     "slug": "adverse-drug-reaction-classification-system",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.37%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.39%",
     "uptimeYear": "97.94%",
     "time": 3121,
     "timeDay": 5840,
@@ -1120,7 +1120,6 @@
     "timeMonth": 3588,
     "timeYear": 3236,
     "dailyMinutesDown": {
-      "2024-12-19": 7,
       "2024-12-11": 26,
       "2024-12-07": 15,
       "2024-12-04": 34,
@@ -1202,7 +1201,8 @@
       "2024-06-16": 165,
       "2024-06-15": 17,
       "2024-06-14": 16,
-      "2024-06-12": 15
+      "2024-06-12": 15,
+      "2024-06-10": 20
     }
   },
   {
@@ -1244,7 +1244,7 @@
     "timeMonth": 0,
     "timeYear": 1334,
     "dailyMinutesDown": {
-      "2024-12-19": 1192,
+      "2024-12-19": 1203,
       "2024-12-18": 1440,
       "2024-12-17": 1440,
       "2024-12-16": 1440,
@@ -1720,7 +1720,7 @@
     "timeMonth": 1359,
     "timeYear": 1471,
     "dailyMinutesDown": {
-      "2024-12-19": 1193,
+      "2024-12-19": 1203,
       "2024-12-18": 1440,
       "2024-12-17": 1440,
       "2024-12-16": 1440,
