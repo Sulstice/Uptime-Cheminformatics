@@ -189,19 +189,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "88.82%",
-    "uptimeWeek": "87.47%",
-    "uptimeMonth": "93.88%",
-    "uptimeYear": "99.49%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "88.77%",
+    "uptimeWeek": "87.46%",
+    "uptimeMonth": "93.94%",
+    "uptimeYear": "99.50%",
     "time": 1475,
     "timeDay": 1005,
     "timeWeek": 1078,
     "timeMonth": 781,
     "timeYear": 1472,
     "dailyMinutesDown": {
-      "2024-12-20": 92,
+      "2024-12-20": 93,
       "2024-12-19": 107,
       "2024-12-18": 211,
       "2024-12-17": 203,
@@ -215,7 +215,7 @@
       "2024-12-09": 125,
       "2024-12-08": 150,
       "2024-12-07": 180,
-      "2024-12-06": 113
+      "2024-12-06": 86
     }
   },
   {
@@ -235,7 +235,7 @@
     "timeMonth": 0,
     "timeYear": 3742,
     "dailyMinutesDown": {
-      "2024-12-20": 221,
+      "2024-12-20": 229,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
       "2024-12-17": 1440,
@@ -493,7 +493,7 @@
     "uptime": "98.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "81.63%",
+    "uptimeMonth": "81.64%",
     "uptimeYear": "96.21%",
     "time": 346,
     "timeDay": 0,
@@ -1119,7 +1119,7 @@
     "uptimeYear": "97.94%",
     "time": 3121,
     "timeDay": 9869,
-    "timeWeek": 6271,
+    "timeWeek": 6653,
     "timeMonth": 3612,
     "timeYear": 3238,
     "dailyMinutesDown": {
@@ -1247,7 +1247,7 @@
     "timeMonth": 0,
     "timeYear": 1321,
     "dailyMinutesDown": {
-      "2024-12-20": 222,
+      "2024-12-20": 230,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
       "2024-12-17": 1440,
@@ -1724,7 +1724,7 @@
     "timeMonth": 1351,
     "timeYear": 1464,
     "dailyMinutesDown": {
-      "2024-12-20": 223,
+      "2024-12-20": 231,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
       "2024-12-17": 1440,
@@ -2194,7 +2194,7 @@
     "timeDay": 0,
     "timeWeek": 3231,
     "timeMonth": 1160,
-    "timeYear": 1428,
+    "timeYear": 1429,
     "dailyMinutesDown": {
       "2024-11-17": 21,
       "2024-10-12": 28,
