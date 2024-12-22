@@ -189,11 +189,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "82.66%",
-    "uptimeWeek": "85.89%",
-    "uptimeMonth": "93.86%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "82.60%",
+    "uptimeWeek": "85.88%",
+    "uptimeMonth": "93.89%",
     "uptimeYear": "99.49%",
     "time": 1465,
     "timeDay": 592,
@@ -201,7 +201,7 @@
     "timeMonth": 746,
     "timeYear": 1456,
     "dailyMinutesDown": {
-      "2024-12-22": 156,
+      "2024-12-22": 157,
       "2024-12-21": 203,
       "2024-12-20": 236,
       "2024-12-19": 107,
@@ -214,7 +214,7 @@
       "2024-12-12": 199,
       "2024-12-11": 310,
       "2024-12-10": 303,
-      "2024-12-09": 77
+      "2024-12-09": 62
     }
   },
   {
@@ -234,7 +234,7 @@
     "timeMonth": 0,
     "timeYear": 3752,
     "dailyMinutesDown": {
-      "2024-12-22": 389,
+      "2024-12-22": 401,
       "2024-12-21": 1440,
       "2024-12-20": 1440,
       "2024-12-19": 1440,
@@ -494,7 +494,7 @@
     "uptime": "98.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.58%",
+    "uptimeMonth": "88.61%",
     "uptimeYear": "96.21%",
     "time": 347,
     "timeDay": 303,
@@ -1235,7 +1235,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cfpub.epa.gov.ico",
     "slug": "ecology-toxicity",
     "status": "down",
-    "uptime": "83.11%",
+    "uptime": "83.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1246,7 +1246,7 @@
     "timeMonth": 0,
     "timeYear": 1326,
     "dailyMinutesDown": {
-      "2024-12-22": 391,
+      "2024-12-22": 402,
       "2024-12-21": 1440,
       "2024-12-20": 1440,
       "2024-12-19": 1440,
@@ -1725,7 +1725,7 @@
     "timeMonth": 1345,
     "timeYear": 1457,
     "dailyMinutesDown": {
-      "2024-12-22": 391,
+      "2024-12-22": 403,
       "2024-12-21": 1440,
       "2024-12-20": 1440,
       "2024-12-19": 1440,
