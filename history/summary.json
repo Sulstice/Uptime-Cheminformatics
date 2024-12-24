@@ -189,19 +189,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "79.56%",
-    "uptimeWeek": "85.84%",
-    "uptimeMonth": "93.90%",
-    "uptimeYear": "99.49%",
+    "uptimeDay": "79.49%",
+    "uptimeWeek": "85.83%",
+    "uptimeMonth": "93.99%",
+    "uptimeYear": "99.50%",
     "time": 1453,
-    "timeDay": 882,
+    "timeDay": 746,
     "timeWeek": 830,
     "timeMonth": 752,
     "timeYear": 1446,
     "dailyMinutesDown": {
-      "2024-12-24": 80,
+      "2024-12-24": 81,
       "2024-12-23": 292,
       "2024-12-22": 211,
       "2024-12-21": 203,
@@ -214,7 +214,7 @@
       "2024-12-14": 173,
       "2024-12-13": 184,
       "2024-12-12": 199,
-      "2024-12-11": 242
+      "2024-12-11": 203
     }
   },
   {
@@ -234,7 +234,7 @@
     "timeMonth": 0,
     "timeYear": 3771,
     "dailyMinutesDown": {
-      "2024-12-24": 351,
+      "2024-12-24": 361,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
@@ -496,7 +496,7 @@
     "uptime": "98.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.07%",
+    "uptimeMonth": "95.09%",
     "uptimeYear": "96.21%",
     "time": 347,
     "timeDay": 423,
@@ -529,9 +529,9 @@
     "slug": "binding-database",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "98.57%",
-    "uptimeMonth": "99.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.65%",
+    "uptimeMonth": "99.02%",
     "uptimeYear": "99.22%",
     "time": 5578,
     "timeDay": 934,
@@ -539,7 +539,6 @@
     "timeMonth": 1263,
     "timeYear": 5649,
     "dailyMinutesDown": {
-      "2024-12-24": 8,
       "2024-12-22": 76,
       "2024-12-21": 38,
       "2024-12-19": 21,
@@ -602,7 +601,7 @@
       "2024-08-06": 119,
       "2024-08-05": 175,
       "2024-08-04": 145,
-      "2024-08-03": 19
+      "2024-08-03": 42
     }
   },
   {
@@ -1124,7 +1123,7 @@
     "time": 3137,
     "timeDay": 1742,
     "timeWeek": 4821,
-    "timeMonth": 3758,
+    "timeMonth": 3446,
     "timeYear": 3248,
     "dailyMinutesDown": {
       "2024-12-11": 26,
@@ -1251,7 +1250,7 @@
     "timeMonth": 0,
     "timeYear": 1334,
     "dailyMinutesDown": {
-      "2024-12-24": 352,
+      "2024-12-24": 362,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
@@ -1732,7 +1731,7 @@
     "timeMonth": 1341,
     "timeYear": 1444,
     "dailyMinutesDown": {
-      "2024-12-24": 353,
+      "2024-12-24": 363,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
