@@ -189,11 +189,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "91.78%",
-    "uptimeWeek": "86.04%",
-    "uptimeMonth": "93.98%",
+    "uptimeDay": "91.72%",
+    "uptimeWeek": "86.03%",
+    "uptimeMonth": "94.04%",
     "uptimeYear": "99.50%",
     "time": 1448,
     "timeDay": 673,
@@ -201,7 +201,7 @@
     "timeMonth": 751,
     "timeYear": 1440,
     "dailyMinutesDown": {
-      "2024-12-25": 71,
+      "2024-12-25": 72,
       "2024-12-24": 127,
       "2024-12-23": 292,
       "2024-12-22": 211,
@@ -215,7 +215,7 @@
       "2024-12-14": 173,
       "2024-12-13": 184,
       "2024-12-12": 199,
-      "2024-12-11": 90
+      "2024-12-11": 65
     }
   },
   {
@@ -235,7 +235,7 @@
     "timeMonth": 0,
     "timeYear": 3781,
     "dailyMinutesDown": {
-      "2024-12-25": 302,
+      "2024-12-25": 313,
       "2024-12-24": 1440,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
@@ -498,7 +498,7 @@
     "uptime": "98.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.25%",
+    "uptimeMonth": "98.27%",
     "uptimeYear": "96.21%",
     "time": 347,
     "timeDay": 340,
@@ -539,7 +539,7 @@
     "timeDay": 1102,
     "timeWeek": 1708,
     "timeMonth": 1263,
-    "timeYear": 5665,
+    "timeYear": 5666,
     "dailyMinutesDown": {
       "2024-12-22": 76,
       "2024-12-21": 38,
@@ -1253,7 +1253,7 @@
     "timeMonth": 0,
     "timeYear": 1338,
     "dailyMinutesDown": {
-      "2024-12-25": 304,
+      "2024-12-25": 315,
       "2024-12-24": 1440,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
@@ -1735,7 +1735,7 @@
     "timeMonth": 1348,
     "timeYear": 1440,
     "dailyMinutesDown": {
-      "2024-12-25": 304,
+      "2024-12-25": 316,
       "2024-12-24": 1440,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
@@ -2106,7 +2106,7 @@
     "status": "up",
     "uptime": "99.16%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.73%",
+    "uptimeWeek": "95.84%",
     "uptimeMonth": "93.75%",
     "uptimeYear": "97.56%",
     "time": 1646,
@@ -2204,7 +2204,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.42%",
+    "uptimeYear": "91.43%",
     "time": 1705,
     "timeDay": 525,
     "timeWeek": 6551,
