@@ -191,17 +191,17 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "83.07%",
-    "uptimeWeek": "85.09%",
-    "uptimeMonth": "93.95%",
-    "uptimeYear": "99.50%",
+    "uptimeDay": "85.77%",
+    "uptimeWeek": "85.43%",
+    "uptimeMonth": "93.91%",
+    "uptimeYear": "99.49%",
     "time": 1428,
     "timeDay": 561,
     "timeWeek": 771,
     "timeMonth": 756,
     "timeYear": 1423,
     "dailyMinutesDown": {
-      "2024-12-28": 240,
+      "2024-12-28": 232,
       "2024-12-27": 187,
       "2024-12-26": 254,
       "2024-12-25": 191,
@@ -213,7 +213,7 @@
       "2024-12-19": 107,
       "2024-12-18": 211,
       "2024-12-17": 203,
-      "2024-12-16": 187
+      "2024-12-16": 215
     }
   },
   {
@@ -222,18 +222,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nmrshiftdb.nmr.uni-koeln.de.ico",
     "slug": "nmr-shift-database",
     "status": "down",
-    "uptime": "79.27%",
+    "uptime": "79.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "39.26%",
+    "uptimeYear": "39.25%",
     "time": 3232,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 3800,
     "dailyMinutesDown": {
-      "2024-12-28": 1437,
+      "2024-12-29": 28,
+      "2024-12-28": 1440,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
       "2024-12-25": 1440,
@@ -1256,7 +1257,8 @@
     "timeMonth": 0,
     "timeYear": 1351,
     "dailyMinutesDown": {
-      "2024-12-28": 1438,
+      "2024-12-29": 29,
+      "2024-12-28": 1440,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
       "2024-12-25": 1440,
@@ -1472,11 +1474,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heraproject.com.ico",
     "slug": "human-and-environment-risk-assessment",
     "status": "up",
-    "uptime": "36.67%",
+    "uptime": "36.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "77.44%",
+    "uptimeYear": "77.45%",
     "time": 2895,
     "timeDay": 2206,
     "timeWeek": 2374,
@@ -1599,8 +1601,7 @@
       "2024-01-03": 506,
       "2024-01-02": 1067,
       "2024-01-01": 912,
-      "2023-12-31": 938,
-      "2023-12-30": 695
+      "2023-12-31": 938
     }
   },
   {
@@ -1731,14 +1732,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "0.38%",
+    "uptimeYear": "0.37%",
     "time": 1902,
     "timeDay": 1417,
     "timeWeek": 1394,
     "timeMonth": 1372,
     "timeYear": 1429,
     "dailyMinutesDown": {
-      "2024-12-28": 1438,
+      "2024-12-29": 29,
+      "2024-12-28": 1440,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
       "2024-12-25": 1440,
@@ -2210,7 +2212,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.46%",
+    "uptimeYear": "92.47%",
     "time": 1701,
     "timeDay": 566,
     "timeWeek": 1047,
@@ -2270,8 +2272,7 @@
       "2024-01-03": 43,
       "2024-01-02": 1118,
       "2024-01-01": 1440,
-      "2023-12-31": 1440,
-      "2023-12-30": 1440
+      "2023-12-31": 1440
     }
   },
   {
