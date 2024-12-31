@@ -222,7 +222,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nmrshiftdb.nmr.uni-koeln.de.ico",
     "slug": "nmr-shift-database",
     "status": "down",
-    "uptime": "79.11%",
+    "uptime": "79.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -233,7 +233,7 @@
     "timeMonth": 0,
     "timeYear": 3809,
     "dailyMinutesDown": {
-      "2024-12-31": 241,
+      "2024-12-31": 253,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
@@ -533,18 +533,19 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "98.08%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.15%",
-    "uptimeYear": "99.22%",
-    "time": 5674,
-    "timeDay": 816,
+    "uptimeDay": "97.94%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.14%",
+    "uptimeYear": "99.23%",
+    "time": 5672,
+    "timeDay": 819,
     "timeWeek": 832,
-    "timeMonth": 1272,
-    "timeYear": 5722,
+    "timeMonth": 1270,
+    "timeYear": 5723,
     "dailyMinutesDown": {
+      "2024-12-31": 2,
       "2024-12-30": 28,
       "2024-12-29": 34,
       "2024-12-26": 27,
@@ -609,7 +610,7 @@
       "2024-08-07": 39,
       "2024-08-06": 119,
       "2024-08-05": 175,
-      "2024-08-04": 90
+      "2024-08-04": 67
     }
   },
   {
@@ -1261,7 +1262,7 @@
     "timeMonth": 0,
     "timeYear": 1354,
     "dailyMinutesDown": {
-      "2024-12-31": 242,
+      "2024-12-31": 254,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
@@ -1743,7 +1744,7 @@
     "timeMonth": 1370,
     "timeYear": 1424,
     "dailyMinutesDown": {
-      "2024-12-31": 243,
+      "2024-12-31": 255,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
