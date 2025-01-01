@@ -189,19 +189,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "88.62%",
+    "status": "down",
+    "uptime": "99.84%",
+    "uptimeDay": "88.61%",
     "uptimeWeek": "83.84%",
-    "uptimeMonth": "94.14%",
-    "uptimeYear": "99.51%",
+    "uptimeMonth": "94.19%",
+    "uptimeYear": "99.52%",
     "time": 1416,
     "timeDay": 592,
     "timeWeek": 752,
     "timeMonth": 768,
     "timeYear": 1416,
     "dailyMinutesDown": {
-      "2025-01-01": 128,
+      "2025-01-01": 129,
       "2024-12-31": 301,
       "2024-12-30": 266,
       "2024-12-29": 247,
@@ -212,7 +212,7 @@
       "2024-12-24": 127,
       "2024-12-23": 292,
       "2024-12-22": 211,
-      "2024-12-21": 131
+      "2024-12-21": 111
     }
   },
   {
@@ -230,9 +230,9 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3827,
+    "timeYear": 3837,
     "dailyMinutesDown": {
-      "2025-01-01": 1209,
+      "2025-01-01": 1223,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
@@ -1126,9 +1126,9 @@
     "slug": "adverse-drug-reaction-classification-system",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "97.94%",
     "time": 3132,
     "timeDay": 1665,
@@ -1136,7 +1136,6 @@
     "timeMonth": 3097,
     "timeYear": 3227,
     "dailyMinutesDown": {
-      "2025-01-01": 9,
       "2024-12-11": 26,
       "2024-12-07": 15,
       "2024-12-04": 34,
@@ -1218,7 +1217,8 @@
       "2024-06-16": 165,
       "2024-06-15": 17,
       "2024-06-14": 16,
-      "2024-06-12": 15
+      "2024-06-12": 15,
+      "2024-06-10": 20
     }
   },
   {
@@ -1260,7 +1260,7 @@
     "timeMonth": 0,
     "timeYear": 1359,
     "dailyMinutesDown": {
-      "2025-01-01": 1211,
+      "2025-01-01": 1225,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
@@ -1484,7 +1484,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "78.05%",
+    "uptimeYear": "78.06%",
     "time": 2894,
     "timeDay": 3009,
     "timeWeek": 2557,
@@ -1731,7 +1731,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heterocycles.jp.ico",
     "slug": "hetereocycles",
     "status": "down",
-    "uptime": "65.55%",
+    "uptime": "65.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1742,7 +1742,7 @@
     "timeMonth": 1381,
     "timeYear": 1422,
     "dailyMinutesDown": {
-      "2025-01-01": 1211,
+      "2025-01-01": 1225,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
@@ -2215,7 +2215,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.51%",
+    "uptimeYear": "93.52%",
     "time": 1695,
     "timeDay": 276,
     "timeWeek": 422,
