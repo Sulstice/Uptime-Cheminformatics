@@ -189,11 +189,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "87.28%",
-    "uptimeWeek": "83.66%",
-    "uptimeMonth": "94.06%",
+    "uptimeDay": "87.23%",
+    "uptimeWeek": "83.65%",
+    "uptimeMonth": "94.12%",
     "uptimeYear": "99.51%",
     "time": 1417,
     "timeDay": 770,
@@ -201,7 +201,7 @@
     "timeMonth": 769,
     "timeYear": 1416,
     "dailyMinutesDown": {
-      "2025-01-01": 66,
+      "2025-01-01": 67,
       "2024-12-31": 301,
       "2024-12-30": 266,
       "2024-12-29": 247,
@@ -212,8 +212,7 @@
       "2024-12-24": 127,
       "2024-12-23": 292,
       "2024-12-22": 211,
-      "2024-12-21": 203,
-      "2024-12-20": 25
+      "2024-12-21": 203
     }
   },
   {
@@ -233,7 +232,7 @@
     "timeMonth": 0,
     "timeYear": 3819,
     "dailyMinutesDown": {
-      "2025-01-01": 646,
+      "2025-01-01": 655,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
@@ -536,17 +535,16 @@
     "slug": "binding-database",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.03%",
-    "uptimeMonth": "99.13%",
-    "uptimeYear": "99.23%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "99.22%",
     "time": 5660,
     "timeDay": 768,
     "timeWeek": 768,
     "timeMonth": 1253,
-    "timeYear": 5722,
+    "timeYear": 5723,
     "dailyMinutesDown": {
-      "2025-01-01": 8,
       "2024-12-30": 28,
       "2024-12-29": 34,
       "2024-12-26": 27,
@@ -611,7 +609,7 @@
       "2024-08-07": 39,
       "2024-08-06": 119,
       "2024-08-05": 175,
-      "2024-08-04": 67
+      "2024-08-04": 90
     }
   },
   {
@@ -1262,7 +1260,7 @@
     "timeMonth": 0,
     "timeYear": 1359,
     "dailyMinutesDown": {
-      "2025-01-01": 647,
+      "2025-01-01": 656,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
@@ -1486,7 +1484,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "78.02%",
+    "uptimeYear": "78.03%",
     "time": 2894,
     "timeDay": 3009,
     "timeWeek": 2557,
@@ -1744,7 +1742,7 @@
     "timeMonth": 1381,
     "timeYear": 1422,
     "dailyMinutesDown": {
-      "2025-01-01": 647,
+      "2025-01-01": 656,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
