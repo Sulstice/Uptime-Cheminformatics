@@ -189,19 +189,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "85.88%",
-    "uptimeWeek": "84.29%",
-    "uptimeMonth": "94.09%",
-    "uptimeYear": "99.51%",
+    "status": "down",
+    "uptime": "99.84%",
+    "uptimeDay": "85.82%",
+    "uptimeWeek": "84.28%",
+    "uptimeMonth": "94.18%",
+    "uptimeYear": "99.52%",
     "time": 1414,
     "timeDay": 887,
-    "timeWeek": 741,
+    "timeWeek": 743,
     "timeMonth": 774,
     "timeYear": 1414,
     "dailyMinutesDown": {
-      "2025-01-02": 151,
+      "2025-01-02": 152,
       "2025-01-01": 162,
       "2024-12-31": 301,
       "2024-12-30": 266,
@@ -212,7 +212,7 @@
       "2024-12-25": 191,
       "2024-12-24": 127,
       "2024-12-23": 292,
-      "2024-12-22": 177
+      "2024-12-22": 137
     }
   },
   {
@@ -225,14 +225,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "37.95%",
+    "uptimeYear": "37.94%",
     "time": 3244,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 3847,
     "dailyMinutesDown": {
-      "2025-01-02": 1109,
+      "2025-01-02": 1130,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
@@ -536,9 +536,9 @@
     "slug": "binding-database",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "98.97%",
-    "uptimeMonth": "99.11%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "99.15%",
     "uptimeYear": "99.22%",
     "time": 5652,
     "timeDay": 674,
@@ -546,7 +546,6 @@
     "timeMonth": 1259,
     "timeYear": 5729,
     "dailyMinutesDown": {
-      "2025-01-02": 15,
       "2024-12-30": 28,
       "2024-12-29": 34,
       "2024-12-26": 27,
@@ -611,7 +610,7 @@
       "2024-08-07": 39,
       "2024-08-06": 119,
       "2024-08-05": 175,
-      "2024-08-04": 67
+      "2024-08-04": 90
     }
   },
   {
@@ -1251,18 +1250,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cfpub.epa.gov.ico",
     "slug": "ecology-toxicity",
     "status": "down",
-    "uptime": "82.22%",
+    "uptime": "82.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "48.18%",
+    "uptimeYear": "48.17%",
     "time": 1197,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1364,
     "dailyMinutesDown": {
-      "2025-01-02": 1110,
+      "2025-01-02": 1131,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
@@ -1744,7 +1743,7 @@
     "timeMonth": 1357,
     "timeYear": 1418,
     "dailyMinutesDown": {
-      "2025-01-02": 1111,
+      "2025-01-02": 1131,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
@@ -2118,9 +2117,9 @@
     "slug": "chemical-resolver",
     "status": "up",
     "uptime": "99.17%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "94.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "94.85%",
     "uptimeYear": "97.56%",
     "time": 1695,
     "timeDay": 13641,
@@ -2128,7 +2127,6 @@
     "timeMonth": 4172,
     "timeYear": 1886,
     "dailyMinutesDown": {
-      "2025-01-02": 15,
       "2024-12-20": 248,
       "2024-12-18": 258,
       "2024-12-17": 51,
@@ -2204,7 +2202,8 @@
       "2024-08-15": 25,
       "2024-08-13": 17,
       "2024-08-12": 19,
-      "2024-07-29": 24
+      "2024-07-29": 24,
+      "2024-07-28": 22
     }
   },
   {
@@ -2222,7 +2221,7 @@
     "timeDay": 229,
     "timeWeek": 378,
     "timeMonth": 2533,
-    "timeYear": 1527,
+    "timeYear": 1529,
     "dailyMinutesDown": {
       "2024-11-17": 21,
       "2024-10-12": 28,
