@@ -184,11 +184,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "74.62%",
-    "uptimeWeek": "82.07%",
-    "uptimeMonth": "93.58%",
+    "uptimeDay": "74.55%",
+    "uptimeWeek": "82.06%",
+    "uptimeMonth": "93.63%",
     "uptimeYear": "99.47%",
     "time": 1411,
     "timeDay": 1136,
@@ -196,7 +196,7 @@
     "timeMonth": 881,
     "timeYear": 1414,
     "dailyMinutesDown": {
-      "2025-01-12": 172,
+      "2025-01-12": 173,
       "2025-01-11": 305,
       "2025-01-10": 172,
       "2025-01-09": 322,
@@ -209,7 +209,7 @@
       "2025-01-02": 202,
       "2025-01-01": 162,
       "2024-12-31": 301,
-      "2024-12-30": 49
+      "2024-12-30": 25
     }
   },
   {
@@ -222,14 +222,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "35.36%",
+    "uptimeYear": "35.35%",
     "time": 3548,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 4024,
     "dailyMinutesDown": {
-      "2025-01-12": 323,
+      "2025-01-12": 343,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
@@ -782,7 +782,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bioanalysis.cau.ac.kr.ico",
     "slug": "card-pred",
     "status": "up",
-    "uptime": "94.12%",
+    "uptime": "94.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1270,7 +1270,7 @@
     "timeMonth": 0,
     "timeYear": 1410,
     "dailyMinutesDown": {
-      "2025-01-12": 324,
+      "2025-01-12": 344,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
@@ -1756,7 +1756,7 @@
     "timeMonth": 1347,
     "timeYear": 1412,
     "dailyMinutesDown": {
-      "2025-01-12": 324,
+      "2025-01-12": 344,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
