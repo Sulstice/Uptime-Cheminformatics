@@ -184,19 +184,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "73.63%",
-    "uptimeWeek": "82.32%",
-    "uptimeMonth": "93.68%",
+    "uptimeDay": "73.12%",
+    "uptimeWeek": "82.33%",
+    "uptimeMonth": "93.66%",
     "uptimeYear": "99.47%",
     "time": 1412,
-    "timeDay": 1287,
-    "timeWeek": 1198,
+    "timeDay": 1263,
+    "timeWeek": 1195,
     "timeMonth": 891,
     "timeYear": 1415,
     "dailyMinutesDown": {
-      "2025-01-12": 206,
+      "2025-01-12": 213,
       "2025-01-11": 305,
       "2025-01-10": 172,
       "2025-01-09": 322,
@@ -228,7 +228,7 @@
     "timeMonth": 0,
     "timeYear": 4024,
     "dailyMinutesDown": {
-      "2025-01-12": 582,
+      "2025-01-12": 590,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
@@ -542,9 +542,9 @@
     "slug": "binding-database",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "98.19%",
-    "uptimeMonth": "98.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.28%",
+    "uptimeMonth": "98.86%",
     "uptimeYear": "99.23%",
     "time": 5669,
     "timeDay": 967,
@@ -552,7 +552,6 @@
     "timeMonth": 1064,
     "timeYear": 5732,
     "dailyMinutesDown": {
-      "2025-01-12": 9,
       "2025-01-11": 29,
       "2025-01-09": 87,
       "2025-01-07": 36,
@@ -621,7 +620,7 @@
       "2024-08-09": 15,
       "2024-08-08": 79,
       "2024-08-07": 39,
-      "2024-08-06": 90
+      "2024-08-06": 119
     }
   },
   {
@@ -1270,7 +1269,7 @@
     "timeMonth": 0,
     "timeYear": 1410,
     "dailyMinutesDown": {
-      "2025-01-12": 583,
+      "2025-01-12": 592,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
@@ -1756,7 +1755,7 @@
     "timeMonth": 1347,
     "timeYear": 1412,
     "dailyMinutesDown": {
-      "2025-01-12": 583,
+      "2025-01-12": 592,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
