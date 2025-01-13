@@ -185,11 +185,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "90.82%",
-    "uptimeWeek": "82.85%",
-    "uptimeMonth": "93.70%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "90.77%",
+    "uptimeWeek": "82.84%",
+    "uptimeMonth": "93.76%",
     "uptimeYear": "99.48%",
     "time": 1414,
     "timeDay": 1657,
@@ -197,7 +197,7 @@
     "timeMonth": 913,
     "timeYear": 1419,
     "dailyMinutesDown": {
-      "2025-01-13": 132,
+      "2025-01-13": 133,
       "2025-01-12": 335,
       "2025-01-11": 305,
       "2025-01-10": 172,
@@ -209,7 +209,7 @@
       "2025-01-04": 35,
       "2025-01-03": 159,
       "2025-01-02": 202,
-      "2025-01-01": 162
+      "2025-01-01": 136
     }
   },
   {
@@ -229,7 +229,7 @@
     "timeMonth": 0,
     "timeYear": 4035,
     "dailyMinutesDown": {
-      "2025-01-13": 1328,
+      "2025-01-13": 1339,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
@@ -551,7 +551,7 @@
     "time": 5697,
     "timeDay": 739,
     "timeWeek": 918,
-    "timeMonth": 1040,
+    "timeMonth": 1042,
     "timeYear": 5706,
     "dailyMinutesDown": {
       "2025-01-13": 35,
@@ -1272,7 +1272,7 @@
     "timeMonth": 0,
     "timeYear": 1392,
     "dailyMinutesDown": {
-      "2025-01-13": 1330,
+      "2025-01-13": 1340,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
@@ -1747,7 +1747,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heterocycles.jp.ico",
     "slug": "hetereocycles",
     "status": "down",
-    "uptime": "64.82%",
+    "uptime": "64.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1758,7 +1758,7 @@
     "timeMonth": 1350,
     "timeYear": 1411,
     "dailyMinutesDown": {
-      "2025-01-13": 1330,
+      "2025-01-13": 1341,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
