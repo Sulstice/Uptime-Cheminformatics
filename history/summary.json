@@ -187,17 +187,17 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "84.64%",
-    "uptimeWeek": "82.57%",
-    "uptimeMonth": "93.60%",
-    "uptimeYear": "99.47%",
+    "uptimeDay": "85.18%",
+    "uptimeWeek": "82.65%",
+    "uptimeMonth": "93.57%",
+    "uptimeYear": "99.46%",
     "time": 1414,
-    "timeDay": 1640,
+    "timeDay": 1515,
     "timeWeek": 1375,
     "timeMonth": 908,
     "timeYear": 1418,
     "dailyMinutesDown": {
-      "2025-01-14": 85,
+      "2025-01-14": 77,
       "2025-01-13": 159,
       "2025-01-12": 335,
       "2025-01-11": 305,
@@ -210,7 +210,7 @@
       "2025-01-04": 35,
       "2025-01-03": 159,
       "2025-01-02": 202,
-      "2025-01-01": 96
+      "2025-01-01": 115
     }
   },
   {
@@ -230,7 +230,7 @@
     "timeMonth": 0,
     "timeYear": 4046,
     "dailyMinutesDown": {
-      "2025-01-14": 302,
+      "2025-01-14": 314,
       "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
@@ -813,9 +813,9 @@
     "slug": "comparative-toxicogenomics-database",
     "status": "down",
     "uptime": "97.69%",
-    "uptimeDay": "90.73%",
-    "uptimeWeek": "91.41%",
-    "uptimeMonth": "96.10%",
+    "uptimeDay": "89.90%",
+    "uptimeWeek": "91.33%",
+    "uptimeMonth": "96.07%",
     "uptimeYear": "93.90%",
     "time": 736,
     "timeDay": 576,
@@ -823,7 +823,7 @@
     "timeMonth": 874,
     "timeYear": 787,
     "dailyMinutesDown": {
-      "2025-01-14": 133,
+      "2025-01-14": 145,
       "2025-01-11": 166,
       "2025-01-08": 460,
       "2025-01-07": 107,
@@ -1138,18 +1138,19 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
-    "uptime": "99.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "97.93%",
-    "time": 3208,
+    "status": "down",
+    "uptime": "99.31%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "97.94%",
+    "time": 3187,
     "timeDay": 2003,
     "timeWeek": 3794,
     "timeMonth": 3568,
     "timeYear": 3243,
     "dailyMinutesDown": {
+      "2025-01-14": 3,
       "2025-01-11": 17,
       "2025-01-09": 49,
       "2024-12-11": 26,
@@ -1231,8 +1232,7 @@
       "2024-06-19": 197,
       "2024-06-18": 537,
       "2024-06-16": 165,
-      "2024-06-15": 17,
-      "2024-06-14": 16
+      "2024-06-15": 17
     }
   },
   {
@@ -1275,7 +1275,7 @@
     "timeMonth": 0,
     "timeYear": 1396,
     "dailyMinutesDown": {
-      "2025-01-14": 303,
+      "2025-01-14": 315,
       "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
@@ -1761,7 +1761,7 @@
     "timeMonth": 1361,
     "timeYear": 1412,
     "dailyMinutesDown": {
-      "2025-01-14": 304,
+      "2025-01-14": 316,
       "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
