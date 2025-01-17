@@ -153,7 +153,7 @@
     "timeDay": 350,
     "timeWeek": 3363,
     "timeMonth": 1542,
-    "timeYear": 765,
+    "timeYear": 754,
     "dailyMinutesDown": {
       "2025-01-16": 57,
       "2025-01-15": 66,
@@ -185,19 +185,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "79.57%",
-    "uptimeWeek": "83.80%",
-    "uptimeMonth": "93.63%",
+    "uptimeDay": "79.48%",
+    "uptimeWeek": "83.78%",
+    "uptimeMonth": "93.67%",
     "uptimeYear": "99.47%",
     "time": 1418,
     "timeDay": 1128,
-    "timeWeek": 1244,
+    "timeWeek": 1248,
     "timeMonth": 938,
     "timeYear": 1423,
     "dailyMinutesDown": {
-      "2025-01-17": 163,
+      "2025-01-17": 164,
       "2025-01-16": 267,
       "2025-01-15": 142,
       "2025-01-14": 173,
@@ -209,7 +209,7 @@
       "2025-01-08": 164,
       "2025-01-07": 269,
       "2025-01-06": 206,
-      "2025-01-05": 109
+      "2025-01-05": 90
     }
   },
   {
@@ -229,7 +229,7 @@
     "timeMonth": 0,
     "timeYear": 4056,
     "dailyMinutesDown": {
-      "2025-01-17": 457,
+      "2025-01-17": 474,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
@@ -554,7 +554,7 @@
     "uptimeYear": "99.24%",
     "time": 5707,
     "timeDay": 699,
-    "timeWeek": 913,
+    "timeWeek": 917,
     "timeMonth": 1054,
     "timeYear": 5546,
     "dailyMinutesDown": {
@@ -1279,7 +1279,7 @@
     "timeMonth": 0,
     "timeYear": 1374,
     "dailyMinutesDown": {
-      "2025-01-17": 458,
+      "2025-01-17": 475,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
@@ -1765,7 +1765,7 @@
     "timeMonth": 1370,
     "timeYear": 1413,
     "dailyMinutesDown": {
-      "2025-01-17": 459,
+      "2025-01-17": 475,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
@@ -2139,15 +2139,15 @@
     "slug": "chemical-resolver",
     "status": "up",
     "uptime": "99.06%",
-    "uptimeDay": "97.91%",
+    "uptimeDay": "99.06%",
     "uptimeWeek": "93.10%",
-    "uptimeMonth": "92.15%",
+    "uptimeMonth": "92.19%",
     "uptimeYear": "97.19%",
     "time": 1858,
     "timeDay": 143,
     "timeWeek": 5276,
     "timeMonth": 4284,
-    "timeYear": 2081,
+    "timeYear": 2083,
     "dailyMinutesDown": {
       "2025-01-16": 381,
       "2025-01-15": 288,
