@@ -148,12 +148,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.78%",
     "uptimeMonth": "99.66%",
-    "uptimeYear": "98.52%",
+    "uptimeYear": "98.53%",
     "time": 1429,
     "timeDay": 350,
     "timeWeek": 3363,
     "timeMonth": 1542,
-    "timeYear": 711,
+    "timeYear": 712,
     "dailyMinutesDown": {
       "2025-01-16": 57,
       "2025-01-15": 66,
@@ -185,19 +185,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "81.22%",
-    "uptimeWeek": "83.80%",
-    "uptimeMonth": "93.63%",
+    "uptimeDay": "81.43%",
+    "uptimeWeek": "83.79%",
+    "uptimeMonth": "93.67%",
     "uptimeYear": "99.47%",
     "time": 1418,
     "timeDay": 1126,
     "timeWeek": 1255,
     "timeMonth": 938,
-    "timeYear": 1422,
+    "timeYear": 1423,
     "dailyMinutesDown": {
-      "2025-01-17": 163,
+      "2025-01-17": 164,
       "2025-01-16": 267,
       "2025-01-15": 142,
       "2025-01-14": 173,
@@ -209,7 +209,7 @@
       "2025-01-08": 164,
       "2025-01-07": 269,
       "2025-01-06": 206,
-      "2025-01-05": 109
+      "2025-01-05": 90
     }
   },
   {
@@ -229,7 +229,7 @@
     "timeMonth": 0,
     "timeYear": 4056,
     "dailyMinutesDown": {
-      "2025-01-17": 586,
+      "2025-01-17": 595,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
@@ -547,18 +547,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
     "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "98.04%",
-    "uptimeWeek": "98.47%",
-    "uptimeMonth": "98.68%",
+    "uptime": "99.74%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "98.70%",
     "uptimeYear": "99.24%",
     "time": 5618,
     "timeDay": 722,
     "timeWeek": 913,
     "timeMonth": 1052,
-    "timeYear": 5538,
+    "timeYear": 5539,
     "dailyMinutesDown": {
-      "2025-01-17": 28,
+      "2025-01-17": 20,
       "2025-01-16": 27,
       "2025-01-15": 35,
       "2025-01-13": 35,
@@ -628,7 +628,7 @@
       "2024-08-12": 105,
       "2024-08-11": 90,
       "2024-08-09": 15,
-      "2024-08-08": 51
+      "2024-08-08": 79
     }
   },
   {
@@ -1279,7 +1279,7 @@
     "timeMonth": 0,
     "timeYear": 1374,
     "dailyMinutesDown": {
-      "2025-01-17": 587,
+      "2025-01-17": 596,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
@@ -1765,7 +1765,7 @@
     "timeMonth": 1370,
     "timeYear": 1413,
     "dailyMinutesDown": {
-      "2025-01-17": 587,
+      "2025-01-17": 596,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
