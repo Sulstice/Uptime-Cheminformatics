@@ -188,17 +188,17 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "86.44%",
-    "uptimeWeek": "86.14%",
-    "uptimeMonth": "94.07%",
-    "uptimeYear": "99.51%",
+    "uptimeDay": "86.99%",
+    "uptimeWeek": "86.33%",
+    "uptimeMonth": "94.03%",
+    "uptimeYear": "99.50%",
     "time": 1419,
     "timeDay": 1032,
-    "timeWeek": 1163,
+    "timeWeek": 1167,
     "timeMonth": 924,
     "timeYear": 1415,
     "dailyMinutesDown": {
-      "2025-01-19": 114,
+      "2025-01-19": 106,
       "2025-01-18": 167,
       "2025-01-17": 247,
       "2025-01-16": 267,
@@ -210,7 +210,7 @@
       "2025-01-10": 172,
       "2025-01-09": 322,
       "2025-01-08": 164,
-      "2025-01-07": 25
+      "2025-01-07": 50
     }
   },
   {
@@ -230,7 +230,7 @@
     "timeMonth": 0,
     "timeYear": 4059,
     "dailyMinutesDown": {
-      "2025-01-19": 646,
+      "2025-01-19": 664,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
@@ -549,19 +549,19 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "98.68%",
-    "uptimeWeek": "98.65%",
-    "uptimeMonth": "98.66%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "98.63%",
+    "uptimeMonth": "98.65%",
     "uptimeYear": "99.24%",
-    "time": 5581,
-    "timeDay": 1719,
-    "timeWeek": 1080,
-    "timeMonth": 1058,
-    "timeYear": 5515,
+    "time": 5580,
+    "timeDay": 1595,
+    "timeWeek": 1074,
+    "timeMonth": 1056,
+    "timeYear": 5514,
     "dailyMinutesDown": {
-      "2025-01-19": 19,
+      "2025-01-19": 21,
       "2025-01-17": 20,
       "2025-01-16": 27,
       "2025-01-15": 35,
@@ -632,7 +632,7 @@
       "2024-08-12": 105,
       "2024-08-11": 90,
       "2024-08-09": 15,
-      "2024-08-08": 51
+      "2024-08-08": 22
     }
   },
   {
@@ -1282,7 +1282,7 @@
     "timeMonth": 0,
     "timeYear": 1384,
     "dailyMinutesDown": {
-      "2025-01-19": 647,
+      "2025-01-19": 665,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
@@ -1768,7 +1768,7 @@
     "timeMonth": 1358,
     "timeYear": 1410,
     "dailyMinutesDown": {
-      "2025-01-19": 648,
+      "2025-01-19": 666,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
