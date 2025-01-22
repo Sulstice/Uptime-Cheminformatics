@@ -4,19 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "81.39%",
-    "uptimeWeek": "96.64%",
+    "uptimeDay": "81.32%",
+    "uptimeWeek": "96.63%",
     "uptimeMonth": "97.91%",
-    "uptimeYear": "97.82%",
+    "uptimeYear": "97.83%",
     "time": 1555,
     "timeDay": 4617,
     "timeWeek": 2282,
     "timeMonth": 1548,
     "timeYear": 1741,
     "dailyMinutesDown": {
-      "2025-01-22": 268,
+      "2025-01-22": 269,
       "2025-01-21": 37,
       "2025-01-20": 17,
       "2025-01-18": 16,
@@ -59,7 +59,7 @@
       "2024-08-23": 231,
       "2024-08-22": 240,
       "2024-08-21": 662,
-      "2024-08-19": 155
+      "2024-08-19": 134
     }
   },
   {
@@ -69,9 +69,9 @@
     "slug": "zinc-20",
     "status": "down",
     "uptime": "99.15%",
-    "uptimeDay": "77.54%",
-    "uptimeWeek": "96.42%",
-    "uptimeMonth": "99.18%",
+    "uptimeDay": "76.92%",
+    "uptimeWeek": "96.34%",
+    "uptimeMonth": "99.16%",
     "uptimeYear": "97.00%",
     "time": 6965,
     "timeDay": 6822,
@@ -79,7 +79,7 @@
     "timeMonth": 4180,
     "timeYear": 7216,
     "dailyMinutesDown": {
-      "2025-01-22": 324,
+      "2025-01-22": 332,
       "2025-01-21": 37,
       "2024-12-19": 22,
       "2024-12-12": 352,
@@ -192,9 +192,9 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "88.05%",
-    "uptimeWeek": "85.16%",
-    "uptimeMonth": "94.00%",
+    "uptimeDay": "88.63%",
+    "uptimeWeek": "85.24%",
+    "uptimeMonth": "93.98%",
     "uptimeYear": "99.50%",
     "time": 1411,
     "timeDay": 842,
@@ -202,7 +202,7 @@
     "timeMonth": 969,
     "timeYear": 1400,
     "dailyMinutesDown": {
-      "2025-01-22": 172,
+      "2025-01-22": 164,
       "2025-01-21": 138,
       "2025-01-20": 280,
       "2025-01-19": 168,
@@ -214,7 +214,7 @@
       "2025-01-13": 159,
       "2025-01-12": 335,
       "2025-01-11": 305,
-      "2025-01-10": 70
+      "2025-01-10": 86
     }
   },
   {
@@ -234,7 +234,7 @@
     "timeMonth": 0,
     "timeYear": 4106,
     "dailyMinutesDown": {
-      "2025-01-22": 949,
+      "2025-01-22": 958,
       "2025-01-21": 1440,
       "2025-01-20": 1440,
       "2025-01-19": 1440,
@@ -990,7 +990,7 @@
     "slug": "drug-safety-analysis-system",
     "status": "up",
     "uptime": "99.17%",
-    "uptimeDay": "55.08%",
+    "uptimeDay": "55.71%",
     "uptimeWeek": "92.96%",
     "uptimeMonth": "98.38%",
     "uptimeYear": "98.40%",
@@ -1292,7 +1292,7 @@
     "timeMonth": 0,
     "timeYear": 1415,
     "dailyMinutesDown": {
-      "2025-01-22": 950,
+      "2025-01-22": 959,
       "2025-01-21": 1440,
       "2025-01-20": 1440,
       "2025-01-19": 1440,
@@ -1781,7 +1781,7 @@
     "timeMonth": 1360,
     "timeYear": 1408,
     "dailyMinutesDown": {
-      "2025-01-22": 950,
+      "2025-01-22": 960,
       "2025-01-21": 1440,
       "2025-01-20": 1440,
       "2025-01-19": 1440,
