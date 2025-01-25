@@ -6,9 +6,9 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "98.10%",
-    "uptimeWeek": "96.11%",
-    "uptimeMonth": "97.75%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "96.23%",
+    "uptimeMonth": "97.78%",
     "uptimeYear": "97.82%",
     "time": 1700,
     "timeDay": 5414,
@@ -16,7 +16,6 @@
     "timeMonth": 2502,
     "timeYear": 1875,
     "dailyMinutesDown": {
-      "2025-01-25": 12,
       "2025-01-24": 15,
       "2025-01-23": 43,
       "2025-01-22": 268,
@@ -62,7 +61,7 @@
       "2024-08-23": 231,
       "2024-08-22": 240,
       "2024-08-21": 662,
-      "2024-08-19": 92
+      "2024-08-19": 116
     }
   },
   {
@@ -70,19 +69,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "95.05%",
-    "uptimeWeek": "94.00%",
+    "uptimeDay": "95.01%",
+    "uptimeWeek": "93.99%",
     "uptimeMonth": "98.62%",
-    "uptimeYear": "97.07%",
-    "time": 7191,
+    "uptimeYear": "97.10%",
+    "time": 6630,
     "timeDay": 4825,
     "timeWeek": 6316,
     "timeMonth": 4981,
     "timeYear": 7148,
     "dailyMinutesDown": {
-      "2025-01-25": 35,
+      "2025-01-25": 36,
       "2025-01-24": 53,
       "2025-01-23": 123,
       "2025-01-22": 358,
@@ -124,7 +123,7 @@
       "2024-08-24": 1331,
       "2024-08-23": 230,
       "2024-08-22": 279,
-      "2024-08-21": 186
+      "2024-08-21": 45
     }
   },
   {
@@ -199,15 +198,15 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "87.64%",
+    "uptimeDay": "88.04%",
     "uptimeWeek": "85.00%",
     "uptimeMonth": "94.22%",
     "uptimeYear": "99.52%",
     "time": 1401,
-    "timeDay": 2113,
+    "timeDay": 2024,
     "timeWeek": 1245,
-    "timeMonth": 1028,
-    "timeYear": 1398,
+    "timeMonth": 1029,
+    "timeYear": 1397,
     "dailyMinutesDown": {
       "2025-01-25": 101,
       "2025-01-24": 294,
@@ -241,7 +240,7 @@
     "timeMonth": 0,
     "timeYear": 4136,
     "dailyMinutesDown": {
-      "2025-01-25": 803,
+      "2025-01-25": 811,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
@@ -1300,7 +1299,7 @@
     "timeMonth": 0,
     "timeYear": 1431,
     "dailyMinutesDown": {
-      "2025-01-25": 804,
+      "2025-01-25": 812,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
@@ -1792,7 +1791,7 @@
     "timeMonth": 1369,
     "timeYear": 1408,
     "dailyMinutesDown": {
-      "2025-01-25": 804,
+      "2025-01-25": 813,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
