@@ -69,19 +69,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
-    "uptime": "99.18%",
-    "uptimeDay": "96.47%",
-    "uptimeWeek": "93.84%",
+    "status": "down",
+    "uptime": "99.19%",
+    "uptimeDay": "96.43%",
+    "uptimeWeek": "93.83%",
     "uptimeMonth": "98.58%",
     "uptimeYear": "97.10%",
-    "time": 6644,
+    "time": 6650,
     "timeDay": 4127,
     "timeWeek": 6111,
     "timeMonth": 4910,
     "timeYear": 7127,
     "dailyMinutesDown": {
-      "2025-01-25": 51,
+      "2025-01-25": 52,
       "2025-01-24": 53,
       "2025-01-23": 123,
       "2025-01-22": 358,
@@ -122,8 +122,7 @@
       "2024-08-25": 1295,
       "2024-08-24": 1331,
       "2024-08-23": 230,
-      "2024-08-22": 279,
-      "2024-08-21": 45
+      "2024-08-22": 279
     }
   },
   {
@@ -198,17 +197,17 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "88.77%",
-    "uptimeWeek": "84.93%",
-    "uptimeMonth": "94.24%",
+    "uptimeDay": "90.02%",
+    "uptimeWeek": "85.00%",
+    "uptimeMonth": "94.22%",
     "uptimeYear": "99.52%",
     "time": 1400,
-    "timeDay": 1814,
+    "timeDay": 1861,
     "timeWeek": 1291,
     "timeMonth": 1039,
     "timeYear": 1398,
     "dailyMinutesDown": {
-      "2025-01-25": 153,
+      "2025-01-25": 145,
       "2025-01-24": 294,
       "2025-01-23": 235,
       "2025-01-22": 232,
@@ -220,7 +219,7 @@
       "2025-01-16": 267,
       "2025-01-15": 142,
       "2025-01-14": 173,
-      "2025-01-13": 27
+      "2025-01-13": 45
     }
   },
   {
@@ -240,7 +239,7 @@
     "timeMonth": 0,
     "timeYear": 3968,
     "dailyMinutesDown": {
-      "2025-01-25": 1192,
+      "2025-01-25": 1212,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
@@ -575,7 +574,7 @@
     "timeDay": 739,
     "timeWeek": 927,
     "timeMonth": 886,
-    "timeYear": 5366,
+    "timeYear": 5368,
     "dailyMinutesDown": {
       "2025-01-25": 51,
       "2025-01-20": 21,
@@ -745,7 +744,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chemspider.com.ico",
     "slug": "chem-spider",
     "status": "up",
-    "uptime": "96.62%",
+    "uptime": "96.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1299,7 +1298,7 @@
     "timeMonth": 0,
     "timeYear": 1431,
     "dailyMinutesDown": {
-      "2025-01-25": 1193,
+      "2025-01-25": 1213,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
@@ -1791,7 +1790,7 @@
     "timeMonth": 1369,
     "timeYear": 1408,
     "dailyMinutesDown": {
-      "2025-01-25": 1194,
+      "2025-01-25": 1214,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
