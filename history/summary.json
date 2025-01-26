@@ -73,7 +73,7 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "99.14%",
+    "uptimeDay": "99.73%",
     "uptimeWeek": "93.84%",
     "uptimeMonth": "98.58%",
     "uptimeYear": "97.10%",
@@ -200,9 +200,9 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "88.82%",
-    "uptimeWeek": "85.33%",
-    "uptimeMonth": "94.35%",
+    "uptimeDay": "89.36%",
+    "uptimeWeek": "85.40%",
+    "uptimeMonth": "94.33%",
     "uptimeYear": "99.53%",
     "time": 1398,
     "timeDay": 1801,
@@ -210,7 +210,7 @@
     "timeMonth": 1060,
     "timeYear": 1399,
     "dailyMinutesDown": {
-      "2025-01-26": 118,
+      "2025-01-26": 110,
       "2025-01-25": 145,
       "2025-01-24": 294,
       "2025-01-23": 235,
@@ -222,7 +222,7 @@
       "2025-01-17": 247,
       "2025-01-16": 267,
       "2025-01-15": 142,
-      "2025-01-14": 41
+      "2025-01-14": 58
     }
   },
   {
@@ -240,9 +240,9 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3922,
+    "timeYear": 3935,
     "dailyMinutesDown": {
-      "2025-01-26": 814,
+      "2025-01-26": 823,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
@@ -568,19 +568,19 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "98.21%",
-    "uptimeWeek": "98.74%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "98.73%",
     "uptimeMonth": "98.68%",
-    "uptimeYear": "99.24%",
-    "time": 5403,
-    "timeDay": 720,
-    "timeWeek": 804,
+    "uptimeYear": "99.25%",
+    "time": 5402,
+    "timeDay": 730,
+    "timeWeek": 805,
     "timeMonth": 883,
-    "timeYear": 5366,
+    "timeYear": 5365,
     "dailyMinutesDown": {
-      "2025-01-26": 26,
+      "2025-01-26": 28,
       "2025-01-25": 51,
       "2025-01-20": 21,
       "2025-01-19": 47,
@@ -651,7 +651,7 @@
       "2024-08-17": 17,
       "2024-08-16": 93,
       "2024-08-15": 32,
-      "2024-08-12": 105
+      "2024-08-12": 74
     }
   },
   {
@@ -1301,7 +1301,7 @@
     "timeMonth": 0,
     "timeYear": 1435,
     "dailyMinutesDown": {
-      "2025-01-26": 815,
+      "2025-01-26": 824,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
@@ -1794,7 +1794,7 @@
     "timeMonth": 1354,
     "timeYear": 1409,
     "dailyMinutesDown": {
-      "2025-01-26": 816,
+      "2025-01-26": 824,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
