@@ -203,17 +203,17 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "82.75%",
-    "uptimeWeek": "85.90%",
-    "uptimeMonth": "94.31%",
-    "uptimeYear": "99.53%",
+    "uptimeDay": "83.34%",
+    "uptimeWeek": "85.98%",
+    "uptimeMonth": "94.24%",
+    "uptimeYear": "99.52%",
     "time": 1399,
     "timeDay": 1581,
     "timeWeek": 1419,
     "timeMonth": 1097,
     "timeYear": 1402,
     "dailyMinutesDown": {
-      "2025-01-27": 154,
+      "2025-01-27": 145,
       "2025-01-26": 205,
       "2025-01-25": 145,
       "2025-01-24": 294,
@@ -224,7 +224,7 @@
       "2025-01-19": 168,
       "2025-01-18": 167,
       "2025-01-17": 247,
-      "2025-01-16": 230
+      "2025-01-16": 267
     }
   },
   {
@@ -244,7 +244,7 @@
     "timeMonth": 0,
     "timeYear": 3877,
     "dailyMinutesDown": {
-      "2025-01-27": 937,
+      "2025-01-27": 945,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
@@ -571,19 +571,19 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "99.08%",
-    "uptimeMonth": "98.71%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "98.70%",
     "uptimeYear": "99.25%",
-    "time": 5374,
-    "timeDay": 740,
-    "timeWeek": 779,
-    "timeMonth": 878,
-    "timeYear": 5323,
+    "time": 5373,
+    "timeDay": 729,
+    "timeWeek": 776,
+    "timeMonth": 877,
+    "timeYear": 5321,
     "dailyMinutesDown": {
-      "2025-01-27": 16,
+      "2025-01-27": 18,
       "2025-01-26": 26,
       "2025-01-25": 51,
       "2025-01-20": 21,
@@ -655,7 +655,7 @@
       "2024-08-17": 17,
       "2024-08-16": 93,
       "2024-08-15": 32,
-      "2024-08-12": 74
+      "2024-08-12": 55
     }
   },
   {
@@ -1056,7 +1056,7 @@
     "status": "up",
     "uptime": "99.57%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.91%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "98.78%",
     "time": 1390,
@@ -1305,7 +1305,7 @@
     "timeMonth": 0,
     "timeYear": 1439,
     "dailyMinutesDown": {
-      "2025-01-27": 939,
+      "2025-01-27": 947,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
@@ -1798,7 +1798,7 @@
     "timeMonth": 1371,
     "timeYear": 1411,
     "dailyMinutesDown": {
-      "2025-01-27": 939,
+      "2025-01-27": 948,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
