@@ -72,19 +72,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "96.86%",
-    "uptimeWeek": "93.60%",
+    "status": "down",
+    "uptime": "99.20%",
+    "uptimeDay": "96.78%",
+    "uptimeWeek": "93.59%",
     "uptimeMonth": "98.44%",
-    "uptimeYear": "97.13%",
-    "time": 6831,
+    "uptimeYear": "97.14%",
+    "time": 6838,
     "timeDay": 8438,
     "timeWeek": 5671,
     "timeMonth": 4986,
     "timeYear": 7091,
     "dailyMinutesDown": {
-      "2025-01-28": 28,
+      "2025-01-28": 29,
       "2025-01-27": 17,
       "2025-01-26": 16,
       "2025-01-25": 51,
@@ -128,7 +128,7 @@
       "2024-08-25": 1295,
       "2024-08-24": 1331,
       "2024-08-23": 230,
-      "2024-08-22": 92
+      "2024-08-22": 17
     }
   },
   {
@@ -203,11 +203,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "86.52%",
-    "uptimeWeek": "85.85%",
-    "uptimeMonth": "94.25%",
+    "uptimeDay": "86.46%",
+    "uptimeWeek": "85.84%",
+    "uptimeMonth": "94.30%",
     "uptimeYear": "99.52%",
     "time": 1401,
     "timeDay": 1782,
@@ -215,7 +215,7 @@
     "timeMonth": 1129,
     "timeYear": 1404,
     "dailyMinutesDown": {
-      "2025-01-28": 135,
+      "2025-01-28": 136,
       "2025-01-27": 183,
       "2025-01-26": 205,
       "2025-01-25": 145,
@@ -227,7 +227,7 @@
       "2025-01-19": 168,
       "2025-01-18": 167,
       "2025-01-17": 247,
-      "2025-01-16": 89
+      "2025-01-16": 71
     }
   },
   {
@@ -247,7 +247,7 @@
     "timeMonth": 0,
     "timeYear": 3899,
     "dailyMinutesDown": {
-      "2025-01-28": 705,
+      "2025-01-28": 714,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
@@ -582,7 +582,7 @@
     "uptimeMonth": "98.56%",
     "uptimeYear": "99.25%",
     "time": 5355,
-    "timeDay": 1651,
+    "timeDay": 1708,
     "timeWeek": 931,
     "timeMonth": 922,
     "timeYear": 5282,
@@ -1308,7 +1308,7 @@
     "timeMonth": 0,
     "timeYear": 1445,
     "dailyMinutesDown": {
-      "2025-01-28": 707,
+      "2025-01-28": 715,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
@@ -1803,7 +1803,7 @@
     "timeMonth": 1374,
     "timeYear": 1410,
     "dailyMinutesDown": {
-      "2025-01-28": 707,
+      "2025-01-28": 716,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
