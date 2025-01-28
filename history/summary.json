@@ -12,7 +12,7 @@
     "uptimeYear": "97.82%",
     "time": 1798,
     "timeDay": 2518,
-    "timeWeek": 4318,
+    "timeWeek": 4386,
     "timeMonth": 2713,
     "timeYear": 1928,
     "dailyMinutesDown": {
@@ -80,7 +80,7 @@
     "uptimeYear": "97.14%",
     "time": 6866,
     "timeDay": 7353,
-    "timeWeek": 5832,
+    "timeWeek": 5918,
     "timeMonth": 4953,
     "timeYear": 7074,
     "dailyMinutesDown": {
@@ -203,11 +203,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "85.18%",
-    "uptimeWeek": "85.29%",
-    "uptimeMonth": "94.21%",
+    "uptimeDay": "85.11%",
+    "uptimeWeek": "85.28%",
+    "uptimeMonth": "94.26%",
     "uptimeYear": "99.52%",
     "time": 1402,
     "timeDay": 2061,
@@ -215,7 +215,7 @@
     "timeMonth": 1148,
     "timeYear": 1406,
     "dailyMinutesDown": {
-      "2025-01-28": 191,
+      "2025-01-28": 192,
       "2025-01-27": 183,
       "2025-01-26": 205,
       "2025-01-25": 145,
@@ -227,7 +227,7 @@
       "2025-01-19": 168,
       "2025-01-18": 167,
       "2025-01-17": 247,
-      "2025-01-16": 52
+      "2025-01-16": 29
     }
   },
   {
@@ -240,14 +240,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "30.78%",
+    "uptimeYear": "30.77%",
     "time": 3598,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 3899,
     "dailyMinutesDown": {
-      "2025-01-28": 1357,
+      "2025-01-28": 1374,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
@@ -575,19 +575,19 @@
     "url": "http://www.bindingdb.org/bind/index.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "96.75%",
-    "uptimeWeek": "98.18%",
-    "uptimeMonth": "98.50%",
-    "uptimeYear": "99.25%",
-    "time": 5341,
-    "timeDay": 827,
-    "timeWeek": 934,
-    "timeMonth": 922,
-    "timeYear": 5277,
+    "uptimeDay": "96.59%",
+    "uptimeWeek": "98.16%",
+    "uptimeMonth": "98.49%",
+    "uptimeYear": "99.26%",
+    "time": 5340,
+    "timeDay": 807,
+    "timeWeek": 930,
+    "timeMonth": 921,
+    "timeYear": 5276,
     "dailyMinutesDown": {
-      "2025-01-28": 46,
+      "2025-01-28": 48,
       "2025-01-27": 60,
       "2025-01-26": 26,
       "2025-01-25": 51,
@@ -658,7 +658,7 @@
       "2024-08-19": 15,
       "2024-08-18": 63,
       "2024-08-17": 17,
-      "2024-08-16": 93
+      "2024-08-16": 39
     }
   },
   {
@@ -1008,7 +1008,7 @@
     "status": "up",
     "uptime": "99.18%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.63%",
+    "uptimeWeek": "97.81%",
     "uptimeMonth": "98.38%",
     "uptimeYear": "98.41%",
     "time": 991,
@@ -1172,9 +1172,9 @@
     "slug": "adverse-drug-reaction-classification-system",
     "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "97.93%",
     "time": 3094,
     "timeDay": 1380,
@@ -1182,7 +1182,6 @@
     "timeMonth": 2271,
     "timeYear": 3236,
     "dailyMinutesDown": {
-      "2025-01-28": 8,
       "2025-01-11": 17,
       "2025-01-09": 49,
       "2024-12-11": 26,
@@ -1264,7 +1263,8 @@
       "2024-06-19": 197,
       "2024-06-18": 537,
       "2024-06-16": 165,
-      "2024-06-15": 17
+      "2024-06-15": 17,
+      "2024-06-14": 16
     }
   },
   {
@@ -1307,7 +1307,7 @@
     "timeMonth": 0,
     "timeYear": 1445,
     "dailyMinutesDown": {
-      "2025-01-28": 1358,
+      "2025-01-28": 1376,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
@@ -1551,8 +1551,8 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heraproject.com.ico",
     "slug": "human-and-environment-risk-assessment",
     "status": "up",
-    "uptime": "38.40%",
-    "uptimeDay": "68.61%",
+    "uptime": "38.41%",
+    "uptimeDay": "69.88%",
     "uptimeWeek": "91.85%",
     "uptimeMonth": "98.12%",
     "uptimeYear": "79.28%",
@@ -1802,7 +1802,7 @@
     "timeMonth": 1374,
     "timeYear": 1410,
     "dailyMinutesDown": {
-      "2025-01-28": 1358,
+      "2025-01-28": 1376,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
