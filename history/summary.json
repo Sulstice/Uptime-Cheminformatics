@@ -6,9 +6,9 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "98.36%",
-    "uptimeWeek": "96.04%",
-    "uptimeMonth": "97.61%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "96.12%",
+    "uptimeMonth": "97.63%",
     "uptimeYear": "97.82%",
     "time": 1798,
     "timeDay": 2518,
@@ -16,7 +16,7 @@
     "timeMonth": 2713,
     "timeYear": 1928,
     "dailyMinutesDown": {
-      "2025-01-28": 24,
+      "2025-01-28": 16,
       "2025-01-26": 47,
       "2025-01-25": 2,
       "2025-01-24": 15,
@@ -64,7 +64,7 @@
       "2024-08-23": 231,
       "2024-08-22": 240,
       "2024-08-21": 662,
-      "2024-08-19": 29
+      "2024-08-19": 47
     }
   },
   {
@@ -166,7 +166,7 @@
     "time": 1283,
     "timeDay": 446,
     "timeWeek": 266,
-    "timeMonth": 1142,
+    "timeMonth": 1154,
     "timeYear": 577,
     "dailyMinutesDown": {
       "2025-01-27": 31,
@@ -205,9 +205,9 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "84.71%",
-    "uptimeWeek": "85.23%",
-    "uptimeMonth": "94.25%",
+    "uptimeDay": "85.18%",
+    "uptimeWeek": "85.29%",
+    "uptimeMonth": "94.21%",
     "uptimeYear": "99.52%",
     "time": 1402,
     "timeDay": 2061,
@@ -215,7 +215,7 @@
     "timeMonth": 1148,
     "timeYear": 1406,
     "dailyMinutesDown": {
-      "2025-01-28": 198,
+      "2025-01-28": 191,
       "2025-01-27": 183,
       "2025-01-26": 205,
       "2025-01-25": 145,
@@ -227,7 +227,7 @@
       "2025-01-19": 168,
       "2025-01-18": 167,
       "2025-01-17": 247,
-      "2025-01-16": 29
+      "2025-01-16": 52
     }
   },
   {
@@ -240,14 +240,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "30.79%",
+    "uptimeYear": "30.78%",
     "time": 3598,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 3899,
     "dailyMinutesDown": {
-      "2025-01-28": 1314,
+      "2025-01-28": 1324,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
@@ -1008,7 +1008,7 @@
     "status": "up",
     "uptime": "99.18%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.21%",
+    "uptimeWeek": "97.30%",
     "uptimeMonth": "98.38%",
     "uptimeYear": "98.41%",
     "time": 991,
@@ -1307,7 +1307,7 @@
     "timeMonth": 0,
     "timeYear": 1445,
     "dailyMinutesDown": {
-      "2025-01-28": 1315,
+      "2025-01-28": 1325,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
@@ -1552,7 +1552,7 @@
     "slug": "human-and-environment-risk-assessment",
     "status": "up",
     "uptime": "38.40%",
-    "uptimeDay": "65.68%",
+    "uptimeDay": "66.33%",
     "uptimeWeek": "91.85%",
     "uptimeMonth": "98.12%",
     "uptimeYear": "79.27%",
@@ -1672,15 +1672,15 @@
     "url": "https://www.tera.org/iter/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tera.org.ico",
     "slug": "international-toxicity-information-for-risk-assesments",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 452,
-    "timeDay": 452,
-    "timeWeek": 239,
+    "timeDay": 378,
+    "timeWeek": 249,
     "timeMonth": 286,
     "timeYear": 474,
     "dailyMinutesDown": {}
@@ -1802,7 +1802,7 @@
     "timeMonth": 1374,
     "timeYear": 1410,
     "dailyMinutesDown": {
-      "2025-01-28": 1316,
+      "2025-01-28": 1325,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
