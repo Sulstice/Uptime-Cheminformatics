@@ -72,19 +72,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "98.05%",
-    "uptimeWeek": "93.60%",
+    "status": "down",
+    "uptime": "99.20%",
+    "uptimeDay": "98.02%",
+    "uptimeWeek": "93.59%",
     "uptimeMonth": "98.44%",
-    "uptimeYear": "97.13%",
-    "time": 6843,
+    "uptimeYear": "97.14%",
+    "time": 6850,
     "timeDay": 8511,
     "timeWeek": 5963,
     "timeMonth": 4988,
     "timeYear": 7089,
     "dailyMinutesDown": {
-      "2025-01-28": 28,
+      "2025-01-28": 29,
       "2025-01-27": 17,
       "2025-01-26": 16,
       "2025-01-25": 51,
@@ -128,7 +128,7 @@
       "2024-08-25": 1295,
       "2024-08-24": 1331,
       "2024-08-23": 230,
-      "2024-08-22": 92
+      "2024-08-22": 17
     }
   },
   {
@@ -205,9 +205,9 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "85.07%",
-    "uptimeWeek": "85.41%",
-    "uptimeMonth": "94.24%",
+    "uptimeDay": "86.25%",
+    "uptimeWeek": "85.49%",
+    "uptimeMonth": "94.21%",
     "uptimeYear": "99.52%",
     "time": 1402,
     "timeDay": 2083,
@@ -215,7 +215,7 @@
     "timeMonth": 1138,
     "timeYear": 1405,
     "dailyMinutesDown": {
-      "2025-01-28": 179,
+      "2025-01-28": 171,
       "2025-01-27": 183,
       "2025-01-26": 205,
       "2025-01-25": 145,
@@ -227,7 +227,7 @@
       "2025-01-19": 168,
       "2025-01-18": 167,
       "2025-01-17": 247,
-      "2025-01-16": 52
+      "2025-01-16": 71
     }
   },
   {
@@ -247,7 +247,7 @@
     "timeMonth": 0,
     "timeYear": 3899,
     "dailyMinutesDown": {
-      "2025-01-28": 1061,
+      "2025-01-28": 1070,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
@@ -1009,7 +1009,7 @@
     "status": "up",
     "uptime": "99.18%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.70%",
+    "uptimeWeek": "94.78%",
     "uptimeMonth": "98.38%",
     "uptimeYear": "98.41%",
     "time": 991,
@@ -1308,7 +1308,7 @@
     "timeMonth": 0,
     "timeYear": 1445,
     "dailyMinutesDown": {
-      "2025-01-28": 1063,
+      "2025-01-28": 1071,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
@@ -1553,7 +1553,7 @@
     "slug": "human-and-environment-risk-assessment",
     "status": "up",
     "uptime": "38.39%",
-    "uptimeDay": "48.13%",
+    "uptimeDay": "48.69%",
     "uptimeWeek": "91.85%",
     "uptimeMonth": "98.12%",
     "uptimeYear": "79.23%",
@@ -1803,7 +1803,7 @@
     "timeMonth": 1374,
     "timeYear": 1410,
     "dailyMinutesDown": {
-      "2025-01-28": 1063,
+      "2025-01-28": 1071,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
