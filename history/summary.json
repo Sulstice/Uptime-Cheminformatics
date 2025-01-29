@@ -72,18 +72,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.20%",
-    "uptimeDay": "98.62%",
-    "uptimeWeek": "93.68%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "93.67%",
     "uptimeMonth": "98.40%",
     "uptimeYear": "97.14%",
     "time": 6884,
-    "timeDay": 7585,
+    "timeDay": 8226,
     "timeWeek": 5653,
     "timeMonth": 5013,
     "timeYear": 7077,
     "dailyMinutesDown": {
+      "2025-01-29": 1,
       "2025-01-28": 48,
       "2025-01-27": 17,
       "2025-01-26": 16,
@@ -127,8 +128,7 @@
       "2024-08-26": 284,
       "2024-08-25": 1295,
       "2024-08-24": 1331,
-      "2024-08-23": 230,
-      "2024-08-22": 17
+      "2024-08-23": 230
     }
   },
   {
@@ -246,7 +246,7 @@
     "timeMonth": 0,
     "timeYear": 3938,
     "dailyMinutesDown": {
-      "2025-01-29": 329,
+      "2025-01-29": 339,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
@@ -1307,7 +1307,7 @@
     "timeMonth": 0,
     "timeYear": 1450,
     "dailyMinutesDown": {
-      "2025-01-29": 330,
+      "2025-01-29": 340,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
@@ -1553,7 +1553,7 @@
     "slug": "human-and-environment-risk-assessment",
     "status": "up",
     "uptime": "38.42%",
-    "uptimeDay": "97.26%",
+    "uptimeDay": "97.96%",
     "uptimeWeek": "91.85%",
     "uptimeMonth": "98.12%",
     "uptimeYear": "79.36%",
@@ -1802,7 +1802,7 @@
     "timeMonth": 1364,
     "timeYear": 1407,
     "dailyMinutesDown": {
-      "2025-01-29": 331,
+      "2025-01-29": 341,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
