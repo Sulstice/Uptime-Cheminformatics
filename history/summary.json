@@ -72,18 +72,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
-    "uptime": "99.16%",
-    "uptimeDay": "87.92%",
+    "status": "down",
+    "uptime": "99.17%",
+    "uptimeDay": "88.79%",
     "uptimeWeek": "91.19%",
     "uptimeMonth": "96.79%",
-    "uptimeYear": "97.01%",
-    "time": 6947,
+    "uptimeYear": "97.04%",
+    "time": 6954,
     "timeDay": 4358,
     "timeWeek": 4637,
     "timeMonth": 5004,
     "timeYear": 6914,
     "dailyMinutesDown": {
+      "2025-01-31": 1,
       "2025-01-30": 651,
       "2025-01-29": 53,
       "2025-01-28": 48,
@@ -129,7 +130,7 @@
       "2024-08-26": 284,
       "2024-08-25": 1295,
       "2024-08-24": 1331,
-      "2024-08-23": 230
+      "2024-08-23": 44
     }
   },
   {
@@ -204,9 +205,9 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "65.35%",
-    "uptimeWeek": "80.77%",
-    "uptimeMonth": "93.88%",
+    "uptimeDay": "65.88%",
+    "uptimeWeek": "80.84%",
+    "uptimeMonth": "93.84%",
     "uptimeYear": "99.49%",
     "time": 1410,
     "timeDay": 1508,
@@ -214,7 +215,7 @@
     "timeMonth": 1243,
     "timeYear": 1414,
     "dailyMinutesDown": {
-      "2025-01-31": 201,
+      "2025-01-31": 193,
       "2025-01-30": 439,
       "2025-01-29": 396,
       "2025-01-28": 219,
@@ -224,7 +225,8 @@
       "2025-01-24": 294,
       "2025-01-23": 235,
       "2025-01-22": 232,
-      "2025-01-21": 138
+      "2025-01-21": 138,
+      "2025-01-20": 22
     }
   },
   {
@@ -244,7 +246,7 @@
     "timeMonth": 0,
     "timeYear": 3956,
     "dailyMinutesDown": {
-      "2025-01-31": 478,
+      "2025-01-31": 491,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
@@ -1296,18 +1298,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cfpub.epa.gov.ico",
     "slug": "ecology-toxicity",
     "status": "down",
-    "uptime": "80.09%",
+    "uptime": "80.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "40.37%",
+    "uptimeYear": "40.36%",
     "time": 1218,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1459,
     "dailyMinutesDown": {
-      "2025-01-31": 479,
+      "2025-01-31": 492,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
@@ -1802,7 +1804,7 @@
     "timeMonth": 1336,
     "timeYear": 1404,
     "dailyMinutesDown": {
-      "2025-01-31": 480,
+      "2025-01-31": 493,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
