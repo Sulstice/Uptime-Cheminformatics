@@ -74,7 +74,7 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.16%",
-    "uptimeDay": "56.45%",
+    "uptimeDay": "57.02%",
     "uptimeWeek": "91.19%",
     "uptimeMonth": "96.79%",
     "uptimeYear": "97.01%",
@@ -163,7 +163,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.50%",
     "uptimeMonth": "99.50%",
-    "uptimeYear": "98.55%",
+    "uptimeYear": "98.56%",
     "time": 1262,
     "timeDay": 152,
     "timeWeek": 272,
@@ -202,11 +202,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "70.50%",
-    "uptimeWeek": "81.60%",
-    "uptimeMonth": "93.97%",
+    "uptimeDay": "70.44%",
+    "uptimeWeek": "81.68%",
+    "uptimeMonth": "94.02%",
     "uptimeYear": "99.50%",
     "time": 1409,
     "timeDay": 1929,
@@ -214,6 +214,7 @@
     "timeMonth": 1247,
     "timeYear": 1413,
     "dailyMinutesDown": {
+      "2025-01-31": 1,
       "2025-01-30": 439,
       "2025-01-29": 396,
       "2025-01-28": 219,
@@ -224,7 +225,7 @@
       "2025-01-23": 235,
       "2025-01-22": 232,
       "2025-01-21": 138,
-      "2025-01-20": 158
+      "2025-01-20": 138
     }
   },
   {
@@ -244,7 +245,7 @@
     "timeMonth": 0,
     "timeYear": 3956,
     "dailyMinutesDown": {
-      "2025-01-31": 25,
+      "2025-01-31": 34,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
@@ -585,7 +586,7 @@
     "timeDay": 837,
     "timeWeek": 890,
     "timeMonth": 915,
-    "timeYear": 5278,
+    "timeYear": 5280,
     "dailyMinutesDown": {
       "2025-01-28": 46,
       "2025-01-27": 60,
@@ -1307,7 +1308,7 @@
     "timeMonth": 0,
     "timeYear": 1459,
     "dailyMinutesDown": {
-      "2025-01-31": 27,
+      "2025-01-31": 35,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
@@ -1802,7 +1803,7 @@
     "timeMonth": 1336,
     "timeYear": 1404,
     "dailyMinutesDown": {
-      "2025-01-31": 27,
+      "2025-01-31": 36,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
