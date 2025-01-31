@@ -202,19 +202,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "74.07%",
-    "uptimeWeek": "80.92%",
-    "uptimeMonth": "93.91%",
-    "uptimeYear": "99.49%",
+    "status": "down",
+    "uptime": "99.84%",
+    "uptimeDay": "74.01%",
+    "uptimeWeek": "80.93%",
+    "uptimeMonth": "94.04%",
+    "uptimeYear": "99.50%",
     "time": 1413,
     "timeDay": 1897,
     "timeWeek": 1843,
     "timeMonth": 1268,
     "timeYear": 1416,
     "dailyMinutesDown": {
-      "2025-01-31": 323,
+      "2025-01-31": 324,
       "2025-01-30": 439,
       "2025-01-29": 396,
       "2025-01-28": 219,
@@ -223,7 +223,7 @@
       "2025-01-25": 145,
       "2025-01-24": 294,
       "2025-01-23": 235,
-      "2025-01-22": 232
+      "2025-01-22": 174
     }
   },
   {
@@ -232,7 +232,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nmrshiftdb.nmr.uni-koeln.de.ico",
     "slug": "nmr-shift-database",
     "status": "down",
-    "uptime": "76.84%",
+    "uptime": "76.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -243,7 +243,7 @@
     "timeMonth": 0,
     "timeYear": 3956,
     "dailyMinutesDown": {
-      "2025-01-31": 1179,
+      "2025-01-31": 1188,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
@@ -1306,7 +1306,7 @@
     "timeMonth": 0,
     "timeYear": 1459,
     "dailyMinutesDown": {
-      "2025-01-31": 1180,
+      "2025-01-31": 1189,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
@@ -1801,7 +1801,7 @@
     "timeMonth": 1336,
     "timeYear": 1404,
     "dailyMinutesDown": {
-      "2025-01-31": 1180,
+      "2025-01-31": 1190,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
