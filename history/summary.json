@@ -74,13 +74,13 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.16%",
-    "uptimeDay": "66.81%",
+    "uptimeDay": "68.26%",
     "uptimeWeek": "91.19%",
     "uptimeMonth": "96.79%",
     "uptimeYear": "97.01%",
     "time": 6947,
     "timeDay": 4358,
-    "timeWeek": 4586,
+    "timeWeek": 4664,
     "timeMonth": 4966,
     "timeYear": 6914,
     "dailyMinutesDown": {
@@ -202,19 +202,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "68.23%",
-    "uptimeWeek": "80.80%",
-    "uptimeMonth": "93.83%",
+    "uptimeDay": "68.16%",
+    "uptimeWeek": "80.79%",
+    "uptimeMonth": "93.89%",
     "uptimeYear": "99.49%",
     "time": 1409,
-    "timeDay": 1793,
+    "timeDay": 1840,
     "timeWeek": 1827,
     "timeMonth": 1246,
     "timeYear": 1413,
     "dailyMinutesDown": {
-      "2025-01-31": 113,
+      "2025-01-31": 114,
       "2025-01-30": 439,
       "2025-01-29": 396,
       "2025-01-28": 219,
@@ -225,7 +225,7 @@
       "2025-01-23": 235,
       "2025-01-22": 232,
       "2025-01-21": 138,
-      "2025-01-20": 107
+      "2025-01-20": 82
     }
   },
   {
@@ -245,7 +245,7 @@
     "timeMonth": 0,
     "timeYear": 3956,
     "dailyMinutesDown": {
-      "2025-01-31": 174,
+      "2025-01-31": 196,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
@@ -1308,7 +1308,7 @@
     "timeMonth": 0,
     "timeYear": 1459,
     "dailyMinutesDown": {
-      "2025-01-31": 175,
+      "2025-01-31": 197,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
@@ -1803,7 +1803,7 @@
     "timeMonth": 1336,
     "timeYear": 1404,
     "dailyMinutesDown": {
-      "2025-01-31": 176,
+      "2025-01-31": 197,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
