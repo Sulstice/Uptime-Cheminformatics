@@ -202,11 +202,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "66.16%",
-    "uptimeWeek": "77.42%",
-    "uptimeMonth": "94.06%",
+    "uptimeDay": "66.10%",
+    "uptimeWeek": "77.41%",
+    "uptimeMonth": "94.11%",
     "uptimeYear": "99.51%",
     "time": 1423,
     "timeDay": 3177,
@@ -214,7 +214,7 @@
     "timeMonth": 1390,
     "timeYear": 1427,
     "dailyMinutesDown": {
-      "2025-02-02": 298,
+      "2025-02-02": 299,
       "2025-02-01": 293,
       "2025-01-31": 357,
       "2025-01-30": 439,
@@ -223,7 +223,7 @@
       "2025-01-27": 183,
       "2025-01-26": 205,
       "2025-01-25": 145,
-      "2025-01-24": 72
+      "2025-01-24": 49
     }
   },
   {
@@ -243,7 +243,7 @@
     "timeMonth": 0,
     "timeYear": 3984,
     "dailyMinutesDown": {
-      "2025-02-02": 959,
+      "2025-02-02": 970,
       "2025-02-01": 1440,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
@@ -584,7 +584,7 @@
     "uptimeYear": "99.26%",
     "time": 5240,
     "timeDay": 851,
-    "timeWeek": 1122,
+    "timeWeek": 1128,
     "timeMonth": 962,
     "timeYear": 5274,
     "dailyMinutesDown": {
@@ -822,7 +822,7 @@
     "slug": "card-pred",
     "status": "up",
     "uptime": "94.13%",
-    "uptimeDay": "11.99%",
+    "uptimeDay": "12.81%",
     "uptimeWeek": "82.98%",
     "uptimeMonth": "96.08%",
     "uptimeYear": "98.67%",
@@ -1174,9 +1174,9 @@
     "slug": "adverse-drug-reaction-classification-system",
     "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "97.93%",
     "time": 3091,
     "timeDay": 1399,
@@ -1184,7 +1184,6 @@
     "timeMonth": 2656,
     "timeYear": 3264,
     "dailyMinutesDown": {
-      "2025-02-02": 7,
       "2025-01-11": 17,
       "2025-01-09": 49,
       "2024-12-11": 26,
@@ -1266,7 +1265,8 @@
       "2024-06-19": 197,
       "2024-06-18": 537,
       "2024-06-16": 165,
-      "2024-06-15": 17
+      "2024-06-15": 17,
+      "2024-06-14": 16
     }
   },
   {
@@ -1302,14 +1302,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "39.73%",
+    "uptimeYear": "39.72%",
     "time": 1218,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1433,
     "dailyMinutesDown": {
-      "2025-02-02": 960,
+      "2025-02-02": 971,
       "2025-02-01": 1440,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
@@ -1806,7 +1806,7 @@
     "timeMonth": 1364,
     "timeYear": 1403,
     "dailyMinutesDown": {
-      "2025-02-02": 960,
+      "2025-02-02": 972,
       "2025-02-01": 1440,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
