@@ -198,11 +198,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "66.90%",
+    "uptimeDay": "66.85%",
     "uptimeWeek": "73.29%",
-    "uptimeMonth": "93.01%",
+    "uptimeMonth": "93.08%",
     "uptimeYear": "99.42%",
     "time": 1455,
     "timeDay": 1379,
@@ -210,6 +210,7 @@
     "timeMonth": 1678,
     "timeYear": 1460,
     "dailyMinutesDown": {
+      "2025-02-10": 1,
       "2025-02-09": 475,
       "2025-02-08": 447,
       "2025-02-07": 385,
@@ -217,7 +218,7 @@
       "2025-02-05": 294,
       "2025-02-04": 282,
       "2025-02-03": 349,
-      "2025-02-02": 371
+      "2025-02-02": 340
     }
   },
   {
@@ -237,7 +238,7 @@
     "timeMonth": 0,
     "timeYear": 4377,
     "dailyMinutesDown": {
-      "2025-02-10": 26,
+      "2025-02-10": 34,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
@@ -579,8 +580,8 @@
     "status": "down",
     "uptime": "99.21%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "13.01%",
-    "uptimeMonth": "79.04%",
+    "uptimeWeek": "12.95%",
+    "uptimeMonth": "79.02%",
     "uptimeYear": "97.60%",
     "time": 5269,
     "timeDay": 761,
@@ -588,7 +589,7 @@
     "timeMonth": 958,
     "timeYear": 5281,
     "dailyMinutesDown": {
-      "2025-02-10": 27,
+      "2025-02-10": 34,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
@@ -1303,7 +1304,7 @@
     "timeMonth": 0,
     "timeYear": 1447,
     "dailyMinutesDown": {
-      "2025-02-10": 28,
+      "2025-02-10": 35,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
@@ -1805,7 +1806,7 @@
     "timeMonth": 1318,
     "timeYear": 1399,
     "dailyMinutesDown": {
-      "2025-02-10": 28,
+      "2025-02-10": 35,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
@@ -2181,7 +2182,7 @@
     "uptime": "99.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.76%",
-    "uptimeMonth": "95.25%",
+    "uptimeMonth": "95.26%",
     "uptimeYear": "97.36%",
     "time": 1980,
     "timeDay": 78,
