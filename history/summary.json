@@ -78,7 +78,7 @@
     "status": "up",
     "uptime": "99.27%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "83.45%",
+    "uptimeWeek": "83.53%",
     "uptimeMonth": "91.24%",
     "uptimeYear": "97.35%",
     "time": 6998,
@@ -202,9 +202,9 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "67.27%",
-    "uptimeWeek": "75.52%",
-    "uptimeMonth": "93.65%",
+    "uptimeDay": "67.82%",
+    "uptimeWeek": "75.60%",
+    "uptimeMonth": "93.61%",
     "uptimeYear": "99.47%",
     "time": 1455,
     "timeDay": 1644,
@@ -212,7 +212,7 @@
     "timeMonth": 1670,
     "timeYear": 1457,
     "dailyMinutesDown": {
-      "2025-02-17": 293,
+      "2025-02-17": 285,
       "2025-02-16": 275,
       "2025-02-15": 458,
       "2025-02-14": 236,
@@ -220,7 +220,7 @@
       "2025-02-12": 332,
       "2025-02-11": 305,
       "2025-02-10": 152,
-      "2025-02-09": 237
+      "2025-02-09": 263
     }
   },
   {
@@ -240,7 +240,7 @@
     "timeMonth": 0,
     "timeYear": 4509,
     "dailyMinutesDown": {
-      "2025-02-17": 705,
+      "2025-02-17": 713,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
       "2025-02-14": 1440,
@@ -588,7 +588,7 @@
     "uptime": "98.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "54.81%",
+    "uptimeMonth": "54.79%",
     "uptimeYear": "95.55%",
     "time": 5273,
     "timeDay": 0,
@@ -596,7 +596,7 @@
     "timeMonth": 967,
     "timeYear": 5184,
     "dailyMinutesDown": {
-      "2025-02-17": 706,
+      "2025-02-17": 714,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
       "2025-02-14": 1440,
@@ -783,7 +783,7 @@
     "time": 1142,
     "timeDay": 0,
     "timeWeek": 1021,
-    "timeMonth": 940,
+    "timeMonth": 945,
     "timeYear": 994,
     "dailyMinutesDown": {
       "2024-09-02": 873,
@@ -1309,7 +1309,7 @@
     "timeMonth": 0,
     "timeYear": 1492,
     "dailyMinutesDown": {
-      "2025-02-17": 707,
+      "2025-02-17": 715,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
       "2025-02-14": 1440,
@@ -1786,11 +1786,11 @@
     "url": "https://www.genome.jp/kegg/",
     "icon": "https://icons.duckduckgo.com/ip3/www.genome.jp.ico",
     "slug": "kyoto-encyclopedia-of-genes-and-genomes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 1159,
     "timeDay": 0,
@@ -1798,6 +1798,7 @@
     "timeMonth": 1088,
     "timeYear": 1126,
     "dailyMinutesDown": {
+      "2025-02-17": 3,
       "2024-11-09": 94,
       "2024-11-08": 25
     }
@@ -1819,7 +1820,7 @@
     "timeMonth": 1304,
     "timeYear": 1399,
     "dailyMinutesDown": {
-      "2025-02-17": 707,
+      "2025-02-17": 715,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
       "2025-02-14": 1440,
