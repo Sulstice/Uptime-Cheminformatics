@@ -200,11 +200,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "80.95%",
-    "uptimeWeek": "77.67%",
-    "uptimeMonth": "93.63%",
+    "uptimeDay": "80.89%",
+    "uptimeWeek": "77.68%",
+    "uptimeMonth": "93.70%",
     "uptimeYear": "99.47%",
     "time": 1455,
     "timeDay": 1685,
@@ -212,6 +212,7 @@
     "timeMonth": 1658,
     "timeYear": 1457,
     "dailyMinutesDown": {
+      "2025-02-17": 1,
       "2025-02-16": 275,
       "2025-02-15": 458,
       "2025-02-14": 236,
@@ -220,7 +221,7 @@
       "2025-02-11": 305,
       "2025-02-10": 152,
       "2025-02-09": 475,
-      "2025-02-08": 63
+      "2025-02-08": 32
     }
   },
   {
@@ -240,7 +241,7 @@
     "timeMonth": 0,
     "timeYear": 4509,
     "dailyMinutesDown": {
-      "2025-02-17": 27,
+      "2025-02-17": 35,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
       "2025-02-14": 1440,
@@ -588,7 +589,7 @@
     "uptime": "98.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "56.31%",
+    "uptimeMonth": "56.29%",
     "uptimeYear": "95.68%",
     "time": 5273,
     "timeDay": 0,
@@ -596,7 +597,7 @@
     "timeMonth": 959,
     "timeYear": 5204,
     "dailyMinutesDown": {
-      "2025-02-17": 27,
+      "2025-02-17": 35,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
       "2025-02-14": 1440,
@@ -1302,14 +1303,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "35.81%",
+    "uptimeYear": "35.80%",
     "time": 1280,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1492,
     "dailyMinutesDown": {
-      "2025-02-17": 28,
+      "2025-02-17": 36,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
       "2025-02-14": 1440,
@@ -1819,7 +1820,7 @@
     "timeMonth": 1304,
     "timeYear": 1399,
     "dailyMinutesDown": {
-      "2025-02-17": 29,
+      "2025-02-17": 37,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
       "2025-02-14": 1440,
