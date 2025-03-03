@@ -142,7 +142,7 @@
     "slug": "pub-chem",
     "status": "up",
     "uptime": "98.86%",
-    "uptimeDay": "36.34%",
+    "uptimeDay": "38.80%",
     "uptimeWeek": "85.43%",
     "uptimeMonth": "94.51%",
     "uptimeYear": "99.53%",
@@ -208,13 +208,13 @@
     "status": "up",
     "uptime": "99.83%",
     "uptimeDay": "72.65%",
-    "uptimeWeek": "74.65%",
+    "uptimeWeek": "74.86%",
     "uptimeMonth": "93.61%",
     "uptimeYear": "99.47%",
     "time": 1498,
-    "timeDay": 2349,
+    "timeDay": 2404,
     "timeWeek": 2400,
-    "timeMonth": 1989,
+    "timeMonth": 1986,
     "timeYear": 1499,
     "dailyMinutesDown": {
       "2025-03-02": 395,
@@ -237,14 +237,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "21.79%",
+    "uptimeYear": "21.78%",
     "time": 4153,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 4706,
     "dailyMinutesDown": {
-      "2025-03-02": 1432,
+      "2025-03-03": 28,
+      "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
@@ -600,18 +601,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
     "status": "down",
-    "uptime": "97.38%",
+    "uptime": "97.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "11.03%",
-    "uptimeYear": "91.85%",
+    "uptimeMonth": "10.95%",
+    "uptimeYear": "91.84%",
     "time": 5101,
     "timeDay": 446,
     "timeWeek": 675,
     "timeMonth": 663,
     "timeYear": 4895,
     "dailyMinutesDown": {
-      "2025-03-02": 1432,
+      "2025-03-03": 28,
+      "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
@@ -960,8 +962,7 @@
       "2024-03-07": 1440,
       "2024-03-06": 1440,
       "2024-03-05": 1440,
-      "2024-03-04": 1440,
-      "2024-03-03": 1259
+      "2024-03-04": 1440
     }
   },
   {
@@ -994,7 +995,7 @@
     "slug": "tox21",
     "status": "up",
     "uptime": "96.13%",
-    "uptimeDay": "37.92%",
+    "uptimeDay": "40.41%",
     "uptimeWeek": "85.71%",
     "uptimeMonth": "96.71%",
     "uptimeYear": "93.22%",
@@ -1137,8 +1138,7 @@
       "2024-03-21": 87,
       "2024-03-19": 36,
       "2024-03-18": 80,
-      "2024-03-17": 133,
-      "2024-03-03": 34
+      "2024-03-17": 133
     }
   },
   {
@@ -1331,7 +1331,8 @@
     "timeMonth": 0,
     "timeYear": 1471,
     "dailyMinutesDown": {
-      "2025-03-02": 1433,
+      "2025-03-03": 29,
+      "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
@@ -1605,7 +1606,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heraproject.com.ico",
     "slug": "human-and-environment-risk-assessment",
     "status": "up",
-    "uptime": "40.18%",
+    "uptime": "40.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.35%",
@@ -1702,8 +1703,7 @@
       "2024-03-07": 1440,
       "2024-03-06": 1440,
       "2024-03-05": 1440,
-      "2024-03-04": 1440,
-      "2024-03-03": 1440
+      "2024-03-04": 1440
     }
   },
   {
@@ -1831,7 +1831,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heterocycles.jp.ico",
     "slug": "hetereocycles",
     "status": "down",
-    "uptime": "62.07%",
+    "uptime": "62.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -1842,7 +1842,8 @@
     "timeMonth": 1556,
     "timeYear": 1415,
     "dailyMinutesDown": {
-      "2025-03-02": 1433,
+      "2025-03-03": 29,
+      "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
@@ -2205,8 +2206,7 @@
       "2024-03-07": 1440,
       "2024-03-06": 1440,
       "2024-03-05": 1440,
-      "2024-03-04": 1440,
-      "2024-03-03": 1440
+      "2024-03-04": 1440
     }
   },
   {
@@ -2216,7 +2216,7 @@
     "slug": "chemical-resolver",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "42.49%",
+    "uptimeDay": "44.98%",
     "uptimeWeek": "78.93%",
     "uptimeMonth": "91.50%",
     "uptimeYear": "97.83%",
