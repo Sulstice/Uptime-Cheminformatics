@@ -172,7 +172,7 @@
     "uptimeYear": "99.32%",
     "time": 842,
     "timeDay": 340,
-    "timeWeek": 204,
+    "timeWeek": 207,
     "timeMonth": 240,
     "timeYear": 496,
     "dailyMinutesDown": {
@@ -206,17 +206,17 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "78.27%",
-    "uptimeWeek": "74.43%",
-    "uptimeMonth": "93.62%",
-    "uptimeYear": "99.47%",
+    "uptimeDay": "78.82%",
+    "uptimeWeek": "74.50%",
+    "uptimeMonth": "93.55%",
+    "uptimeYear": "99.46%",
     "time": 1498,
-    "timeDay": 1201,
+    "timeDay": 1222,
     "timeWeek": 2031,
     "timeMonth": 1920,
     "timeYear": 1501,
     "dailyMinutesDown": {
-      "2025-03-04": 150,
+      "2025-03-04": 142,
       "2025-03-03": 336,
       "2025-03-02": 395,
       "2025-03-01": 471,
@@ -224,7 +224,7 @@
       "2025-02-27": 274,
       "2025-02-26": 385,
       "2025-02-25": 339,
-      "2025-02-24": 64
+      "2025-02-24": 100
     }
   },
   {
@@ -244,7 +244,7 @@
     "timeMonth": 0,
     "timeYear": 4706,
     "dailyMinutesDown": {
-      "2025-03-04": 703,
+      "2025-03-04": 712,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
@@ -613,7 +613,7 @@
     "timeMonth": 633,
     "timeYear": 4883,
     "dailyMinutesDown": {
-      "2025-03-04": 703,
+      "2025-03-04": 712,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
@@ -891,7 +891,7 @@
     "uptimeDay": "85.08%",
     "uptimeWeek": "95.49%",
     "uptimeMonth": "97.85%",
-    "uptimeYear": "94.10%",
+    "uptimeYear": "94.11%",
     "time": 837,
     "timeDay": 770,
     "timeWeek": 595,
@@ -1323,7 +1323,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cfpub.epa.gov.ico",
     "slug": "ecology-toxicity",
     "status": "down",
-    "uptime": "77.82%",
+    "uptime": "77.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -1334,7 +1334,7 @@
     "timeMonth": 0,
     "timeYear": 1471,
     "dailyMinutesDown": {
-      "2025-03-04": 705,
+      "2025-03-04": 713,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
@@ -1845,7 +1845,7 @@
     "timeMonth": 1547,
     "timeYear": 1414,
     "dailyMinutesDown": {
-      "2025-03-04": 705,
+      "2025-03-04": 713,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
@@ -2217,18 +2217,19 @@
     "url": "https://cactus.nci.nih.gov/chemical/structure",
     "icon": "https://icons.duckduckgo.com/ip3/cactus.nci.nih.gov.ico",
     "slug": "chemical-resolver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "80.76%",
-    "uptimeMonth": "91.50%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "80.73%",
+    "uptimeMonth": "91.49%",
     "uptimeYear": "97.83%",
-    "time": 2409,
+    "time": 2411,
     "timeDay": 241,
     "timeWeek": 4097,
     "timeMonth": 4994,
     "timeYear": 2733,
     "dailyMinutesDown": {
+      "2025-03-04": 3,
       "2025-03-02": 821,
       "2025-03-01": 531,
       "2025-02-28": 487,
@@ -2286,8 +2287,7 @@
       "2024-11-18": 67,
       "2024-11-17": 513,
       "2024-11-16": 271,
-      "2024-11-15": 106,
-      "2024-11-14": 38
+      "2024-11-15": 106
     }
   },
   {
