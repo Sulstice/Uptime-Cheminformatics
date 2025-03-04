@@ -13,7 +13,7 @@
     "time": 1823,
     "timeDay": 229,
     "timeWeek": 886,
-    "timeMonth": 1693,
+    "timeMonth": 1591,
     "timeYear": 2003,
     "dailyMinutesDown": {
       "2025-02-28": 59,
@@ -205,19 +205,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "down",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "77.71%",
-    "uptimeWeek": "74.81%",
-    "uptimeMonth": "93.75%",
-    "uptimeYear": "99.48%",
+    "uptimeDay": "76.59%",
+    "uptimeWeek": "74.38%",
+    "uptimeMonth": "93.65%",
+    "uptimeYear": "99.47%",
     "time": 1498,
-    "timeDay": 1553,
-    "timeWeek": 2165,
+    "timeDay": 1351,
+    "timeWeek": 2149,
     "timeMonth": 1937,
     "timeYear": 1501,
     "dailyMinutesDown": {
-      "2025-03-03": 291,
+      "2025-03-03": 336,
       "2025-03-02": 395,
       "2025-03-01": 471,
       "2025-02-28": 378,
@@ -233,18 +233,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nmrshiftdb.nmr.uni-koeln.de.ico",
     "slug": "nmr-shift-database",
     "status": "down",
-    "uptime": "74.73%",
+    "uptime": "74.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "21.52%",
+    "uptimeYear": "21.51%",
     "time": 4166,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 4706,
     "dailyMinutesDown": {
-      "2025-03-03": 1393,
+      "2025-03-03": 1440,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
@@ -605,14 +605,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "91.58%",
+    "uptimeYear": "91.57%",
     "time": 5101,
     "timeDay": 315,
     "timeWeek": 605,
     "timeMonth": 633,
-    "timeYear": 4894,
+    "timeYear": 4891,
     "dailyMinutesDown": {
-      "2025-03-03": 1393,
+      "2025-03-03": 1440,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
@@ -889,7 +889,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.62%",
     "uptimeMonth": "98.34%",
-    "uptimeYear": "94.00%",
+    "uptimeYear": "94.01%",
     "time": 837,
     "timeDay": 741,
     "timeWeek": 575,
@@ -961,8 +961,7 @@
       "2024-03-08": 1440,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
-      "2024-03-05": 1440,
-      "2024-03-04": 1440
+      "2024-03-05": 1440
     }
   },
   {
@@ -1069,8 +1068,7 @@
       "2024-03-11": 1433,
       "2024-03-10": 1440,
       "2024-03-09": 1440,
-      "2024-03-08": 979,
-      "2024-03-04": 55
+      "2024-03-08": 979
     }
   },
   {
@@ -1146,11 +1144,11 @@
     "url": "https://www.metaboanalyst.ca/MetaboAnalyst/",
     "icon": "https://icons.duckduckgo.com/ip3/www.metaboanalyst.ca.ico",
     "slug": "metabo-analyst",
-    "status": "up",
+    "status": "down",
     "uptime": "98.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "96.91%",
     "time": 696,
     "timeDay": 350,
@@ -1158,6 +1156,8 @@
     "timeMonth": 284,
     "timeYear": 831,
     "dailyMinutesDown": {
+      "2025-03-04": 1,
+      "2025-03-03": 2,
       "2024-10-20": 107,
       "2024-10-15": 59,
       "2024-10-10": 20,
@@ -1324,14 +1324,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "31.72%",
+    "uptimeYear": "31.71%",
     "time": 1296,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1471,
     "dailyMinutesDown": {
-      "2025-03-03": 1394,
+      "2025-03-04": 1,
+      "2025-03-03": 1440,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
@@ -1610,7 +1611,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.35%",
-    "uptimeYear": "83.03%",
+    "uptimeYear": "83.04%",
     "time": 2753,
     "timeDay": 2802,
     "timeWeek": 2327,
@@ -1702,8 +1703,7 @@
       "2024-03-08": 1440,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
-      "2024-03-05": 1440,
-      "2024-03-04": 1440
+      "2024-03-05": 1440
     }
   },
   {
@@ -1842,7 +1842,8 @@
     "timeMonth": 1547,
     "timeYear": 1414,
     "dailyMinutesDown": {
-      "2025-03-03": 1395,
+      "2025-03-04": 1,
+      "2025-03-03": 1440,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
@@ -2205,8 +2206,7 @@
       "2024-03-08": 1440,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
-      "2024-03-05": 1440,
-      "2024-03-04": 1440
+      "2024-03-05": 1440
     }
   },
   {
