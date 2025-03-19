@@ -232,7 +232,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nmrshiftdb.nmr.uni-koeln.de.ico",
     "slug": "nmr-shift-database",
     "status": "down",
-    "uptime": "73.70%",
+    "uptime": "73.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -243,7 +243,7 @@
     "timeMonth": 0,
     "timeYear": 5297,
     "dailyMinutesDown": {
-      "2025-03-19": 1190,
+      "2025-03-19": 1199,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
@@ -619,7 +619,7 @@
     "timeMonth": 1290,
     "timeYear": 4797,
     "dailyMinutesDown": {
-      "2025-03-19": 1190,
+      "2025-03-19": 1200,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
@@ -1332,7 +1332,7 @@
     "timeMonth": 0,
     "timeYear": 1142,
     "dailyMinutesDown": {
-      "2025-03-19": 1192,
+      "2025-03-19": 1201,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
@@ -1839,7 +1839,7 @@
     "timeMonth": 1578,
     "timeYear": 1413,
     "dailyMinutesDown": {
-      "2025-03-19": 1192,
+      "2025-03-19": 1202,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
@@ -2211,19 +2211,19 @@
     "url": "https://cactus.nci.nih.gov/chemical/structure",
     "icon": "https://icons.duckduckgo.com/ip3/cactus.nci.nih.gov.ico",
     "slug": "chemical-resolver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "78.94%",
-    "uptimeWeek": "88.31%",
-    "uptimeMonth": "89.97%",
-    "uptimeYear": "97.83%",
-    "time": 2594,
+    "uptimeDay": "78.63%",
+    "uptimeWeek": "88.27%",
+    "uptimeMonth": "89.96%",
+    "uptimeYear": "97.84%",
+    "time": 2596,
     "timeDay": 6577,
     "timeWeek": 3663,
     "timeMonth": 4105,
     "timeYear": 2901,
     "dailyMinutesDown": {
-      "2025-03-19": 277,
+      "2025-03-19": 282,
       "2025-03-18": 26,
       "2025-03-17": 110,
       "2025-03-15": 537,
@@ -2280,7 +2280,7 @@
       "2024-12-03": 775,
       "2024-12-02": 41,
       "2024-11-30": 36,
-      "2024-11-28": 287
+      "2024-11-28": 249
     }
   },
   {
