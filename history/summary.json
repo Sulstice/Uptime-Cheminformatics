@@ -202,19 +202,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "66.38%",
-    "uptimeWeek": "72.57%",
-    "uptimeMonth": "92.85%",
-    "uptimeYear": "99.40%",
+    "uptimeDay": "66.23%",
+    "uptimeWeek": "72.67%",
+    "uptimeMonth": "92.90%",
+    "uptimeYear": "99.41%",
     "time": 1441,
     "timeDay": 2874,
     "timeWeek": 1250,
     "timeMonth": 1319,
     "timeYear": 1441,
     "dailyMinutesDown": {
-      "2025-03-25": 301,
+      "2025-03-25": 303,
       "2025-03-24": 333,
       "2025-03-23": 478,
       "2025-03-22": 360,
@@ -222,7 +222,7 @@
       "2025-03-20": 403,
       "2025-03-19": 398,
       "2025-03-18": 379,
-      "2025-03-17": 131
+      "2025-03-17": 107
     }
   },
   {
@@ -242,7 +242,7 @@
     "timeMonth": 0,
     "timeYear": 5493,
     "dailyMinutesDown": {
-      "2025-03-25": 638,
+      "2025-03-25": 649,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
@@ -622,7 +622,7 @@
     "timeMonth": 2441,
     "timeYear": 4795,
     "dailyMinutesDown": {
-      "2025-03-25": 638,
+      "2025-03-25": 650,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
@@ -1331,7 +1331,7 @@
     "timeMonth": 0,
     "timeYear": 1101,
     "dailyMinutesDown": {
-      "2025-03-25": 639,
+      "2025-03-25": 650,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
@@ -1838,7 +1838,7 @@
     "timeMonth": 1366,
     "timeYear": 1412,
     "dailyMinutesDown": {
-      "2025-03-25": 640,
+      "2025-03-25": 651,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
@@ -2210,18 +2210,19 @@
     "url": "https://cactus.nci.nih.gov/chemical/structure",
     "icon": "https://icons.duckduckgo.com/ip3/cactus.nci.nih.gov.ico",
     "slug": "chemical-resolver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "78.45%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "78.42%",
     "uptimeMonth": "87.63%",
     "uptimeYear": "97.54%",
-    "time": 2610,
+    "time": 2612,
     "timeDay": 390,
     "timeWeek": 3508,
     "timeMonth": 3661,
     "timeYear": 2931,
     "dailyMinutesDown": {
+      "2025-03-25": 3,
       "2025-03-22": 1248,
       "2025-03-20": 586,
       "2025-03-19": 312,
@@ -2278,8 +2279,7 @@
       "2024-12-13": 94,
       "2024-12-06": 20,
       "2024-12-04": 530,
-      "2024-12-03": 775,
-      "2024-12-02": 41
+      "2024-12-03": 775
     }
   },
   {
