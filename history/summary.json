@@ -205,19 +205,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "77.20%",
-    "uptimeWeek": "74.84%",
-    "uptimeMonth": "93.27%",
-    "uptimeYear": "99.44%",
-    "time": 1456,
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "77.14%",
+    "uptimeWeek": "74.83%",
+    "uptimeMonth": "93.36%",
+    "uptimeYear": "99.45%",
+    "time": 1455,
     "timeDay": 2109,
-    "timeWeek": 2234,
+    "timeWeek": 2242,
     "timeMonth": 1359,
     "timeYear": 1458,
     "dailyMinutesDown": {
-      "2025-03-29": 316,
+      "2025-03-29": 317,
       "2025-03-28": 364,
       "2025-03-27": 226,
       "2025-03-26": 294,
@@ -225,7 +225,7 @@
       "2025-03-24": 333,
       "2025-03-23": 478,
       "2025-03-22": 360,
-      "2025-03-21": 105
+      "2025-03-21": 64
     }
   },
   {
@@ -245,7 +245,7 @@
     "timeMonth": 0,
     "timeYear": 5828,
     "dailyMinutesDown": {
-      "2025-03-29": 1330,
+      "2025-03-29": 1342,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -615,7 +615,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
     "status": "down",
-    "uptime": "95.12%",
+    "uptime": "95.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -626,7 +626,7 @@
     "timeMonth": 2340,
     "timeYear": 4754,
     "dailyMinutesDown": {
-      "2025-03-29": 1330,
+      "2025-03-29": 1342,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -1337,7 +1337,7 @@
     "timeMonth": 0,
     "timeYear": 1119,
     "dailyMinutesDown": {
-      "2025-03-29": 1331,
+      "2025-03-29": 1343,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -1847,7 +1847,7 @@
     "timeMonth": 1397,
     "timeYear": 1414,
     "dailyMinutesDown": {
-      "2025-03-29": 1331,
+      "2025-03-29": 1343,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
