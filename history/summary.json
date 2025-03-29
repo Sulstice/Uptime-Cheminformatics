@@ -205,19 +205,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "75.11%",
-    "uptimeWeek": "74.71%",
-    "uptimeMonth": "93.38%",
-    "uptimeYear": "99.45%",
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "74.29%",
+    "uptimeWeek": "74.72%",
+    "uptimeMonth": "93.30%",
+    "uptimeYear": "99.44%",
     "time": 1455,
-    "timeDay": 2056,
-    "timeWeek": 2229,
+    "timeDay": 2013,
+    "timeWeek": 2222,
     "timeMonth": 1355,
     "timeYear": 1458,
     "dailyMinutesDown": {
-      "2025-03-29": 346,
+      "2025-03-29": 358,
       "2025-03-28": 364,
       "2025-03-27": 226,
       "2025-03-26": 294,
@@ -225,7 +225,7 @@
       "2025-03-24": 333,
       "2025-03-23": 478,
       "2025-03-22": 360,
-      "2025-03-21": 23
+      "2025-03-21": 46
     }
   },
   {
@@ -245,7 +245,7 @@
     "timeMonth": 0,
     "timeYear": 5870,
     "dailyMinutesDown": {
-      "2025-03-29": 1390,
+      "2025-03-29": 1412,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -626,7 +626,7 @@
     "timeMonth": 2333,
     "timeYear": 4754,
     "dailyMinutesDown": {
-      "2025-03-29": 1390,
+      "2025-03-29": 1412,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -1337,7 +1337,7 @@
     "timeMonth": 0,
     "timeYear": 1126,
     "dailyMinutesDown": {
-      "2025-03-29": 1391,
+      "2025-03-29": 1413,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -1633,7 +1633,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heraproject.com.ico",
     "slug": "human-and-environment-risk-assessment",
     "status": "up",
-    "uptime": "41.57%",
+    "uptime": "41.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1847,7 +1847,7 @@
     "timeMonth": 1414,
     "timeYear": 1413,
     "dailyMinutesDown": {
-      "2025-03-29": 1391,
+      "2025-03-29": 1414,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
