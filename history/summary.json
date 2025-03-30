@@ -207,17 +207,17 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "70.36%",
-    "uptimeWeek": "74.82%",
-    "uptimeMonth": "93.18%",
+    "uptimeDay": "71.07%",
+    "uptimeWeek": "74.95%",
+    "uptimeMonth": "93.16%",
     "uptimeYear": "99.43%",
     "time": 1457,
     "timeDay": 2192,
-    "timeWeek": 2386,
+    "timeWeek": 2396,
     "timeMonth": 1385,
     "timeYear": 1459,
     "dailyMinutesDown": {
-      "2025-03-30": 291,
+      "2025-03-30": 283,
       "2025-03-29": 361,
       "2025-03-28": 364,
       "2025-03-27": 226,
@@ -225,7 +225,7 @@
       "2025-03-25": 475,
       "2025-03-24": 333,
       "2025-03-23": 478,
-      "2025-03-22": 165
+      "2025-03-22": 182
     }
   },
   {
@@ -245,7 +245,7 @@
     "timeMonth": 0,
     "timeYear": 5870,
     "dailyMinutesDown": {
-      "2025-03-30": 837,
+      "2025-03-30": 847,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -627,7 +627,7 @@
     "timeMonth": 2268,
     "timeYear": 4756,
     "dailyMinutesDown": {
-      "2025-03-30": 837,
+      "2025-03-30": 847,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -1339,7 +1339,7 @@
     "timeMonth": 0,
     "timeYear": 1126,
     "dailyMinutesDown": {
-      "2025-03-30": 837,
+      "2025-03-30": 848,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -1719,17 +1719,17 @@
     "url": "https://www.tera.org/iter/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tera.org.ico",
     "slug": "international-toxicity-information-for-risk-assesments",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 412,
-    "timeDay": 123,
+    "timeDay": 124,
     "timeWeek": 130,
-    "timeMonth": 246,
-    "timeYear": 411,
+    "timeMonth": 244,
+    "timeYear": 410,
     "dailyMinutesDown": {}
   },
   {
@@ -1850,7 +1850,7 @@
     "timeMonth": 1402,
     "timeYear": 1413,
     "dailyMinutesDown": {
-      "2025-03-30": 838,
+      "2025-03-30": 848,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
