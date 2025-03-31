@@ -205,11 +205,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "76.77%",
-    "uptimeWeek": "74.94%",
-    "uptimeMonth": "93.26%",
+    "uptimeDay": "76.72%",
+    "uptimeWeek": "74.93%",
+    "uptimeMonth": "93.31%",
     "uptimeYear": "99.44%",
     "time": 1457,
     "timeDay": 1798,
@@ -217,7 +217,7 @@
     "timeMonth": 1394,
     "timeYear": 1460,
     "dailyMinutesDown": {
-      "2025-03-31": 87,
+      "2025-03-31": 88,
       "2025-03-30": 417,
       "2025-03-29": 361,
       "2025-03-28": 364,
@@ -225,7 +225,7 @@
       "2025-03-26": 294,
       "2025-03-25": 475,
       "2025-03-24": 333,
-      "2025-03-23": 396
+      "2025-03-23": 373
     }
   },
   {
@@ -245,7 +245,7 @@
     "timeMonth": 0,
     "timeYear": 5913,
     "dailyMinutesDown": {
-      "2025-03-31": 254,
+      "2025-03-31": 269,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
@@ -626,9 +626,9 @@
     "timeDay": 633,
     "timeWeek": 4726,
     "timeMonth": 2207,
-    "timeYear": 4769,
+    "timeYear": 4770,
     "dailyMinutesDown": {
-      "2025-03-31": 254,
+      "2025-03-31": 269,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
@@ -1341,7 +1341,7 @@
     "timeMonth": 0,
     "timeYear": 1133,
     "dailyMinutesDown": {
-      "2025-03-31": 255,
+      "2025-03-31": 270,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
@@ -1853,7 +1853,7 @@
     "timeMonth": 1404,
     "timeYear": 1412,
     "dailyMinutesDown": {
-      "2025-03-31": 255,
+      "2025-03-31": 270,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
@@ -2229,7 +2229,7 @@
     "uptime": "99.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.92%",
-    "uptimeMonth": "87.27%",
+    "uptimeMonth": "87.31%",
     "uptimeYear": "97.70%",
     "time": 2662,
     "timeDay": 84,
@@ -2303,7 +2303,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lookchem.com.ico",
     "slug": "look-chem",
     "status": "up",
-    "uptime": "96.77%",
+    "uptime": "96.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.09%",
