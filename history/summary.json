@@ -200,19 +200,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "83.39%",
-    "uptimeWeek": "78.83%",
-    "uptimeMonth": "93.31%",
-    "uptimeYear": "99.44%",
+    "uptimeDay": "84.63%",
+    "uptimeWeek": "78.82%",
+    "uptimeMonth": "93.41%",
+    "uptimeYear": "99.45%",
     "time": 1458,
-    "timeDay": 1255,
+    "timeDay": 1281,
     "timeWeek": 1480,
     "timeMonth": 1300,
     "timeYear": 1457,
     "dailyMinutesDown": {
-      "2025-04-04": 181,
+      "2025-04-04": 182,
       "2025-04-03": 373,
       "2025-04-02": 390,
       "2025-04-01": 187,
@@ -221,7 +221,7 @@
       "2025-03-29": 361,
       "2025-03-28": 364,
       "2025-03-27": 226,
-      "2025-03-26": 232
+      "2025-03-26": 188
     }
   },
   {
@@ -241,7 +241,7 @@
     "timeMonth": 0,
     "timeYear": 6129,
     "dailyMinutesDown": {
-      "2025-04-04": 1042,
+      "2025-04-04": 1079,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -628,7 +628,7 @@
     "timeMonth": 2203,
     "timeYear": 4768,
     "dailyMinutesDown": {
-      "2025-04-04": 1042,
+      "2025-04-04": 1079,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -1218,7 +1218,7 @@
     "timeDay": 1286,
     "timeWeek": 1747,
     "timeMonth": 1739,
-    "timeYear": 3297,
+    "timeYear": 3298,
     "dailyMinutesDown": {
       "2025-03-10": 118,
       "2025-03-09": 1440,
@@ -1341,14 +1341,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "23.11%",
+    "uptimeYear": "23.10%",
     "time": 1364,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1073,
     "dailyMinutesDown": {
-      "2025-04-04": 1044,
+      "2025-04-04": 1081,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -1862,7 +1862,7 @@
     "timeMonth": 1418,
     "timeYear": 1412,
     "dailyMinutesDown": {
-      "2025-04-04": 1044,
+      "2025-04-04": 1081,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
