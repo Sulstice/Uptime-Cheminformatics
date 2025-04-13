@@ -201,11 +201,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "67.38%",
-    "uptimeWeek": "69.35%",
-    "uptimeMonth": "92.76%",
+    "uptimeDay": "67.32%",
+    "uptimeWeek": "69.34%",
+    "uptimeMonth": "92.85%",
     "uptimeYear": "99.40%",
     "time": 1428,
     "timeDay": 789,
@@ -213,14 +213,14 @@
     "timeMonth": 1213,
     "timeYear": 1427,
     "dailyMinutesDown": {
-      "2025-04-13": 241,
+      "2025-04-13": 242,
       "2025-04-12": 266,
       "2025-04-11": 430,
       "2025-04-10": 402,
       "2025-04-09": 601,
       "2025-04-08": 332,
       "2025-04-07": 577,
-      "2025-04-06": 322
+      "2025-04-06": 279
     }
   },
   {
@@ -240,7 +240,7 @@
     "timeMonth": 0,
     "timeYear": 6686,
     "dailyMinutesDown": {
-      "2025-04-13": 460,
+      "2025-04-13": 468,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
@@ -634,7 +634,7 @@
     "timeMonth": 2040,
     "timeYear": 4723,
     "dailyMinutesDown": {
-      "2025-04-13": 460,
+      "2025-04-13": 469,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
@@ -861,8 +861,8 @@
     "status": "down",
     "uptime": "96.41%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "28.87%",
-    "uptimeMonth": "83.01%",
+    "uptimeWeek": "28.79%",
+    "uptimeMonth": "82.99%",
     "uptimeYear": "93.63%",
     "time": 965,
     "timeDay": 644,
@@ -870,7 +870,7 @@
     "timeMonth": 781,
     "timeYear": 963,
     "dailyMinutesDown": {
-      "2025-04-13": 461,
+      "2025-04-13": 469,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
@@ -957,7 +957,7 @@
     "uptime": "97.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.59%",
-    "uptimeMonth": "96.28%",
+    "uptimeMonth": "96.30%",
     "uptimeYear": "98.26%",
     "time": 944,
     "timeDay": 378,
@@ -1364,7 +1364,7 @@
     "timeMonth": 0,
     "timeYear": 985,
     "dailyMinutesDown": {
-      "2025-04-13": 461,
+      "2025-04-13": 469,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
@@ -1757,7 +1757,7 @@
     "uptimeYear": "100.00%",
     "time": 407,
     "timeDay": 177,
-    "timeWeek": 248,
+    "timeWeek": 246,
     "timeMonth": 235,
     "timeYear": 401,
     "dailyMinutesDown": {}
@@ -1878,7 +1878,7 @@
     "timeMonth": 1435,
     "timeYear": 1413,
     "dailyMinutesDown": {
-      "2025-04-13": 462,
+      "2025-04-13": 470,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
@@ -2334,7 +2334,7 @@
     "uptimeYear": "95.17%",
     "time": 1685,
     "timeDay": 435,
-    "timeWeek": 592,
+    "timeWeek": 588,
     "timeMonth": 1065,
     "timeYear": 1829,
     "dailyMinutesDown": {
