@@ -203,8 +203,8 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "73.41%",
-    "uptimeWeek": "70.64%",
+    "uptimeDay": "75.36%",
+    "uptimeWeek": "70.91%",
     "uptimeMonth": "93.01%",
     "uptimeYear": "99.42%",
     "time": 1422,
@@ -229,18 +229,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nmrshiftdb.nmr.uni-koeln.de.ico",
     "slug": "nmr-shift-database",
     "status": "down",
-    "uptime": "72.06%",
+    "uptime": "72.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "10.74%",
+    "uptimeYear": "10.73%",
     "time": 4452,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 6742,
     "dailyMinutesDown": {
-      "2025-04-14": 1435,
+      "2025-04-15": 28,
+      "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
@@ -624,18 +625,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
     "status": "down",
-    "uptime": "93.82%",
+    "uptime": "93.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "80.07%",
+    "uptimeYear": "80.06%",
     "time": 4750,
     "timeDay": 449,
     "timeWeek": 539,
     "timeMonth": 2027,
     "timeYear": 4714,
     "dailyMinutesDown": {
-      "2025-04-14": 1435,
+      "2025-04-15": 28,
+      "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
@@ -861,10 +863,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chemspider.com.ico",
     "slug": "chem-spider",
     "status": "down",
-    "uptime": "96.28%",
+    "uptime": "96.27%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "4.91%",
-    "uptimeMonth": "77.49%",
+    "uptimeWeek": "4.58%",
+    "uptimeMonth": "77.42%",
     "uptimeYear": "93.17%",
     "time": 963,
     "timeDay": 293,
@@ -872,7 +874,8 @@
     "timeMonth": 765,
     "timeYear": 958,
     "dailyMinutesDown": {
-      "2025-04-14": 1436,
+      "2025-04-15": 29,
+      "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
@@ -1360,14 +1363,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "20.30%",
+    "uptimeYear": "20.29%",
     "time": 1406,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 989,
     "dailyMinutesDown": {
-      "2025-04-14": 1437,
+      "2025-04-15": 29,
+      "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
@@ -1667,8 +1671,7 @@
       "2024-05-18": 22,
       "2024-04-18": 100,
       "2024-04-17": 1440,
-      "2024-04-16": 661,
-      "2024-04-15": 236
+      "2024-04-16": 661
     }
   },
   {
@@ -1681,7 +1684,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.99%",
+    "uptimeYear": "91.00%",
     "time": 2697,
     "timeDay": 2571,
     "timeWeek": 2373,
@@ -1743,8 +1746,7 @@
       "2024-04-19": 1440,
       "2024-04-18": 1440,
       "2024-04-17": 1440,
-      "2024-04-16": 1440,
-      "2024-04-15": 1440
+      "2024-04-16": 1440
     }
   },
   {
@@ -1870,7 +1872,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heterocycles.jp.ico",
     "slug": "hetereocycles",
     "status": "down",
-    "uptime": "59.80%",
+    "uptime": "59.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1881,7 +1883,8 @@
     "timeMonth": 1414,
     "timeYear": 1412,
     "dailyMinutesDown": {
-      "2025-04-14": 1437,
+      "2025-04-15": 30,
+      "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
@@ -2244,8 +2247,7 @@
       "2024-04-19": 1440,
       "2024-04-18": 1440,
       "2024-04-17": 1440,
-      "2024-04-16": 1440,
-      "2024-04-15": 1440
+      "2024-04-16": 1440
     }
   },
   {
@@ -2257,7 +2259,7 @@
     "uptime": "99.32%",
     "uptimeDay": "93.52%",
     "uptimeWeek": "93.47%",
-    "uptimeMonth": "89.04%",
+    "uptimeMonth": "89.11%",
     "uptimeYear": "97.81%",
     "time": 2818,
     "timeDay": 5241,
@@ -2390,8 +2392,7 @@
       "2024-04-19": 1440,
       "2024-04-18": 1440,
       "2024-04-17": 1440,
-      "2024-04-16": 1440,
-      "2024-04-15": 1440
+      "2024-04-16": 1440
     }
   },
   {
