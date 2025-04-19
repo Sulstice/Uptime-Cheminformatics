@@ -201,19 +201,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "75.50%",
+    "uptimeDay": "75.44%",
     "uptimeWeek": "74.58%",
-    "uptimeMonth": "93.30%",
-    "uptimeYear": "99.44%",
+    "uptimeMonth": "93.38%",
+    "uptimeYear": "99.45%",
     "time": 1415,
     "timeDay": 1447,
     "timeWeek": 813,
     "timeMonth": 1247,
     "timeYear": 1408,
     "dailyMinutesDown": {
-      "2025-04-19": 152,
+      "2025-04-19": 153,
       "2025-04-18": 363,
       "2025-04-17": 307,
       "2025-04-16": 268,
@@ -221,7 +221,7 @@
       "2025-04-14": 380,
       "2025-04-13": 548,
       "2025-04-12": 266,
-      "2025-04-11": 335
+      "2025-04-11": 300
     }
   },
   {
@@ -241,7 +241,7 @@
     "timeMonth": 0,
     "timeYear": 6914,
     "dailyMinutesDown": {
-      "2025-04-19": 331,
+      "2025-04-19": 342,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
@@ -638,7 +638,7 @@
     "timeMonth": 1529,
     "timeYear": 4667,
     "dailyMinutesDown": {
-      "2025-04-19": 331,
+      "2025-04-19": 342,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
@@ -872,7 +872,7 @@
     "uptime": "95.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "63.58%",
+    "uptimeMonth": "63.55%",
     "uptimeYear": "92.01%",
     "time": 960,
     "timeDay": 518,
@@ -880,7 +880,7 @@
     "timeMonth": 744,
     "timeYear": 953,
     "dailyMinutesDown": {
-      "2025-04-19": 332,
+      "2025-04-19": 342,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
@@ -1378,7 +1378,7 @@
     "timeMonth": 0,
     "timeYear": 989,
     "dailyMinutesDown": {
-      "2025-04-19": 332,
+      "2025-04-19": 343,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
@@ -1890,7 +1890,7 @@
     "timeMonth": 1459,
     "timeYear": 1418,
     "dailyMinutesDown": {
-      "2025-04-19": 333,
+      "2025-04-19": 343,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
@@ -2345,7 +2345,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "96.78%",
+    "uptimeYear": "96.79%",
     "time": 1685,
     "timeDay": 483,
     "timeWeek": 576,
