@@ -13,7 +13,7 @@
     "time": 1918,
     "timeDay": 419,
     "timeWeek": 464,
-    "timeMonth": 1819,
+    "timeMonth": 1661,
     "timeYear": 2056,
     "dailyMinutesDown": {
       "2025-04-01": 239,
@@ -88,7 +88,7 @@
     "time": 7059,
     "timeDay": 551,
     "timeWeek": 482,
-    "timeMonth": 2273,
+    "timeMonth": 2128,
     "timeYear": 7166,
     "dailyMinutesDown": {
       "2025-04-09": 75,
@@ -201,19 +201,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "74.11%",
-    "uptimeWeek": "75.34%",
-    "uptimeMonth": "93.28%",
+    "uptimeDay": "74.19%",
+    "uptimeWeek": "75.33%",
+    "uptimeMonth": "93.34%",
     "uptimeYear": "99.44%",
     "time": 1416,
-    "timeDay": 2336,
+    "timeDay": 2270,
     "timeWeek": 1235,
     "timeMonth": 1332,
     "timeYear": 1405,
     "dailyMinutesDown": {
-      "2025-04-21": 188,
+      "2025-04-21": 189,
       "2025-04-20": 442,
       "2025-04-19": 441,
       "2025-04-18": 363,
@@ -221,7 +221,7 @@
       "2025-04-16": 268,
       "2025-04-15": 313,
       "2025-04-14": 380,
-      "2025-04-13": 238
+      "2025-04-13": 213
     }
   },
   {
@@ -241,7 +241,7 @@
     "timeMonth": 0,
     "timeYear": 6110,
     "dailyMinutesDown": {
-      "2025-04-21": 702,
+      "2025-04-21": 711,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
@@ -639,7 +639,7 @@
     "timeMonth": 1570,
     "timeYear": 4643,
     "dailyMinutesDown": {
-      "2025-04-21": 702,
+      "2025-04-21": 712,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
@@ -875,7 +875,7 @@
     "uptime": "95.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "56.16%",
+    "uptimeMonth": "56.14%",
     "uptimeYear": "91.39%",
     "time": 959,
     "timeDay": 468,
@@ -883,7 +883,7 @@
     "timeMonth": 730,
     "timeYear": 952,
     "dailyMinutesDown": {
-      "2025-04-21": 703,
+      "2025-04-21": 712,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
@@ -1386,7 +1386,7 @@
     "timeMonth": 0,
     "timeYear": 989,
     "dailyMinutesDown": {
-      "2025-04-21": 703,
+      "2025-04-21": 712,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
@@ -1898,7 +1898,7 @@
     "timeMonth": 1468,
     "timeYear": 1418,
     "dailyMinutesDown": {
-      "2025-04-21": 704,
+      "2025-04-21": 713,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
