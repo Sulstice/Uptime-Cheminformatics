@@ -206,12 +206,12 @@
     "status": "up",
     "uptime": "99.81%",
     "uptimeDay": "72.13%",
-    "uptimeWeek": "71.22%",
+    "uptimeWeek": "71.29%",
     "uptimeMonth": "92.63%",
     "uptimeYear": "99.39%",
     "time": 1457,
     "timeDay": 1043,
-    "timeWeek": 2401,
+    "timeWeek": 2393,
     "timeMonth": 1769,
     "timeYear": 1462,
     "dailyMinutesDown": {
@@ -243,7 +243,7 @@
     "timeMonth": 0,
     "timeYear": 1070,
     "dailyMinutesDown": {
-      "2025-05-08": 673,
+      "2025-05-08": 685,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
@@ -650,7 +650,7 @@
     "timeMonth": 1525,
     "timeYear": 4675,
     "dailyMinutesDown": {
-      "2025-05-08": 674,
+      "2025-05-08": 685,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
@@ -910,7 +910,7 @@
     "timeMonth": 621,
     "timeYear": 937,
     "dailyMinutesDown": {
-      "2025-05-08": 674,
+      "2025-05-08": 686,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
@@ -998,7 +998,7 @@
     "uptime": "93.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "50.04%",
+    "uptimeMonth": "50.01%",
     "uptimeYear": "94.93%",
     "time": 1012,
     "timeDay": 0,
@@ -1006,7 +1006,7 @@
     "timeMonth": 1014,
     "timeYear": 1023,
     "dailyMinutesDown": {
-      "2025-05-08": 674,
+      "2025-05-08": 686,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
@@ -1034,19 +1034,19 @@
     "url": "http://ctdbase.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ctdbase.org.ico",
     "slug": "comparative-toxicogenomics-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "53.60%",
-    "uptimeWeek": "76.71%",
-    "uptimeMonth": "92.50%",
+    "uptimeDay": "54.23%",
+    "uptimeWeek": "76.69%",
+    "uptimeMonth": "92.49%",
     "uptimeYear": "97.85%",
-    "time": 1005,
+    "time": 1006,
     "timeDay": 3383,
     "timeWeek": 2726,
     "timeMonth": 1949,
     "timeYear": 983,
     "dailyMinutesDown": {
-      "2025-05-08": 274,
+      "2025-05-08": 276,
       "2025-05-07": 779,
       "2025-05-06": 338,
       "2025-05-05": 328,
@@ -1105,8 +1105,7 @@
       "2024-06-27": 52,
       "2024-06-19": 57,
       "2024-05-31": 36,
-      "2024-05-24": 37,
-      "2024-05-21": 22
+      "2024-05-24": 37
     }
   },
   {
@@ -1444,7 +1443,7 @@
     "timeMonth": 0,
     "timeYear": 1088,
     "dailyMinutesDown": {
-      "2025-05-08": 675,
+      "2025-05-08": 686,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
@@ -1966,7 +1965,7 @@
     "timeMonth": 1416,
     "timeYear": 1414,
     "dailyMinutesDown": {
-      "2025-05-08": 675,
+      "2025-05-08": 687,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
@@ -2346,7 +2345,7 @@
     "uptimeYear": "97.90%",
     "time": 2966,
     "timeDay": 3856,
-    "timeWeek": 1674,
+    "timeWeek": 1851,
     "timeMonth": 4065,
     "timeYear": 3430,
     "dailyMinutesDown": {
