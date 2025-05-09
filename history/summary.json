@@ -203,11 +203,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "80.44%",
-    "uptimeWeek": "71.54%",
-    "uptimeMonth": "92.91%",
+    "uptimeDay": "80.96%",
+    "uptimeWeek": "71.52%",
+    "uptimeMonth": "92.95%",
     "uptimeYear": "99.41%",
     "time": 1459,
     "timeDay": 1260,
@@ -215,7 +215,7 @@
     "timeMonth": 1784,
     "timeYear": 1464,
     "dailyMinutesDown": {
-      "2025-05-09": 91,
+      "2025-05-09": 92,
       "2025-05-08": 350,
       "2025-05-07": 435,
       "2025-05-06": 349,
@@ -223,7 +223,7 @@
       "2025-05-04": 518,
       "2025-05-03": 452,
       "2025-05-02": 341,
-      "2025-05-01": 144
+      "2025-05-01": 123
     }
   },
   {
@@ -243,7 +243,7 @@
     "timeMonth": 0,
     "timeYear": 854,
     "dailyMinutesDown": {
-      "2025-05-09": 588,
+      "2025-05-09": 597,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
@@ -651,7 +651,7 @@
     "timeMonth": 2121,
     "timeYear": 4680,
     "dailyMinutesDown": {
-      "2025-05-09": 588,
+      "2025-05-09": 597,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
@@ -912,7 +912,7 @@
     "timeMonth": 623,
     "timeYear": 937,
     "dailyMinutesDown": {
-      "2025-05-09": 589,
+      "2025-05-09": 598,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
@@ -1001,7 +1001,7 @@
     "uptime": "93.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "46.95%",
+    "uptimeMonth": "46.93%",
     "uptimeYear": "94.68%",
     "time": 1013,
     "timeDay": 0,
@@ -1009,7 +1009,7 @@
     "timeMonth": 989,
     "timeYear": 1023,
     "dailyMinutesDown": {
-      "2025-05-09": 589,
+      "2025-05-09": 598,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
@@ -1040,7 +1040,7 @@
     "slug": "comparative-toxicogenomics-database",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "88.13%",
+    "uptimeDay": "88.76%",
     "uptimeWeek": "75.83%",
     "uptimeMonth": "92.39%",
     "uptimeYear": "97.85%",
@@ -1447,7 +1447,7 @@
     "timeMonth": 0,
     "timeYear": 1098,
     "dailyMinutesDown": {
-      "2025-05-09": 589,
+      "2025-05-09": 598,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
@@ -1971,7 +1971,7 @@
     "timeMonth": 1411,
     "timeYear": 1415,
     "dailyMinutesDown": {
-      "2025-05-09": 590,
+      "2025-05-09": 599,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
@@ -2344,18 +2344,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cactus.nci.nih.gov.ico",
     "slug": "chemical-resolver",
     "status": "up",
-    "uptime": "99.37%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.47%",
-    "uptimeMonth": "95.05%",
-    "uptimeYear": "97.91%",
+    "uptime": "99.36%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "95.06%",
+    "uptimeYear": "97.90%",
     "time": 2968,
     "timeDay": 83,
     "timeWeek": 1634,
     "timeMonth": 3995,
     "timeYear": 3433,
     "dailyMinutesDown": {
-      "2025-05-09": 8,
       "2025-05-07": 45,
       "2025-05-01": 28,
       "2025-04-30": 433,
@@ -2414,7 +2413,8 @@
       "2025-01-30": 29,
       "2025-01-27": 69,
       "2025-01-24": 29,
-      "2025-01-23": 111
+      "2025-01-23": 111,
+      "2025-01-22": 87
     }
   },
   {
