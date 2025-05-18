@@ -205,17 +205,17 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "70.56%",
-    "uptimeWeek": "73.85%",
-    "uptimeMonth": "92.55%",
-    "uptimeYear": "99.38%",
+    "uptimeDay": "72.28%",
+    "uptimeWeek": "74.12%",
+    "uptimeMonth": "92.50%",
+    "uptimeYear": "99.37%",
     "time": 1469,
     "timeDay": 693,
-    "timeWeek": 1130,
-    "timeMonth": 1939,
+    "timeWeek": 1134,
+    "timeMonth": 1940,
     "timeYear": 1474,
     "dailyMinutesDown": {
-      "2025-05-18": 143,
+      "2025-05-18": 131,
       "2025-05-17": 448,
       "2025-05-16": 376,
       "2025-05-15": 494,
@@ -224,7 +224,7 @@
       "2025-05-12": 347,
       "2025-05-11": 297,
       "2025-05-10": 326,
-      "2025-05-09": 241
+      "2025-05-09": 277
     }
   },
   {
@@ -244,7 +244,7 @@
     "timeMonth": 0,
     "timeYear": 804,
     "dailyMinutesDown": {
-      "2025-05-18": 377,
+      "2025-05-18": 392,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
@@ -646,7 +646,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
     "status": "down",
-    "uptime": "91.24%",
+    "uptime": "91.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -657,7 +657,7 @@
     "timeMonth": 2248,
     "timeYear": 4713,
     "dailyMinutesDown": {
-      "2025-05-18": 377,
+      "2025-05-18": 392,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
@@ -927,7 +927,7 @@
     "timeMonth": 645,
     "timeYear": 923,
     "dailyMinutesDown": {
-      "2025-05-18": 377,
+      "2025-05-18": 393,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
@@ -1024,7 +1024,7 @@
     "uptime": "92.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "17.85%",
+    "uptimeMonth": "17.81%",
     "uptimeYear": "92.25%",
     "time": 1014,
     "timeDay": 0,
@@ -1032,7 +1032,7 @@
     "timeMonth": 882,
     "timeYear": 1025,
     "dailyMinutesDown": {
-      "2025-05-18": 377,
+      "2025-05-18": 393,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
@@ -1070,18 +1070,19 @@
     "url": "http://ctdbase.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ctdbase.org.ico",
     "slug": "comparative-toxicogenomics-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.64%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "96.62%",
     "uptimeMonth": "91.81%",
     "uptimeYear": "97.75%",
-    "time": 1041,
+    "time": 1042,
     "timeDay": 755,
     "timeWeek": 2553,
     "timeMonth": 1990,
     "timeYear": 1037,
     "dailyMinutesDown": {
+      "2025-05-18": 2,
       "2025-05-16": 61,
       "2025-05-15": 245,
       "2025-05-14": 32,
@@ -1142,7 +1143,7 @@
       "2024-09-06": 139,
       "2024-07-23": 25,
       "2024-07-17": 29,
-      "2024-07-02": 58
+      "2024-07-02": 41
     }
   },
   {
@@ -1477,7 +1478,7 @@
     "timeMonth": 0,
     "timeYear": 774,
     "dailyMinutesDown": {
-      "2025-05-18": 378,
+      "2025-05-18": 393,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
@@ -2000,7 +2001,7 @@
     "timeMonth": 1387,
     "timeYear": 1418,
     "dailyMinutesDown": {
-      "2025-05-18": 378,
+      "2025-05-18": 394,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
