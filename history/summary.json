@@ -205,13 +205,13 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "75.69%",
-    "uptimeWeek": "74.17%",
+    "uptimeDay": "75.89%",
+    "uptimeWeek": "74.47%",
     "uptimeMonth": "92.50%",
     "uptimeYear": "99.38%",
     "time": 1466,
-    "timeDay": 1174,
-    "timeWeek": 1159,
+    "timeDay": 1198,
+    "timeWeek": 1163,
     "timeMonth": 1933,
     "timeYear": 1475,
     "dailyMinutesDown": {
@@ -237,14 +237,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "2.28%",
+    "uptimeYear": "2.27%",
     "time": 6574,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 804,
     "dailyMinutesDown": {
-      "2025-05-18": 1426,
+      "2025-05-19": 31,
+      "2025-05-18": 1440,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
@@ -602,8 +603,7 @@
       "2024-05-28": 1440,
       "2024-05-27": 944,
       "2024-05-24": 16,
-      "2024-05-20": 14,
-      "2024-05-19": 22
+      "2024-05-20": 14
     }
   },
   {
@@ -650,14 +650,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "70.76%",
+    "uptimeYear": "70.75%",
     "time": 4566,
     "timeDay": 856,
     "timeWeek": 627,
     "timeMonth": 2249,
     "timeYear": 4710,
     "dailyMinutesDown": {
-      "2025-05-18": 1426,
+      "2025-05-19": 31,
+      "2025-05-18": 1440,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
@@ -920,14 +921,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "3.49%",
     "uptimeMonth": "2.18%",
-    "uptimeYear": "83.93%",
+    "uptimeYear": "83.92%",
     "time": 940,
     "timeDay": 681,
     "timeWeek": 585,
     "timeMonth": 650,
     "timeYear": 922,
     "dailyMinutesDown": {
-      "2025-05-18": 1426,
+      "2025-05-19": 31,
+      "2025-05-18": 1440,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
@@ -1022,8 +1024,8 @@
     "slug": "card-pred",
     "status": "up",
     "uptime": "92.56%",
-    "uptimeDay": "49.86%",
-    "uptimeWeek": "7.12%",
+    "uptimeDay": "52.98%",
+    "uptimeWeek": "7.57%",
     "uptimeMonth": "17.09%",
     "uptimeYear": "92.19%",
     "time": 1017,
@@ -1235,8 +1237,7 @@
       "2024-11-02": 149,
       "2024-11-01": 602,
       "2024-10-31": 438,
-      "2024-10-30": 477,
-      "2024-05-19": 37
+      "2024-10-30": 477
     }
   },
   {
@@ -1468,14 +1469,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "11.45%",
+    "uptimeYear": "11.44%",
     "time": 1305,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 774,
     "dailyMinutesDown": {
-      "2025-05-18": 1427,
+      "2025-05-19": 32,
+      "2025-05-18": 1440,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
@@ -1814,7 +1816,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heraproject.com.ico",
     "slug": "human-and-environment-risk-assessment",
     "status": "up",
-    "uptime": "43.92%",
+    "uptime": "43.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.45%",
@@ -1861,8 +1863,7 @@
       "2024-05-23": 755,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
-      "2024-05-20": 1440,
-      "2024-05-19": 1440
+      "2024-05-20": 1440
     }
   },
   {
@@ -1987,7 +1988,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heterocycles.jp.ico",
     "slug": "hetereocycles",
     "status": "down",
-    "uptime": "58.12%",
+    "uptime": "58.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1998,7 +1999,8 @@
     "timeMonth": 1391,
     "timeYear": 1419,
     "dailyMinutesDown": {
-      "2025-05-18": 1427,
+      "2025-05-19": 32,
+      "2025-05-18": 1440,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
@@ -2361,8 +2363,7 @@
       "2024-05-23": 1440,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
-      "2024-05-20": 1440,
-      "2024-05-19": 1440
+      "2024-05-20": 1440
     }
   },
   {
