@@ -168,7 +168,7 @@
     "slug": "nist-chemistry-webhook",
     "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "78.84%",
+    "uptimeDay": "79.87%",
     "uptimeWeek": "93.78%",
     "uptimeMonth": "98.57%",
     "uptimeYear": "99.57%",
@@ -205,11 +205,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "65.89%",
-    "uptimeWeek": "69.27%",
-    "uptimeMonth": "92.78%",
+    "uptimeDay": "65.83%",
+    "uptimeWeek": "69.26%",
+    "uptimeMonth": "92.82%",
     "uptimeYear": "99.40%",
     "time": 1482,
     "timeDay": 1850,
@@ -217,14 +217,14 @@
     "timeMonth": 1893,
     "timeYear": 1480,
     "dailyMinutesDown": {
-      "2025-05-23": 238,
+      "2025-05-23": 239,
       "2025-05-22": 470,
       "2025-05-21": 544,
       "2025-05-20": 446,
       "2025-05-19": 366,
       "2025-05-18": 349,
       "2025-05-17": 448,
-      "2025-05-16": 303
+      "2025-05-16": 288
     }
   },
   {
@@ -244,7 +244,7 @@
     "timeMonth": 0,
     "timeYear": 800,
     "dailyMinutesDown": {
-      "2025-05-23": 509,
+      "2025-05-23": 524,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
@@ -660,7 +660,7 @@
     "timeMonth": 1374,
     "timeYear": 4730,
     "dailyMinutesDown": {
-      "2025-05-23": 509,
+      "2025-05-23": 524,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
@@ -934,7 +934,7 @@
     "timeMonth": 669,
     "timeYear": 920,
     "dailyMinutesDown": {
-      "2025-05-23": 509,
+      "2025-05-23": 524,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
@@ -1035,8 +1035,8 @@
     "status": "up",
     "uptime": "92.58%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "69.46%",
-    "uptimeMonth": "17.36%",
+    "uptimeWeek": "69.60%",
+    "uptimeMonth": "17.40%",
     "uptimeYear": "92.19%",
     "time": 1016,
     "timeDay": 1073,
@@ -1486,7 +1486,7 @@
     "timeMonth": 0,
     "timeYear": 816,
     "dailyMinutesDown": {
-      "2025-05-23": 510,
+      "2025-05-23": 525,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
@@ -2006,7 +2006,7 @@
     "timeMonth": 1368,
     "timeYear": 1418,
     "dailyMinutesDown": {
-      "2025-05-23": 510,
+      "2025-05-23": 525,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
