@@ -212,7 +212,7 @@
     "uptimeMonth": "92.75%",
     "uptimeYear": "99.40%",
     "time": 1482,
-    "timeDay": 1700,
+    "timeDay": 1621,
     "timeWeek": 1666,
     "timeMonth": 1862,
     "timeYear": 1486,
@@ -244,7 +244,7 @@
     "timeMonth": 0,
     "timeYear": 1076,
     "dailyMinutesDown": {
-      "2025-05-25": 1374,
+      "2025-05-25": 1382,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
@@ -661,7 +661,7 @@
     "timeMonth": 1422,
     "timeYear": 4740,
     "dailyMinutesDown": {
-      "2025-05-25": 1374,
+      "2025-05-25": 1382,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
@@ -936,7 +936,7 @@
     "timeMonth": 709,
     "timeYear": 920,
     "dailyMinutesDown": {
-      "2025-05-25": 1375,
+      "2025-05-25": 1383,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
@@ -1040,7 +1040,7 @@
     "uptime": "92.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "25.91%",
+    "uptimeMonth": "25.93%",
     "uptimeYear": "92.19%",
     "time": 1017,
     "timeDay": 1241,
@@ -1086,19 +1086,19 @@
     "url": "http://ctdbase.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ctdbase.org.ico",
     "slug": "comparative-toxicogenomics-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "71.10%",
-    "uptimeWeek": "88.86%",
+    "uptimeDay": "70.94%",
+    "uptimeWeek": "88.84%",
     "uptimeMonth": "88.70%",
-    "uptimeYear": "97.66%",
-    "time": 1086,
+    "uptimeYear": "97.67%",
+    "time": 1087,
     "timeDay": 7568,
     "timeWeek": 2456,
     "timeMonth": 2181,
     "timeYear": 1075,
     "dailyMinutesDown": {
-      "2025-05-25": 416,
+      "2025-05-25": 418,
       "2025-05-24": 477,
       "2025-05-20": 230,
       "2025-05-18": 415,
@@ -1154,7 +1154,7 @@
       "2024-11-12": 60,
       "2024-11-03": 166,
       "2024-11-02": 566,
-      "2024-10-28": 101
+      "2024-10-28": 38
     }
   },
   {
@@ -1488,7 +1488,7 @@
     "timeMonth": 0,
     "timeYear": 850,
     "dailyMinutesDown": {
-      "2025-05-25": 1375,
+      "2025-05-25": 1383,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
@@ -2006,7 +2006,7 @@
     "timeMonth": 1363,
     "timeYear": 1418,
     "dailyMinutesDown": {
-      "2025-05-25": 1376,
+      "2025-05-25": 1383,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
