@@ -1,7 +1,7 @@
 url: https://www.lookchem.com/
-status: up
-code: 200
-responseTime: 730
-lastUpdated: 2025-05-27T23:03:39.583Z
+status: down
+code: 503
+responseTime: 4869
+lastUpdated: 2025-05-28T09:49:15.322Z
 startTime: 2022-01-25T00:38:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
