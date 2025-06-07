@@ -1,7 +1,7 @@
 url: https://www.genome.jp/kegg/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-06-07T08:56:11.751Z
+status: up
+code: 200
+responseTime: 1065
+lastUpdated: 2025-06-07T09:06:13.883Z
 startTime: 2022-01-25T00:38:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
