@@ -1,7 +1,7 @@
 url: https://drugdesign.riken.jp/hERGdb/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-06-08T18:09:35.453Z
+status: up
+code: 200
+responseTime: 1026
+lastUpdated: 2025-06-08T18:21:33.838Z
 startTime: 2022-01-24T23:06:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
