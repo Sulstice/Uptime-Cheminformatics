@@ -6,7 +6,7 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "49.72%",
+    "uptimeDay": "51.76%",
     "uptimeWeek": "64.87%",
     "uptimeMonth": "91.85%",
     "uptimeYear": "98.04%",
@@ -195,11 +195,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "74.05%",
-    "uptimeWeek": "70.47%",
-    "uptimeMonth": "92.30%",
+    "uptimeDay": "73.99%",
+    "uptimeWeek": "70.75%",
+    "uptimeMonth": "92.33%",
     "uptimeYear": "99.36%",
     "time": 1505,
     "timeDay": 2233,
@@ -207,7 +207,7 @@
     "timeMonth": 2180,
     "timeYear": 1498,
     "dailyMinutesDown": {
-      "2025-06-26": 186,
+      "2025-06-26": 187,
       "2025-06-25": 365,
       "2025-06-24": 379,
       "2025-06-23": 372,
@@ -215,7 +215,7 @@
       "2025-06-21": 389,
       "2025-06-20": 431,
       "2025-06-19": 558,
-      "2025-06-18": 166
+      "2025-06-18": 151
     }
   },
   {
@@ -235,7 +235,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-26": 465,
+      "2025-06-26": 494,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
@@ -653,7 +653,7 @@
     "timeMonth": 608,
     "timeYear": 4164,
     "dailyMinutesDown": {
-      "2025-06-26": 465,
+      "2025-06-26": 494,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
@@ -953,14 +953,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "73.43%",
+    "uptimeYear": "73.42%",
     "time": 922,
     "timeDay": 186,
     "timeWeek": 560,
     "timeMonth": 658,
     "timeYear": 889,
     "dailyMinutesDown": {
-      "2025-06-26": 466,
+      "2025-06-26": 495,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
@@ -1150,7 +1150,7 @@
     "time": 1164,
     "timeDay": 605,
     "timeWeek": 583,
-    "timeMonth": 1708,
+    "timeMonth": 1724,
     "timeYear": 1175,
     "dailyMinutesDown": {
       "2025-06-25": 42,
@@ -1526,7 +1526,7 @@
     "timeMonth": 0,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2025-06-26": 466,
+      "2025-06-26": 495,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
@@ -2061,7 +2061,7 @@
     "timeMonth": 1496,
     "timeYear": 1428,
     "dailyMinutesDown": {
-      "2025-06-26": 467,
+      "2025-06-26": 496,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
