@@ -6,9 +6,9 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "64.79%",
-    "uptimeMonth": "91.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "64.92%",
+    "uptimeMonth": "91.85%",
     "uptimeYear": "98.04%",
     "time": 2014,
     "timeDay": 429,
@@ -16,7 +16,6 @@
     "timeMonth": 2662,
     "timeYear": 2213,
     "dailyMinutesDown": {
-      "2025-06-28": 8,
       "2025-06-25": 1187,
       "2025-06-24": 745,
       "2025-06-23": 571,
@@ -70,7 +69,8 @@
       "2024-09-13": 25,
       "2024-09-12": 201,
       "2024-09-11": 194,
-      "2024-09-10": 102
+      "2024-09-10": 102,
+      "2024-09-08": 46
     }
   },
   {
@@ -80,9 +80,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "77.46%",
-    "uptimeMonth": "94.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "77.53%",
+    "uptimeMonth": "94.79%",
     "uptimeYear": "98.65%",
     "time": 6126,
     "timeDay": 299,
@@ -90,7 +90,6 @@
     "timeMonth": 523,
     "timeYear": 6467,
     "dailyMinutesDown": {
-      "2025-06-28": 8,
       "2025-06-25": 140,
       "2025-06-24": 636,
       "2025-06-23": 514,
@@ -125,7 +124,8 @@
       "2025-01-26": 16,
       "2025-01-25": 51,
       "2025-01-24": 53,
-      "2025-01-23": 123
+      "2025-01-23": 123,
+      "2025-01-22": 16
     }
   },
   {
@@ -195,19 +195,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "79.95%",
-    "uptimeWeek": "72.08%",
-    "uptimeMonth": "92.70%",
-    "uptimeYear": "99.39%",
+    "uptimeDay": "79.88%",
+    "uptimeWeek": "72.17%",
+    "uptimeMonth": "92.79%",
+    "uptimeYear": "99.40%",
     "time": 1500,
     "timeDay": 1510,
     "timeWeek": 1953,
-    "timeMonth": 2157,
+    "timeMonth": 2155,
     "timeYear": 1501,
     "dailyMinutesDown": {
-      "2025-06-28": 91,
+      "2025-06-28": 92,
       "2025-06-27": 280,
       "2025-06-26": 476,
       "2025-06-25": 365,
@@ -215,7 +215,7 @@
       "2025-06-23": 372,
       "2025-06-22": 526,
       "2025-06-21": 389,
-      "2025-06-20": 319
+      "2025-06-20": 278
     }
   },
   {
@@ -235,7 +235,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-28": 355,
+      "2025-06-28": 364,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
@@ -642,18 +642,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
     "status": "down",
-    "uptime": "88.25%",
+    "uptime": "88.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "59.73%",
+    "uptimeYear": "59.72%",
     "time": 4276,
     "timeDay": 717,
     "timeWeek": 691,
     "timeMonth": 602,
     "timeYear": 4144,
     "dailyMinutesDown": {
-      "2025-06-28": 355,
+      "2025-06-28": 364,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
@@ -962,7 +962,7 @@
     "timeMonth": 643,
     "timeYear": 886,
     "dailyMinutesDown": {
-      "2025-06-28": 355,
+      "2025-06-28": 365,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
@@ -1149,7 +1149,7 @@
     "uptime": "99.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "91.87%",
-    "uptimeMonth": "89.29%",
+    "uptimeMonth": "89.31%",
     "uptimeYear": "97.36%",
     "time": 1164,
     "timeDay": 621,
@@ -1521,14 +1521,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.49%",
+    "uptimeYear": "0.48%",
     "time": 1101,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2025-06-28": 356,
+      "2025-06-28": 365,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
@@ -2064,7 +2064,7 @@
     "timeMonth": 1472,
     "timeYear": 1429,
     "dailyMinutesDown": {
-      "2025-06-28": 356,
+      "2025-06-28": 366,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
