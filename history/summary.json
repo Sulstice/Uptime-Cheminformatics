@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.51%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "74.47%",
+    "uptimeWeek": "74.48%",
     "uptimeMonth": "91.85%",
     "uptimeYear": "98.04%",
     "time": 2016,
     "timeDay": 522,
-    "timeWeek": 3571,
+    "timeWeek": 3609,
     "timeMonth": 2623,
     "timeYear": 2210,
     "dailyMinutesDown": {
@@ -81,12 +81,12 @@
     "status": "up",
     "uptime": "99.66%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "86.85%",
+    "uptimeWeek": "86.87%",
     "uptimeMonth": "94.79%",
     "uptimeYear": "98.65%",
     "time": 6130,
     "timeDay": 534,
-    "timeWeek": 557,
+    "timeWeek": 558,
     "timeMonth": 519,
     "timeYear": 6449,
     "dailyMinutesDown": {
@@ -195,11 +195,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "74.57%",
-    "uptimeWeek": "74.56%",
-    "uptimeMonth": "92.64%",
+    "uptimeDay": "74.66%",
+    "uptimeWeek": "74.70%",
+    "uptimeMonth": "92.74%",
     "uptimeYear": "99.39%",
     "time": 1504,
     "timeDay": 1890,
@@ -207,7 +207,7 @@
     "timeMonth": 2180,
     "timeYear": 1505,
     "dailyMinutesDown": {
-      "2025-06-29": 270,
+      "2025-06-29": 271,
       "2025-06-28": 285,
       "2025-06-27": 280,
       "2025-06-26": 476,
@@ -215,7 +215,7 @@
       "2025-06-24": 379,
       "2025-06-23": 372,
       "2025-06-22": 526,
-      "2025-06-21": 272
+      "2025-06-21": 228
     }
   },
   {
@@ -235,7 +235,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-29": 983,
+      "2025-06-29": 998,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
@@ -653,7 +653,7 @@
     "timeMonth": 602,
     "timeYear": 4169,
     "dailyMinutesDown": {
-      "2025-06-29": 983,
+      "2025-06-29": 998,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
@@ -963,7 +963,7 @@
     "timeMonth": 630,
     "timeYear": 884,
     "dailyMinutesDown": {
-      "2025-06-29": 983,
+      "2025-06-29": 998,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
@@ -1151,7 +1151,7 @@
     "uptime": "99.23%",
     "uptimeDay": "78.98%",
     "uptimeWeek": "93.07%",
-    "uptimeMonth": "89.36%",
+    "uptimeMonth": "89.40%",
     "uptimeYear": "97.35%",
     "time": 1163,
     "timeDay": 450,
@@ -1530,7 +1530,7 @@
     "timeMonth": 0,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2025-06-29": 984,
+      "2025-06-29": 999,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
@@ -2067,7 +2067,7 @@
     "timeMonth": 1487,
     "timeYear": 1430,
     "dailyMinutesDown": {
-      "2025-06-29": 984,
+      "2025-06-29": 999,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
