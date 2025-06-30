@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.51%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "75.09%",
+    "uptimeWeek": "75.15%",
     "uptimeMonth": "91.85%",
     "uptimeYear": "98.04%",
     "time": 2018,
     "timeDay": 487,
-    "timeWeek": 4261,
+    "timeWeek": 4320,
     "timeMonth": 2586,
     "timeYear": 2208,
     "dailyMinutesDown": {
@@ -81,12 +81,12 @@
     "status": "up",
     "uptime": "99.66%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.15%",
+    "uptimeWeek": "87.21%",
     "uptimeMonth": "94.79%",
     "uptimeYear": "98.65%",
     "time": 6135,
     "timeDay": 440,
-    "timeWeek": 575,
+    "timeWeek": 577,
     "timeMonth": 517,
     "timeYear": 6428,
     "dailyMinutesDown": {
@@ -197,17 +197,18 @@
     "slug": "chem-exper",
     "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "74.49%",
-    "uptimeWeek": "74.99%",
-    "uptimeMonth": "92.89%",
-    "uptimeYear": "99.41%",
+    "uptimeDay": "74.08%",
+    "uptimeWeek": "74.59%",
+    "uptimeMonth": "92.80%",
+    "uptimeYear": "99.40%",
     "time": 1504,
     "timeDay": 2025,
     "timeWeek": 1883,
     "timeMonth": 2182,
     "timeYear": 1506,
     "dailyMinutesDown": {
-      "2025-06-29": 364,
+      "2025-06-30": 31,
+      "2025-06-29": 373,
       "2025-06-28": 285,
       "2025-06-27": 280,
       "2025-06-26": 476,
@@ -235,7 +236,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-29": 1431,
+      "2025-06-30": 33,
+      "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
@@ -598,8 +600,7 @@
       "2024-07-04": 1440,
       "2024-07-03": 1440,
       "2024-07-02": 1440,
-      "2024-07-01": 1440,
-      "2024-06-30": 1440
+      "2024-07-01": 1440
     }
   },
   {
@@ -646,14 +647,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "59.25%",
+    "uptimeYear": "59.24%",
     "time": 4276,
     "timeDay": 550,
     "timeWeek": 644,
     "timeMonth": 599,
     "timeYear": 4160,
     "dailyMinutesDown": {
-      "2025-06-29": 1432,
+      "2025-06-30": 33,
+      "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
@@ -963,7 +965,8 @@
     "timeMonth": 612,
     "timeYear": 882,
     "dailyMinutesDown": {
-      "2025-06-29": 1432,
+      "2025-06-30": 33,
+      "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
@@ -1151,12 +1154,12 @@
     "uptime": "99.23%",
     "uptimeDay": "78.98%",
     "uptimeWeek": "93.07%",
-    "uptimeMonth": "89.54%",
+    "uptimeMonth": "89.56%",
     "uptimeYear": "97.35%",
     "time": 1163,
     "timeDay": 486,
     "timeWeek": 605,
-    "timeMonth": 1794,
+    "timeMonth": 1811,
     "timeYear": 1178,
     "dailyMinutesDown": {
       "2025-06-29": 303,
@@ -1523,14 +1526,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.01%",
+    "uptimeYear": "0.00%",
     "time": 1111,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-29": 1432,
+      "2025-06-30": 34,
+      "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
@@ -1893,8 +1897,7 @@
       "2024-07-04": 1440,
       "2024-07-03": 1440,
       "2024-07-02": 1440,
-      "2024-07-01": 1440,
-      "2024-06-30": 1410
+      "2024-07-01": 1440
     }
   },
   {
@@ -2056,7 +2059,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heterocycles.jp.ico",
     "slug": "hetereocycles",
     "status": "down",
-    "uptime": "56.17%",
+    "uptime": "56.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2067,7 +2070,8 @@
     "timeMonth": 1483,
     "timeYear": 1428,
     "dailyMinutesDown": {
-      "2025-06-29": 1433,
+      "2025-06-30": 35,
+      "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
@@ -2430,8 +2434,7 @@
       "2024-07-04": 1440,
       "2024-07-03": 1440,
       "2024-07-02": 1440,
-      "2024-07-01": 1440,
-      "2024-06-30": 1440
+      "2024-07-01": 1440
     }
   },
   {
@@ -2579,7 +2582,7 @@
     "time": 1251,
     "timeDay": 1141,
     "timeWeek": 1703,
-    "timeMonth": 1297,
+    "timeMonth": 1298,
     "timeYear": 1188,
     "dailyMinutesDown": {
       "2025-06-19": 82,
