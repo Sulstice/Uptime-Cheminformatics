@@ -82,8 +82,8 @@
     "status": "down",
     "uptime": "99.54%",
     "uptimeDay": "37.99%",
-    "uptimeWeek": "72.10%",
-    "uptimeMonth": "88.37%",
+    "uptimeWeek": "71.98%",
+    "uptimeMonth": "88.34%",
     "uptimeYear": "98.17%",
     "time": 6225,
     "timeDay": 13117,
@@ -91,7 +91,7 @@
     "timeMonth": 1527,
     "timeYear": 6340,
     "dailyMinutesDown": {
-      "2025-07-05": 802,
+      "2025-07-05": 814,
       "2025-07-04": 481,
       "2025-07-03": 144,
       "2025-07-02": 289,
@@ -196,11 +196,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "51.74%",
-    "uptimeWeek": "65.62%",
-    "uptimeMonth": "91.60%",
+    "uptimeDay": "52.49%",
+    "uptimeWeek": "65.73%",
+    "uptimeMonth": "91.62%",
     "uptimeYear": "99.30%",
     "time": 1513,
     "timeDay": 2853,
@@ -208,7 +208,7 @@
     "timeMonth": 2056,
     "timeYear": 1520,
     "dailyMinutesDown": {
-      "2025-07-05": 644,
+      "2025-07-05": 634,
       "2025-07-04": 553,
       "2025-07-03": 514,
       "2025-07-02": 573,
@@ -235,7 +235,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-05": 1349,
+      "2025-07-05": 1362,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -651,9 +651,9 @@
     "timeDay": 754,
     "timeWeek": 708,
     "timeMonth": 623,
-    "timeYear": 3681,
+    "timeYear": 3675,
     "dailyMinutesDown": {
-      "2025-07-05": 1350,
+      "2025-07-05": 1362,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -941,9 +941,9 @@
     "slug": "sider",
     "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "11.80%",
-    "uptimeWeek": "87.40%",
-    "uptimeMonth": "97.10%",
+    "uptimeDay": "10.91%",
+    "uptimeWeek": "87.27%",
+    "uptimeMonth": "97.07%",
     "uptimeYear": "99.76%",
     "time": 890,
     "timeDay": 838,
@@ -951,7 +951,7 @@
     "timeMonth": 975,
     "timeYear": 930,
     "dailyMinutesDown": {
-      "2025-07-05": 1270
+      "2025-07-05": 1283
     }
   },
   {
@@ -964,14 +964,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "70.80%",
+    "uptimeYear": "70.79%",
     "time": 911,
     "timeDay": 361,
     "timeWeek": 450,
     "timeMonth": 591,
     "timeYear": 869,
     "dailyMinutesDown": {
-      "2025-07-05": 1350,
+      "2025-07-05": 1363,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -1095,9 +1095,9 @@
     "slug": "stitch",
     "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "11.79%",
-    "uptimeWeek": "87.40%",
-    "uptimeMonth": "97.10%",
+    "uptimeDay": "10.90%",
+    "uptimeWeek": "87.27%",
+    "uptimeMonth": "97.07%",
     "uptimeYear": "99.76%",
     "time": 1316,
     "timeDay": 3846,
@@ -1105,7 +1105,7 @@
     "timeMonth": 1622,
     "timeYear": 1377,
     "dailyMinutesDown": {
-      "2025-07-05": 1270
+      "2025-07-05": 1283
     }
   },
   {
@@ -1290,8 +1290,8 @@
     "status": "down",
     "uptime": "99.05%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "57.79%",
-    "uptimeMonth": "90.29%",
+    "uptimeWeek": "57.66%",
+    "uptimeMonth": "90.26%",
     "uptimeYear": "98.74%",
     "time": 986,
     "timeDay": 781,
@@ -1299,7 +1299,7 @@
     "timeMonth": 933,
     "timeYear": 931,
     "dailyMinutesDown": {
-      "2025-07-05": 1350,
+      "2025-07-05": 1363,
       "2025-07-04": 1440,
       "2025-07-03": 1260,
       "2025-07-01": 205,
@@ -1408,7 +1408,7 @@
     "status": "down",
     "uptime": "97.69%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "22.53%",
+    "uptimeWeek": "22.40%",
     "uptimeMonth": "60.95%",
     "uptimeYear": "92.16%",
     "time": 3015,
@@ -1417,7 +1417,7 @@
     "timeMonth": 1897,
     "timeYear": 3040,
     "dailyMinutesDown": {
-      "2025-07-05": 1350,
+      "2025-07-05": 1363,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -1553,7 +1553,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-05": 1350,
+      "2025-07-05": 1363,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -2090,7 +2090,7 @@
     "timeMonth": 1516,
     "timeYear": 1433,
     "dailyMinutesDown": {
-      "2025-07-05": 1351,
+      "2025-07-05": 1364,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
