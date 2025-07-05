@@ -81,7 +81,7 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "35.58%",
+    "uptimeDay": "35.73%",
     "uptimeWeek": "75.02%",
     "uptimeMonth": "89.04%",
     "uptimeYear": "98.22%",
@@ -197,19 +197,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "56.24%",
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "56.10%",
     "uptimeWeek": "66.78%",
-    "uptimeMonth": "91.43%",
+    "uptimeMonth": "91.52%",
     "uptimeYear": "99.29%",
     "time": 1511,
     "timeDay": 2527,
-    "timeWeek": 1677,
+    "timeWeek": 1683,
     "timeMonth": 2035,
     "timeYear": 1517,
     "dailyMinutesDown": {
-      "2025-07-05": 453,
+      "2025-07-05": 455,
       "2025-07-04": 553,
       "2025-07-03": 514,
       "2025-07-02": 573,
@@ -217,7 +217,7 @@
       "2025-06-30": 478,
       "2025-06-29": 373,
       "2025-06-28": 285,
-      "2025-06-27": 198
+      "2025-06-27": 156
     }
   },
   {
@@ -237,7 +237,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-05": 1014,
+      "2025-07-05": 1023,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -655,7 +655,7 @@
     "timeMonth": 623,
     "timeYear": 3698,
     "dailyMinutesDown": {
-      "2025-07-05": 1014,
+      "2025-07-05": 1023,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -943,9 +943,9 @@
     "slug": "sider",
     "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "35.09%",
-    "uptimeWeek": "90.73%",
-    "uptimeMonth": "97.87%",
+    "uptimeDay": "34.47%",
+    "uptimeWeek": "90.64%",
+    "uptimeMonth": "97.85%",
     "uptimeYear": "99.82%",
     "time": 890,
     "timeDay": 838,
@@ -953,7 +953,7 @@
     "timeMonth": 975,
     "timeYear": 930,
     "dailyMinutesDown": {
-      "2025-07-05": 935
+      "2025-07-05": 944
     }
   },
   {
@@ -973,7 +973,7 @@
     "timeMonth": 591,
     "timeYear": 869,
     "dailyMinutesDown": {
-      "2025-07-05": 1014,
+      "2025-07-05": 1023,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -1097,9 +1097,9 @@
     "slug": "stitch",
     "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "35.09%",
-    "uptimeWeek": "90.73%",
-    "uptimeMonth": "97.87%",
+    "uptimeDay": "34.46%",
+    "uptimeWeek": "90.64%",
+    "uptimeMonth": "97.85%",
     "uptimeYear": "99.82%",
     "time": 1316,
     "timeDay": 3846,
@@ -1107,7 +1107,7 @@
     "timeMonth": 1622,
     "timeYear": 1377,
     "dailyMinutesDown": {
-      "2025-07-05": 935
+      "2025-07-05": 944
     }
   },
   {
@@ -1292,8 +1292,8 @@
     "status": "down",
     "uptime": "99.06%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "61.12%",
-    "uptimeMonth": "91.05%",
+    "uptimeWeek": "61.03%",
+    "uptimeMonth": "91.03%",
     "uptimeYear": "98.80%",
     "time": 986,
     "timeDay": 781,
@@ -1301,7 +1301,7 @@
     "timeMonth": 933,
     "timeYear": 931,
     "dailyMinutesDown": {
-      "2025-07-05": 1015,
+      "2025-07-05": 1024,
       "2025-07-04": 1440,
       "2025-07-03": 1260,
       "2025-07-01": 205,
@@ -1410,7 +1410,7 @@
     "status": "down",
     "uptime": "97.71%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "25.86%",
+    "uptimeWeek": "25.77%",
     "uptimeMonth": "60.95%",
     "uptimeYear": "92.23%",
     "time": 3015,
@@ -1419,7 +1419,7 @@
     "timeMonth": 1897,
     "timeYear": 3040,
     "dailyMinutesDown": {
-      "2025-07-05": 1015,
+      "2025-07-05": 1024,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -1555,7 +1555,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-05": 1015,
+      "2025-07-05": 1024,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -2092,7 +2092,7 @@
     "timeMonth": 1516,
     "timeYear": 1433,
     "dailyMinutesDown": {
-      "2025-07-05": 1015,
+      "2025-07-05": 1024,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
