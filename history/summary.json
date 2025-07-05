@@ -200,8 +200,8 @@
     "status": "down",
     "uptime": "99.80%",
     "uptimeDay": "61.13%",
-    "uptimeWeek": "67.73%",
-    "uptimeMonth": "91.60%",
+    "uptimeWeek": "67.60%",
+    "uptimeMonth": "91.57%",
     "uptimeYear": "99.30%",
     "time": 1510,
     "timeDay": 2765,
@@ -209,7 +209,7 @@
     "timeMonth": 2041,
     "timeYear": 1517,
     "dailyMinutesDown": {
-      "2025-07-05": 338,
+      "2025-07-05": 352,
       "2025-07-04": 553,
       "2025-07-03": 514,
       "2025-07-02": 573,
@@ -237,7 +237,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-05": 848,
+      "2025-07-05": 861,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -655,7 +655,7 @@
     "timeMonth": 623,
     "timeYear": 3730,
     "dailyMinutesDown": {
-      "2025-07-05": 848,
+      "2025-07-05": 862,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -943,9 +943,9 @@
     "slug": "sider",
     "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "46.60%",
-    "uptimeWeek": "92.37%",
-    "uptimeMonth": "98.24%",
+    "uptimeDay": "45.68%",
+    "uptimeWeek": "92.24%",
+    "uptimeMonth": "98.21%",
     "uptimeYear": "99.85%",
     "time": 890,
     "timeDay": 838,
@@ -953,7 +953,7 @@
     "timeMonth": 975,
     "timeYear": 930,
     "dailyMinutesDown": {
-      "2025-07-05": 769
+      "2025-07-05": 782
     }
   },
   {
@@ -973,7 +973,7 @@
     "timeMonth": 591,
     "timeYear": 869,
     "dailyMinutesDown": {
-      "2025-07-05": 849,
+      "2025-07-05": 862,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -1097,9 +1097,9 @@
     "slug": "stitch",
     "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "46.59%",
-    "uptimeWeek": "92.37%",
-    "uptimeMonth": "98.24%",
+    "uptimeDay": "45.67%",
+    "uptimeWeek": "92.24%",
+    "uptimeMonth": "98.21%",
     "uptimeYear": "99.85%",
     "time": 1316,
     "timeDay": 3846,
@@ -1107,7 +1107,7 @@
     "timeMonth": 1622,
     "timeYear": 1377,
     "dailyMinutesDown": {
-      "2025-07-05": 769
+      "2025-07-05": 782
     }
   },
   {
@@ -1165,19 +1165,19 @@
     "url": "http://ctdbase.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ctdbase.org.ico",
     "slug": "comparative-toxicogenomics-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "86.63%",
-    "uptimeWeek": "88.24%",
-    "uptimeMonth": "90.12%",
+    "uptimeDay": "87.02%",
+    "uptimeWeek": "88.30%",
+    "uptimeMonth": "90.13%",
     "uptimeYear": "97.30%",
-    "time": 1192,
+    "time": 1193,
     "timeDay": 854,
     "timeWeek": 1423,
     "timeMonth": 1485,
     "timeYear": 1183,
     "dailyMinutesDown": {
-      "2025-07-05": 192,
+      "2025-07-05": 186,
       "2025-07-03": 347,
       "2025-07-02": 342,
       "2025-06-29": 303,
@@ -1291,8 +1291,8 @@
     "status": "down",
     "uptime": "99.07%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "62.76%",
-    "uptimeMonth": "91.43%",
+    "uptimeWeek": "62.63%",
+    "uptimeMonth": "91.40%",
     "uptimeYear": "98.83%",
     "time": 986,
     "timeDay": 781,
@@ -1300,7 +1300,7 @@
     "timeMonth": 933,
     "timeYear": 931,
     "dailyMinutesDown": {
-      "2025-07-05": 849,
+      "2025-07-05": 862,
       "2025-07-04": 1440,
       "2025-07-03": 1260,
       "2025-07-01": 205,
@@ -1407,9 +1407,9 @@
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
     "status": "down",
-    "uptime": "97.72%",
+    "uptime": "97.71%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "27.50%",
+    "uptimeWeek": "27.37%",
     "uptimeMonth": "60.95%",
     "uptimeYear": "92.26%",
     "time": 3015,
@@ -1418,7 +1418,7 @@
     "timeMonth": 1897,
     "timeYear": 3048,
     "dailyMinutesDown": {
-      "2025-07-05": 849,
+      "2025-07-05": 862,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -1554,7 +1554,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-05": 849,
+      "2025-07-05": 863,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -2091,7 +2091,7 @@
     "timeMonth": 1516,
     "timeYear": 1433,
     "dailyMinutesDown": {
-      "2025-07-05": 850,
+      "2025-07-05": 863,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
