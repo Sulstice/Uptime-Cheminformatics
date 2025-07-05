@@ -197,19 +197,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "56.91%",
-    "uptimeWeek": "68.16%",
-    "uptimeMonth": "91.54%",
-    "uptimeYear": "99.29%",
+    "uptimeDay": "57.64%",
+    "uptimeWeek": "68.13%",
+    "uptimeMonth": "91.58%",
+    "uptimeYear": "99.30%",
     "time": 1508,
     "timeDay": 2463,
-    "timeWeek": 1648,
-    "timeMonth": 2031,
+    "timeWeek": 1631,
+    "timeMonth": 2033,
     "timeYear": 1515,
     "dailyMinutesDown": {
-      "2025-07-05": 242,
+      "2025-07-05": 245,
       "2025-07-04": 553,
       "2025-07-03": 514,
       "2025-07-02": 573,
@@ -218,7 +218,7 @@
       "2025-06-29": 373,
       "2025-06-28": 285,
       "2025-06-27": 280,
-      "2025-06-26": 81
+      "2025-06-26": 61
     }
   },
   {
@@ -238,7 +238,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-05": 511,
+      "2025-07-05": 525,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -656,7 +656,7 @@
     "timeMonth": 623,
     "timeYear": 3774,
     "dailyMinutesDown": {
-      "2025-07-05": 512,
+      "2025-07-05": 525,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -944,9 +944,9 @@
     "slug": "sider",
     "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "69.99%",
-    "uptimeWeek": "95.71%",
-    "uptimeMonth": "99.01%",
+    "uptimeDay": "69.03%",
+    "uptimeWeek": "95.58%",
+    "uptimeMonth": "98.98%",
     "uptimeYear": "99.92%",
     "time": 890,
     "timeDay": 838,
@@ -954,7 +954,7 @@
     "timeMonth": 975,
     "timeYear": 930,
     "dailyMinutesDown": {
-      "2025-07-05": 432
+      "2025-07-05": 446
     }
   },
   {
@@ -967,14 +967,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "70.96%",
+    "uptimeYear": "70.95%",
     "time": 911,
     "timeDay": 361,
     "timeWeek": 450,
     "timeMonth": 591,
     "timeYear": 869,
     "dailyMinutesDown": {
-      "2025-07-05": 512,
+      "2025-07-05": 526,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -1098,9 +1098,9 @@
     "slug": "stitch",
     "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "69.98%",
-    "uptimeWeek": "95.71%",
-    "uptimeMonth": "99.01%",
+    "uptimeDay": "69.02%",
+    "uptimeWeek": "95.57%",
+    "uptimeMonth": "98.98%",
     "uptimeYear": "99.92%",
     "time": 1316,
     "timeDay": 3846,
@@ -1108,7 +1108,7 @@
     "timeMonth": 1622,
     "timeYear": 1377,
     "dailyMinutesDown": {
-      "2025-07-05": 432
+      "2025-07-05": 446
     }
   },
   {
@@ -1168,9 +1168,9 @@
     "slug": "comparative-toxicogenomics-database",
     "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "94.65%",
-    "uptimeWeek": "89.39%",
-    "uptimeMonth": "90.38%",
+    "uptimeDay": "93.69%",
+    "uptimeWeek": "89.25%",
+    "uptimeMonth": "90.35%",
     "uptimeYear": "97.31%",
     "time": 1188,
     "timeDay": 777,
@@ -1178,7 +1178,7 @@
     "timeMonth": 1515,
     "timeYear": 1185,
     "dailyMinutesDown": {
-      "2025-07-05": 77,
+      "2025-07-05": 91,
       "2025-07-03": 347,
       "2025-07-02": 342,
       "2025-06-29": 303,
@@ -1294,8 +1294,8 @@
     "status": "down",
     "uptime": "99.09%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "66.10%",
-    "uptimeMonth": "92.20%",
+    "uptimeWeek": "65.96%",
+    "uptimeMonth": "92.17%",
     "uptimeYear": "98.90%",
     "time": 986,
     "timeDay": 781,
@@ -1303,7 +1303,7 @@
     "timeMonth": 933,
     "timeYear": 931,
     "dailyMinutesDown": {
-      "2025-07-05": 512,
+      "2025-07-05": 526,
       "2025-07-04": 1440,
       "2025-07-03": 1260,
       "2025-07-01": 205,
@@ -1412,7 +1412,7 @@
     "status": "down",
     "uptime": "97.73%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "30.84%",
+    "uptimeWeek": "30.70%",
     "uptimeMonth": "60.95%",
     "uptimeYear": "92.32%",
     "time": 3015,
@@ -1421,7 +1421,7 @@
     "timeMonth": 1897,
     "timeYear": 3048,
     "dailyMinutesDown": {
-      "2025-07-05": 512,
+      "2025-07-05": 526,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -1557,7 +1557,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-05": 512,
+      "2025-07-05": 526,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -2094,7 +2094,7 @@
     "timeMonth": 1516,
     "timeYear": 1433,
     "dailyMinutesDown": {
-      "2025-07-05": 513,
+      "2025-07-05": 527,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
