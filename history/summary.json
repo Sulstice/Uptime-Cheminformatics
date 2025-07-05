@@ -197,19 +197,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "down",
+    "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "58.59%",
-    "uptimeWeek": "67.73%",
-    "uptimeMonth": "91.60%",
+    "uptimeDay": "58.37%",
+    "uptimeWeek": "67.62%",
+    "uptimeMonth": "91.57%",
     "uptimeYear": "99.30%",
     "time": 1510,
-    "timeDay": 2703,
-    "timeWeek": 1667,
-    "timeMonth": 2041,
-    "timeYear": 1516,
+    "timeDay": 2765,
+    "timeWeek": 1682,
+    "timeMonth": 2044,
+    "timeYear": 1517,
     "dailyMinutesDown": {
-      "2025-07-05": 338,
+      "2025-07-05": 350,
       "2025-07-04": 553,
       "2025-07-03": 514,
       "2025-07-02": 573,
@@ -237,7 +237,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-05": 805,
+      "2025-07-05": 819,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -655,7 +655,7 @@
     "timeMonth": 623,
     "timeYear": 3738,
     "dailyMinutesDown": {
-      "2025-07-05": 805,
+      "2025-07-05": 820,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -943,9 +943,9 @@
     "slug": "sider",
     "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "49.57%",
-    "uptimeWeek": "92.80%",
-    "uptimeMonth": "98.34%",
+    "uptimeDay": "48.60%",
+    "uptimeWeek": "92.66%",
+    "uptimeMonth": "98.31%",
     "uptimeYear": "99.86%",
     "time": 890,
     "timeDay": 838,
@@ -953,7 +953,7 @@
     "timeMonth": 975,
     "timeYear": 930,
     "dailyMinutesDown": {
-      "2025-07-05": 726
+      "2025-07-05": 740
     }
   },
   {
@@ -973,7 +973,7 @@
     "timeMonth": 591,
     "timeYear": 869,
     "dailyMinutesDown": {
-      "2025-07-05": 806,
+      "2025-07-05": 820,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -1097,9 +1097,9 @@
     "slug": "stitch",
     "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "49.57%",
-    "uptimeWeek": "92.80%",
-    "uptimeMonth": "98.34%",
+    "uptimeDay": "48.60%",
+    "uptimeWeek": "92.66%",
+    "uptimeMonth": "98.31%",
     "uptimeYear": "99.86%",
     "time": 1316,
     "timeDay": 3846,
@@ -1107,7 +1107,7 @@
     "timeMonth": 1622,
     "timeYear": 1377,
     "dailyMinutesDown": {
-      "2025-07-05": 726
+      "2025-07-05": 740
     }
   },
   {
@@ -1290,10 +1290,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/xundrug.cn.ico",
     "slug": "drug-safety-analysis-system",
     "status": "down",
-    "uptime": "99.08%",
+    "uptime": "99.07%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "63.18%",
-    "uptimeMonth": "91.53%",
+    "uptimeWeek": "63.05%",
+    "uptimeMonth": "91.50%",
     "uptimeYear": "98.84%",
     "time": 986,
     "timeDay": 781,
@@ -1301,7 +1301,7 @@
     "timeMonth": 933,
     "timeYear": 931,
     "dailyMinutesDown": {
-      "2025-07-05": 806,
+      "2025-07-05": 820,
       "2025-07-04": 1440,
       "2025-07-03": 1260,
       "2025-07-01": 205,
@@ -1410,7 +1410,7 @@
     "status": "down",
     "uptime": "97.72%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "27.92%",
+    "uptimeWeek": "27.79%",
     "uptimeMonth": "60.95%",
     "uptimeYear": "92.27%",
     "time": 3015,
@@ -1419,7 +1419,7 @@
     "timeMonth": 1897,
     "timeYear": 3048,
     "dailyMinutesDown": {
-      "2025-07-05": 806,
+      "2025-07-05": 820,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -1555,7 +1555,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-05": 806,
+      "2025-07-05": 820,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -2092,7 +2092,7 @@
     "timeMonth": 1516,
     "timeYear": 1433,
     "dailyMinutesDown": {
-      "2025-07-05": 807,
+      "2025-07-05": 821,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
