@@ -82,16 +82,16 @@
     "status": "down",
     "uptime": "99.55%",
     "uptimeDay": "37.36%",
-    "uptimeWeek": "74.36%",
-    "uptimeMonth": "88.89%",
-    "uptimeYear": "98.21%",
+    "uptimeWeek": "74.12%",
+    "uptimeMonth": "88.84%",
+    "uptimeYear": "98.20%",
     "time": 6208,
     "timeDay": 852,
     "timeWeek": 4226,
     "timeMonth": 1314,
     "timeYear": 6315,
     "dailyMinutesDown": {
-      "2025-07-05": 574,
+      "2025-07-05": 598,
       "2025-07-04": 481,
       "2025-07-03": 144,
       "2025-07-02": 289,
@@ -196,19 +196,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "52.02%",
-    "uptimeWeek": "66.33%",
-    "uptimeMonth": "91.39%",
-    "uptimeYear": "99.28%",
+    "uptimeDay": "51.85%",
+    "uptimeWeek": "66.31%",
+    "uptimeMonth": "91.49%",
+    "uptimeYear": "99.29%",
     "time": 1511,
-    "timeDay": 2614,
-    "timeWeek": 1713,
+    "timeDay": 2572,
+    "timeWeek": 1720,
     "timeMonth": 2041,
-    "timeYear": 1518,
+    "timeYear": 1517,
     "dailyMinutesDown": {
-      "2025-07-05": 534,
+      "2025-07-05": 537,
       "2025-07-04": 553,
       "2025-07-03": 514,
       "2025-07-02": 573,
@@ -216,7 +216,7 @@
       "2025-06-30": 478,
       "2025-06-29": 373,
       "2025-06-28": 285,
-      "2025-06-27": 134
+      "2025-06-27": 91
     }
   },
   {
@@ -236,7 +236,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-05": 1112,
+      "2025-07-05": 1137,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -654,7 +654,7 @@
     "timeMonth": 623,
     "timeYear": 3688,
     "dailyMinutesDown": {
-      "2025-07-05": 1112,
+      "2025-07-05": 1137,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -942,9 +942,9 @@
     "slug": "sider",
     "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "28.26%",
-    "uptimeWeek": "89.75%",
-    "uptimeMonth": "97.64%",
+    "uptimeDay": "26.56%",
+    "uptimeWeek": "89.51%",
+    "uptimeMonth": "97.59%",
     "uptimeYear": "99.80%",
     "time": 890,
     "timeDay": 838,
@@ -952,7 +952,7 @@
     "timeMonth": 975,
     "timeYear": 930,
     "dailyMinutesDown": {
-      "2025-07-05": 1033
+      "2025-07-05": 1058
     }
   },
   {
@@ -972,7 +972,7 @@
     "timeMonth": 591,
     "timeYear": 869,
     "dailyMinutesDown": {
-      "2025-07-05": 1113,
+      "2025-07-05": 1137,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -1095,10 +1095,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/stitch.embl.de.ico",
     "slug": "stitch",
     "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "28.25%",
-    "uptimeWeek": "89.75%",
-    "uptimeMonth": "97.64%",
+    "uptime": "99.82%",
+    "uptimeDay": "26.56%",
+    "uptimeWeek": "89.51%",
+    "uptimeMonth": "97.59%",
     "uptimeYear": "99.80%",
     "time": 1316,
     "timeDay": 3846,
@@ -1106,7 +1106,7 @@
     "timeMonth": 1622,
     "timeYear": 1377,
     "dailyMinutesDown": {
-      "2025-07-05": 1033
+      "2025-07-05": 1058
     }
   },
   {
@@ -1291,8 +1291,8 @@
     "status": "down",
     "uptime": "99.06%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "60.14%",
-    "uptimeMonth": "90.83%",
+    "uptimeWeek": "59.90%",
+    "uptimeMonth": "90.77%",
     "uptimeYear": "98.78%",
     "time": 986,
     "timeDay": 781,
@@ -1300,7 +1300,7 @@
     "timeMonth": 933,
     "timeYear": 931,
     "dailyMinutesDown": {
-      "2025-07-05": 1113,
+      "2025-07-05": 1137,
       "2025-07-04": 1440,
       "2025-07-03": 1260,
       "2025-07-01": 205,
@@ -1409,7 +1409,7 @@
     "status": "down",
     "uptime": "97.70%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "24.88%",
+    "uptimeWeek": "24.64%",
     "uptimeMonth": "60.95%",
     "uptimeYear": "92.21%",
     "time": 3015,
@@ -1418,7 +1418,7 @@
     "timeMonth": 1897,
     "timeYear": 3040,
     "dailyMinutesDown": {
-      "2025-07-05": 1113,
+      "2025-07-05": 1138,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -1554,7 +1554,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-05": 1113,
+      "2025-07-05": 1138,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -2091,7 +2091,7 @@
     "timeMonth": 1516,
     "timeYear": 1433,
     "dailyMinutesDown": {
-      "2025-07-05": 1114,
+      "2025-07-05": 1138,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
