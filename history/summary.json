@@ -79,19 +79,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "63.22%",
-    "uptimeWeek": "67.17%",
-    "uptimeMonth": "87.24%",
-    "uptimeYear": "98.23%",
-    "time": 6319,
+    "uptimeDay": "63.72%",
+    "uptimeWeek": "67.14%",
+    "uptimeMonth": "87.23%",
+    "uptimeYear": "98.24%",
+    "time": 6320,
     "timeDay": 19689,
     "timeWeek": 8010,
     "timeMonth": 2312,
     "timeYear": 6414,
     "dailyMinutesDown": {
-      "2025-07-06": 404,
+      "2025-07-06": 407,
       "2025-07-05": 893,
       "2025-07-04": 481,
       "2025-07-03": 144,
@@ -124,7 +124,7 @@
       "2025-02-11": 1064,
       "2025-02-10": 673,
       "2025-02-08": 335,
-      "2025-02-07": 59
+      "2025-02-07": 16
     }
   },
   {
@@ -194,19 +194,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "down",
+    "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "59.29%",
-    "uptimeWeek": "63.37%",
-    "uptimeMonth": "91.19%",
-    "uptimeYear": "99.27%",
+    "uptimeDay": "59.13%",
+    "uptimeWeek": "63.30%",
+    "uptimeMonth": "91.17%",
+    "uptimeYear": "99.26%",
     "time": 1518,
-    "timeDay": 2870,
-    "timeWeek": 1889,
-    "timeMonth": 2034,
-    "timeYear": 1523,
+    "timeDay": 2864,
+    "timeWeek": 1904,
+    "timeMonth": 2039,
+    "timeYear": 1524,
     "dailyMinutesDown": {
-      "2025-07-06": 531,
+      "2025-07-06": 538,
       "2025-07-05": 680,
       "2025-07-04": 553,
       "2025-07-03": 514,
@@ -233,7 +233,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-06": 1317,
+      "2025-07-06": 1327,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
@@ -651,7 +651,7 @@
     "timeMonth": 624,
     "timeYear": 3588,
     "dailyMinutesDown": {
-      "2025-07-06": 1317,
+      "2025-07-06": 1327,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
@@ -941,8 +941,8 @@
     "status": "down",
     "uptime": "99.74%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "73.43%",
-    "uptimeMonth": "93.89%",
+    "uptimeWeek": "73.34%",
+    "uptimeMonth": "93.87%",
     "uptimeYear": "99.49%",
     "time": 890,
     "timeDay": 787,
@@ -950,7 +950,7 @@
     "timeMonth": 957,
     "timeYear": 930,
     "dailyMinutesDown": {
-      "2025-07-06": 1317,
+      "2025-07-06": 1327,
       "2025-07-05": 1360
     }
   },
@@ -971,7 +971,7 @@
     "timeMonth": 581,
     "timeYear": 867,
     "dailyMinutesDown": {
-      "2025-07-06": 1317,
+      "2025-07-06": 1327,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
@@ -1097,8 +1097,8 @@
     "status": "down",
     "uptime": "99.74%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "73.43%",
-    "uptimeMonth": "93.89%",
+    "uptimeWeek": "73.34%",
+    "uptimeMonth": "93.86%",
     "uptimeYear": "99.49%",
     "time": 1315,
     "timeDay": 546,
@@ -1106,7 +1106,7 @@
     "timeMonth": 1592,
     "timeYear": 1375,
     "dailyMinutesDown": {
-      "2025-07-06": 1317,
+      "2025-07-06": 1327,
       "2025-07-05": 1360
     }
   },
@@ -1167,17 +1167,17 @@
     "slug": "comparative-toxicogenomics-database",
     "status": "up",
     "uptime": "99.20%",
-    "uptimeDay": "74.56%",
-    "uptimeWeek": "87.70%",
-    "uptimeMonth": "89.94%",
-    "uptimeYear": "97.24%",
+    "uptimeDay": "75.19%",
+    "uptimeWeek": "87.79%",
+    "uptimeMonth": "89.99%",
+    "uptimeYear": "97.23%",
     "time": 1192,
     "timeDay": 533,
     "timeWeek": 1344,
     "timeMonth": 1289,
     "timeYear": 1180,
     "dailyMinutesDown": {
-      "2025-07-06": 366,
+      "2025-07-06": 357,
       "2025-07-05": 182,
       "2025-07-03": 347,
       "2025-07-02": 342,
@@ -1231,7 +1231,7 @@
       "2025-03-22": 285,
       "2025-03-21": 394,
       "2025-03-16": 48,
-      "2025-03-13": 251
+      "2025-03-13": 286
     }
   },
   {
@@ -1292,8 +1292,8 @@
     "status": "down",
     "uptime": "98.97%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "43.82%",
-    "uptimeMonth": "87.07%",
+    "uptimeWeek": "43.73%",
+    "uptimeMonth": "87.05%",
     "uptimeYear": "98.47%",
     "time": 985,
     "timeDay": 639,
@@ -1301,7 +1301,7 @@
     "timeMonth": 927,
     "timeYear": 930,
     "dailyMinutesDown": {
-      "2025-07-06": 1318,
+      "2025-07-06": 1327,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1260,
@@ -1411,7 +1411,7 @@
     "status": "down",
     "uptime": "97.61%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "8.56%",
+    "uptimeWeek": "8.47%",
     "uptimeMonth": "60.95%",
     "uptimeYear": "91.90%",
     "time": 3017,
@@ -1420,7 +1420,7 @@
     "timeMonth": 1862,
     "timeYear": 3046,
     "dailyMinutesDown": {
-      "2025-07-06": 1318,
+      "2025-07-06": 1327,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
@@ -1556,7 +1556,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-06": 1318,
+      "2025-07-06": 1328,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
@@ -2093,7 +2093,7 @@
     "timeMonth": 1510,
     "timeYear": 1432,
     "dailyMinutesDown": {
-      "2025-07-06": 1318,
+      "2025-07-06": 1328,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
@@ -2649,9 +2649,9 @@
     "slug": "ibm-rxn-for-chemistry",
     "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "59.78%",
-    "uptimeWeek": "94.25%",
-    "uptimeMonth": "98.68%",
+    "uptimeDay": "59.11%",
+    "uptimeWeek": "94.16%",
+    "uptimeMonth": "98.66%",
     "uptimeYear": "99.89%",
     "time": 1016,
     "timeDay": 4578,
@@ -2659,7 +2659,7 @@
     "timeMonth": 5587,
     "timeYear": 1371,
     "dailyMinutesDown": {
-      "2025-07-06": 579
+      "2025-07-06": 589
     }
   }
 ]
