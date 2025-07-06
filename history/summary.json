@@ -194,26 +194,26 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "56.57%",
-    "uptimeWeek": "64.19%",
-    "uptimeMonth": "91.31%",
+    "uptimeDay": "57.33%",
+    "uptimeWeek": "64.28%",
+    "uptimeMonth": "91.42%",
     "uptimeYear": "99.28%",
     "time": 1516,
     "timeDay": 2942,
-    "timeWeek": 1814,
-    "timeMonth": 2041,
+    "timeWeek": 1820,
+    "timeMonth": 2038,
     "timeYear": 1521,
     "dailyMinutesDown": {
-      "2025-07-06": 346,
+      "2025-07-06": 349,
       "2025-07-05": 680,
       "2025-07-04": 553,
       "2025-07-03": 514,
       "2025-07-02": 573,
       "2025-07-01": 332,
       "2025-06-30": 478,
-      "2025-06-29": 334
+      "2025-06-29": 284
     }
   },
   {
@@ -222,7 +222,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nmrshiftdb.nmr.uni-koeln.de.ico",
     "slug": "nmr-shift-database",
     "status": "down",
-    "uptime": "67.33%",
+    "uptime": "67.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -233,7 +233,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-06": 929,
+      "2025-07-06": 959,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
@@ -644,14 +644,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "57.43%",
+    "uptimeYear": "57.42%",
     "time": 3967,
     "timeDay": 600,
     "timeWeek": 692,
     "timeMonth": 624,
     "timeYear": 3624,
     "dailyMinutesDown": {
-      "2025-07-06": 929,
+      "2025-07-06": 959,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
@@ -941,8 +941,8 @@
     "status": "down",
     "uptime": "99.76%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "77.28%",
-    "uptimeMonth": "94.77%",
+    "uptimeWeek": "76.99%",
+    "uptimeMonth": "94.70%",
     "uptimeYear": "99.56%",
     "time": 890,
     "timeDay": 787,
@@ -950,7 +950,7 @@
     "timeMonth": 957,
     "timeYear": 930,
     "dailyMinutesDown": {
-      "2025-07-06": 929,
+      "2025-07-06": 959,
       "2025-07-05": 1360
     }
   },
@@ -971,7 +971,7 @@
     "timeMonth": 581,
     "timeYear": 867,
     "dailyMinutesDown": {
-      "2025-07-06": 929,
+      "2025-07-06": 959,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
@@ -1097,8 +1097,8 @@
     "status": "down",
     "uptime": "99.76%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "77.28%",
-    "uptimeMonth": "94.77%",
+    "uptimeWeek": "76.99%",
+    "uptimeMonth": "94.70%",
     "uptimeYear": "99.56%",
     "time": 1315,
     "timeDay": 546,
@@ -1106,7 +1106,7 @@
     "timeMonth": 1592,
     "timeYear": 1375,
     "dailyMinutesDown": {
-      "2025-07-06": 929,
+      "2025-07-06": 959,
       "2025-07-05": 1360
     }
   },
@@ -1292,8 +1292,8 @@
     "status": "down",
     "uptime": "98.99%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "47.67%",
-    "uptimeMonth": "87.96%",
+    "uptimeWeek": "47.37%",
+    "uptimeMonth": "87.89%",
     "uptimeYear": "98.54%",
     "time": 985,
     "timeDay": 639,
@@ -1301,7 +1301,7 @@
     "timeMonth": 927,
     "timeYear": 930,
     "dailyMinutesDown": {
-      "2025-07-06": 930,
+      "2025-07-06": 960,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1260,
@@ -1411,7 +1411,7 @@
     "status": "down",
     "uptime": "97.63%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "12.41%",
+    "uptimeWeek": "12.11%",
     "uptimeMonth": "60.95%",
     "uptimeYear": "91.97%",
     "time": 3017,
@@ -1420,7 +1420,7 @@
     "timeMonth": 1862,
     "timeYear": 3046,
     "dailyMinutesDown": {
-      "2025-07-06": 930,
+      "2025-07-06": 960,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
@@ -1556,7 +1556,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-06": 930,
+      "2025-07-06": 960,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
@@ -2093,7 +2093,7 @@
     "timeMonth": 1510,
     "timeYear": 1432,
     "dailyMinutesDown": {
-      "2025-07-06": 930,
+      "2025-07-06": 961,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
@@ -2649,9 +2649,9 @@
     "slug": "ibm-rxn-for-chemistry",
     "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "86.72%",
-    "uptimeWeek": "98.10%",
-    "uptimeMonth": "99.56%",
+    "uptimeDay": "84.60%",
+    "uptimeWeek": "97.80%",
+    "uptimeMonth": "99.49%",
     "uptimeYear": "99.96%",
     "time": 1016,
     "timeDay": 4578,
@@ -2659,7 +2659,7 @@
     "timeMonth": 5587,
     "timeYear": 1371,
     "dailyMinutesDown": {
-      "2025-07-06": 191
+      "2025-07-06": 222
     }
   }
 ]
