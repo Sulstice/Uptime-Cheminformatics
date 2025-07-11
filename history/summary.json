@@ -197,17 +197,18 @@
     "slug": "chem-exper",
     "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "58.21%",
-    "uptimeWeek": "62.82%",
-    "uptimeMonth": "91.44%",
-    "uptimeYear": "99.29%",
+    "uptimeDay": "55.92%",
+    "uptimeWeek": "62.28%",
+    "uptimeMonth": "91.32%",
+    "uptimeYear": "99.28%",
     "time": 1532,
-    "timeDay": 2019,
-    "timeWeek": 2476,
+    "timeDay": 1924,
+    "timeWeek": 2486,
     "timeMonth": 2091,
     "timeYear": 1537,
     "dailyMinutesDown": {
-      "2025-07-10": 580,
+      "2025-07-11": 30,
+      "2025-07-10": 604,
       "2025-07-09": 660,
       "2025-07-08": 599,
       "2025-07-07": 511,
@@ -233,7 +234,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-10": 1417,
+      "2025-07-11": 31,
+      "2025-07-10": 1440,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
@@ -596,8 +598,7 @@
       "2024-07-15": 1440,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
-      "2024-07-12": 1440,
-      "2024-07-11": 1440
+      "2024-07-12": 1440
     }
   },
   {
@@ -640,18 +641,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
     "status": "down",
-    "uptime": "87.36%",
+    "uptime": "87.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "56.24%",
+    "uptimeYear": "56.23%",
     "time": 3555,
     "timeDay": 759,
     "timeWeek": 646,
     "timeMonth": 652,
-    "timeYear": 3202,
+    "timeYear": 3201,
     "dailyMinutesDown": {
-      "2025-07-10": 1417,
+      "2025-07-11": 32,
+      "2025-07-10": 1440,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
@@ -965,18 +967,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chemspider.com.ico",
     "slug": "chem-spider",
     "status": "down",
-    "uptime": "89.67%",
+    "uptime": "89.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "69.42%",
+    "uptimeYear": "69.41%",
     "time": 906,
     "timeDay": 305,
     "timeWeek": 403,
     "timeMonth": 531,
     "timeYear": 859,
     "dailyMinutesDown": {
-      "2025-07-10": 1418,
+      "2025-07-11": 32,
+      "2025-07-10": 1440,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
@@ -1302,7 +1305,7 @@
     "status": "up",
     "uptime": "98.77%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "22.02%",
+    "uptimeWeek": "22.56%",
     "uptimeMonth": "78.76%",
     "uptimeYear": "97.78%",
     "time": 984,
@@ -1412,8 +1415,7 @@
       "2024-10-15": 59,
       "2024-10-10": 20,
       "2024-09-24": 22,
-      "2024-09-18": 16,
-      "2024-07-11": 48
+      "2024-09-18": 16
     }
   },
   {
@@ -1426,14 +1428,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "60.95%",
-    "uptimeYear": "90.80%",
+    "uptimeYear": "90.79%",
     "time": 3022,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1737,
     "timeYear": 3070,
     "dailyMinutesDown": {
-      "2025-07-10": 1418,
+      "2025-07-11": 33,
+      "2025-07-10": 1440,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
@@ -1561,10 +1564,10 @@
     "slug": "ecology-toxicity",
     "status": "up",
     "uptime": "69.90%",
-    "uptimeDay": "3.88%",
-    "uptimeWeek": "0.55%",
-    "uptimeMonth": "1.51%",
-    "uptimeYear": "0.01%",
+    "uptimeDay": "7.64%",
+    "uptimeWeek": "1.09%",
+    "uptimeMonth": "1.63%",
+    "uptimeYear": "0.02%",
     "time": 1059,
     "timeDay": 3217,
     "timeWeek": 3217,
@@ -1934,8 +1937,7 @@
       "2024-07-15": 1440,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
-      "2024-07-12": 1440,
-      "2024-07-11": 1440
+      "2024-07-12": 1440
     }
   },
   {
@@ -2031,15 +2033,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 421,
     "timeDay": 297,
     "timeWeek": 426,
     "timeMonth": 440,
     "timeYear": 439,
     "dailyMinutesDown": {
-      "2024-10-28": 24,
-      "2024-07-11": 107
+      "2024-10-28": 24
     }
   },
   {
@@ -2107,7 +2108,8 @@
     "timeMonth": 1428,
     "timeYear": 1429,
     "dailyMinutesDown": {
-      "2025-07-10": 1419,
+      "2025-07-11": 33,
+      "2025-07-10": 1440,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
@@ -2470,8 +2472,7 @@
       "2024-07-15": 1440,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
-      "2024-07-12": 1440,
-      "2024-07-11": 1440
+      "2024-07-12": 1440
     }
   },
   {
