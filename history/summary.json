@@ -6,7 +6,7 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "80.39%",
+    "uptimeDay": "83.78%",
     "uptimeWeek": "93.61%",
     "uptimeMonth": "87.27%",
     "uptimeYear": "97.81%",
@@ -73,16 +73,17 @@
     "status": "down",
     "uptime": "99.42%",
     "uptimeDay": "54.50%",
-    "uptimeWeek": "87.77%",
-    "uptimeMonth": "81.19%",
-    "uptimeYear": "97.65%",
+    "uptimeWeek": "87.29%",
+    "uptimeMonth": "81.08%",
+    "uptimeYear": "97.64%",
     "time": 6587,
     "timeDay": 8487,
     "timeWeek": 7997,
     "timeMonth": 7684,
     "timeYear": 6593,
     "dailyMinutesDown": {
-      "2025-07-31": 641,
+      "2025-08-01": 35,
+      "2025-07-31": 655,
       "2025-07-30": 407,
       "2025-07-29": 32,
       "2025-07-28": 42,
@@ -203,12 +204,12 @@
     "status": "up",
     "uptime": "99.83%",
     "uptimeDay": "91.66%",
-    "uptimeWeek": "90.23%",
+    "uptimeWeek": "90.62%",
     "uptimeMonth": "92.98%",
     "uptimeYear": "99.41%",
     "time": 1520,
-    "timeDay": 2266,
-    "timeWeek": 2058,
+    "timeDay": 2448,
+    "timeWeek": 2071,
     "timeMonth": 1927,
     "timeYear": 1522,
     "dailyMinutesDown": {
@@ -238,7 +239,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nmrshiftdb.nmr.uni-koeln.de.ico",
     "slug": "nmr-shift-database",
     "status": "down",
-    "uptime": "66.00%",
+    "uptime": "65.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -249,7 +250,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-31": 1427,
+      "2025-08-01": 36,
+      "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
@@ -612,8 +614,7 @@
       "2024-08-05": 1440,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
-      "2024-08-02": 1440,
-      "2024-08-01": 1440
+      "2024-08-02": 1440
     }
   },
   {
@@ -656,18 +657,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
     "status": "down",
-    "uptime": "85.93%",
+    "uptime": "85.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "50.48%",
+    "uptimeYear": "50.47%",
     "time": 2555,
     "timeDay": 0,
     "timeWeek": 5209,
     "timeMonth": 1661,
     "timeYear": 2253,
     "dailyMinutesDown": {
-      "2025-07-31": 1427,
+      "2025-08-01": 36,
+      "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
@@ -963,8 +965,7 @@
       "2024-08-05": 1440,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
-      "2024-08-02": 1440,
-      "2024-08-01": 1440
+      "2024-08-02": 1440
     }
   },
   {
@@ -1000,14 +1001,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "63.66%",
+    "uptimeYear": "63.65%",
     "time": 890,
     "timeDay": 0,
     "timeWeek": 617,
     "timeMonth": 472,
     "timeYear": 831,
     "dailyMinutesDown": {
-      "2025-07-31": 1427,
+      "2025-08-01": 36,
+      "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
@@ -1360,15 +1362,16 @@
     "uptime": "97.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "33.93%",
-    "uptimeYear": "94.04%",
+    "uptimeMonth": "33.82%",
+    "uptimeYear": "94.03%",
     "time": 979,
     "timeDay": 0,
     "timeWeek": 849,
     "timeMonth": 845,
     "timeYear": 921,
     "dailyMinutesDown": {
-      "2025-07-31": 1428,
+      "2025-08-01": 37,
+      "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
@@ -1496,7 +1499,7 @@
     "uptime": "96.40%",
     "uptimeDay": "96.70%",
     "uptimeWeek": "99.53%",
-    "uptimeMonth": "27.44%",
+    "uptimeMonth": "27.55%",
     "uptimeYear": "88.62%",
     "time": 2998,
     "timeDay": 1487,
@@ -1636,8 +1639,8 @@
     "uptime": "70.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "66.51%",
-    "uptimeYear": "5.70%",
+    "uptimeMonth": "66.62%",
+    "uptimeYear": "5.71%",
     "time": 988,
     "timeDay": 0,
     "timeWeek": 153,
@@ -1992,8 +1995,7 @@
       "2024-08-05": 1440,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
-      "2024-08-02": 1440,
-      "2024-08-01": 1440
+      "2024-08-02": 1440
     }
   },
   {
@@ -2030,8 +2032,7 @@
       "2024-11-07": 47,
       "2024-09-01": 103,
       "2024-08-18": 302,
-      "2024-08-17": 412,
-      "2024-08-01": 23
+      "2024-08-17": 412
     }
   },
   {
@@ -2153,7 +2154,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heterocycles.jp.ico",
     "slug": "hetereocycles",
     "status": "down",
-    "uptime": "54.77%",
+    "uptime": "54.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2164,7 +2165,8 @@
     "timeMonth": 1379,
     "timeYear": 1416,
     "dailyMinutesDown": {
-      "2025-07-31": 1428,
+      "2025-08-01": 37,
+      "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
@@ -2527,8 +2529,7 @@
       "2024-08-05": 1440,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
-      "2024-08-02": 1440,
-      "2024-08-01": 1440
+      "2024-08-02": 1440
     }
   },
   {
