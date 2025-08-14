@@ -78,7 +78,7 @@
     "timeDay": 62,
     "timeWeek": 6498,
     "timeMonth": 7100,
-    "timeYear": 5190,
+    "timeYear": 5195,
     "dailyMinutesDown": {
       "2025-08-12": 98,
       "2025-08-11": 272,
@@ -190,19 +190,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "93.10%",
-    "uptimeWeek": "89.27%",
-    "uptimeMonth": "93.88%",
+    "uptimeDay": "92.91%",
+    "uptimeWeek": "89.24%",
+    "uptimeMonth": "93.92%",
     "uptimeYear": "99.49%",
     "time": 1546,
     "timeDay": 1224,
-    "timeWeek": 1775,
+    "timeWeek": 1782,
     "timeMonth": 1887,
     "timeYear": 1555,
     "dailyMinutesDown": {
-      "2025-08-14": 37,
+      "2025-08-14": 40,
       "2025-08-13": 178,
       "2025-08-12": 149,
       "2025-08-11": 222,
@@ -218,7 +218,7 @@
       "2025-08-01": 107,
       "2025-07-31": 120,
       "2025-07-30": 78,
-      "2025-07-29": 81
+      "2025-07-29": 60
     }
   },
   {
@@ -238,7 +238,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-14": 699,
+      "2025-08-14": 720,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
@@ -656,7 +656,7 @@
     "timeMonth": 1648,
     "timeYear": 1486,
     "dailyMinutesDown": {
-      "2025-08-14": 699,
+      "2025-08-14": 720,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
@@ -933,7 +933,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.19%",
+    "uptimeYear": "96.20%",
     "time": 1229,
     "timeDay": 775,
     "timeWeek": 983,
@@ -997,7 +997,7 @@
     "timeMonth": 518,
     "timeYear": 817,
     "dailyMinutesDown": {
-      "2025-08-14": 699,
+      "2025-08-14": 720,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
@@ -1505,8 +1505,8 @@
     "slug": "adverse-drug-reaction-classification-system",
     "status": "down",
     "uptime": "96.43%",
-    "uptimeDay": "81.08%",
-    "uptimeWeek": "89.65%",
+    "uptimeDay": "79.60%",
+    "uptimeWeek": "89.43%",
     "uptimeMonth": "69.18%",
     "uptimeYear": "88.44%",
     "time": 3126,
@@ -1515,7 +1515,7 @@
     "timeMonth": 4207,
     "timeYear": 3214,
     "dailyMinutesDown": {
-      "2025-08-14": 272,
+      "2025-08-14": 293,
       "2025-08-12": 159,
       "2025-08-11": 512,
       "2025-08-10": 101,
@@ -2160,7 +2160,7 @@
     "timeMonth": 1388,
     "timeYear": 1421,
     "dailyMinutesDown": {
-      "2025-08-14": 700,
+      "2025-08-14": 722,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
