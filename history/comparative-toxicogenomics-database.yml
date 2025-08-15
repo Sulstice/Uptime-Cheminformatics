@@ -1,7 +1,7 @@
 url: http://ctdbase.org/
-status: down
-code: 502
-responseTime: 503
-lastUpdated: 2025-08-15T11:31:23.246Z
+status: up
+code: 200
+responseTime: 455
+lastUpdated: 2025-08-15T12:14:11.759Z
 startTime: 2022-01-24T23:06:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
