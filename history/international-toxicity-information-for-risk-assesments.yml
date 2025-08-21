@@ -1,7 +1,7 @@
 url: https://www.tera.org/iter/
-status: up
-code: 200
-responseTime: 458
-lastUpdated: 2025-08-20T23:09:04.832Z
+status: down
+code: 403
+responseTime: 283
+lastUpdated: 2025-08-21T08:12:14.597Z
 startTime: 2022-01-24T23:06:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
