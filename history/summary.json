@@ -199,7 +199,7 @@
     "uptimeYear": "99.47%",
     "time": 1563,
     "timeDay": 654,
-    "timeWeek": 1769,
+    "timeWeek": 1789,
     "timeMonth": 1902,
     "timeYear": 1563,
     "dailyMinutesDown": {
@@ -240,7 +240,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-21": 680,
+      "2025-08-21": 689,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
@@ -658,7 +658,7 @@
     "timeMonth": 2321,
     "timeYear": 1166,
     "dailyMinutesDown": {
-      "2025-08-21": 680,
+      "2025-08-21": 689,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
@@ -995,7 +995,7 @@
     "timeMonth": 560,
     "timeYear": 815,
     "dailyMinutesDown": {
-      "2025-08-21": 680,
+      "2025-08-21": 689,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
@@ -1362,7 +1362,7 @@
     "uptime": "97.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "50.42%",
+    "uptimeMonth": "50.44%",
     "uptimeYear": "92.79%",
     "time": 975,
     "timeDay": 894,
@@ -1499,19 +1499,19 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
+    "status": "down",
     "uptime": "96.43%",
-    "uptimeDay": "6.85%",
-    "uptimeWeek": "21.03%",
-    "uptimeMonth": "73.99%",
-    "uptimeYear": "87.23%",
+    "uptimeDay": "7.28%",
+    "uptimeWeek": "21.00%",
+    "uptimeMonth": "74.00%",
+    "uptimeYear": "87.24%",
     "time": 3969,
     "timeDay": 18658,
     "timeWeek": 14413,
     "timeMonth": 9820,
     "timeYear": 4150,
     "dailyMinutesDown": {
-      "2025-08-21": 613,
+      "2025-08-21": 616,
       "2025-08-20": 1343,
       "2025-08-19": 1331,
       "2025-08-18": 1363,
@@ -1588,7 +1588,7 @@
       "2024-10-23": 19,
       "2024-10-21": 15,
       "2024-10-19": 19,
-      "2024-10-18": 381
+      "2024-10-18": 345
     }
   },
   {
@@ -2127,7 +2127,7 @@
     "timeMonth": 1411,
     "timeYear": 1423,
     "dailyMinutesDown": {
-      "2025-08-21": 682,
+      "2025-08-21": 690,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
