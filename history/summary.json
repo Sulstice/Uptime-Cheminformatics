@@ -6,7 +6,7 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.17%",
-    "uptimeDay": "59.65%",
+    "uptimeDay": "60.34%",
     "uptimeWeek": "43.86%",
     "uptimeMonth": "85.71%",
     "uptimeYear": "96.50%",
@@ -14,7 +14,7 @@
     "timeDay": 903,
     "timeWeek": 615,
     "timeMonth": 5922,
-    "timeYear": 3052,
+    "timeYear": 3056,
     "dailyMinutesDown": {
       "2025-09-20": 15,
       "2025-09-19": 1148,
@@ -70,7 +70,7 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "81.94%",
+    "uptimeDay": "82.63%",
     "uptimeWeek": "72.05%",
     "uptimeMonth": "93.07%",
     "uptimeYear": "98.89%",
@@ -78,7 +78,7 @@
     "timeDay": 357,
     "timeWeek": 333,
     "timeMonth": 1169,
-    "timeYear": 3943,
+    "timeYear": 3947,
     "dailyMinutesDown": {
       "2025-09-19": 700,
       "2025-09-18": 836,
@@ -186,7 +186,7 @@
     "timeDay": 846,
     "timeWeek": 1058,
     "timeMonth": 1055,
-    "timeYear": 1550,
+    "timeYear": 1551,
     "dailyMinutesDown": {
       "2025-08-18": 29,
       "2025-08-17": 100,
@@ -225,7 +225,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-20": 583,
+      "2025-09-20": 594,
       "2025-09-19": 1440,
       "2025-09-18": 1440,
       "2025-09-17": 1440,
@@ -643,7 +643,7 @@
     "timeMonth": 1072,
     "timeYear": 1049,
     "dailyMinutesDown": {
-      "2025-09-20": 584,
+      "2025-09-20": 594,
       "2025-09-19": 1440,
       "2025-09-18": 1440,
       "2025-09-17": 1440,
@@ -1005,7 +1005,7 @@
     "timeMonth": 493,
     "timeYear": 790,
     "dailyMinutesDown": {
-      "2025-09-20": 584,
+      "2025-09-20": 594,
       "2025-09-19": 1440,
       "2025-09-18": 1440,
       "2025-09-17": 1440,
@@ -1544,19 +1544,19 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
+    "status": "down",
     "uptime": "98.57%",
-    "uptimeDay": "38.46%",
-    "uptimeWeek": "48.04%",
-    "uptimeMonth": "46.55%",
-    "uptimeYear": "94.76%",
-    "time": 5151,
+    "uptimeDay": "38.28%",
+    "uptimeWeek": "48.12%",
+    "uptimeMonth": "46.57%",
+    "uptimeYear": "94.79%",
+    "time": 5156,
     "timeDay": 8621,
     "timeWeek": 11585,
     "timeMonth": 11559,
     "timeYear": 5491,
     "dailyMinutesDown": {
-      "2025-09-20": 455,
+      "2025-09-20": 458,
       "2025-09-19": 431,
       "2025-09-18": 795,
       "2025-09-17": 1026,
@@ -1579,7 +1579,7 @@
       "2025-08-20": 1343,
       "2025-08-19": 1331,
       "2025-08-18": 1363,
-      "2025-08-17": 892
+      "2025-08-17": 757
     }
   },
   {
@@ -2095,7 +2095,7 @@
     "timeMonth": 1386,
     "timeYear": 1413,
     "dailyMinutesDown": {
-      "2025-09-20": 585,
+      "2025-09-20": 595,
       "2025-09-19": 1440,
       "2025-09-18": 1440,
       "2025-09-17": 1440,
