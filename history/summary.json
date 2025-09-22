@@ -226,7 +226,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-22": 1014,
+      "2025-09-22": 1033,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
@@ -644,7 +644,7 @@
     "timeMonth": 1088,
     "timeYear": 1051,
     "dailyMinutesDown": {
-      "2025-09-22": 1015,
+      "2025-09-22": 1033,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
@@ -1008,7 +1008,7 @@
     "timeMonth": 490,
     "timeYear": 788,
     "dailyMinutesDown": {
-      "2025-09-22": 1015,
+      "2025-09-22": 1033,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
@@ -1547,19 +1547,19 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
-    "uptime": "98.67%",
-    "uptimeDay": "35.46%",
-    "uptimeWeek": "52.02%",
-    "uptimeMonth": "49.38%",
-    "uptimeYear": "95.12%",
+    "status": "down",
+    "uptime": "98.68%",
+    "uptimeDay": "36.42%",
+    "uptimeWeek": "51.98%",
+    "uptimeMonth": "49.37%",
+    "uptimeYear": "95.18%",
     "time": 5257,
     "timeDay": 6265,
     "timeWeek": 9257,
     "timeMonth": 10222,
     "timeYear": 5493,
     "dailyMinutesDown": {
-      "2025-09-22": 523,
+      "2025-09-22": 527,
       "2025-09-21": 609,
       "2025-09-20": 473,
       "2025-09-19": 431,
@@ -1582,7 +1582,7 @@
       "2025-08-22": 502,
       "2025-08-21": 1061,
       "2025-08-20": 1343,
-      "2025-08-19": 584
+      "2025-08-19": 229
     }
   },
   {
@@ -1615,9 +1615,9 @@
     "slug": "ecology-toxicity",
     "status": "down",
     "uptime": "71.32%",
-    "uptimeDay": "98.89%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "96.87%",
+    "uptimeDay": "97.63%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "96.83%",
     "uptimeYear": "19.18%",
     "time": 816,
     "timeDay": 205,
@@ -1625,7 +1625,7 @@
     "timeMonth": 608,
     "timeYear": 837,
     "dailyMinutesDown": {
-      "2025-09-22": 16,
+      "2025-09-22": 34,
       "2025-09-21": 29,
       "2025-09-20": 19,
       "2025-09-12": 1066,
@@ -2098,7 +2098,7 @@
     "timeMonth": 1402,
     "timeYear": 1414,
     "dailyMinutesDown": {
-      "2025-09-22": 1017,
+      "2025-09-22": 1034,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
