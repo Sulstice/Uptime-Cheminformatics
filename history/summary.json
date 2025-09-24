@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "99.17%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "71.60%",
+    "uptimeWeek": "71.70%",
     "uptimeMonth": "85.57%",
     "uptimeYear": "96.52%",
     "time": 2795,
@@ -228,7 +228,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-24": 1246,
+      "2025-09-24": 1255,
       "2025-09-23": 1440,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
@@ -646,7 +646,7 @@
     "timeMonth": 1123,
     "timeYear": 1053,
     "dailyMinutesDown": {
-      "2025-09-24": 1246,
+      "2025-09-24": 1255,
       "2025-09-23": 1440,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
@@ -1011,7 +1011,7 @@
     "timeMonth": 485,
     "timeYear": 785,
     "dailyMinutesDown": {
-      "2025-09-24": 1246,
+      "2025-09-24": 1255,
       "2025-09-23": 1440,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
@@ -1551,19 +1551,19 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
-    "uptime": "98.73%",
-    "uptimeDay": "18.32%",
-    "uptimeWeek": "52.58%",
-    "uptimeMonth": "45.30%",
-    "uptimeYear": "95.35%",
-    "time": 5454,
+    "status": "down",
+    "uptime": "98.74%",
+    "uptimeDay": "17.91%",
+    "uptimeWeek": "52.57%",
+    "uptimeMonth": "45.29%",
+    "uptimeYear": "95.37%",
+    "time": 5271,
     "timeDay": 14780,
-    "timeWeek": 9521,
+    "timeWeek": 9386,
     "timeMonth": 10550,
     "timeYear": 5641,
     "dailyMinutesDown": {
-      "2025-09-24": 1022,
+      "2025-09-24": 1028,
       "2025-09-23": 440,
       "2025-09-22": 848,
       "2025-09-21": 609,
@@ -1585,7 +1585,7 @@
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1215,
-      "2025-08-22": 454
+      "2025-08-22": 371
     }
   },
   {
@@ -2101,7 +2101,7 @@
     "timeMonth": 1396,
     "timeYear": 1415,
     "dailyMinutesDown": {
-      "2025-09-24": 1247,
+      "2025-09-24": 1257,
       "2025-09-23": 1440,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
