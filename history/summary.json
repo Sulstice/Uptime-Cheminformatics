@@ -4,10 +4,10 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.17%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "93.35%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "93.45%",
     "uptimeMonth": "85.39%",
     "uptimeYear": "96.51%",
     "time": 2795,
@@ -16,6 +16,7 @@
     "timeMonth": 4178,
     "timeYear": 2952,
     "dailyMinutesDown": {
+      "2025-09-26": 3,
       "2025-09-25": 65,
       "2025-09-24": 15,
       "2025-09-22": 44,
@@ -62,7 +63,7 @@
       "2025-05-09": 22,
       "2025-04-22": 38,
       "2025-04-21": 19,
-      "2025-04-01": 153
+      "2025-04-01": 121
     }
   },
   {
@@ -70,18 +71,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.55%",
-    "uptimeMonth": "92.84%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "96.66%",
+    "uptimeMonth": "92.83%",
     "uptimeYear": "98.90%",
-    "time": 3799,
+    "time": 3803,
     "timeDay": 308,
     "timeWeek": 354,
     "timeMonth": 517,
     "timeYear": 3834,
     "dailyMinutesDown": {
+      "2025-09-26": 2,
       "2025-09-25": 65,
       "2025-09-24": 14,
       "2025-09-22": 43,
@@ -107,8 +109,7 @@
       "2025-08-02": 55,
       "2025-08-01": 83,
       "2025-07-31": 655,
-      "2025-07-30": 407,
-      "2025-07-29": 32
+      "2025-07-30": 407
     }
   },
   {
@@ -230,7 +231,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-26": 635,
+      "2025-09-26": 649,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
@@ -648,7 +649,7 @@
     "timeMonth": 1129,
     "timeYear": 1056,
     "dailyMinutesDown": {
-      "2025-09-26": 635,
+      "2025-09-26": 649,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
@@ -1014,7 +1015,7 @@
     "timeMonth": 462,
     "timeYear": 783,
     "dailyMinutesDown": {
-      "2025-09-26": 635,
+      "2025-09-26": 649,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
@@ -1365,7 +1366,7 @@
     "slug": "amed-cardiotoxicity-database",
     "status": "up",
     "uptime": "99.01%",
-    "uptimeDay": "74.67%",
+    "uptimeDay": "75.64%",
     "uptimeWeek": "94.64%",
     "uptimeMonth": "95.88%",
     "uptimeYear": "98.93%",
@@ -1558,19 +1559,19 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "6.44%",
-    "uptimeWeek": "42.61%",
-    "uptimeMonth": "75.56%",
-    "uptimeYear": "97.96%",
-    "time": 5372,
+    "uptimeDay": "6.13%",
+    "uptimeWeek": "42.56%",
+    "uptimeMonth": "75.60%",
+    "uptimeYear": "97.97%",
+    "time": 5377,
     "timeDay": 16645,
     "timeWeek": 8506,
     "timeMonth": 10443,
     "timeYear": 5730,
     "dailyMinutesDown": {
-      "2025-09-26": 591,
+      "2025-09-26": 596,
       "2025-09-25": 1193,
       "2025-09-24": 1202,
       "2025-09-23": 440,
@@ -1583,7 +1584,7 @@
       "2025-09-16": 979,
       "2025-09-14": 920,
       "2025-09-13": 1150,
-      "2025-09-12": 50
+      "2025-09-12": 28
     }
   },
   {
@@ -2097,7 +2098,7 @@
     "timeMonth": 1396,
     "timeYear": 1414,
     "dailyMinutesDown": {
-      "2025-09-26": 637,
+      "2025-09-26": 651,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
