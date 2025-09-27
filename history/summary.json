@@ -229,7 +229,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-27": 1065,
+      "2025-09-27": 1074,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -647,7 +647,7 @@
     "timeMonth": 1118,
     "timeYear": 1057,
     "dailyMinutesDown": {
-      "2025-09-27": 1065,
+      "2025-09-27": 1074,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -1014,7 +1014,7 @@
     "timeMonth": 477,
     "timeYear": 784,
     "dailyMinutesDown": {
-      "2025-09-27": 1065,
+      "2025-09-27": 1074,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -1559,11 +1559,11 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "13.73%",
-    "uptimeWeek": "35.21%",
-    "uptimeMonth": "76.34%",
+    "uptimeDay": "14.18%",
+    "uptimeWeek": "35.18%",
+    "uptimeMonth": "76.38%",
     "uptimeYear": "98.03%",
     "time": 5739,
     "timeDay": 18273,
@@ -1571,7 +1571,7 @@
     "timeMonth": 11295,
     "timeYear": 6043,
     "dailyMinutesDown": {
-      "2025-09-27": 880,
+      "2025-09-27": 883,
       "2025-09-26": 1361,
       "2025-09-25": 1193,
       "2025-09-24": 1202,
@@ -1583,7 +1583,7 @@
       "2025-09-18": 795,
       "2025-09-17": 1026,
       "2025-09-16": 979,
-      "2025-09-14": 127
+      "2025-09-14": 106
     }
   },
   {
@@ -1939,7 +1939,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heraproject.com.ico",
     "slug": "human-and-environment-risk-assessment",
     "status": "up",
-    "uptime": "49.41%",
+    "uptime": "49.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -2096,7 +2096,7 @@
     "timeMonth": 1395,
     "timeYear": 1414,
     "dailyMinutesDown": {
-      "2025-09-27": 1066,
+      "2025-09-27": 1076,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
