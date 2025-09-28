@@ -219,7 +219,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nmrshiftdb.nmr.uni-koeln.de.ico",
     "slug": "nmr-shift-database",
     "status": "down",
-    "uptime": "63.14%",
+    "uptime": "63.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -230,7 +230,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-28": 283,
+      "2025-09-28": 294,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
@@ -648,7 +648,7 @@
     "timeMonth": 1147,
     "timeYear": 1059,
     "dailyMinutesDown": {
-      "2025-09-28": 283,
+      "2025-09-28": 294,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
@@ -1015,7 +1015,7 @@
     "timeMonth": 491,
     "timeYear": 783,
     "dailyMinutesDown": {
-      "2025-09-28": 283,
+      "2025-09-28": 295,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
@@ -1294,19 +1294,19 @@
     "url": "http://ctdbase.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ctdbase.org.ico",
     "slug": "comparative-toxicogenomics-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "81.22%",
-    "uptimeWeek": "76.25%",
-    "uptimeMonth": "90.43%",
-    "uptimeYear": "97.27%",
+    "uptimeDay": "80.92%",
+    "uptimeWeek": "76.20%",
+    "uptimeMonth": "90.42%",
+    "uptimeYear": "97.29%",
     "time": 1154,
     "timeDay": 607,
     "timeWeek": 1052,
     "timeMonth": 817,
     "timeYear": 1276,
     "dailyMinutesDown": {
-      "2025-09-28": 36,
+      "2025-09-28": 40,
       "2025-09-27": 235,
       "2025-09-26": 295,
       "2025-09-25": 175,
@@ -1358,7 +1358,7 @@
       "2025-05-28": 516,
       "2025-05-27": 77,
       "2025-05-26": 703,
-      "2025-05-25": 476
+      "2025-05-25": 358
     }
   },
   {
@@ -1561,19 +1561,19 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "20.02%",
-    "uptimeWeek": "30.88%",
-    "uptimeMonth": "75.47%",
+    "status": "down",
+    "uptime": "99.45%",
+    "uptimeDay": "19.79%",
+    "uptimeWeek": "30.96%",
+    "uptimeMonth": "75.58%",
     "uptimeYear": "97.96%",
-    "time": 5826,
-    "timeDay": 16151,
+    "time": 5832,
+    "timeDay": 16077,
     "timeWeek": 11457,
     "timeMonth": 11420,
     "timeYear": 6110,
     "dailyMinutesDown": {
-      "2025-09-28": 212,
+      "2025-09-28": 215,
       "2025-09-27": 1201,
       "2025-09-26": 1361,
       "2025-09-25": 1193,
@@ -1585,7 +1585,7 @@
       "2025-09-19": 431,
       "2025-09-18": 795,
       "2025-09-17": 1026,
-      "2025-09-16": 954
+      "2025-09-16": 905
     }
   },
   {
@@ -2097,7 +2097,7 @@
     "timeMonth": 1411,
     "timeYear": 1413,
     "dailyMinutesDown": {
-      "2025-09-28": 284,
+      "2025-09-28": 296,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
