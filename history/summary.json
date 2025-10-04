@@ -231,7 +231,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-03": 1437,
+      "2025-10-04": 32,
+      "2025-10-03": 1440,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
@@ -594,8 +595,7 @@
       "2024-10-08": 1440,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
-      "2024-10-05": 1440,
-      "2024-10-04": 1440
+      "2024-10-05": 1440
     }
   },
   {
@@ -649,7 +649,8 @@
     "timeMonth": 1167,
     "timeYear": 1072,
     "dailyMinutesDown": {
-      "2025-10-03": 1437,
+      "2025-10-04": 32,
+      "2025-10-03": 1440,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
@@ -976,7 +977,7 @@
     "uptime": "98.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "84.76%",
+    "uptimeMonth": "84.84%",
     "uptimeYear": "96.24%",
     "time": 911,
     "timeDay": 1635,
@@ -1014,14 +1015,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "51.07%",
+    "uptimeYear": "51.06%",
     "time": 835,
     "timeDay": 1082,
     "timeWeek": 523,
     "timeMonth": 512,
     "timeYear": 770,
     "dailyMinutesDown": {
-      "2025-10-03": 1437,
+      "2025-10-04": 32,
+      "2025-10-03": 1440,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
@@ -1216,7 +1218,7 @@
     "uptime": "98.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "84.77%",
+    "uptimeMonth": "84.84%",
     "uptimeYear": "96.23%",
     "time": 1317,
     "timeDay": 864,
@@ -1404,7 +1406,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tripod.nih.gov.ico",
     "slug": "tox21",
     "status": "up",
-    "uptime": "96.59%",
+    "uptime": "96.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1571,18 +1573,19 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "90.28%",
-    "uptimeWeek": "74.67%",
-    "uptimeMonth": "78.40%",
-    "uptimeYear": "98.20%",
-    "time": 5712,
+    "status": "down",
+    "uptime": "99.52%",
+    "uptimeDay": "92.33%",
+    "uptimeWeek": "74.97%",
+    "uptimeMonth": "78.60%",
+    "uptimeYear": "98.22%",
+    "time": 5717,
     "timeDay": 10132,
     "timeWeek": 9261,
     "timeMonth": 10615,
     "timeYear": 6153,
     "dailyMinutesDown": {
+      "2025-10-04": 5,
       "2025-10-03": 138,
       "2025-10-02": 710,
       "2025-09-29": 71,
@@ -1596,7 +1599,7 @@
       "2025-09-21": 609,
       "2025-09-20": 473,
       "2025-09-19": 431,
-      "2025-09-18": 355
+      "2025-09-18": 262
     }
   },
   {
@@ -1635,7 +1638,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.09%",
-    "uptimeYear": "22.20%",
+    "uptimeYear": "22.21%",
     "time": 743,
     "timeDay": 469,
     "timeWeek": 297,
@@ -1938,8 +1941,7 @@
       "2024-10-08": 1440,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
-      "2024-10-05": 1440,
-      "2024-10-04": 1440
+      "2024-10-05": 1440
     }
   },
   {
@@ -2096,7 +2098,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heterocycles.jp.ico",
     "slug": "hetereocycles",
     "status": "down",
-    "uptime": "52.17%",
+    "uptime": "52.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -2107,7 +2109,8 @@
     "timeMonth": 1427,
     "timeYear": 1416,
     "dailyMinutesDown": {
-      "2025-10-03": 1438,
+      "2025-10-04": 33,
+      "2025-10-03": 1440,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
@@ -2470,8 +2473,7 @@
       "2024-10-08": 1440,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
-      "2024-10-05": 1440,
-      "2024-10-04": 1440
+      "2024-10-05": 1440
     }
   },
   {
