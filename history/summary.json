@@ -192,7 +192,7 @@
     "timeDay": 694,
     "timeWeek": 1185,
     "timeMonth": 1290,
-    "timeYear": 1547,
+    "timeYear": 1548,
     "dailyMinutesDown": {
       "2025-08-18": 29,
       "2025-08-17": 100,
@@ -231,7 +231,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-07": 1415,
+      "2025-10-08": 30,
+      "2025-10-07": 1440,
       "2025-10-06": 1440,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
@@ -594,8 +595,7 @@
       "2024-10-12": 1440,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
-      "2024-10-09": 1440,
-      "2024-10-08": 1440
+      "2024-10-09": 1440
     }
   },
   {
@@ -638,18 +638,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
     "status": "down",
-    "uptime": "81.61%",
+    "uptime": "81.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "31.98%",
+    "uptimeYear": "31.97%",
     "time": 1048,
     "timeDay": 285,
     "timeWeek": 504,
     "timeMonth": 1175,
-    "timeYear": 1076,
+    "timeYear": 1077,
     "dailyMinutesDown": {
-      "2025-10-07": 1415,
+      "2025-10-08": 30,
+      "2025-10-07": 1440,
       "2025-10-06": 1440,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
@@ -947,8 +948,7 @@
       "2024-10-15": 26,
       "2024-10-13": 30,
       "2024-10-10": 15,
-      "2024-10-09": 391,
-      "2024-10-08": 1173
+      "2024-10-09": 391
     }
   },
   {
@@ -978,7 +978,7 @@
     "uptime": "98.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.86%",
+    "uptimeMonth": "97.99%",
     "uptimeYear": "96.24%",
     "time": 913,
     "timeDay": 1190,
@@ -1012,18 +1012,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chemspider.com.ico",
     "slug": "chem-spider",
     "status": "down",
-    "uptime": "83.77%",
+    "uptime": "83.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "49.98%",
+    "uptimeYear": "49.97%",
     "time": 832,
     "timeDay": 109,
     "timeWeek": 545,
     "timeMonth": 515,
     "timeYear": 764,
     "dailyMinutesDown": {
-      "2025-10-07": 1415,
+      "2025-10-08": 30,
+      "2025-10-07": 1440,
       "2025-10-06": 1440,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
@@ -1222,7 +1223,7 @@
     "uptime": "98.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.86%",
+    "uptimeMonth": "97.99%",
     "uptimeYear": "96.23%",
     "time": 1318,
     "timeDay": 1356,
@@ -1640,7 +1641,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.09%",
-    "uptimeYear": "23.29%",
+    "uptimeYear": "23.30%",
     "time": 733,
     "timeDay": 569,
     "timeWeek": 386,
@@ -1939,8 +1940,7 @@
       "2024-10-12": 1440,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
-      "2024-10-09": 1440,
-      "2024-10-08": 1440
+      "2024-10-09": 1440
     }
   },
   {
@@ -1950,17 +1950,18 @@
     "slug": "human-and-environment-risk-assessment",
     "status": "down",
     "uptime": "49.74%",
-    "uptimeDay": "35.85%",
-    "uptimeWeek": "90.59%",
-    "uptimeMonth": "97.45%",
-    "uptimeYear": "99.10%",
+    "uptimeDay": "32.04%",
+    "uptimeWeek": "90.04%",
+    "uptimeMonth": "97.33%",
+    "uptimeYear": "99.09%",
     "time": 2808,
     "timeDay": 920,
     "timeWeek": 5737,
     "timeMonth": 3427,
     "timeYear": 2852,
     "dailyMinutesDown": {
-      "2025-10-07": 924,
+      "2025-10-08": 31,
+      "2025-10-07": 947,
       "2025-10-03": 25,
       "2025-09-30": 167,
       "2025-08-26": 145,
@@ -2111,7 +2112,8 @@
     "timeMonth": 1413,
     "timeYear": 1411,
     "dailyMinutesDown": {
-      "2025-10-07": 1417,
+      "2025-10-08": 32,
+      "2025-10-07": 1440,
       "2025-10-06": 1440,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
@@ -2474,8 +2476,7 @@
       "2024-10-12": 1440,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
-      "2024-10-09": 1440,
-      "2024-10-08": 1440
+      "2024-10-09": 1440
     }
   },
   {
