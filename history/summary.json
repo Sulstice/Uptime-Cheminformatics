@@ -71,12 +71,12 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.93%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.29%",
     "uptimeMonth": "91.46%",
     "uptimeYear": "99.05%",
     "time": 3648,
-    "timeDay": 624,
+    "timeDay": 521,
     "timeWeek": 1024,
     "timeMonth": 462,
     "timeYear": 3742,
@@ -231,7 +231,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-12": 958,
+      "2025-10-12": 966,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
@@ -649,7 +649,7 @@
     "timeMonth": 1112,
     "timeYear": 1081,
     "dailyMinutesDown": {
-      "2025-10-12": 958,
+      "2025-10-12": 967,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
@@ -1025,7 +1025,7 @@
     "timeMonth": 470,
     "timeYear": 752,
     "dailyMinutesDown": {
-      "2025-10-12": 958,
+      "2025-10-12": 967,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
@@ -1584,11 +1584,11 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "31.14%",
-    "uptimeWeek": "62.79%",
-    "uptimeMonth": "88.94%",
+    "uptimeDay": "30.78%",
+    "uptimeWeek": "62.73%",
+    "uptimeMonth": "89.00%",
     "uptimeYear": "99.08%",
     "time": 6655,
     "timeDay": 12980,
@@ -1596,7 +1596,7 @@
     "timeMonth": 11317,
     "timeYear": 7086,
     "dailyMinutesDown": {
-      "2025-10-12": 604,
+      "2025-10-12": 609,
       "2025-10-11": 687,
       "2025-10-10": 379,
       "2025-10-09": 365,
@@ -1606,7 +1606,7 @@
       "2025-10-05": 327,
       "2025-10-04": 408,
       "2025-10-03": 138,
-      "2025-10-02": 308
+      "2025-10-02": 273
     }
   },
   {
@@ -1644,8 +1644,8 @@
     "uptime": "71.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.73%",
-    "uptimeYear": "24.57%",
+    "uptimeMonth": "98.75%",
+    "uptimeYear": "24.58%",
     "time": 672,
     "timeDay": 107,
     "timeWeek": 733,
@@ -1951,8 +1951,8 @@
     "status": "down",
     "uptime": "49.57%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "23.94%",
-    "uptimeMonth": "82.06%",
+    "uptimeWeek": "23.86%",
+    "uptimeMonth": "82.04%",
     "uptimeYear": "97.81%",
     "time": 2790,
     "timeDay": 660,
@@ -1960,7 +1960,7 @@
     "timeMonth": 3193,
     "timeYear": 2833,
     "dailyMinutesDown": {
-      "2025-10-12": 959,
+      "2025-10-12": 968,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
@@ -2037,7 +2037,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/npic.orst.edu.ico",
     "slug": "national-pesticide-center",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -2047,9 +2047,7 @@
     "timeWeek": 364,
     "timeMonth": 412,
     "timeYear": 453,
-    "dailyMinutesDown": {
-      "2024-10-28": 24
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Pesticide Info",
@@ -2117,7 +2115,7 @@
     "timeMonth": 1331,
     "timeYear": 1407,
     "dailyMinutesDown": {
-      "2025-10-12": 960,
+      "2025-10-12": 968,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
