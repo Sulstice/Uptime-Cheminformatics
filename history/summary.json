@@ -6,17 +6,17 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.21%",
-    "uptimeDay": "82.86%",
-    "uptimeWeek": "97.33%",
-    "uptimeMonth": "97.23%",
+    "uptimeDay": "82.25%",
+    "uptimeWeek": "97.24%",
+    "uptimeMonth": "97.24%",
     "uptimeYear": "96.60%",
     "time": 2707,
     "timeDay": 360,
     "timeWeek": 2863,
     "timeMonth": 966,
-    "timeYear": 2895,
+    "timeYear": 2891,
     "dailyMinutesDown": {
-      "2025-10-19": 247,
+      "2025-10-19": 256,
       "2025-10-17": 22,
       "2025-10-11": 53,
       "2025-10-10": 56,
@@ -62,8 +62,7 @@
       "2025-06-30": 857,
       "2025-06-25": 1187,
       "2025-06-24": 745,
-      "2025-06-23": 571,
-      "2025-06-22": 17
+      "2025-06-23": 571
     }
   },
   {
@@ -73,9 +72,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "76.02%",
-    "uptimeWeek": "96.36%",
-    "uptimeMonth": "96.97%",
+    "uptimeDay": "75.40%",
+    "uptimeWeek": "96.28%",
+    "uptimeMonth": "96.95%",
     "uptimeYear": "99.01%",
     "time": 3642,
     "timeDay": 911,
@@ -83,7 +82,7 @@
     "timeMonth": 594,
     "timeYear": 3707,
     "dailyMinutesDown": {
-      "2025-10-19": 345,
+      "2025-10-19": 354,
       "2025-10-13": 21,
       "2025-10-11": 99,
       "2025-10-10": 128,
@@ -110,7 +109,7 @@
       "2025-08-12": 98,
       "2025-08-11": 272,
       "2025-08-10": 187,
-      "2025-08-09": 292
+      "2025-08-09": 272
     }
   },
   {
@@ -234,7 +233,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-19": 939,
+      "2025-10-19": 950,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
@@ -652,7 +651,7 @@
     "timeMonth": 593,
     "timeYear": 1086,
     "dailyMinutesDown": {
-      "2025-10-19": 939,
+      "2025-10-19": 950,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
@@ -1031,7 +1030,7 @@
     "timeMonth": 450,
     "timeYear": 737,
     "dailyMinutesDown": {
-      "2025-10-19": 939,
+      "2025-10-19": 950,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
@@ -1597,26 +1596,26 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "down",
-    "uptime": "99.73%",
-    "uptimeDay": "81.17%",
-    "uptimeWeek": "48.19%",
-    "uptimeMonth": "87.73%",
-    "uptimeYear": "98.98%",
-    "time": 7489,
-    "timeDay": 11275,
-    "timeWeek": 11983,
-    "timeMonth": 11210,
-    "timeYear": 7693,
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "81.99%",
+    "uptimeWeek": "48.35%",
+    "uptimeMonth": "87.58%",
+    "uptimeYear": "98.97%",
+    "time": 7474,
+    "timeDay": 10734,
+    "timeWeek": 11905,
+    "timeMonth": 11184,
+    "timeYear": 7687,
     "dailyMinutesDown": {
-      "2025-10-19": 111,
+      "2025-10-19": 106,
       "2025-10-18": 587,
       "2025-10-17": 1044,
       "2025-10-16": 628,
       "2025-10-15": 794,
       "2025-10-14": 636,
       "2025-10-13": 1118,
-      "2025-10-12": 462
+      "2025-10-12": 530
     }
   },
   {
@@ -1628,7 +1627,7 @@
     "uptime": "98.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.56%",
+    "uptimeMonth": "98.58%",
     "uptimeYear": "99.86%",
     "time": 1901,
     "timeDay": 1202,
@@ -1955,7 +1954,7 @@
     "uptime": "49.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "59.09%",
+    "uptimeMonth": "59.07%",
     "uptimeYear": "95.90%",
     "time": 2766,
     "timeDay": 933,
@@ -1963,7 +1962,7 @@
     "timeMonth": 2795,
     "timeYear": 2802,
     "dailyMinutesDown": {
-      "2025-10-19": 940,
+      "2025-10-19": 951,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
@@ -2127,7 +2126,7 @@
     "timeMonth": 1341,
     "timeYear": 1406,
     "dailyMinutesDown": {
-      "2025-10-19": 940,
+      "2025-10-19": 951,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
