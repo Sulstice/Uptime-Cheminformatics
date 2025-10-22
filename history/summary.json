@@ -220,7 +220,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nmrshiftdb.nmr.uni-koeln.de.ico",
     "slug": "nmr-shift-database",
     "status": "down",
-    "uptime": "62.04%",
+    "uptime": "62.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -231,7 +231,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-21": 1439,
+      "2025-10-22": 15,
+      "2025-10-21": 1440,
       "2025-10-20": 1440,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
@@ -594,8 +595,7 @@
       "2024-10-26": 1440,
       "2024-10-25": 1440,
       "2024-10-24": 1440,
-      "2024-10-23": 1440,
-      "2024-10-22": 1440
+      "2024-10-23": 1440
     }
   },
   {
@@ -649,7 +649,8 @@
     "timeMonth": 583,
     "timeYear": 1090,
     "dailyMinutesDown": {
-      "2025-10-21": 1439,
+      "2025-10-22": 15,
+      "2025-10-21": 1440,
       "2025-10-20": 1440,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
@@ -1023,14 +1024,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "46.14%",
+    "uptimeYear": "46.13%",
     "time": 813,
     "timeDay": 160,
     "timeWeek": 480,
     "timeMonth": 417,
     "timeYear": 733,
     "dailyMinutesDown": {
-      "2025-10-21": 1439,
+      "2025-10-22": 15,
+      "2025-10-21": 1440,
       "2025-10-20": 1440,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
@@ -1597,18 +1599,19 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "56.52%",
-    "uptimeWeek": "53.17%",
-    "uptimeMonth": "88.31%",
+    "uptimeDay": "56.26%",
+    "uptimeWeek": "53.13%",
+    "uptimeMonth": "88.40%",
     "uptimeYear": "99.03%",
-    "time": 7498,
+    "time": 7504,
     "timeDay": 12133,
     "timeWeek": 10570,
     "timeMonth": 11244,
     "timeYear": 7786,
     "dailyMinutesDown": {
+      "2025-10-22": 4,
       "2025-10-21": 627,
       "2025-10-20": 583,
       "2025-10-19": 459,
@@ -1616,7 +1619,7 @@
       "2025-10-17": 1044,
       "2025-10-16": 628,
       "2025-10-15": 794,
-      "2025-10-14": 400
+      "2025-10-14": 355
     }
   },
   {
@@ -1940,8 +1943,7 @@
       "2024-10-26": 1440,
       "2024-10-25": 1440,
       "2024-10-24": 1440,
-      "2024-10-23": 1440,
-      "2024-10-22": 1440
+      "2024-10-23": 1440
     }
   },
   {
@@ -1953,14 +1955,15 @@
     "uptime": "49.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "51.38%",
-    "uptimeYear": "95.26%",
+    "uptimeMonth": "51.34%",
+    "uptimeYear": "95.25%",
     "time": 2715,
     "timeDay": 624,
     "timeWeek": 782,
     "timeMonth": 2597,
     "timeYear": 2787,
     "dailyMinutesDown": {
+      "2025-10-22": 16,
       "2025-10-21": 1440,
       "2025-10-20": 1440,
       "2025-10-19": 1440,
@@ -2129,7 +2132,7 @@
     "timeMonth": 1349,
     "timeYear": 1405,
     "dailyMinutesDown": {
-      "2025-10-22": 0,
+      "2025-10-22": 16,
       "2025-10-21": 1440,
       "2025-10-20": 1440,
       "2025-10-19": 1440,
