@@ -225,7 +225,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-26": 1420,
+      "2025-10-27": 31,
+      "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
@@ -588,8 +589,7 @@
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
-      "2024-10-28": 1440,
-      "2024-10-27": 1440
+      "2024-10-28": 1440
     }
   },
   {
@@ -632,18 +632,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
     "status": "down",
-    "uptime": "80.48%",
+    "uptime": "80.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "27.10%",
+    "uptimeYear": "27.09%",
     "time": 1069,
     "timeDay": 549,
     "timeWeek": 546,
     "timeMonth": 575,
     "timeYear": 1101,
     "dailyMinutesDown": {
-      "2025-10-26": 1420,
+      "2025-10-27": 31,
+      "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
@@ -1020,14 +1021,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "44.77%",
+    "uptimeYear": "44.76%",
     "time": 804,
     "timeDay": 243,
     "timeWeek": 294,
     "timeMonth": 408,
     "timeYear": 728,
     "dailyMinutesDown": {
-      "2025-10-26": 1420,
+      "2025-10-27": 31,
+      "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
@@ -1538,7 +1540,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "99.47%",
+    "uptimeYear": "99.48%",
     "time": 1027,
     "timeDay": 498,
     "timeWeek": 621,
@@ -1563,8 +1565,7 @@
       "2024-12-12": 19,
       "2024-11-20": 172,
       "2024-11-16": 626,
-      "2024-11-15": 370,
-      "2024-10-27": 36
+      "2024-11-15": 370
     }
   },
   {
@@ -1604,16 +1605,17 @@
     "status": "down",
     "uptime": "99.68%",
     "uptimeDay": "48.91%",
-    "uptimeWeek": "43.36%",
-    "uptimeMonth": "85.47%",
-    "uptimeYear": "98.79%",
+    "uptimeWeek": "42.86%",
+    "uptimeMonth": "85.36%",
+    "uptimeYear": "98.78%",
     "time": 7817,
     "timeDay": 6719,
     "timeWeek": 10430,
     "timeMonth": 11290,
     "timeYear": 8069,
     "dailyMinutesDown": {
-      "2025-10-26": 717,
+      "2025-10-27": 32,
+      "2025-10-26": 736,
       "2025-10-25": 1163,
       "2025-10-24": 1123,
       "2025-10-23": 633,
@@ -1660,7 +1662,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "28.50%",
+    "uptimeYear": "28.51%",
     "time": 666,
     "timeDay": 156,
     "timeWeek": 251,
@@ -1940,8 +1942,7 @@
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
-      "2024-10-28": 1440,
-      "2024-10-27": 1440
+      "2024-10-28": 1440
     }
   },
   {
@@ -1953,15 +1954,16 @@
     "uptime": "49.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "34.98%",
-    "uptimeYear": "93.89%",
+    "uptimeMonth": "34.87%",
+    "uptimeYear": "93.88%",
     "time": 2694,
     "timeDay": 562,
     "timeWeek": 699,
     "timeMonth": 2290,
     "timeYear": 2764,
     "dailyMinutesDown": {
-      "2025-10-26": 1421,
+      "2025-10-27": 32,
+      "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
@@ -2025,10 +2027,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/dra4.nihs.go.jp.ico",
     "slug": "japan-exisiting-database",
     "status": "down",
-    "uptime": "99.11%",
+    "uptime": "99.10%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "62.73%",
-    "uptimeMonth": "91.42%",
+    "uptimeWeek": "62.22%",
+    "uptimeMonth": "91.31%",
     "uptimeYear": "98.96%",
     "time": 941,
     "timeDay": 0,
@@ -2036,14 +2038,14 @@
     "timeMonth": 880,
     "timeYear": 933,
     "dailyMinutesDown": {
-      "2025-10-26": 1421,
+      "2025-10-27": 32,
+      "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 896,
       "2025-09-18": 32,
       "2025-03-13": 28,
       "2025-02-20": 63,
-      "2024-10-28": 133,
-      "2024-10-27": 1440
+      "2024-10-28": 133
     }
   },
   {
@@ -2079,7 +2081,7 @@
     "uptimeYear": "99.96%",
     "time": 560,
     "timeDay": 444,
-    "timeWeek": 381,
+    "timeWeek": 389,
     "timeMonth": 375,
     "timeYear": 557,
     "dailyMinutesDown": {
@@ -2135,7 +2137,8 @@
     "timeMonth": 1338,
     "timeYear": 1403,
     "dailyMinutesDown": {
-      "2025-10-26": 1421,
+      "2025-10-27": 32,
+      "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
@@ -2498,8 +2501,7 @@
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
-      "2024-10-28": 1440,
-      "2024-10-27": 1440
+      "2024-10-28": 1440
     }
   },
   {
@@ -2508,7 +2510,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cactus.nci.nih.gov.ico",
     "slug": "chemical-resolver",
     "status": "up",
-    "uptime": "99.19%",
+    "uptime": "99.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.87%",
     "uptimeMonth": "99.38%",
