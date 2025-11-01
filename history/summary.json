@@ -68,17 +68,17 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "80.67%",
-    "uptimeWeek": "96.46%",
-    "uptimeMonth": "94.81%",
-    "uptimeYear": "99.11%",
+    "uptimeDay": "81.25%",
+    "uptimeWeek": "96.55%",
+    "uptimeMonth": "94.83%",
+    "uptimeYear": "99.10%",
     "time": 3536,
     "timeDay": 2357,
     "timeWeek": 1291,
     "timeMonth": 1887,
     "timeYear": 3568,
     "dailyMinutesDown": {
-      "2025-10-31": 278,
+      "2025-10-31": 270,
       "2025-10-30": 17,
       "2025-10-29": 16,
       "2025-10-27": 45,
@@ -103,7 +103,7 @@
       "2025-09-21": 16,
       "2025-09-19": 700,
       "2025-09-18": 836,
-      "2025-09-17": 286
+      "2025-09-17": 356
     }
   },
   {
@@ -186,7 +186,7 @@
     "timeDay": 434,
     "timeWeek": 635,
     "timeMonth": 755,
-    "timeYear": 1521,
+    "timeYear": 1522,
     "dailyMinutesDown": {
       "2025-10-15": 30,
       "2025-10-11": 16,
@@ -216,7 +216,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nmrshiftdb.nmr.uni-koeln.de.ico",
     "slug": "nmr-shift-database",
     "status": "down",
-    "uptime": "61.59%",
+    "uptime": "61.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -227,7 +227,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-31": 1426,
+      "2025-11-01": 3,
+      "2025-10-31": 1440,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
@@ -590,8 +591,7 @@
       "2024-11-05": 1440,
       "2024-11-04": 1440,
       "2024-11-03": 1440,
-      "2024-11-02": 1440,
-      "2024-11-01": 1440
+      "2024-11-02": 1440
     }
   },
   {
@@ -638,14 +638,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "25.74%",
+    "uptimeYear": "25.73%",
     "time": 1106,
     "timeDay": 20113,
     "timeWeek": 5899,
     "timeMonth": 1598,
     "timeYear": 1117,
     "dailyMinutesDown": {
-      "2025-10-31": 1426,
+      "2025-11-01": 3,
+      "2025-10-31": 1440,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
@@ -957,8 +958,7 @@
       "2024-11-12": 31,
       "2024-11-11": 27,
       "2024-11-05": 17,
-      "2024-11-02": 53,
-      "2024-11-01": 18
+      "2024-11-02": 53
     }
   },
   {
@@ -1033,7 +1033,8 @@
     "timeMonth": 429,
     "timeYear": 720,
     "dailyMinutesDown": {
-      "2025-10-31": 1426,
+      "2025-11-01": 3,
+      "2025-10-31": 1440,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
@@ -1475,7 +1476,7 @@
     "status": "up",
     "uptime": "97.48%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "92.94%",
+    "uptimeWeek": "93.10%",
     "uptimeMonth": "96.69%",
     "uptimeYear": "92.68%",
     "time": 915,
@@ -1516,8 +1517,7 @@
       "2025-07-01": 205,
       "2025-01-22": 157,
       "2025-01-21": 554,
-      "2024-11-02": 149,
-      "2024-11-01": 602
+      "2024-11-02": 149
     }
   },
   {
@@ -1615,12 +1615,12 @@
     "slug": "adverse-drug-reaction-classification-system",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "36.94%",
-    "uptimeWeek": "41.46%",
+    "uptimeDay": "37.87%",
+    "uptimeWeek": "41.62%",
     "uptimeMonth": "81.27%",
     "uptimeYear": "98.44%",
     "time": 8083,
-    "timeDay": 12263,
+    "timeDay": 13202,
     "timeWeek": 11139,
     "timeMonth": 11474,
     "timeYear": 8386,
@@ -1949,8 +1949,7 @@
       "2024-11-05": 1440,
       "2024-11-04": 1440,
       "2024-11-03": 1440,
-      "2024-11-02": 1440,
-      "2024-11-01": 1440
+      "2024-11-02": 1440
     }
   },
   {
@@ -1962,7 +1961,7 @@
     "uptime": "48.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "18.91%",
+    "uptimeMonth": "18.87%",
     "uptimeYear": "92.52%",
     "time": 2677,
     "timeDay": 539,
@@ -1970,7 +1969,8 @@
     "timeMonth": 2050,
     "timeYear": 2737,
     "dailyMinutesDown": {
-      "2025-10-31": 1427,
+      "2025-11-01": 4,
+      "2025-10-31": 1440,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
@@ -2020,16 +2020,16 @@
     "url": "https://www.tera.org/iter/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tera.org.ico",
     "slug": "international-toxicity-information-for-risk-assesments",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 302,
-    "timeDay": 190,
-    "timeWeek": 190,
-    "timeMonth": 256,
+    "timeDay": 189,
+    "timeWeek": 189,
+    "timeMonth": 254,
     "timeYear": 284,
     "dailyMinutesDown": {}
   },
@@ -2041,7 +2041,7 @@
     "status": "up",
     "uptime": "99.10%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "70.12%",
+    "uptimeWeek": "70.29%",
     "uptimeMonth": "91.11%",
     "uptimeYear": "99.24%",
     "time": 940,
@@ -2082,18 +2082,20 @@
     "url": "https://www.pesticideinfo.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pesticideinfo.org.ico",
     "slug": "pesticide-info",
-    "status": "up",
+    "status": "down",
     "uptime": "99.14%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.49%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.47%",
     "uptimeYear": "99.96%",
-    "time": 560,
-    "timeDay": 440,
-    "timeWeek": 442,
+    "time": 559,
+    "timeDay": 398,
+    "timeWeek": 431,
     "timeMonth": 377,
     "timeYear": 555,
     "dailyMinutesDown": {
+      "2025-11-01": 4,
+      "2025-10-31": 1,
       "2025-10-20": 16,
       "2025-10-19": 113,
       "2025-10-15": 46,
@@ -2146,7 +2148,8 @@
     "timeMonth": 1332,
     "timeYear": 1402,
     "dailyMinutesDown": {
-      "2025-10-31": 1428,
+      "2025-11-01": 5,
+      "2025-10-31": 1440,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
@@ -2509,8 +2512,7 @@
       "2024-11-05": 1440,
       "2024-11-04": 1440,
       "2024-11-03": 1440,
-      "2024-11-02": 1440,
-      "2024-11-01": 1440
+      "2024-11-02": 1440
     }
   },
   {
