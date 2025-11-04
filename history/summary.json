@@ -66,19 +66,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "97.03%",
-    "uptimeWeek": "93.56%",
+    "status": "down",
+    "uptime": "99.81%",
+    "uptimeDay": "96.97%",
+    "uptimeWeek": "93.55%",
     "uptimeMonth": "94.16%",
-    "uptimeYear": "99.14%",
-    "time": 3423,
+    "uptimeYear": "99.18%",
+    "time": 3426,
     "timeDay": 1819,
     "timeWeek": 985,
     "timeMonth": 1705,
     "timeYear": 3483,
     "dailyMinutesDown": {
-      "2025-11-03": 43,
+      "2025-11-03": 44,
       "2025-11-02": 106,
       "2025-11-01": 198,
       "2025-10-31": 270,
@@ -105,7 +105,7 @@
       "2025-09-22": 43,
       "2025-09-21": 16,
       "2025-09-19": 700,
-      "2025-09-18": 600
+      "2025-09-18": 403
     }
   },
   {
@@ -229,7 +229,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-03": 1423,
+      "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
@@ -647,7 +647,7 @@
     "timeMonth": 1642,
     "timeYear": 1108,
     "dailyMinutesDown": {
-      "2025-11-03": 1423,
+      "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
@@ -1025,18 +1025,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chemspider.com.ico",
     "slug": "chem-spider",
     "status": "down",
-    "uptime": "82.13%",
+    "uptime": "82.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "42.58%",
+    "uptimeYear": "42.57%",
     "time": 794,
     "timeDay": 351,
     "timeWeek": 484,
     "timeMonth": 397,
     "timeYear": 713,
     "dailyMinutesDown": {
-      "2025-11-03": 1424,
+      "2025-11-04": 0,
+      "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
@@ -1550,7 +1551,7 @@
     "status": "up",
     "uptime": "99.65%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.04%",
+    "uptimeWeek": "97.06%",
     "uptimeMonth": "98.74%",
     "uptimeYear": "99.38%",
     "time": 1048,
@@ -1620,13 +1621,13 @@
     "status": "up",
     "uptime": "99.66%",
     "uptimeDay": "69.10%",
-    "uptimeWeek": "56.17%",
+    "uptimeWeek": "56.33%",
     "uptimeMonth": "84.44%",
     "uptimeYear": "98.70%",
     "time": 8149,
     "timeDay": 7274,
     "timeWeek": 9896,
-    "timeMonth": 11380,
+    "timeMonth": 11370,
     "timeYear": 8456,
     "dailyMinutesDown": {
       "2025-11-03": 445,
@@ -1950,8 +1951,7 @@
       "2024-11-08": 1440,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
-      "2024-11-05": 1440,
-      "2024-11-04": 1440
+      "2024-11-05": 1440
     }
   },
   {
@@ -1963,15 +1963,16 @@
     "uptime": "48.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "9.11%",
-    "uptimeYear": "91.70%",
+    "uptimeMonth": "9.08%",
+    "uptimeYear": "91.69%",
     "time": 2670,
     "timeDay": 938,
     "timeWeek": 954,
     "timeMonth": 991,
     "timeYear": 2728,
     "dailyMinutesDown": {
-      "2025-11-03": 1425,
+      "2025-11-04": 1,
+      "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
@@ -2152,7 +2153,8 @@
     "timeMonth": 1295,
     "timeYear": 1402,
     "dailyMinutesDown": {
-      "2025-11-03": 1426,
+      "2025-11-04": 2,
+      "2025-11-03": 1440,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
@@ -2515,8 +2517,7 @@
       "2024-11-08": 1440,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
-      "2024-11-05": 1440,
-      "2024-11-04": 1440
+      "2024-11-05": 1440
     }
   },
   {
