@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
     "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "83.38%",
-    "uptimeWeek": "84.14%",
-    "uptimeMonth": "92.40%",
-    "uptimeYear": "97.75%",
+    "uptime": "99.54%",
+    "uptimeDay": "83.19%",
+    "uptimeWeek": "84.03%",
+    "uptimeMonth": "92.38%",
+    "uptimeYear": "98.02%",
     "time": 2526,
     "timeDay": 409,
     "timeWeek": 365,
     "timeMonth": 1146,
     "timeYear": 2593,
     "dailyMinutesDown": {
-      "2025-11-05": 92,
+      "2025-11-05": 103,
       "2025-11-04": 173,
       "2025-11-03": 180,
       "2025-11-02": 429,
@@ -51,9 +51,7 @@
       "2025-08-31": 341,
       "2025-08-11": 87,
       "2025-08-10": 110,
-      "2025-08-09": 36,
-      "2025-08-05": 1077,
-      "2025-08-04": 355
+      "2025-08-09": 36
     }
   },
   {
@@ -61,19 +59,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "76.27%",
-    "uptimeWeek": "88.70%",
-    "uptimeMonth": "93.05%",
-    "uptimeYear": "99.21%",
+    "uptimeDay": "76.11%",
+    "uptimeWeek": "88.68%",
+    "uptimeMonth": "93.04%",
+    "uptimeYear": "99.23%",
     "time": 3410,
     "timeDay": 281,
     "timeWeek": 820,
     "timeMonth": 1567,
     "timeYear": 3423,
     "dailyMinutesDown": {
-      "2025-11-05": 78,
+      "2025-11-05": 80,
       "2025-11-04": 407,
       "2025-11-03": 47,
       "2025-11-02": 106,
@@ -101,7 +99,7 @@
       "2025-09-24": 14,
       "2025-09-22": 43,
       "2025-09-21": 16,
-      "2025-09-19": 458
+      "2025-09-19": 338
     }
   },
   {
@@ -225,7 +223,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-05": 691,
+      "2025-11-05": 709,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
@@ -643,7 +641,7 @@
     "timeMonth": 1696,
     "timeYear": 1103,
     "dailyMinutesDown": {
-      "2025-11-05": 692,
+      "2025-11-05": 709,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
@@ -1033,7 +1031,7 @@
     "timeMonth": 372,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2025-11-05": 692,
+      "2025-11-05": 709,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
@@ -1616,19 +1614,19 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "down",
+    "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "75.67%",
-    "uptimeWeek": "62.11%",
-    "uptimeMonth": "85.51%",
-    "uptimeYear": "98.79%",
+    "uptimeDay": "76.46%",
+    "uptimeWeek": "62.34%",
+    "uptimeMonth": "85.40%",
+    "uptimeYear": "98.78%",
     "time": 8253,
-    "timeDay": 6253,
-    "timeWeek": 8740,
-    "timeMonth": 10961,
-    "timeYear": 8399,
+    "timeDay": 4619,
+    "timeWeek": 8676,
+    "timeMonth": 10942,
+    "timeYear": 8393,
     "dailyMinutesDown": {
-      "2025-11-05": 225,
+      "2025-11-05": 220,
       "2025-11-04": 245,
       "2025-11-03": 445,
       "2025-11-02": 661,
@@ -1638,7 +1636,7 @@
       "2025-10-29": 1144,
       "2025-10-28": 485,
       "2025-10-27": 1206,
-      "2025-10-26": 268
+      "2025-10-26": 320
     }
   },
   {
@@ -1961,7 +1959,7 @@
     "uptime": "48.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.21%",
+    "uptimeMonth": "4.17%",
     "uptimeYear": "91.29%",
     "time": 2667,
     "timeDay": 934,
@@ -1969,7 +1967,7 @@
     "timeMonth": 930,
     "timeYear": 2727,
     "dailyMinutesDown": {
-      "2025-11-05": 693,
+      "2025-11-05": 711,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
@@ -2152,7 +2150,7 @@
     "timeMonth": 1308,
     "timeYear": 1403,
     "dailyMinutesDown": {
-      "2025-11-05": 693,
+      "2025-11-05": 711,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
