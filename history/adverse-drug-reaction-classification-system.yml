@@ -1,7 +1,7 @@
 url: http://bioinf.xmu.edu.cn/ADReCS/
-status: up
-code: 200
-responseTime: 1466
-lastUpdated: 2025-11-09T06:42:36.285Z
+status: down
+code: 502
+responseTime: 15238
+lastUpdated: 2025-11-09T09:47:03.087Z
 startTime: 2022-01-24T23:06:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
