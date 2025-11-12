@@ -68,7 +68,7 @@
     "uptimeYear": "99.31%",
     "time": 3314,
     "timeDay": 282,
-    "timeWeek": 1121,
+    "timeWeek": 1156,
     "timeMonth": 1550,
     "timeYear": 3367,
     "dailyMinutesDown": {
@@ -220,7 +220,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-12": 1043,
+      "2025-11-12": 1057,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
@@ -597,7 +597,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.43%",
+    "uptimeYear": "96.44%",
     "time": 420,
     "timeDay": 437,
     "timeWeek": 508,
@@ -625,7 +625,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
     "status": "down",
-    "uptime": "79.51%",
+    "uptime": "79.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -636,7 +636,7 @@
     "timeMonth": 1731,
     "timeYear": 1116,
     "dailyMinutesDown": {
-      "2025-11-12": 1043,
+      "2025-11-12": 1057,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
@@ -1031,7 +1031,7 @@
     "timeMonth": 406,
     "timeYear": 700,
     "dailyMinutesDown": {
-      "2025-11-12": 1043,
+      "2025-11-12": 1058,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
@@ -1620,19 +1620,19 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "90.24%",
-    "uptimeWeek": "74.29%",
-    "uptimeMonth": "89.47%",
-    "uptimeYear": "99.12%",
+    "uptimeDay": "89.86%",
+    "uptimeWeek": "74.24%",
+    "uptimeMonth": "89.58%",
+    "uptimeYear": "99.13%",
     "time": 8224,
     "timeDay": 9003,
-    "timeWeek": 8242,
-    "timeMonth": 10080,
+    "timeWeek": 8317,
+    "timeMonth": 10081,
     "timeYear": 8477,
     "dailyMinutesDown": {
-      "2025-11-12": 140,
+      "2025-11-12": 145,
       "2025-11-11": 34,
       "2025-11-10": 164,
       "2025-11-09": 401,
@@ -1643,7 +1643,7 @@
       "2025-11-04": 245,
       "2025-11-03": 445,
       "2025-11-02": 661,
-      "2025-11-01": 348
+      "2025-11-01": 294
     }
   },
   {
@@ -1967,7 +1967,7 @@
     "timeMonth": 897,
     "timeYear": 2648,
     "dailyMinutesDown": {
-      "2025-11-12": 1044,
+      "2025-11-12": 1059,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
@@ -2153,7 +2153,7 @@
     "timeMonth": 1330,
     "timeYear": 1399,
     "dailyMinutesDown": {
-      "2025-11-12": 1044,
+      "2025-11-12": 1059,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
