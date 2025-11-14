@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "75.91%",
-    "uptimeWeek": "95.71%",
-    "uptimeMonth": "91.19%",
+    "uptimeDay": "75.77%",
+    "uptimeWeek": "95.69%",
+    "uptimeMonth": "91.18%",
     "uptimeYear": "97.96%",
     "time": 2444,
     "timeDay": 1302,
@@ -16,7 +16,7 @@
     "timeMonth": 902,
     "timeYear": 2551,
     "dailyMinutesDown": {
-      "2025-11-14": 294,
+      "2025-11-14": 296,
       "2025-11-13": 85,
       "2025-11-11": 15,
       "2025-11-10": 37,
@@ -53,7 +53,7 @@
       "2025-09-06": 17,
       "2025-09-02": 88,
       "2025-09-01": 155,
-      "2025-08-31": 239
+      "2025-08-31": 217
     }
   },
   {
@@ -63,9 +63,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "96.09%",
-    "uptimeWeek": "98.65%",
-    "uptimeMonth": "92.56%",
+    "uptimeDay": "96.94%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "92.59%",
     "uptimeYear": "99.33%",
     "time": 3315,
     "timeDay": 393,
@@ -73,7 +73,7 @@
     "timeMonth": 1533,
     "timeYear": 3350,
     "dailyMinutesDown": {
-      "2025-11-14": 40,
+      "2025-11-14": 28,
       "2025-11-13": 45,
       "2025-11-10": 32,
       "2025-11-09": 18,
@@ -95,7 +95,8 @@
       "2025-10-19": 478,
       "2025-10-13": 21,
       "2025-10-11": 99,
-      "2025-10-10": 128
+      "2025-10-10": 128,
+      "2025-10-09": 16
     }
   },
   {
@@ -219,7 +220,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-14": 439,
+      "2025-11-14": 461,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
       "2025-11-11": 1440,
@@ -633,7 +634,7 @@
     "timeMonth": 1716,
     "timeYear": 1118,
     "dailyMinutesDown": {
-      "2025-11-14": 439,
+      "2025-11-14": 461,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
       "2025-11-11": 1440,
@@ -1018,7 +1019,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chemspider.com.ico",
     "slug": "chem-spider",
     "status": "down",
-    "uptime": "81.52%",
+    "uptime": "81.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1029,7 +1030,7 @@
     "timeMonth": 404,
     "timeYear": 695,
     "dailyMinutesDown": {
-      "2025-11-14": 439,
+      "2025-11-14": 462,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
       "2025-11-11": 1440,
@@ -1430,7 +1431,7 @@
     "status": "up",
     "uptime": "98.82%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "59.81%",
+    "uptimeWeek": "60.03%",
     "uptimeMonth": "90.01%",
     "uptimeYear": "98.82%",
     "time": 1095,
@@ -1623,8 +1624,8 @@
     "slug": "adverse-drug-reaction-classification-system",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "96.20%",
-    "uptimeWeek": "72.07%",
+    "uptimeDay": "97.76%",
+    "uptimeWeek": "72.30%",
     "uptimeMonth": "88.51%",
     "uptimeYear": "99.04%",
     "time": 8215,
@@ -1960,14 +1961,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "88.91%",
+    "uptimeYear": "88.90%",
     "time": 2647,
     "timeDay": 2700,
     "timeWeek": 1403,
     "timeMonth": 963,
     "timeYear": 2644,
     "dailyMinutesDown": {
-      "2025-11-14": 440,
+      "2025-11-14": 462,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
       "2025-11-11": 1440,
@@ -2155,7 +2156,7 @@
     "timeMonth": 1307,
     "timeYear": 1398,
     "dailyMinutesDown": {
-      "2025-11-14": 440,
+      "2025-11-14": 463,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
       "2025-11-11": 1440,
