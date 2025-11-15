@@ -4,10 +4,10 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "97.06%",
-    "uptimeWeek": "95.29%",
+    "uptimeDay": "97.02%",
+    "uptimeWeek": "95.28%",
     "uptimeMonth": "91.09%",
     "uptimeYear": "97.96%",
     "time": 2434,
@@ -16,7 +16,7 @@
     "timeMonth": 897,
     "timeYear": 2540,
     "dailyMinutesDown": {
-      "2025-11-15": 43,
+      "2025-11-15": 44,
       "2025-11-14": 294,
       "2025-11-13": 85,
       "2025-11-11": 15,
@@ -54,7 +54,7 @@
       "2025-09-06": 17,
       "2025-09-02": 88,
       "2025-09-01": 155,
-      "2025-08-31": 193
+      "2025-08-31": 163
     }
   },
   {
@@ -221,7 +221,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-15": 562,
+      "2025-11-15": 574,
       "2025-11-14": 1440,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
@@ -598,7 +598,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.16%",
+    "uptimeYear": "97.17%",
     "time": 421,
     "timeDay": 504,
     "timeWeek": 501,
@@ -634,7 +634,7 @@
     "timeMonth": 1666,
     "timeYear": 1119,
     "dailyMinutesDown": {
-      "2025-11-15": 562,
+      "2025-11-15": 574,
       "2025-11-14": 1440,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
@@ -1031,7 +1031,7 @@
     "timeMonth": 433,
     "timeYear": 694,
     "dailyMinutesDown": {
-      "2025-11-15": 563,
+      "2025-11-15": 574,
       "2025-11-14": 1440,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
@@ -1433,7 +1433,7 @@
     "status": "up",
     "uptime": "98.82%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "75.32%",
+    "uptimeWeek": "75.43%",
     "uptimeMonth": "90.01%",
     "uptimeYear": "98.82%",
     "time": 1096,
@@ -1626,7 +1626,7 @@
     "status": "up",
     "uptime": "99.75%",
     "uptimeDay": "97.05%",
-    "uptimeWeek": "80.35%",
+    "uptimeWeek": "80.38%",
     "uptimeMonth": "88.54%",
     "uptimeYear": "99.04%",
     "time": 8192,
@@ -1969,7 +1969,7 @@
     "timeMonth": 960,
     "timeYear": 2640,
     "dailyMinutesDown": {
-      "2025-11-15": 564,
+      "2025-11-15": 575,
       "2025-11-14": 1440,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
@@ -2147,7 +2147,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heterocycles.jp.ico",
     "slug": "hetereocycles",
     "status": "down",
-    "uptime": "50.58%",
+    "uptime": "50.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2158,7 +2158,7 @@
     "timeMonth": 1306,
     "timeYear": 1397,
     "dailyMinutesDown": {
-      "2025-11-15": 564,
+      "2025-11-15": 575,
       "2025-11-14": 1440,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
