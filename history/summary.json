@@ -222,7 +222,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-18": 350,
+      "2025-11-18": 360,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -632,7 +632,7 @@
     "timeMonth": 1649,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2025-11-18": 350,
+      "2025-11-18": 360,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -1022,7 +1022,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chemspider.com.ico",
     "slug": "chem-spider",
     "status": "down",
-    "uptime": "81.29%",
+    "uptime": "81.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1033,7 +1033,7 @@
     "timeMonth": 408,
     "timeYear": 689,
     "dailyMinutesDown": {
-      "2025-11-18": 351,
+      "2025-11-18": 361,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -1563,7 +1563,7 @@
     "slug": "metabolites-biological-role",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "94.67%",
+    "uptimeDay": "95.35%",
     "uptimeWeek": "75.74%",
     "uptimeMonth": "93.23%",
     "uptimeYear": "99.11%",
@@ -1632,19 +1632,19 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "58.65%",
-    "uptimeWeek": "84.28%",
-    "uptimeMonth": "88.09%",
-    "uptimeYear": "99.01%",
-    "time": 8178,
+    "uptimeDay": "58.31%",
+    "uptimeWeek": "84.23%",
+    "uptimeMonth": "88.20%",
+    "uptimeYear": "99.02%",
+    "time": 8183,
     "timeDay": 9238,
     "timeWeek": 6733,
-    "timeMonth": 9373,
+    "timeMonth": 9344,
     "timeYear": 8470,
     "dailyMinutesDown": {
-      "2025-11-18": 346,
+      "2025-11-18": 351,
       "2025-11-17": 250,
       "2025-11-14": 42,
       "2025-11-13": 469,
@@ -1658,7 +1658,7 @@
       "2025-11-05": 378,
       "2025-11-04": 245,
       "2025-11-03": 445,
-      "2025-11-02": 189
+      "2025-11-02": 135
     }
   },
   {
@@ -1977,7 +1977,7 @@
     "timeMonth": 980,
     "timeYear": 2627,
     "dailyMinutesDown": {
-      "2025-11-18": 352,
+      "2025-11-18": 361,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -2142,7 +2142,7 @@
     "time": 1324,
     "timeDay": 919,
     "timeWeek": 1083,
-    "timeMonth": 1042,
+    "timeMonth": 1040,
     "timeYear": 1413,
     "dailyMinutesDown": {
       "2025-06-08": 20,
@@ -2171,7 +2171,7 @@
     "timeMonth": 1303,
     "timeYear": 1396,
     "dailyMinutesDown": {
-      "2025-11-18": 352,
+      "2025-11-18": 362,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
