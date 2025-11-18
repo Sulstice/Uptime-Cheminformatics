@@ -1,7 +1,7 @@
 url: http://stitch.embl.de/cgi/download.pl
-status: down
-code: 500
-responseTime: 839
-lastUpdated: 2025-11-18T13:16:52.459Z
+status: up
+code: 200
+responseTime: 1927
+lastUpdated: 2025-11-18T14:46:19.657Z
 startTime: 2022-01-24T20:26:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
