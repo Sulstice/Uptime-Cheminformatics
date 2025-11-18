@@ -4,9 +4,9 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "79.96%",
+    "uptimeDay": "79.92%",
     "uptimeWeek": "91.05%",
     "uptimeMonth": "90.05%",
     "uptimeYear": "99.03%",
@@ -16,7 +16,7 @@
     "timeMonth": 944,
     "timeYear": 2481,
     "dailyMinutesDown": {
-      "2025-11-18": 289,
+      "2025-11-18": 290,
       "2025-11-17": 15,
       "2025-11-16": 174,
       "2025-11-15": 46,
@@ -47,8 +47,7 @@
       "2025-09-25": 65,
       "2025-09-24": 15,
       "2025-09-22": 44,
-      "2025-09-21": 16,
-      "2025-09-20": 15
+      "2025-09-21": 16
     }
   },
   {
@@ -167,7 +166,7 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "87.40%",
+    "uptimeDay": "88.33%",
     "uptimeWeek": "96.34%",
     "uptimeMonth": "99.16%",
     "uptimeYear": "99.48%",
@@ -219,7 +218,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-18": 1004,
+      "2025-11-18": 1016,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -629,7 +628,7 @@
     "timeMonth": 1649,
     "timeYear": 1126,
     "dailyMinutesDown": {
-      "2025-11-18": 1004,
+      "2025-11-18": 1016,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -1030,7 +1029,7 @@
     "timeMonth": 408,
     "timeYear": 689,
     "dailyMinutesDown": {
-      "2025-11-18": 1004,
+      "2025-11-18": 1017,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -1975,7 +1974,7 @@
     "timeMonth": 980,
     "timeYear": 2627,
     "dailyMinutesDown": {
-      "2025-11-18": 1005,
+      "2025-11-18": 1018,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -2158,7 +2157,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heterocycles.jp.ico",
     "slug": "hetereocycles",
     "status": "down",
-    "uptime": "50.46%",
+    "uptime": "50.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2169,7 +2168,7 @@
     "timeMonth": 1303,
     "timeYear": 1396,
     "dailyMinutesDown": {
-      "2025-11-18": 1006,
+      "2025-11-18": 1019,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
