@@ -4,19 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "79.96%",
-    "uptimeWeek": "91.05%",
+    "uptimeDay": "79.88%",
+    "uptimeWeek": "91.04%",
     "uptimeMonth": "90.05%",
     "uptimeYear": "99.03%",
-    "time": 2376,
+    "time": 2378,
     "timeDay": 1131,
     "timeWeek": 1093,
     "timeMonth": 960,
     "timeYear": 2480,
     "dailyMinutesDown": {
-      "2025-11-18": 289,
+      "2025-11-18": 290,
       "2025-11-17": 15,
       "2025-11-16": 174,
       "2025-11-15": 46,
@@ -47,8 +47,7 @@
       "2025-09-25": 65,
       "2025-09-24": 15,
       "2025-09-22": 44,
-      "2025-09-21": 16,
-      "2025-09-20": 15
+      "2025-09-21": 16
     }
   },
   {
@@ -56,19 +55,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "95.88%",
-    "uptimeWeek": "96.72%",
-    "uptimeMonth": "92.79%",
-    "uptimeYear": "99.40%",
-    "time": 3210,
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "95.79%",
+    "uptimeWeek": "96.70%",
+    "uptimeMonth": "93.04%",
+    "uptimeYear": "99.42%",
+    "time": 3212,
     "timeDay": 849,
     "timeWeek": 543,
     "timeMonth": 1369,
     "timeYear": 3235,
     "dailyMinutesDown": {
-      "2025-11-18": 59,
+      "2025-11-18": 60,
       "2025-11-17": 40,
       "2025-11-16": 119,
       "2025-11-15": 39,
@@ -91,7 +90,7 @@
       "2025-10-22": 288,
       "2025-10-21": 392,
       "2025-10-20": 254,
-      "2025-10-19": 133
+      "2025-10-19": 20
     }
   },
   {
@@ -175,7 +174,7 @@
     "timeDay": 1228,
     "timeWeek": 1370,
     "timeMonth": 1289,
-    "timeYear": 1558,
+    "timeYear": 1559,
     "dailyMinutesDown": {
       "2025-11-18": 137,
       "2025-11-17": 141,
@@ -219,7 +218,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-18": 1390,
+      "2025-11-18": 1398,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -629,7 +628,7 @@
     "timeMonth": 1650,
     "timeYear": 1128,
     "dailyMinutesDown": {
-      "2025-11-18": 1390,
+      "2025-11-18": 1398,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -1030,7 +1029,7 @@
     "timeMonth": 384,
     "timeYear": 686,
     "dailyMinutesDown": {
-      "2025-11-18": 1390,
+      "2025-11-18": 1398,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -1632,7 +1631,7 @@
     "slug": "adverse-drug-reaction-classification-system",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "63.73%",
+    "uptimeDay": "64.29%",
     "uptimeWeek": "83.08%",
     "uptimeMonth": "88.03%",
     "uptimeYear": "99.00%",
@@ -1695,7 +1694,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.77%",
-    "uptimeYear": "34.77%",
+    "uptimeYear": "34.78%",
     "time": 688,
     "timeDay": 234,
     "timeWeek": 638,
@@ -1975,7 +1974,7 @@
     "timeMonth": 977,
     "timeYear": 2622,
     "dailyMinutesDown": {
-      "2025-11-18": 1391,
+      "2025-11-18": 1399,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -2169,7 +2168,7 @@
     "timeMonth": 1341,
     "timeYear": 1399,
     "dailyMinutesDown": {
-      "2025-11-18": 1391,
+      "2025-11-18": 1400,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
