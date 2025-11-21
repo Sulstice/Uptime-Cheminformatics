@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.79%",
     "uptimeDay": "89.61%",
-    "uptimeWeek": "90.12%",
+    "uptimeWeek": "90.13%",
     "uptimeMonth": "90.67%",
     "uptimeYear": "99.08%",
     "time": 2312,
     "timeDay": 738,
-    "timeWeek": 955,
+    "timeWeek": 958,
     "timeMonth": 930,
     "timeYear": 2414,
     "dailyMinutesDown": {
@@ -54,7 +54,7 @@
     "uptimeMonth": "93.54%",
     "uptimeYear": "99.46%",
     "time": 3105,
-    "timeDay": 568,
+    "timeDay": 560,
     "timeWeek": 448,
     "timeMonth": 1109,
     "timeYear": 3148,
@@ -159,9 +159,9 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "88.31%",
-    "uptimeWeek": "92.15%",
-    "uptimeMonth": "98.19%",
+    "uptimeDay": "89.23%",
+    "uptimeWeek": "92.28%",
+    "uptimeMonth": "98.22%",
     "uptimeYear": "99.47%",
     "time": 1556,
     "timeDay": 1172,
@@ -169,7 +169,7 @@
     "timeMonth": 1338,
     "timeYear": 1562,
     "dailyMinutesDown": {
-      "2025-11-21": 31,
+      "2025-11-21": 18,
       "2025-11-20": 189,
       "2025-11-19": 202,
       "2025-11-18": 137,
@@ -192,7 +192,7 @@
       "2025-08-08": 209,
       "2025-08-07": 299,
       "2025-08-06": 157,
-      "2025-08-05": 70
+      "2025-08-05": 104
     }
   },
   {
@@ -212,7 +212,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-21": 326,
+      "2025-11-21": 338,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
@@ -617,9 +617,9 @@
     "timeDay": 0,
     "timeWeek": 519,
     "timeMonth": 1749,
-    "timeYear": 1112,
+    "timeYear": 1113,
     "dailyMinutesDown": {
-      "2025-11-21": 326,
+      "2025-11-21": 338,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
@@ -1020,7 +1020,7 @@
     "timeMonth": 375,
     "timeYear": 684,
     "dailyMinutesDown": {
-      "2025-11-21": 326,
+      "2025-11-21": 338,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
@@ -1622,19 +1622,19 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "62.68%",
-    "uptimeWeek": "85.37%",
-    "uptimeMonth": "87.62%",
-    "uptimeYear": "98.97%",
+    "uptimeDay": "62.53%",
+    "uptimeWeek": "85.35%",
+    "uptimeMonth": "87.78%",
+    "uptimeYear": "98.98%",
     "time": 8202,
     "timeDay": 8933,
     "timeWeek": 6708,
     "timeMonth": 9164,
     "timeYear": 8452,
     "dailyMinutesDown": {
-      "2025-11-21": 188,
+      "2025-11-21": 190,
       "2025-11-20": 462,
       "2025-11-19": 52,
       "2025-11-18": 482,
@@ -1649,7 +1649,7 @@
       "2025-11-07": 1160,
       "2025-11-06": 201,
       "2025-11-05": 378,
-      "2025-11-04": 245
+      "2025-11-04": 174
     }
   },
   {
@@ -1688,7 +1688,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
-    "uptimeYear": "35.39%",
+    "uptimeYear": "35.40%",
     "time": 688,
     "timeDay": 0,
     "timeWeek": 346,
@@ -1965,7 +1965,7 @@
     "timeMonth": 993,
     "timeYear": 2618,
     "dailyMinutesDown": {
-      "2025-11-21": 327,
+      "2025-11-21": 339,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
@@ -2163,7 +2163,7 @@
     "timeMonth": 1328,
     "timeYear": 1398,
     "dailyMinutesDown": {
-      "2025-11-21": 328,
+      "2025-11-21": 339,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
