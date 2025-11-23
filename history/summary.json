@@ -57,7 +57,7 @@
     "time": 3106,
     "timeDay": 345,
     "timeWeek": 448,
-    "timeMonth": 763,
+    "timeMonth": 765,
     "timeYear": 3124,
     "dailyMinutesDown": {
       "2025-11-22": 21,
@@ -166,8 +166,8 @@
     "uptimeMonth": "97.61%",
     "uptimeYear": "99.46%",
     "time": 1558,
-    "timeDay": 1206,
-    "timeWeek": 1262,
+    "timeDay": 1250,
+    "timeWeek": 1267,
     "timeMonth": 1304,
     "timeYear": 1565,
     "dailyMinutesDown": {
@@ -215,7 +215,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-23": 466,
+      "2025-11-23": 478,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
@@ -620,7 +620,7 @@
     "timeMonth": 1751,
     "timeYear": 1116,
     "dailyMinutesDown": {
-      "2025-11-23": 467,
+      "2025-11-23": 478,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
@@ -1022,7 +1022,7 @@
     "timeMonth": 394,
     "timeYear": 683,
     "dailyMinutesDown": {
-      "2025-11-23": 467,
+      "2025-11-23": 478,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
@@ -1559,7 +1559,7 @@
     "status": "up",
     "uptime": "99.54%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "86.10%",
+    "uptimeWeek": "86.22%",
     "uptimeMonth": "93.23%",
     "uptimeYear": "99.14%",
     "time": 1049,
@@ -1627,11 +1627,11 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "83.58%",
-    "uptimeWeek": "82.05%",
-    "uptimeMonth": "87.65%",
+    "uptimeDay": "83.22%",
+    "uptimeWeek": "82.00%",
+    "uptimeMonth": "87.70%",
     "uptimeYear": "98.97%",
     "time": 8136,
     "timeDay": 6903,
@@ -1639,7 +1639,7 @@
     "timeMonth": 8882,
     "timeYear": 8446,
     "dailyMinutesDown": {
-      "2025-11-23": 156,
+      "2025-11-23": 161,
       "2025-11-22": 81,
       "2025-11-21": 329,
       "2025-11-20": 462,
@@ -1655,7 +1655,7 @@
       "2025-11-08": 430,
       "2025-11-07": 1160,
       "2025-11-06": 201,
-      "2025-11-05": 232
+      "2025-11-05": 208
     }
   },
   {
@@ -1962,14 +1962,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "86.61%",
+    "uptimeYear": "86.60%",
     "time": 2623,
     "timeDay": 828,
     "timeWeek": 867,
     "timeMonth": 997,
     "timeYear": 2607,
     "dailyMinutesDown": {
-      "2025-11-23": 468,
+      "2025-11-23": 479,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
@@ -2168,7 +2168,7 @@
     "timeMonth": 1337,
     "timeYear": 1398,
     "dailyMinutesDown": {
-      "2025-11-23": 468,
+      "2025-11-23": 480,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
