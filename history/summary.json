@@ -6,9 +6,9 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "90.86%",
-    "uptimeWeek": "90.53%",
-    "uptimeMonth": "92.10%",
+    "uptimeDay": "91.65%",
+    "uptimeWeek": "90.64%",
+    "uptimeMonth": "92.13%",
     "uptimeYear": "99.14%",
     "time": 2310,
     "timeDay": 592,
@@ -16,7 +16,7 @@
     "timeMonth": 715,
     "timeYear": 2362,
     "dailyMinutesDown": {
-      "2025-11-24": 131,
+      "2025-11-24": 120,
       "2025-11-22": 47,
       "2025-11-21": 15,
       "2025-11-20": 252,
@@ -40,7 +40,7 @@
       "2025-10-23": 389,
       "2025-10-22": 195,
       "2025-10-21": 267,
-      "2025-10-20": 224
+      "2025-10-20": 243
     }
   },
   {
@@ -163,11 +163,11 @@
     "status": "up",
     "uptime": "99.86%",
     "uptimeDay": "90.14%",
-    "uptimeWeek": "89.39%",
+    "uptimeWeek": "89.65%",
     "uptimeMonth": "97.08%",
     "uptimeYear": "99.48%",
     "time": 1556,
-    "timeDay": 571,
+    "timeDay": 582,
     "timeWeek": 1138,
     "timeMonth": 1215,
     "timeYear": 1566,
@@ -216,7 +216,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-24": 1402,
+      "2025-11-25": 31,
+      "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
@@ -579,8 +580,7 @@
       "2024-11-29": 1440,
       "2024-11-28": 1440,
       "2024-11-27": 1440,
-      "2024-11-26": 1440,
-      "2024-11-25": 1440
+      "2024-11-26": 1440
     }
   },
   {
@@ -593,15 +593,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.79%",
+    "uptimeYear": "99.80%",
     "time": 422,
     "timeDay": 397,
     "timeWeek": 447,
     "timeMonth": 458,
     "timeYear": 453,
-    "dailyMinutesDown": {
-      "2024-11-25": 1070
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Binding Database",
@@ -613,14 +611,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "19.22%",
+    "uptimeYear": "19.21%",
     "time": 1103,
     "timeDay": 433,
     "timeWeek": 546,
     "timeMonth": 1746,
     "timeYear": 1122,
     "dailyMinutesDown": {
-      "2025-11-24": 1402,
+      "2025-11-25": 31,
+      "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
@@ -1015,14 +1014,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "36.83%",
+    "uptimeYear": "36.81%",
     "time": 771,
     "timeDay": 127,
     "timeWeek": 475,
     "timeMonth": 400,
     "timeYear": 682,
     "dailyMinutesDown": {
-      "2025-11-24": 1402,
+      "2025-11-25": 31,
+      "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
@@ -1492,7 +1492,7 @@
     "uptime": "97.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.32%",
+    "uptimeMonth": "98.48%",
     "uptimeYear": "92.83%",
     "time": 909,
     "timeDay": 741,
@@ -1631,12 +1631,12 @@
     "status": "up",
     "uptime": "99.73%",
     "uptimeDay": "95.41%",
-    "uptimeWeek": "78.25%",
+    "uptimeWeek": "78.85%",
     "uptimeMonth": "87.67%",
     "uptimeYear": "98.97%",
     "time": 8247,
     "timeDay": 9984,
-    "timeWeek": 7550,
+    "timeWeek": 7421,
     "timeMonth": 8630,
     "timeYear": 8466,
     "dailyMinutesDown": {
@@ -1694,7 +1694,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
-    "uptimeYear": "36.42%",
+    "uptimeYear": "36.43%",
     "time": 683,
     "timeDay": 549,
     "timeWeek": 285,
@@ -1947,8 +1947,7 @@
       "2024-11-29": 1440,
       "2024-11-28": 1440,
       "2024-11-27": 1440,
-      "2024-11-26": 1440,
-      "2024-11-25": 1440
+      "2024-11-26": 1440
     }
   },
   {
@@ -1957,18 +1956,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heraproject.com.ico",
     "slug": "human-and-environment-risk-assessment",
     "status": "down",
-    "uptime": "48.04%",
+    "uptime": "48.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "86.15%",
+    "uptimeYear": "86.14%",
     "time": 2615,
     "timeDay": 944,
     "timeWeek": 837,
     "timeMonth": 1009,
     "timeYear": 2597,
     "dailyMinutesDown": {
-      "2025-11-24": 1403,
+      "2025-11-25": 32,
+      "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
@@ -2060,7 +2060,7 @@
     "uptime": "99.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.07%",
+    "uptimeMonth": "93.23%",
     "uptimeYear": "99.24%",
     "time": 935,
     "timeDay": 587,
@@ -2101,7 +2101,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pesticideinfo.org.ico",
     "slug": "pesticide-info",
     "status": "up",
-    "uptime": "99.14%",
+    "uptime": "99.15%",
     "uptimeDay": "97.85%",
     "uptimeWeek": "98.92%",
     "uptimeMonth": "99.61%",
@@ -2169,7 +2169,8 @@
     "timeMonth": 1333,
     "timeYear": 1398,
     "dailyMinutesDown": {
-      "2025-11-24": 1403,
+      "2025-11-25": 33,
+      "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
@@ -2532,8 +2533,7 @@
       "2024-11-29": 1440,
       "2024-11-28": 1440,
       "2024-11-27": 1440,
-      "2024-11-26": 1440,
-      "2024-11-25": 1440
+      "2024-11-26": 1440
     }
   },
   {
@@ -2704,8 +2704,7 @@
       "2024-12-08": 37,
       "2024-12-01": 29,
       "2024-11-30": 32,
-      "2024-11-29": 2,
-      "2024-11-25": 40
+      "2024-11-29": 2
     }
   },
   {
