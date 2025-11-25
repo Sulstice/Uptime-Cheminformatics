@@ -4,19 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "92.36%",
-    "uptimeWeek": "92.41%",
-    "uptimeMonth": "91.88%",
-    "uptimeYear": "99.16%",
+    "uptimeDay": "92.20%",
+    "uptimeWeek": "92.39%",
+    "uptimeMonth": "91.87%",
+    "uptimeYear": "99.17%",
     "time": 2247,
     "timeDay": 619,
     "timeWeek": 781,
     "timeMonth": 708,
     "timeYear": 2334,
     "dailyMinutesDown": {
-      "2025-11-25": 109,
+      "2025-11-25": 111,
       "2025-11-24": 120,
       "2025-11-22": 47,
       "2025-11-21": 15,
@@ -40,7 +40,7 @@
       "2025-10-29": 332,
       "2025-10-23": 389,
       "2025-10-22": 195,
-      "2025-10-21": 267
+      "2025-10-21": 233
     }
   },
   {
@@ -167,7 +167,7 @@
     "uptimeMonth": "96.83%",
     "uptimeYear": "99.48%",
     "time": 1561,
-    "timeDay": 808,
+    "timeDay": 813,
     "timeWeek": 1091,
     "timeMonth": 1191,
     "timeYear": 1568,
@@ -216,7 +216,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-25": 1251,
+      "2025-11-25": 1267,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
@@ -618,7 +618,7 @@
     "timeMonth": 1746,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2025-11-25": 1251,
+      "2025-11-25": 1267,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
@@ -1022,7 +1022,7 @@
     "timeMonth": 400,
     "timeYear": 682,
     "dailyMinutesDown": {
-      "2025-11-25": 1251,
+      "2025-11-25": 1267,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
@@ -1629,11 +1629,11 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "56.11%",
-    "uptimeWeek": "77.04%",
-    "uptimeMonth": "88.65%",
+    "uptimeDay": "55.23%",
+    "uptimeWeek": "76.92%",
+    "uptimeMonth": "88.66%",
     "uptimeYear": "99.05%",
     "time": 8175,
     "timeDay": 8984,
@@ -1641,7 +1641,7 @@
     "timeMonth": 8526,
     "timeYear": 8486,
     "dailyMinutesDown": {
-      "2025-11-25": 631,
+      "2025-11-25": 644,
       "2025-11-24": 66,
       "2025-11-23": 694,
       "2025-11-22": 81,
@@ -1656,7 +1656,7 @@
       "2025-11-11": 34,
       "2025-11-10": 164,
       "2025-11-09": 401,
-      "2025-11-08": 354
+      "2025-11-08": 336
     }
   },
   {
@@ -1957,7 +1957,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heraproject.com.ico",
     "slug": "human-and-environment-risk-assessment",
     "status": "down",
-    "uptime": "48.01%",
+    "uptime": "48.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1968,7 +1968,7 @@
     "timeMonth": 1009,
     "timeYear": 2597,
     "dailyMinutesDown": {
-      "2025-11-25": 1253,
+      "2025-11-25": 1268,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
@@ -2061,7 +2061,7 @@
     "uptime": "99.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.01%",
+    "uptimeMonth": "96.05%",
     "uptimeYear": "99.24%",
     "time": 935,
     "timeDay": 587,
@@ -2171,7 +2171,7 @@
     "timeMonth": 1333,
     "timeYear": 1398,
     "dailyMinutesDown": {
-      "2025-11-25": 1253,
+      "2025-11-25": 1269,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
