@@ -11,7 +11,7 @@
     "uptimeMonth": "91.08%",
     "uptimeYear": "99.14%",
     "time": 2241,
-    "timeDay": 675,
+    "timeDay": 680,
     "timeWeek": 701,
     "timeMonth": 708,
     "timeYear": 2308,
@@ -213,7 +213,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-26": 1182,
+      "2025-11-26": 1191,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
@@ -615,7 +615,7 @@
     "timeMonth": 1764,
     "timeYear": 1126,
     "dailyMinutesDown": {
-      "2025-11-26": 1182,
+      "2025-11-26": 1191,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
@@ -1020,7 +1020,7 @@
     "timeMonth": 423,
     "timeYear": 682,
     "dailyMinutesDown": {
-      "2025-11-26": 1182,
+      "2025-11-26": 1192,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
@@ -1629,11 +1629,11 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "36.94%",
-    "uptimeWeek": "69.17%",
-    "uptimeMonth": "88.21%",
+    "status": "down",
+    "uptime": "99.75%",
+    "uptimeDay": "37.20%",
+    "uptimeWeek": "69.11%",
+    "uptimeMonth": "88.25%",
     "uptimeYear": "99.02%",
     "time": 8188,
     "timeDay": 12621,
@@ -1641,7 +1641,7 @@
     "timeMonth": 8743,
     "timeYear": 8529,
     "dailyMinutesDown": {
-      "2025-11-26": 684,
+      "2025-11-26": 690,
       "2025-11-25": 793,
       "2025-11-24": 66,
       "2025-11-23": 694,
@@ -1656,7 +1656,7 @@
       "2025-11-12": 461,
       "2025-11-11": 34,
       "2025-11-10": 164,
-      "2025-11-09": 100
+      "2025-11-09": 76
     }
   },
   {
@@ -1967,7 +1967,7 @@
     "timeMonth": 1003,
     "timeYear": 2592,
     "dailyMinutesDown": {
-      "2025-11-26": 1183,
+      "2025-11-26": 1193,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
@@ -2061,7 +2061,7 @@
     "uptime": "99.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.14%",
+    "uptimeMonth": "99.17%",
     "uptimeYear": "99.24%",
     "time": 935,
     "timeDay": 911,
@@ -2172,7 +2172,7 @@
     "timeMonth": 1353,
     "timeYear": 1398,
     "dailyMinutesDown": {
-      "2025-11-26": 1183,
+      "2025-11-26": 1193,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
       "2025-11-23": 1440,
