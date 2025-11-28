@@ -50,18 +50,19 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "93.58%",
-    "uptimeMonth": "93.54%",
-    "uptimeYear": "99.46%",
-    "time": 3015,
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "93.56%",
+    "uptimeMonth": "93.62%",
+    "uptimeYear": "99.47%",
+    "time": 3017,
     "timeDay": 232,
     "timeWeek": 426,
     "timeMonth": 610,
     "timeYear": 3030,
     "dailyMinutesDown": {
+      "2025-11-28": 2,
       "2025-11-26": 382,
       "2025-11-25": 123,
       "2025-11-24": 119,
@@ -83,7 +84,7 @@
       "2025-11-03": 47,
       "2025-11-02": 106,
       "2025-11-01": 198,
-      "2025-10-31": 131
+      "2025-10-31": 93
     }
   },
   {
@@ -214,7 +215,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-28": 1374,
+      "2025-11-28": 1385,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
@@ -616,7 +617,7 @@
     "timeMonth": 1771,
     "timeYear": 1131,
     "dailyMinutesDown": {
-      "2025-11-28": 1374,
+      "2025-11-28": 1385,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
@@ -1023,7 +1024,7 @@
     "timeMonth": 429,
     "timeYear": 678,
     "dailyMinutesDown": {
-      "2025-11-28": 1375,
+      "2025-11-28": 1385,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
@@ -1634,19 +1635,19 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "65.42%",
-    "uptimeWeek": "58.66%",
-    "uptimeMonth": "86.90%",
+    "uptimeDay": "65.74%",
+    "uptimeWeek": "58.62%",
+    "uptimeMonth": "86.93%",
     "uptimeYear": "98.91%",
     "time": 8314,
-    "timeDay": 9913,
+    "timeDay": 10424,
     "timeWeek": 10446,
     "timeMonth": 8715,
     "timeYear": 8636,
     "dailyMinutesDown": {
-      "2025-11-28": 458,
+      "2025-11-28": 462,
       "2025-11-27": 1173,
       "2025-11-26": 903,
       "2025-11-25": 793,
@@ -1657,7 +1658,7 @@
       "2025-11-20": 462,
       "2025-11-19": 52,
       "2025-11-18": 482,
-      "2025-11-17": 250
+      "2025-11-17": 232
     }
   },
   {
@@ -1700,7 +1701,7 @@
     "time": 676,
     "timeDay": 345,
     "timeWeek": 296,
-    "timeMonth": 490,
+    "timeMonth": 497,
     "timeYear": 638,
     "dailyMinutesDown": {
       "2025-11-14": 28,
@@ -1966,7 +1967,7 @@
     "timeMonth": 1019,
     "timeYear": 2587,
     "dailyMinutesDown": {
-      "2025-11-28": 1375,
+      "2025-11-28": 1387,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
@@ -2174,7 +2175,7 @@
     "timeMonth": 1354,
     "timeYear": 1400,
     "dailyMinutesDown": {
-      "2025-11-28": 1376,
+      "2025-11-28": 1387,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
@@ -2642,7 +2643,7 @@
     "timeDay": 485,
     "timeWeek": 649,
     "timeMonth": 685,
-    "timeYear": 1669,
+    "timeYear": 1672,
     "dailyMinutesDown": {
       "2025-09-25": 35,
       "2025-09-24": 56,
@@ -2727,7 +2728,7 @@
     "timeDay": 4494,
     "timeWeek": 5785,
     "timeMonth": 5117,
-    "timeYear": 3307,
+    "timeYear": 3315,
     "dailyMinutesDown": {
       "2025-09-28": 22,
       "2025-07-07": 450,
