@@ -13,7 +13,7 @@
     "time": 2243,
     "timeDay": 563,
     "timeWeek": 689,
-    "timeMonth": 712,
+    "timeMonth": 714,
     "timeYear": 2305,
     "dailyMinutesDown": {
       "2025-11-28": 16,
@@ -158,19 +158,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "89.06%",
-    "uptimeWeek": "90.72%",
-    "uptimeMonth": "96.09%",
+    "uptimeDay": "88.59%",
+    "uptimeWeek": "90.65%",
+    "uptimeMonth": "96.07%",
     "uptimeYear": "99.48%",
     "time": 1564,
-    "timeDay": 990,
-    "timeWeek": 1010,
-    "timeMonth": 1191,
+    "timeDay": 968,
+    "timeWeek": 1006,
+    "timeMonth": 1188,
     "timeYear": 1573,
     "dailyMinutesDown": {
-      "2025-11-28": 83,
+      "2025-11-28": 90,
       "2025-11-27": 125,
       "2025-11-26": 116,
       "2025-11-25": 112,
@@ -214,7 +214,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-28": 714,
+      "2025-11-28": 722,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
@@ -616,7 +616,7 @@
     "timeMonth": 1771,
     "timeYear": 1131,
     "dailyMinutesDown": {
-      "2025-11-28": 714,
+      "2025-11-28": 722,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
@@ -1023,7 +1023,7 @@
     "timeMonth": 429,
     "timeYear": 678,
     "dailyMinutesDown": {
-      "2025-11-28": 714,
+      "2025-11-28": 722,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
@@ -1636,9 +1636,9 @@
     "slug": "adverse-drug-reaction-classification-system",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "33.91%",
-    "uptimeWeek": "57.85%",
-    "uptimeMonth": "86.95%",
+    "uptimeDay": "35.00%",
+    "uptimeWeek": "57.92%",
+    "uptimeMonth": "86.91%",
     "uptimeYear": "98.91%",
     "time": 8401,
     "timeDay": 10893,
@@ -1646,7 +1646,7 @@
     "timeMonth": 8757,
     "timeYear": 8619,
     "dailyMinutesDown": {
-      "2025-11-28": 415,
+      "2025-11-28": 408,
       "2025-11-27": 1173,
       "2025-11-26": 903,
       "2025-11-25": 793,
@@ -1658,7 +1658,7 @@
       "2025-11-19": 52,
       "2025-11-18": 482,
       "2025-11-17": 250,
-      "2025-11-14": 20
+      "2025-11-14": 42
     }
   },
   {
@@ -1967,7 +1967,7 @@
     "timeMonth": 1019,
     "timeYear": 2587,
     "dailyMinutesDown": {
-      "2025-11-28": 715,
+      "2025-11-28": 723,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
@@ -2174,7 +2174,7 @@
     "timeMonth": 1354,
     "timeYear": 1400,
     "dailyMinutesDown": {
-      "2025-11-28": 715,
+      "2025-11-28": 724,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
