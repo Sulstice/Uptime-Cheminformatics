@@ -215,7 +215,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-29": 540,
+      "2025-11-29": 555,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
@@ -617,7 +617,7 @@
     "timeMonth": 1823,
     "timeYear": 1133,
     "dailyMinutesDown": {
-      "2025-11-29": 540,
+      "2025-11-29": 555,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
@@ -1024,7 +1024,7 @@
     "timeMonth": 417,
     "timeYear": 674,
     "dailyMinutesDown": {
-      "2025-11-29": 541,
+      "2025-11-29": 556,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
@@ -1636,19 +1636,19 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "57.15%",
-    "uptimeWeek": "54.24%",
-    "uptimeMonth": "86.12%",
-    "uptimeYear": "98.84%",
+    "status": "down",
+    "uptime": "99.71%",
+    "uptimeDay": "57.84%",
+    "uptimeWeek": "54.19%",
+    "uptimeMonth": "86.42%",
+    "uptimeYear": "98.87%",
     "time": 8305,
     "timeDay": 12433,
     "timeWeek": 10737,
     "timeMonth": 8656,
     "timeYear": 8663,
     "dailyMinutesDown": {
-      "2025-11-29": 404,
+      "2025-11-29": 409,
       "2025-11-28": 498,
       "2025-11-27": 1173,
       "2025-11-26": 903,
@@ -1660,7 +1660,7 @@
       "2025-11-20": 462,
       "2025-11-19": 52,
       "2025-11-18": 482,
-      "2025-11-17": 143
+      "2025-11-17": 9
     }
   },
   {
@@ -1957,7 +1957,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heraproject.com.ico",
     "slug": "human-and-environment-risk-assessment",
     "status": "down",
-    "uptime": "47.89%",
+    "uptime": "47.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1968,7 +1968,7 @@
     "timeMonth": 1021,
     "timeYear": 2586,
     "dailyMinutesDown": {
-      "2025-11-29": 541,
+      "2025-11-29": 557,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
@@ -2177,7 +2177,7 @@
     "timeMonth": 1338,
     "timeYear": 1400,
     "dailyMinutesDown": {
-      "2025-11-29": 542,
+      "2025-11-29": 557,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
