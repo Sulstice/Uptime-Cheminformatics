@@ -8,7 +8,7 @@
     "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.91%",
-    "uptimeMonth": "91.61%",
+    "uptimeMonth": "91.64%",
     "uptimeYear": "99.15%",
     "time": 2243,
     "timeDay": 0,
@@ -58,7 +58,7 @@
     "uptimeYear": "99.46%",
     "time": 3015,
     "timeDay": 39,
-    "timeWeek": 430,
+    "timeWeek": 431,
     "timeMonth": 615,
     "timeYear": 3032,
     "dailyMinutesDown": {
@@ -214,7 +214,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-29": 1226,
+      "2025-11-29": 1237,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
@@ -616,7 +616,7 @@
     "timeMonth": 1823,
     "timeYear": 1138,
     "dailyMinutesDown": {
-      "2025-11-29": 1226,
+      "2025-11-29": 1237,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
@@ -1023,7 +1023,7 @@
     "timeMonth": 417,
     "timeYear": 674,
     "dailyMinutesDown": {
-      "2025-11-29": 1227,
+      "2025-11-29": 1237,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
@@ -1635,11 +1635,11 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "27.03%",
-    "uptimeWeek": "49.03%",
-    "uptimeMonth": "86.33%",
+    "uptimeDay": "26.86%",
+    "uptimeWeek": "49.00%",
+    "uptimeMonth": "86.36%",
     "uptimeYear": "98.86%",
     "time": 8268,
     "timeDay": 11851,
@@ -1647,7 +1647,7 @@
     "timeMonth": 8541,
     "timeYear": 8667,
     "dailyMinutesDown": {
-      "2025-11-29": 960,
+      "2025-11-29": 962,
       "2025-11-28": 498,
       "2025-11-27": 1173,
       "2025-11-26": 903,
@@ -1657,7 +1657,7 @@
       "2025-11-22": 81,
       "2025-11-21": 329,
       "2025-11-20": 462,
-      "2025-11-19": 32
+      "2025-11-19": 16
     }
   },
   {
@@ -1965,7 +1965,7 @@
     "timeMonth": 1021,
     "timeYear": 2586,
     "dailyMinutesDown": {
-      "2025-11-29": 1228,
+      "2025-11-29": 1238,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
@@ -2104,9 +2104,9 @@
     "slug": "pesticide-info",
     "status": "up",
     "uptime": "99.14%",
-    "uptimeDay": "98.02%",
-    "uptimeWeek": "98.57%",
-    "uptimeMonth": "99.39%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "99.42%",
     "uptimeYear": "99.91%",
     "time": 519,
     "timeDay": 410,
@@ -2114,7 +2114,7 @@
     "timeMonth": 387,
     "timeYear": 504,
     "dailyMinutesDown": {
-      "2025-11-29": 28,
+      "2025-11-29": 16,
       "2025-11-28": 24,
       "2025-11-26": 28,
       "2025-11-25": 16,
@@ -2175,7 +2175,7 @@
     "timeMonth": 1338,
     "timeYear": 1400,
     "dailyMinutesDown": {
-      "2025-11-29": 1228,
+      "2025-11-29": 1238,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
