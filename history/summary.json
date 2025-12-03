@@ -216,7 +216,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-03": 1196,
+      "2025-12-03": 1205,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
@@ -618,7 +618,7 @@
     "timeMonth": 551,
     "timeYear": 1155,
     "dailyMinutesDown": {
-      "2025-12-03": 1196,
+      "2025-12-03": 1206,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
@@ -976,7 +976,7 @@
     "slug": "sider",
     "status": "up",
     "uptime": "98.83%",
-    "uptimeDay": "26.13%",
+    "uptimeDay": "26.81%",
     "uptimeWeek": "83.51%",
     "uptimeMonth": "95.99%",
     "uptimeYear": "95.90%",
@@ -1029,7 +1029,7 @@
     "timeMonth": 397,
     "timeYear": 668,
     "dailyMinutesDown": {
-      "2025-12-03": 1196,
+      "2025-12-03": 1206,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
@@ -1283,7 +1283,7 @@
     "slug": "stitch",
     "status": "up",
     "uptime": "98.83%",
-    "uptimeDay": "27.18%",
+    "uptimeDay": "27.86%",
     "uptimeWeek": "83.67%",
     "uptimeMonth": "95.82%",
     "uptimeYear": "95.88%",
@@ -1650,19 +1650,19 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "56.77%",
-    "uptimeWeek": "42.39%",
-    "uptimeMonth": "84.31%",
-    "uptimeYear": "98.69%",
-    "time": 8436,
+    "uptimeDay": "57.04%",
+    "uptimeWeek": "42.43%",
+    "uptimeMonth": "84.47%",
+    "uptimeYear": "98.71%",
+    "time": 8440,
     "timeDay": 7618,
     "timeWeek": 11029,
     "timeMonth": 8703,
     "timeYear": 8784,
     "dailyMinutesDown": {
-      "2025-12-03": 448,
+      "2025-12-03": 454,
       "2025-12-02": 906,
       "2025-12-01": 390,
       "2025-11-30": 1069,
@@ -1670,7 +1670,7 @@
       "2025-11-28": 498,
       "2025-11-27": 1173,
       "2025-11-26": 903,
-      "2025-11-25": 373
+      "2025-11-25": 296
     }
   },
   {
@@ -1974,7 +1974,7 @@
     "timeMonth": 1039,
     "timeYear": 2580,
     "dailyMinutesDown": {
-      "2025-12-03": 1197,
+      "2025-12-03": 1207,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
@@ -2192,7 +2192,7 @@
     "timeMonth": 1356,
     "timeYear": 1401,
     "dailyMinutesDown": {
-      "2025-12-03": 1197,
+      "2025-12-03": 1208,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
