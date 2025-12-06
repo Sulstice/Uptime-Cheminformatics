@@ -1,7 +1,7 @@
 url: https://www.lipidmaps.org/
-status: up
-code: 200
-responseTime: 1284
-lastUpdated: 2025-12-05T23:08:12.564Z
+status: down
+code: 503
+responseTime: 547
+lastUpdated: 2025-12-06T12:52:00.345Z
 startTime: 2022-01-25T00:38:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
