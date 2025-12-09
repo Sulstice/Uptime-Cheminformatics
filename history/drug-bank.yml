@@ -1,7 +1,7 @@
 url: https://go.drugbank.com/releases/latest
-status: up
-code: 200
-responseTime: 452
-lastUpdated: 2025-12-08T23:07:30.016Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2025-12-09T10:23:53.849Z
 startTime: 2022-01-24T16:16:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
