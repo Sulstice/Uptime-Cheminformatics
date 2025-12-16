@@ -4,11 +4,11 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "30.26%",
-    "uptimeWeek": "45.11%",
-    "uptimeMonth": "74.27%",
+    "uptimeDay": "29.74%",
+    "uptimeWeek": "45.26%",
+    "uptimeMonth": "74.29%",
     "uptimeYear": "97.86%",
     "time": 2117,
     "timeDay": 624,
@@ -16,7 +16,8 @@
     "timeMonth": 790,
     "timeYear": 2156,
     "dailyMinutesDown": {
-      "2025-12-15": 1004,
+      "2025-12-16": 0,
+      "2025-12-15": 1014,
       "2025-12-14": 998,
       "2025-12-13": 875,
       "2025-12-12": 780,
@@ -33,7 +34,7 @@
       "2025-11-28": 16,
       "2025-11-27": 17,
       "2025-11-26": 340,
-      "2025-11-25": 42
+      "2025-11-25": 24
     }
   },
   {
@@ -43,17 +44,18 @@
     "slug": "zinc-20",
     "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "62.87%",
-    "uptimeWeek": "62.90%",
-    "uptimeMonth": "87.22%",
+    "uptimeDay": "61.11%",
+    "uptimeWeek": "62.68%",
+    "uptimeMonth": "87.16%",
     "uptimeYear": "98.93%",
     "time": 2891,
-    "timeDay": 900,
-    "timeWeek": 1431,
+    "timeDay": 931,
+    "timeWeek": 1441,
     "timeMonth": 1204,
     "timeYear": 2932,
     "dailyMinutesDown": {
-      "2025-12-15": 536,
+      "2025-12-16": 0,
+      "2025-12-15": 561,
       "2025-12-14": 771,
       "2025-12-13": 807,
       "2025-12-12": 740,
@@ -144,17 +146,17 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "87.70%",
-    "uptimeWeek": "81.90%",
-    "uptimeMonth": "92.23%",
+    "uptimeDay": "87.16%",
+    "uptimeWeek": "81.88%",
+    "uptimeMonth": "92.25%",
     "uptimeYear": "99.35%",
     "time": 1597,
-    "timeDay": 949,
-    "timeWeek": 1148,
-    "timeMonth": 1070,
+    "timeDay": 927,
+    "timeWeek": 1141,
+    "timeMonth": 1068,
     "timeYear": 1601,
     "dailyMinutesDown": {
-      "2025-12-15": 177,
+      "2025-12-15": 185,
       "2025-12-14": 308,
       "2025-12-13": 162,
       "2025-12-12": 345,
@@ -172,7 +174,7 @@
       "2025-11-30": 146,
       "2025-11-29": 142,
       "2025-11-28": 174,
-      "2025-11-27": 38
+      "2025-11-27": 20
     }
   },
   {
@@ -181,7 +183,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nmrshiftdb.nmr.uni-koeln.de.ico",
     "slug": "nmr-shift-database",
     "status": "down",
-    "uptime": "59.64%",
+    "uptime": "59.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -192,7 +194,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-15": 1419,
+      "2025-12-16": 4,
+      "2025-12-15": 1440,
       "2025-12-14": 1440,
       "2025-12-13": 1440,
       "2025-12-12": 1440,
@@ -555,8 +558,7 @@
       "2024-12-20": 1440,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
-      "2024-12-17": 1440,
-      "2024-12-16": 1440
+      "2024-12-17": 1440
     }
   },
   {
@@ -589,14 +591,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "13.52%",
+    "uptimeYear": "13.51%",
     "time": 1136,
     "timeDay": 16993,
     "timeWeek": 6074,
     "timeMonth": 1492,
-    "timeYear": 1138,
+    "timeYear": 1139,
     "dailyMinutesDown": {
-      "2025-12-15": 1419,
+      "2025-12-16": 4,
+      "2025-12-15": 1440,
       "2025-12-14": 1440,
       "2025-12-13": 1440,
       "2025-12-12": 1440,
@@ -934,8 +937,7 @@
       "2024-12-26": 27,
       "2024-12-22": 76,
       "2024-12-21": 38,
-      "2024-12-19": 21,
-      "2024-12-16": 25
+      "2024-12-19": 21
     }
   },
   {
@@ -1019,7 +1021,8 @@
     "timeMonth": 376,
     "timeYear": 649,
     "dailyMinutesDown": {
-      "2025-12-15": 1419,
+      "2025-12-16": 4,
+      "2025-12-15": 1440,
       "2025-12-14": 1440,
       "2025-12-13": 1440,
       "2025-12-12": 1440,
@@ -1587,7 +1590,7 @@
     "uptime": "99.55%",
     "uptimeDay": "98.37%",
     "uptimeWeek": "98.79%",
-    "uptimeMonth": "95.30%",
+    "uptimeMonth": "95.36%",
     "uptimeYear": "99.11%",
     "time": 1059,
     "timeDay": 2494,
@@ -1659,19 +1662,19 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "43.82%",
-    "uptimeWeek": "36.42%",
-    "uptimeMonth": "80.17%",
-    "uptimeYear": "98.35%",
-    "time": 8903,
-    "timeDay": 14898,
-    "timeWeek": 13854,
-    "timeMonth": 11053,
-    "timeYear": 9309,
+    "status": "up",
+    "uptime": "99.57%",
+    "uptimeDay": "43.97%",
+    "uptimeWeek": "36.44%",
+    "uptimeMonth": "80.14%",
+    "uptimeYear": "98.34%",
+    "time": 8913,
+    "timeDay": 15063,
+    "timeWeek": 14041,
+    "timeMonth": 11089,
+    "timeYear": 9319,
     "dailyMinutesDown": {
-      "2025-12-15": 797,
+      "2025-12-15": 811,
       "2025-12-14": 1068,
       "2025-12-13": 983,
       "2025-12-12": 1076,
@@ -1720,7 +1723,7 @@
     "uptimeDay": "74.44%",
     "uptimeWeek": "94.58%",
     "uptimeMonth": "98.75%",
-    "uptimeYear": "42.07%",
+    "uptimeYear": "42.08%",
     "time": 612,
     "timeDay": 311,
     "timeWeek": 379,
@@ -1955,8 +1958,7 @@
       "2024-12-20": 1440,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
-      "2024-12-17": 1440,
-      "2024-12-16": 1440
+      "2024-12-17": 1440
     }
   },
   {
@@ -1969,14 +1971,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "80.40%",
+    "uptimeYear": "80.39%",
     "time": 2574,
     "timeDay": 586,
     "timeWeek": 1568,
     "timeMonth": 1212,
     "timeYear": 2553,
     "dailyMinutesDown": {
-      "2025-12-15": 1420,
+      "2025-12-16": 5,
+      "2025-12-15": 1440,
       "2025-12-14": 1440,
       "2025-12-13": 1440,
       "2025-12-12": 1440,
@@ -2131,7 +2134,7 @@
     "slug": "pesticide-info",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "41.10%",
+    "uptimeDay": "42.86%",
     "uptimeWeek": "62.39%",
     "uptimeMonth": "88.58%",
     "uptimeYear": "99.00%",
@@ -2217,7 +2220,8 @@
     "timeMonth": 1340,
     "timeYear": 1397,
     "dailyMinutesDown": {
-      "2025-12-15": 1420,
+      "2025-12-16": 6,
+      "2025-12-15": 1440,
       "2025-12-14": 1440,
       "2025-12-13": 1440,
       "2025-12-12": 1440,
@@ -2580,8 +2584,7 @@
       "2024-12-20": 1440,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
-      "2024-12-17": 1440,
-      "2024-12-16": 1440
+      "2024-12-17": 1440
     }
   },
   {
