@@ -36,17 +36,17 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "56.57%",
-    "uptimeWeek": "56.29%",
-    "uptimeMonth": "85.47%",
-    "uptimeYear": "98.79%",
+    "uptimeDay": "57.56%",
+    "uptimeWeek": "56.43%",
+    "uptimeMonth": "85.30%",
+    "uptimeYear": "98.78%",
     "time": 2637,
     "timeDay": 383,
     "timeWeek": 404,
     "timeMonth": 1171,
     "timeYear": 2702,
     "dailyMinutesDown": {
-      "2025-12-24": 560,
+      "2025-12-24": 546,
       "2025-12-23": 604,
       "2025-12-22": 555,
       "2025-12-21": 831,
@@ -56,7 +56,7 @@
       "2025-12-17": 729,
       "2025-12-16": 611,
       "2025-12-15": 561,
-      "2025-12-14": 236
+      "2025-12-14": 322
     }
   },
   {
@@ -132,19 +132,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "89.52%",
-    "uptimeWeek": "85.27%",
-    "uptimeMonth": "90.56%",
-    "uptimeYear": "99.21%",
+    "uptimeDay": "89.42%",
+    "uptimeWeek": "85.26%",
+    "uptimeMonth": "90.61%",
+    "uptimeYear": "99.22%",
     "time": 1603,
     "timeDay": 603,
     "timeWeek": 964,
     "timeMonth": 1050,
     "timeYear": 1616,
     "dailyMinutesDown": {
-      "2025-12-24": 100,
+      "2025-12-24": 101,
       "2025-12-23": 311,
       "2025-12-22": 222,
       "2025-12-21": 132,
@@ -160,8 +160,7 @@
       "2025-12-11": 189,
       "2025-12-10": 367,
       "2025-12-09": 273,
-      "2025-12-08": 82,
-      "2025-12-07": 23
+      "2025-12-08": 82
     }
   },
   {
@@ -181,7 +180,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-24": 1009,
+      "2025-12-24": 1017,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
@@ -585,7 +584,7 @@
     "timeMonth": 1485,
     "timeYear": 1086,
     "dailyMinutesDown": {
-      "2025-12-24": 1009,
+      "2025-12-24": 1017,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
@@ -1014,7 +1013,7 @@
     "timeMonth": 377,
     "timeYear": 638,
     "dailyMinutesDown": {
-      "2025-12-24": 1009,
+      "2025-12-24": 1017,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
@@ -1338,8 +1337,8 @@
     "status": "down",
     "uptime": "93.40%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "77.64%",
-    "uptimeMonth": "94.85%",
+    "uptimeWeek": "77.56%",
+    "uptimeMonth": "94.84%",
     "uptimeYear": "91.59%",
     "time": 1050,
     "timeDay": 0,
@@ -1347,7 +1346,7 @@
     "timeMonth": 1178,
     "timeYear": 1067,
     "dailyMinutesDown": {
-      "2025-12-24": 1009,
+      "2025-12-24": 1017,
       "2025-12-23": 1245,
       "2025-09-07": 465,
       "2025-08-09": 219,
@@ -1668,8 +1667,8 @@
     "slug": "adverse-drug-reaction-classification-system",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "17.20%",
-    "uptimeWeek": "39.42%",
+    "uptimeDay": "17.73%",
+    "uptimeWeek": "39.50%",
     "uptimeMonth": "81.04%",
     "uptimeYear": "98.42%",
     "time": 9244,
@@ -1975,7 +1974,7 @@
     "timeMonth": 1283,
     "timeYear": 2533,
     "dailyMinutesDown": {
-      "2025-12-24": 1010,
+      "2025-12-24": 1018,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
@@ -2228,7 +2227,7 @@
     "timeMonth": 1315,
     "timeYear": 1397,
     "dailyMinutesDown": {
-      "2025-12-24": 1011,
+      "2025-12-24": 1018,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
