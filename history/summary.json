@@ -4,19 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "98.81%",
-    "uptimeWeek": "99.21%",
-    "uptimeMonth": "88.18%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "88.22%",
     "uptimeYear": "99.02%",
-    "time": 2020,
+    "time": 2021,
     "timeDay": 721,
     "timeWeek": 769,
     "timeMonth": 698,
     "timeYear": 2095,
     "dailyMinutesDown": {
-      "2025-12-25": 17,
+      "2025-12-25": 20,
       "2025-12-24": 16,
       "2025-12-22": 31,
       "2025-12-21": 15,
@@ -27,7 +27,7 @@
       "2025-12-13": 875,
       "2025-12-12": 780,
       "2025-12-11": 41,
-      "2025-12-10": 134
+      "2025-12-10": 115
     }
   },
   {
@@ -35,11 +35,11 @@
     "url": "https://zinc20.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "78.57%",
-    "uptimeWeek": "58.30%",
-    "uptimeMonth": "85.08%",
+    "uptimeDay": "78.42%",
+    "uptimeWeek": "58.28%",
+    "uptimeMonth": "85.11%",
     "uptimeYear": "98.76%",
     "time": 2629,
     "timeDay": 324,
@@ -47,7 +47,7 @@
     "timeMonth": 1180,
     "timeYear": 2674,
     "dailyMinutesDown": {
-      "2025-12-25": 309,
+      "2025-12-25": 311,
       "2025-12-24": 563,
       "2025-12-23": 604,
       "2025-12-22": 555,
@@ -58,7 +58,7 @@
       "2025-12-17": 729,
       "2025-12-16": 611,
       "2025-12-15": 561,
-      "2025-12-14": 95
+      "2025-12-14": 78
     }
   },
   {
@@ -136,9 +136,9 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "91.01%",
-    "uptimeWeek": "88.62%",
-    "uptimeMonth": "90.57%",
+    "uptimeDay": "91.75%",
+    "uptimeWeek": "88.73%",
+    "uptimeMonth": "90.52%",
     "uptimeYear": "99.21%",
     "time": 1611,
     "timeDay": 1122,
@@ -146,7 +146,7 @@
     "timeMonth": 1055,
     "timeYear": 1617,
     "dailyMinutesDown": {
-      "2025-12-25": 130,
+      "2025-12-25": 119,
       "2025-12-24": 100,
       "2025-12-23": 311,
       "2025-12-22": 222,
@@ -162,7 +162,8 @@
       "2025-12-12": 345,
       "2025-12-11": 189,
       "2025-12-10": 367,
-      "2025-12-09": 249
+      "2025-12-09": 273,
+      "2025-12-08": 5
     }
   },
   {
@@ -182,7 +183,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-25": 1418,
+      "2025-12-25": 1435,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
@@ -586,7 +587,7 @@
     "timeMonth": 1518,
     "timeYear": 1088,
     "dailyMinutesDown": {
-      "2025-12-25": 1418,
+      "2025-12-25": 1435,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
@@ -1017,7 +1018,7 @@
     "timeMonth": 369,
     "timeYear": 636,
     "dailyMinutesDown": {
-      "2025-12-25": 1418,
+      "2025-12-25": 1435,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
@@ -1342,7 +1343,7 @@
     "slug": "card-pred",
     "status": "up",
     "uptime": "93.34%",
-    "uptimeDay": "25.72%",
+    "uptimeDay": "26.87%",
     "uptimeWeek": "62.97%",
     "uptimeMonth": "91.48%",
     "uptimeYear": "91.31%",
@@ -1675,17 +1676,17 @@
     "slug": "adverse-drug-reaction-classification-system",
     "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "46.36%",
+    "uptimeDay": "45.21%",
     "uptimeWeek": "42.85%",
-    "uptimeMonth": "80.29%",
-    "uptimeYear": "98.36%",
+    "uptimeMonth": "80.25%",
+    "uptimeYear": "98.35%",
     "time": 9316,
     "timeDay": 10279,
     "timeWeek": 12423,
     "timeMonth": 12337,
     "timeYear": 9633,
     "dailyMinutesDown": {
-      "2025-12-25": 774,
+      "2025-12-25": 791,
       "2025-12-24": 787,
       "2025-12-23": 985,
       "2025-12-22": 851,
@@ -1729,7 +1730,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cfpub.epa.gov.ico",
     "slug": "ecology-toxicity",
     "status": "up",
-    "uptime": "73.24%",
+    "uptime": "73.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.38%",
@@ -1981,7 +1982,7 @@
     "timeMonth": 1290,
     "timeYear": 2530,
     "dailyMinutesDown": {
-      "2025-12-25": 1419,
+      "2025-12-25": 1436,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
@@ -2235,7 +2236,7 @@
     "timeMonth": 1325,
     "timeYear": 1397,
     "dailyMinutesDown": {
-      "2025-12-25": 1420,
+      "2025-12-25": 1436,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
