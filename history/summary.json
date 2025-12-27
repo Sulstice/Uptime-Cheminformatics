@@ -6,17 +6,16 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "88.21%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "88.18%",
     "uptimeYear": "99.02%",
     "time": 2027,
-    "timeDay": 1547,
+    "timeDay": 1905,
     "timeWeek": 880,
     "timeMonth": 717,
     "timeYear": 2095,
     "dailyMinutesDown": {
-      "2025-12-26": 8,
       "2025-12-25": 17,
       "2025-12-24": 16,
       "2025-12-22": 31,
@@ -28,7 +27,7 @@
       "2025-12-13": 875,
       "2025-12-12": 780,
       "2025-12-11": 41,
-      "2025-12-10": 115
+      "2025-12-10": 134
     }
   },
   {
@@ -37,18 +36,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/zinc20.docking.org.ico",
     "slug": "zinc-20",
     "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "68.39%",
-    "uptimeWeek": "58.58%",
-    "uptimeMonth": "84.76%",
-    "uptimeYear": "98.73%",
+    "uptime": "99.71%",
+    "uptimeDay": "68.94%",
+    "uptimeWeek": "58.74%",
+    "uptimeMonth": "84.68%",
+    "uptimeYear": "98.72%",
     "time": 2588,
-    "timeDay": 355,
+    "timeDay": 358,
     "timeWeek": 380,
     "timeMonth": 1142,
     "timeYear": 2638,
     "dailyMinutesDown": {
-      "2025-12-26": 455,
+      "2025-12-26": 447,
       "2025-12-25": 309,
       "2025-12-24": 563,
       "2025-12-23": 604,
@@ -59,7 +58,7 @@
       "2025-12-18": 340,
       "2025-12-17": 729,
       "2025-12-16": 611,
-      "2025-12-15": 339
+      "2025-12-15": 382
     }
   },
   {
@@ -138,13 +137,13 @@
     "status": "up",
     "uptime": "99.80%",
     "uptimeDay": "89.70%",
-    "uptimeWeek": "88.76%",
+    "uptimeWeek": "88.78%",
     "uptimeMonth": "90.71%",
     "uptimeYear": "99.23%",
     "time": 1610,
     "timeDay": 573,
     "timeWeek": 904,
-    "timeMonth": 1041,
+    "timeMonth": 1042,
     "timeYear": 1618,
     "dailyMinutesDown": {
       "2025-12-26": 148,
@@ -184,7 +183,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-26": 1433,
+      "2025-12-27": 32,
+      "2025-12-26": 1440,
       "2025-12-25": 1440,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
@@ -547,8 +547,7 @@
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
-      "2024-12-28": 1440,
-      "2024-12-27": 1440
+      "2024-12-28": 1440
     }
   },
   {
@@ -581,14 +580,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "10.54%",
+    "uptimeYear": "10.53%",
     "time": 1127,
     "timeDay": 0,
     "timeWeek": 313,
     "timeMonth": 1518,
     "timeYear": 1096,
     "dailyMinutesDown": {
-      "2025-12-26": 1433,
+      "2025-12-27": 32,
+      "2025-12-26": 1440,
       "2025-12-25": 1440,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
@@ -1008,7 +1008,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chemspider.com.ico",
     "slug": "chem-spider",
     "status": "down",
-    "uptime": "79.09%",
+    "uptime": "79.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1019,7 +1019,8 @@
     "timeMonth": 369,
     "timeYear": 635,
     "dailyMinutesDown": {
-      "2025-12-26": 1433,
+      "2025-12-27": 32,
+      "2025-12-26": 1440,
       "2025-12-25": 1440,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
@@ -1677,10 +1678,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
     "status": "down",
-    "uptime": "99.58%",
+    "uptime": "99.57%",
     "uptimeDay": "12.53%",
     "uptimeWeek": "39.40%",
-    "uptimeMonth": "80.02%",
+    "uptimeMonth": "79.93%",
     "uptimeYear": "98.33%",
     "time": 9397,
     "timeDay": 18526,
@@ -1688,7 +1689,8 @@
     "timeMonth": 12537,
     "timeYear": 9696,
     "dailyMinutesDown": {
-      "2025-12-26": 1253,
+      "2025-12-27": 33,
+      "2025-12-26": 1259,
       "2025-12-25": 796,
       "2025-12-24": 787,
       "2025-12-23": 985,
@@ -1962,8 +1964,7 @@
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
-      "2024-12-28": 1440,
-      "2024-12-27": 1440
+      "2024-12-28": 1440
     }
   },
   {
@@ -1976,14 +1977,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "77.38%",
+    "uptimeYear": "77.37%",
     "time": 2557,
     "timeDay": 0,
     "timeWeek": 1106,
     "timeMonth": 1290,
     "timeYear": 2529,
     "dailyMinutesDown": {
-      "2025-12-26": 1434,
+      "2025-12-27": 33,
+      "2025-12-26": 1440,
       "2025-12-25": 1440,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
@@ -2149,17 +2151,18 @@
     "slug": "pesticide-info",
     "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "83.33%",
-    "uptimeWeek": "92.90%",
-    "uptimeMonth": "87.33%",
-    "uptimeYear": "98.86%",
+    "uptimeDay": "80.57%",
+    "uptimeWeek": "92.50%",
+    "uptimeMonth": "87.24%",
+    "uptimeYear": "98.85%",
     "time": 498,
     "timeDay": 0,
     "timeWeek": 388,
     "timeMonth": 428,
     "timeYear": 483,
     "dailyMinutesDown": {
-      "2025-12-26": 240,
+      "2025-12-27": 34,
+      "2025-12-26": 246,
       "2025-12-24": 39,
       "2025-12-23": 252,
       "2025-12-22": 184,
@@ -2228,7 +2231,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heterocycles.jp.ico",
     "slug": "hetereocycles",
     "status": "down",
-    "uptime": "49.11%",
+    "uptime": "49.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -2239,7 +2242,8 @@
     "timeMonth": 1325,
     "timeYear": 1398,
     "dailyMinutesDown": {
-      "2025-12-26": 1434,
+      "2025-12-27": 34,
+      "2025-12-26": 1440,
       "2025-12-25": 1440,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
@@ -2602,8 +2606,7 @@
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
-      "2024-12-28": 1440,
-      "2024-12-27": 1440
+      "2024-12-28": 1440
     }
   },
   {
