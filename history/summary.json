@@ -142,11 +142,11 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "72.25%",
-    "uptimeWeek": "81.83%",
-    "uptimeMonth": "92.75%",
+    "uptimeDay": "71.97%",
+    "uptimeWeek": "81.87%",
+    "uptimeMonth": "92.82%",
     "uptimeYear": "99.40%",
     "time": 1638,
     "timeDay": 619,
@@ -154,7 +154,7 @@
     "timeMonth": 1062,
     "timeYear": 1641,
     "dailyMinutesDown": {
-      "2026-01-11": 298,
+      "2026-01-11": 302,
       "2026-01-10": 213,
       "2026-01-09": 433,
       "2026-01-08": 142,
@@ -170,7 +170,7 @@
       "2025-12-29": 125,
       "2025-12-28": 178,
       "2025-12-27": 112,
-      "2025-12-26": 76
+      "2025-12-26": 39
     }
   },
   {
@@ -190,7 +190,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-11": 892,
+      "2026-01-11": 904,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
@@ -594,7 +594,7 @@
     "timeMonth": 1430,
     "timeYear": 1154,
     "dailyMinutesDown": {
-      "2026-01-11": 892,
+      "2026-01-11": 904,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
@@ -1036,7 +1036,7 @@
     "timeMonth": 369,
     "timeYear": 613,
     "dailyMinutesDown": {
-      "2026-01-11": 892,
+      "2026-01-11": 904,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
@@ -1639,9 +1639,9 @@
     "slug": "metabolites-biological-role",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "96.01%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "95.68%",
+    "uptimeDay": "96.64%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "95.70%",
     "uptimeYear": "98.79%",
     "time": 1056,
     "timeDay": 666,
@@ -1649,7 +1649,7 @@
     "timeMonth": 881,
     "timeYear": 873,
     "dailyMinutesDown": {
-      "2026-01-11": 57,
+      "2026-01-11": 48,
       "2026-01-09": 21,
       "2026-01-05": 15,
       "2026-01-04": 42,
@@ -1722,19 +1722,19 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "15.15%",
-    "uptimeWeek": "30.02%",
-    "uptimeMonth": "73.15%",
-    "uptimeYear": "97.76%",
+    "uptimeDay": "15.26%",
+    "uptimeWeek": "30.07%",
+    "uptimeMonth": "73.39%",
+    "uptimeYear": "97.78%",
     "time": 9757,
     "timeDay": 11186,
     "timeWeek": 12794,
     "timeMonth": 12970,
     "timeYear": 10063,
     "dailyMinutesDown": {
-      "2026-01-11": 719,
+      "2026-01-11": 724,
       "2026-01-10": 1379,
       "2026-01-09": 548,
       "2026-01-08": 1043,
@@ -1745,7 +1745,7 @@
       "2026-01-03": 1080,
       "2026-01-02": 1267,
       "2026-01-01": 1330,
-      "2025-12-31": 369
+      "2025-12-31": 262
     }
   },
   {
@@ -2014,7 +2014,7 @@
     "timeMonth": 1150,
     "timeYear": 2492,
     "dailyMinutesDown": {
-      "2026-01-11": 894,
+      "2026-01-11": 905,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
@@ -2196,9 +2196,9 @@
     "slug": "pesticide-info",
     "status": "up",
     "uptime": "98.81%",
-    "uptimeDay": "92.92%",
-    "uptimeWeek": "67.25%",
-    "uptimeMonth": "60.94%",
+    "uptimeDay": "93.45%",
+    "uptimeWeek": "67.44%",
+    "uptimeMonth": "60.99%",
     "uptimeYear": "96.26%",
     "time": 495,
     "timeDay": 362,
@@ -2206,7 +2206,7 @@
     "timeMonth": 406,
     "timeYear": 473,
     "dailyMinutesDown": {
-      "2026-01-11": 101,
+      "2026-01-11": 93,
       "2026-01-10": 1,
       "2026-01-09": 56,
       "2026-01-08": 83,
@@ -2301,7 +2301,7 @@
     "timeMonth": 1327,
     "timeYear": 1395,
     "dailyMinutesDown": {
-      "2026-01-11": 894,
+      "2026-01-11": 905,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
