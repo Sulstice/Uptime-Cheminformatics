@@ -1,7 +1,7 @@
 url: https://zinc20.docking.org
-status: up
-code: 200
-responseTime: 386
-lastUpdated: 2026-01-13T10:09:21.009Z
+status: down
+code: 403
+responseTime: 266
+lastUpdated: 2026-01-13T10:24:07.663Z
 startTime: 2021-07-07T03:15:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
