@@ -50,7 +50,7 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "52.30%",
+    "uptimeDay": "53.00%",
     "uptimeWeek": "49.10%",
     "uptimeMonth": "76.19%",
     "uptimeYear": "98.02%",
@@ -194,7 +194,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-19": 1375,
+      "2026-01-19": 1386,
       "2026-01-18": 1440,
       "2026-01-17": 1440,
       "2026-01-16": 1440,
@@ -598,7 +598,7 @@
     "timeMonth": 1657,
     "timeYear": 1214,
     "dailyMinutesDown": {
-      "2026-01-19": 1375,
+      "2026-01-19": 1386,
       "2026-01-18": 1440,
       "2026-01-17": 1440,
       "2026-01-16": 1440,
@@ -1047,7 +1047,7 @@
     "timeMonth": 392,
     "timeYear": 602,
     "dailyMinutesDown": {
-      "2026-01-19": 1375,
+      "2026-01-19": 1386,
       "2026-01-18": 1440,
       "2026-01-17": 1440,
       "2026-01-16": 1440,
@@ -1576,7 +1576,7 @@
     "timeDay": 405,
     "timeWeek": 250,
     "timeMonth": 238,
-    "timeYear": 498,
+    "timeYear": 499,
     "dailyMinutesDown": {
       "2025-10-24": 98,
       "2025-09-01": 16,
@@ -1603,7 +1603,7 @@
     "timeDay": 827,
     "timeWeek": 904,
     "timeMonth": 961,
-    "timeYear": 888,
+    "timeYear": 887,
     "dailyMinutesDown": {
       "2025-10-25": 699,
       "2025-10-24": 753,
@@ -1654,7 +1654,7 @@
     "timeDay": 49,
     "timeWeek": 239,
     "timeMonth": 260,
-    "timeYear": 280,
+    "timeYear": 279,
     "dailyMinutesDown": {}
   },
   {
@@ -1672,7 +1672,7 @@
     "timeDay": 747,
     "timeWeek": 957,
     "timeMonth": 973,
-    "timeYear": 886,
+    "timeYear": 887,
     "dailyMinutesDown": {
       "2026-01-19": 17,
       "2026-01-15": 26,
@@ -1750,19 +1750,19 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "65.32%",
-    "uptimeWeek": "62.51%",
-    "uptimeMonth": "74.99%",
-    "uptimeYear": "97.92%",
-    "time": 9686,
+    "uptimeDay": "64.94%",
+    "uptimeWeek": "62.46%",
+    "uptimeMonth": "75.22%",
+    "uptimeYear": "97.93%",
+    "time": 9690,
     "timeDay": 15584,
     "timeWeek": 10030,
     "timeMonth": 11807,
-    "timeYear": 10110,
+    "timeYear": 10115,
     "dailyMinutesDown": {
-      "2026-01-19": 491,
+      "2026-01-19": 496,
       "2026-01-18": 97,
       "2026-01-17": 702,
       "2026-01-16": 1110,
@@ -1776,8 +1776,7 @@
       "2026-01-08": 1043,
       "2026-01-07": 951,
       "2026-01-06": 863,
-      "2026-01-05": 1164,
-      "2026-01-04": 58
+      "2026-01-05": 1115
     }
   },
   {
@@ -2039,7 +2038,7 @@
     "timeMonth": 1020,
     "timeYear": 2461,
     "dailyMinutesDown": {
-      "2026-01-19": 1377,
+      "2026-01-19": 1387,
       "2026-01-18": 1440,
       "2026-01-17": 1440,
       "2026-01-16": 1440,
@@ -2219,7 +2218,7 @@
     "timeDay": 136,
     "timeWeek": 400,
     "timeMonth": 481,
-    "timeYear": 451,
+    "timeYear": 450,
     "dailyMinutesDown": {}
   },
   {
@@ -2234,7 +2233,7 @@
     "uptimeMonth": "66.64%",
     "uptimeYear": "96.22%",
     "time": 488,
-    "timeDay": 542,
+    "timeDay": 525,
     "timeWeek": 450,
     "timeMonth": 413,
     "timeYear": 470,
@@ -2340,7 +2339,7 @@
     "timeMonth": 1306,
     "timeYear": 1394,
     "dailyMinutesDown": {
-      "2026-01-19": 1377,
+      "2026-01-19": 1387,
       "2026-01-18": 1440,
       "2026-01-17": 1440,
       "2026-01-16": 1440,
@@ -2722,7 +2721,7 @@
     "timeDay": 376,
     "timeWeek": 254,
     "timeMonth": 222,
-    "timeYear": 2899,
+    "timeYear": 2904,
     "dailyMinutesDown": {
       "2026-01-09": 17,
       "2025-10-23": 114,
@@ -2809,7 +2808,7 @@
     "timeDay": 205,
     "timeWeek": 591,
     "timeMonth": 2547,
-    "timeYear": 1670,
+    "timeYear": 1673,
     "dailyMinutesDown": {
       "2026-01-16": 86,
       "2026-01-15": 74,
@@ -2906,7 +2905,7 @@
     "timeDay": 5402,
     "timeWeek": 4401,
     "timeMonth": 5147,
-    "timeYear": 3974,
+    "timeYear": 3986,
     "dailyMinutesDown": {
       "2026-01-16": 904,
       "2026-01-15": 287,
