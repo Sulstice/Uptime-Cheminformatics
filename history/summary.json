@@ -54,7 +54,7 @@
     "uptime": "99.57%",
     "uptimeDay": "49.88%",
     "uptimeWeek": "46.87%",
-    "uptimeMonth": "76.51%",
+    "uptimeMonth": "76.47%",
     "uptimeYear": "98.04%",
     "time": 2138,
     "timeDay": 664,
@@ -62,7 +62,7 @@
     "timeMonth": 395,
     "timeYear": 2148,
     "dailyMinutesDown": {
-      "2026-01-21": 371,
+      "2026-01-21": 387,
       "2026-01-20": 742,
       "2026-01-19": 673,
       "2026-01-18": 1019,
@@ -197,7 +197,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-21": 521,
+      "2026-01-21": 538,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
       "2026-01-18": 1440,
@@ -601,7 +601,7 @@
     "timeMonth": 1733,
     "timeYear": 1233,
     "dailyMinutesDown": {
-      "2026-01-21": 521,
+      "2026-01-21": 538,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
       "2026-01-18": 1440,
@@ -1053,7 +1053,7 @@
     "timeMonth": 366,
     "timeYear": 602,
     "dailyMinutesDown": {
-      "2026-01-21": 522,
+      "2026-01-21": 538,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
       "2026-01-18": 1440,
@@ -1415,7 +1415,7 @@
     "status": "up",
     "uptime": "93.37%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.73%",
+    "uptimeWeek": "95.90%",
     "uptimeMonth": "87.10%",
     "uptimeYear": "90.95%",
     "time": 1056,
@@ -1761,19 +1761,19 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "8.12%",
-    "uptimeWeek": "55.72%",
-    "uptimeMonth": "73.16%",
-    "uptimeYear": "97.76%",
-    "time": 9754,
+    "uptimeDay": "8.92%",
+    "uptimeWeek": "55.67%",
+    "uptimeMonth": "73.34%",
+    "uptimeYear": "97.78%",
+    "time": 9758,
     "timeDay": 21252,
     "timeWeek": 10076,
     "timeMonth": 11779,
     "timeYear": 10147,
     "dailyMinutesDown": {
-      "2026-01-21": 438,
+      "2026-01-21": 443,
       "2026-01-20": 1305,
       "2026-01-19": 550,
       "2026-01-18": 97,
@@ -1789,7 +1789,7 @@
       "2026-01-08": 1043,
       "2026-01-07": 951,
       "2026-01-06": 863,
-      "2026-01-05": 219
+      "2026-01-05": 139
     }
   },
   {
@@ -2050,7 +2050,7 @@
     "timeMonth": 1020,
     "timeYear": 2463,
     "dailyMinutesDown": {
-      "2026-01-21": 523,
+      "2026-01-21": 539,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
       "2026-01-18": 1440,
@@ -2354,7 +2354,7 @@
     "timeMonth": 1316,
     "timeYear": 1394,
     "dailyMinutesDown": {
-      "2026-01-21": 523,
+      "2026-01-21": 539,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
       "2026-01-18": 1440,
