@@ -153,19 +153,19 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "75.55%",
-    "uptimeWeek": "85.01%",
-    "uptimeMonth": "92.22%",
-    "uptimeYear": "99.35%",
+    "uptimeDay": "76.30%",
+    "uptimeWeek": "85.12%",
+    "uptimeMonth": "92.27%",
+    "uptimeYear": "99.36%",
     "time": 1610,
-    "timeDay": 1072,
+    "timeDay": 1111,
     "timeWeek": 865,
     "timeMonth": 943,
     "timeYear": 1602,
     "dailyMinutesDown": {
-      "2026-02-05": 336,
+      "2026-02-05": 339,
       "2026-02-04": 230,
       "2026-02-03": 290,
       "2026-02-02": 220,
@@ -179,7 +179,7 @@
       "2026-01-25": 123,
       "2026-01-24": 145,
       "2026-01-23": 317,
-      "2026-01-22": 364
+      "2026-01-22": 341
     }
   },
   {
@@ -199,7 +199,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-05": 1398,
+      "2026-02-06": 1,
+      "2026-02-05": 1440,
       "2026-02-04": 1440,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
@@ -562,8 +563,7 @@
       "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
-      "2025-02-07": 1440,
-      "2025-02-06": 1440
+      "2025-02-07": 1440
     }
   },
   {
@@ -603,7 +603,8 @@
     "timeMonth": 1659,
     "timeYear": 1344,
     "dailyMinutesDown": {
-      "2026-02-05": 1398,
+      "2026-02-06": 1,
+      "2026-02-05": 1440,
       "2026-02-04": 1440,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
@@ -966,8 +967,7 @@
       "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
-      "2025-02-07": 1440,
-      "2025-02-06": 1440
+      "2025-02-07": 1440
     }
   },
   {
@@ -1001,7 +1001,7 @@
     "uptimeYear": "95.48%",
     "time": 903,
     "timeDay": 740,
-    "timeWeek": 874,
+    "timeWeek": 884,
     "timeMonth": 831,
     "timeYear": 929,
     "dailyMinutesDown": {
@@ -1061,18 +1061,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chemspider.com.ico",
     "slug": "chem-spider",
     "status": "down",
-    "uptime": "76.89%",
+    "uptime": "76.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "16.83%",
+    "uptimeYear": "16.82%",
     "time": 709,
     "timeDay": 0,
     "timeWeek": 500,
     "timeMonth": 457,
     "timeYear": 585,
     "dailyMinutesDown": {
-      "2026-02-05": 1399,
+      "2026-02-06": 1,
+      "2026-02-05": 1440,
       "2026-02-04": 1440,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
@@ -1396,7 +1397,7 @@
     "uptimeYear": "95.47%",
     "time": 1421,
     "timeDay": 1509,
-    "timeWeek": 1521,
+    "timeWeek": 1527,
     "timeMonth": 1605,
     "timeYear": 1472,
     "dailyMinutesDown": {
@@ -1824,15 +1825,16 @@
     "uptime": "99.20%",
     "uptimeDay": "3.54%",
     "uptimeWeek": "24.76%",
-    "uptimeMonth": "61.21%",
-    "uptimeYear": "96.77%",
+    "uptimeMonth": "61.11%",
+    "uptimeYear": "96.76%",
     "time": 10080,
     "timeDay": 13315,
     "timeWeek": 12952,
     "timeMonth": 12177,
     "timeYear": 10456,
     "dailyMinutesDown": {
-      "2026-02-05": 1348,
+      "2026-02-06": 2,
+      "2026-02-05": 1389,
       "2026-02-04": 1440,
       "2026-02-03": 592,
       "2026-02-02": 547,
@@ -1863,7 +1865,7 @@
     "uptimeYear": "99.43%",
     "time": 2260,
     "timeDay": 4864,
-    "timeWeek": 6620,
+    "timeWeek": 6576,
     "timeMonth": 5994,
     "timeYear": 2573,
     "dailyMinutesDown": {
@@ -1894,12 +1896,12 @@
     "slug": "ecology-toxicity",
     "status": "up",
     "uptime": "74.00%",
-    "uptimeDay": "86.77%",
+    "uptimeDay": "86.99%",
     "uptimeWeek": "98.11%",
     "uptimeMonth": "99.46%",
     "uptimeYear": "56.16%",
     "time": 549,
-    "timeDay": 369,
+    "timeDay": 301,
     "timeWeek": 380,
     "timeMonth": 467,
     "timeYear": 549,
@@ -2085,8 +2087,7 @@
       "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
-      "2025-02-07": 1440,
-      "2025-02-06": 1440
+      "2025-02-07": 1440
     }
   },
   {
@@ -2106,7 +2107,8 @@
     "timeMonth": 907,
     "timeYear": 2390,
     "dailyMinutesDown": {
-      "2026-02-05": 1399,
+      "2026-02-06": 3,
+      "2026-02-05": 1440,
       "2026-02-04": 1413,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
@@ -2310,13 +2312,13 @@
     "slug": "pesticide-info",
     "status": "up",
     "uptime": "98.75%",
-    "uptimeDay": "99.29%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.52%",
-    "uptimeMonth": "91.52%",
+    "uptimeMonth": "91.62%",
     "uptimeYear": "95.81%",
     "time": 484,
-    "timeDay": 359,
-    "timeWeek": 367,
+    "timeDay": 0,
+    "timeWeek": 362,
     "timeMonth": 434,
     "timeYear": 465,
     "dailyMinutesDown": {
@@ -2431,7 +2433,8 @@
     "timeMonth": 1377,
     "timeYear": 1402,
     "dailyMinutesDown": {
-      "2026-02-05": 1399,
+      "2026-02-06": 3,
+      "2026-02-05": 1440,
       "2026-02-04": 1440,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
@@ -2794,8 +2797,7 @@
       "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
-      "2025-02-07": 1440,
-      "2025-02-06": 1440
+      "2025-02-07": 1440
     }
   },
   {
@@ -2894,12 +2896,12 @@
     "uptime": "97.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.05%",
+    "uptimeMonth": "97.07%",
     "uptimeYear": "99.62%",
     "time": 1671,
     "timeDay": 0,
     "timeWeek": 3047,
-    "timeMonth": 2988,
+    "timeMonth": 2966,
     "timeYear": 1731,
     "dailyMinutesDown": {
       "2026-01-16": 86,
