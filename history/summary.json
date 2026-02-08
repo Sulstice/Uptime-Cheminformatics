@@ -198,7 +198,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-08": 704,
+      "2026-02-08": 716,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
@@ -602,7 +602,7 @@
     "timeMonth": 1656,
     "timeYear": 1345,
     "dailyMinutesDown": {
-      "2026-02-08": 705,
+      "2026-02-08": 716,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
@@ -1072,7 +1072,7 @@
     "timeMonth": 454,
     "timeYear": 582,
     "dailyMinutesDown": {
-      "2026-02-08": 705,
+      "2026-02-08": 716,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
@@ -1462,7 +1462,7 @@
     "status": "up",
     "uptime": "93.34%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.67%",
+    "uptimeWeek": "89.79%",
     "uptimeMonth": "90.19%",
     "uptimeYear": "90.82%",
     "time": 1062,
@@ -1827,19 +1827,19 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.09%",
-    "uptimeDay": "9.82%",
-    "uptimeWeek": "20.00%",
-    "uptimeMonth": "55.64%",
-    "uptimeYear": "96.30%",
-    "time": 10141,
+    "uptimeDay": "10.29%",
+    "uptimeWeek": "20.01%",
+    "uptimeMonth": "55.79%",
+    "uptimeYear": "96.32%",
+    "time": 10137,
     "timeDay": 14141,
     "timeWeek": 13666,
     "timeMonth": 12442,
     "timeYear": 10489,
     "dailyMinutesDown": {
-      "2026-02-08": 633,
+      "2026-02-08": 638,
       "2026-02-07": 1338,
       "2026-02-06": 1426,
       "2026-02-05": 1389,
@@ -1856,7 +1856,7 @@
       "2026-01-25": 1167,
       "2026-01-24": 1190,
       "2026-01-23": 695,
-      "2026-01-22": 454
+      "2026-01-22": 384
     }
   },
   {
@@ -2113,7 +2113,7 @@
     "timeMonth": 904,
     "timeYear": 2387,
     "dailyMinutesDown": {
-      "2026-02-08": 706,
+      "2026-02-08": 717,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
@@ -2445,7 +2445,7 @@
     "timeMonth": 1376,
     "timeYear": 1402,
     "dailyMinutesDown": {
-      "2026-02-08": 706,
+      "2026-02-08": 718,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
       "2026-02-05": 1440,
