@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "99.68%",
     "uptimeDay": "98.79%",
-    "uptimeWeek": "98.46%",
+    "uptimeWeek": "98.94%",
     "uptimeMonth": "89.71%",
     "uptimeYear": "98.53%",
     "time": 2078,
@@ -156,7 +156,7 @@
     "status": "up",
     "uptime": "99.85%",
     "uptimeDay": "75.66%",
-    "uptimeWeek": "80.92%",
+    "uptimeWeek": "81.39%",
     "uptimeMonth": "92.53%",
     "uptimeYear": "99.38%",
     "time": 1595,
@@ -198,6 +198,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2026-02-10": 47,
       "2026-02-09": 1440,
       "2026-02-08": 1440,
       "2026-02-07": 1440,
@@ -561,8 +562,7 @@
       "2025-02-14": 1440,
       "2025-02-13": 1440,
       "2025-02-12": 1440,
-      "2025-02-11": 1440,
-      "2025-02-10": 1440
+      "2025-02-11": 1440
     }
   },
   {
@@ -602,6 +602,7 @@
     "timeMonth": 1580,
     "timeYear": 1341,
     "dailyMinutesDown": {
+      "2026-02-10": 47,
       "2026-02-09": 1440,
       "2026-02-08": 1440,
       "2026-02-07": 1440,
@@ -965,8 +966,7 @@
       "2025-02-14": 1440,
       "2025-02-13": 1440,
       "2025-02-12": 1440,
-      "2025-02-11": 1440,
-      "2025-02-10": 1440
+      "2025-02-11": 1440
     }
   },
   {
@@ -1063,7 +1063,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chemspider.com.ico",
     "slug": "chem-spider",
     "status": "down",
-    "uptime": "76.68%",
+    "uptime": "76.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1074,6 +1074,7 @@
     "timeMonth": 454,
     "timeYear": 579,
     "dailyMinutesDown": {
+      "2026-02-10": 48,
       "2026-02-09": 1440,
       "2026-02-08": 1440,
       "2026-02-07": 1440,
@@ -1832,18 +1833,19 @@
     "url": "http://bioinf.xmu.edu.cn/ADReCS/",
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.03%",
-    "uptimeDay": "20.45%",
-    "uptimeWeek": "14.18%",
-    "uptimeMonth": "52.68%",
+    "uptimeDay": "23.43%",
+    "uptimeWeek": "14.60%",
+    "uptimeMonth": "52.77%",
     "uptimeYear": "96.06%",
-    "time": 10202,
+    "time": 10206,
     "timeDay": 13079,
     "timeWeek": 15412,
     "timeMonth": 12241,
     "timeYear": 10515,
     "dailyMinutesDown": {
+      "2026-02-10": 5,
       "2026-02-09": 1146,
       "2026-02-08": 1322,
       "2026-02-07": 1338,
@@ -1861,7 +1863,7 @@
       "2026-01-26": 1195,
       "2026-01-25": 1167,
       "2026-01-24": 1190,
-      "2026-01-23": 610
+      "2026-01-23": 565
     }
   },
   {
@@ -1872,7 +1874,7 @@
     "status": "up",
     "uptime": "98.53%",
     "uptimeDay": "98.13%",
-    "uptimeWeek": "89.53%",
+    "uptimeWeek": "90.01%",
     "uptimeMonth": "94.69%",
     "uptimeYear": "99.42%",
     "time": 2249,
@@ -1913,7 +1915,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.11%",
     "uptimeMonth": "99.46%",
-    "uptimeYear": "57.26%",
+    "uptimeYear": "57.27%",
     "time": 549,
     "timeDay": 329,
     "timeWeek": 456,
@@ -2110,14 +2112,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.26%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "65.24%",
+    "uptimeYear": "65.23%",
     "time": 2433,
     "timeDay": 902,
     "timeWeek": 1010,
     "timeMonth": 910,
     "timeYear": 2379,
     "dailyMinutesDown": {
-      "2026-02-10": 1,
+      "2026-02-10": 49,
       "2026-02-09": 1440,
       "2026-02-08": 1440,
       "2026-02-07": 1440,
@@ -2452,7 +2454,7 @@
     "timeMonth": 1356,
     "timeYear": 1399,
     "dailyMinutesDown": {
-      "2026-02-10": 2,
+      "2026-02-10": 49,
       "2026-02-09": 1440,
       "2026-02-08": 1440,
       "2026-02-07": 1440,
