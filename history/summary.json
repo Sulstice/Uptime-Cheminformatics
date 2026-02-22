@@ -13,7 +13,7 @@
     "time": 2058,
     "timeDay": 3032,
     "timeWeek": 2496,
-    "timeMonth": 3222,
+    "timeMonth": 3274,
     "timeYear": 1985,
     "dailyMinutesDown": {
       "2026-02-19": 65,
@@ -69,7 +69,7 @@
     "time": 1979,
     "timeDay": 364,
     "timeWeek": 331,
-    "timeMonth": 758,
+    "timeMonth": 762,
     "timeYear": 1823,
     "dailyMinutesDown": {
       "2026-02-21": 36,
@@ -163,7 +163,7 @@
     "uptimeMonth": "93.24%",
     "uptimeYear": "99.44%",
     "time": 1591,
-    "timeDay": 578,
+    "timeDay": 569,
     "timeWeek": 815,
     "timeMonth": 1026,
     "timeYear": 1583,
@@ -201,7 +201,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-21": 1434,
+      "2026-02-22": 42,
+      "2026-02-21": 1440,
       "2026-02-20": 1440,
       "2026-02-19": 1440,
       "2026-02-18": 1440,
@@ -564,8 +565,7 @@
       "2025-02-26": 1440,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
-      "2025-02-23": 1440,
-      "2025-02-22": 1440
+      "2025-02-23": 1440
     }
   },
   {
@@ -605,7 +605,8 @@
     "timeMonth": 255,
     "timeYear": 1326,
     "dailyMinutesDown": {
-      "2026-02-21": 1434,
+      "2026-02-22": 42,
+      "2026-02-21": 1440,
       "2026-02-20": 1440,
       "2026-02-19": 1440,
       "2026-02-18": 1440,
@@ -968,8 +969,7 @@
       "2025-02-26": 1440,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
-      "2025-02-23": 1440,
-      "2025-02-22": 1440
+      "2025-02-23": 1440
     }
   },
   {
@@ -1080,14 +1080,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "12.44%",
+    "uptimeYear": "12.43%",
     "time": 703,
     "timeDay": 533,
     "timeWeek": 564,
     "timeMonth": 495,
     "timeYear": 565,
     "dailyMinutesDown": {
-      "2026-02-21": 1434,
+      "2026-02-22": 42,
+      "2026-02-21": 1440,
       "2026-02-20": 1440,
       "2026-02-19": 1440,
       "2026-02-18": 1440,
@@ -1500,9 +1501,9 @@
     "slug": "card-pred",
     "status": "down",
     "uptime": "93.37%",
-    "uptimeDay": "60.85%",
-    "uptimeWeek": "94.41%",
-    "uptimeMonth": "93.28%",
+    "uptimeDay": "57.56%",
+    "uptimeWeek": "93.94%",
+    "uptimeMonth": "93.17%",
     "uptimeYear": "90.71%",
     "time": 1063,
     "timeDay": 0,
@@ -1510,7 +1511,8 @@
     "timeMonth": 1127,
     "timeYear": 1087,
     "dailyMinutesDown": {
-      "2026-02-21": 564,
+      "2026-02-22": 42,
+      "2026-02-21": 569,
       "2026-02-02": 306,
       "2026-02-01": 1440,
       "2026-01-31": 635,
@@ -1769,7 +1771,7 @@
     "status": "up",
     "uptime": "99.42%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "79.78%",
+    "uptimeWeek": "80.25%",
     "uptimeMonth": "91.23%",
     "uptimeYear": "98.03%",
     "time": 1013,
@@ -1884,15 +1886,16 @@
     "uptime": "98.73%",
     "uptimeDay": "32.36%",
     "uptimeWeek": "36.98%",
-    "uptimeMonth": "37.89%",
-    "uptimeYear": "94.82%",
+    "uptimeMonth": "37.78%",
+    "uptimeYear": "94.81%",
     "time": 10352,
     "timeDay": 8447,
     "timeWeek": 13469,
     "timeMonth": 13882,
     "timeYear": 10672,
     "dailyMinutesDown": {
-      "2026-02-21": 968,
+      "2026-02-22": 43,
+      "2026-02-21": 973,
       "2026-02-20": 842,
       "2026-02-18": 723,
       "2026-02-17": 1328,
@@ -1975,7 +1978,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.57%",
-    "uptimeYear": "60.55%",
+    "uptimeYear": "60.56%",
     "time": 547,
     "timeDay": 370,
     "timeWeek": 487,
@@ -2147,8 +2150,7 @@
       "2025-02-26": 1440,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
-      "2025-02-23": 1440,
-      "2025-02-22": 1440
+      "2025-02-23": 1440
     }
   },
   {
@@ -2157,18 +2159,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heraproject.com.ico",
     "slug": "human-and-environment-risk-assessment",
     "status": "down",
-    "uptime": "45.17%",
+    "uptime": "45.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "61.98%",
+    "uptimeYear": "61.97%",
     "time": 2405,
     "timeDay": 718,
     "timeWeek": 1161,
     "timeMonth": 929,
     "timeYear": 2266,
     "dailyMinutesDown": {
-      "2026-02-21": 1436,
+      "2026-02-22": 43,
+      "2026-02-21": 1440,
       "2026-02-20": 1440,
       "2026-02-19": 1440,
       "2026-02-18": 1440,
@@ -2511,7 +2514,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heterocycles.jp.ico",
     "slug": "hetereocycles",
     "status": "down",
-    "uptime": "47.23%",
+    "uptime": "47.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2522,7 +2525,8 @@
     "timeMonth": 1307,
     "timeYear": 1380,
     "dailyMinutesDown": {
-      "2026-02-21": 1436,
+      "2026-02-22": 43,
+      "2026-02-21": 1440,
       "2026-02-20": 1440,
       "2026-02-19": 1440,
       "2026-02-18": 1440,
@@ -2885,8 +2889,7 @@
       "2025-02-26": 1440,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
-      "2025-02-23": 1440,
-      "2025-02-22": 1440
+      "2025-02-23": 1440
     }
   },
   {
