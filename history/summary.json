@@ -162,19 +162,20 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "82.87%",
-    "uptimeWeek": "82.18%",
-    "uptimeMonth": "92.73%",
-    "uptimeYear": "99.39%",
-    "time": 1529,
+    "status": "down",
+    "uptime": "99.86%",
+    "uptimeDay": "82.97%",
+    "uptimeWeek": "82.14%",
+    "uptimeMonth": "92.94%",
+    "uptimeYear": "99.41%",
+    "time": 1528,
     "timeDay": 648,
-    "timeWeek": 842,
+    "timeWeek": 845,
     "timeMonth": 958,
-    "timeYear": 1527,
+    "timeYear": 1526,
     "dailyMinutesDown": {
-      "2026-03-04": 243,
+      "2026-03-05": 1,
+      "2026-03-04": 245,
       "2026-03-03": 261,
       "2026-03-02": 215,
       "2026-03-01": 309,
@@ -186,7 +187,7 @@
       "2026-02-23": 314,
       "2026-02-22": 189,
       "2026-02-21": 114,
-      "2026-02-20": 219
+      "2026-02-20": 126
     }
   },
   {
@@ -196,9 +197,9 @@
     "slug": "nmr-shift-database",
     "status": "up",
     "uptime": "56.52%",
-    "uptimeDay": "42.40%",
-    "uptimeWeek": "6.06%",
-    "uptimeMonth": "9.35%",
+    "uptimeDay": "43.28%",
+    "uptimeWeek": "6.18%",
+    "uptimeMonth": "9.38%",
     "uptimeYear": "0.12%",
     "time": 690,
     "timeDay": 690,
@@ -569,8 +570,7 @@
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
-      "2025-03-06": 1440,
-      "2025-03-05": 1440
+      "2025-03-06": 1440
     }
   },
   {
@@ -610,7 +610,8 @@
     "timeMonth": 410,
     "timeYear": 1328,
     "dailyMinutesDown": {
-      "2026-03-04": 1432,
+      "2026-03-05": 4,
+      "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
@@ -973,8 +974,7 @@
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
-      "2025-03-06": 1440,
-      "2025-03-05": 1440
+      "2025-03-06": 1440
     }
   },
   {
@@ -983,7 +983,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sdbs.db.aist.go.jp.ico",
     "slug": "spectral-database-for-organic-compounds",
     "status": "up",
-    "uptime": "93.41%",
+    "uptime": "93.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1003,7 +1003,7 @@
     "status": "up",
     "uptime": "98.75%",
     "uptimeDay": "98.69%",
-    "uptimeWeek": "97.48%",
+    "uptimeWeek": "97.57%",
     "uptimeMonth": "97.30%",
     "uptimeYear": "95.26%",
     "time": 894,
@@ -1101,7 +1101,8 @@
     "timeMonth": 463,
     "timeYear": 551,
     "dailyMinutesDown": {
-      "2026-03-04": 1432,
+      "2026-03-05": 5,
+      "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
@@ -1447,7 +1448,7 @@
     "status": "up",
     "uptime": "98.75%",
     "uptimeDay": "98.72%",
-    "uptimeWeek": "97.67%",
+    "uptimeWeek": "97.75%",
     "uptimeMonth": "97.47%",
     "uptimeYear": "95.26%",
     "time": 1460,
@@ -1927,15 +1928,16 @@
     "uptime": "98.87%",
     "uptimeDay": "2.39%",
     "uptimeWeek": "20.02%",
-    "uptimeMonth": "44.39%",
-    "uptimeYear": "95.37%",
+    "uptimeMonth": "44.36%",
+    "uptimeYear": "95.36%",
     "time": 10411,
     "timeDay": 24588,
     "timeWeek": 10880,
     "timeMonth": 12846,
     "timeYear": 10714,
     "dailyMinutesDown": {
-      "2026-03-04": 1399,
+      "2026-03-05": 5,
+      "2026-03-04": 1406,
       "2026-03-03": 649,
       "2026-03-02": 1278,
       "2026-03-01": 856,
@@ -2016,8 +2018,8 @@
     "uptime": "74.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "63.55%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "63.56%",
     "time": 543,
     "timeDay": 475,
     "timeWeek": 401,
@@ -2179,8 +2181,7 @@
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
-      "2025-03-06": 1440,
-      "2025-03-05": 1440
+      "2025-03-06": 1440
     }
   },
   {
@@ -2193,14 +2194,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "58.97%",
+    "uptimeYear": "58.96%",
     "time": 2380,
     "timeDay": 900,
     "timeWeek": 1468,
     "timeMonth": 1135,
     "timeYear": 2233,
     "dailyMinutesDown": {
-      "2026-03-04": 1434,
+      "2026-03-05": 6,
+      "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
@@ -2430,12 +2432,12 @@
     "status": "up",
     "uptime": "98.98%",
     "uptimeDay": "95.58%",
-    "uptimeWeek": "96.90%",
+    "uptimeWeek": "96.98%",
     "uptimeMonth": "96.80%",
     "uptimeYear": "95.79%",
     "time": 460,
     "timeDay": 248,
-    "timeWeek": 443,
+    "timeWeek": 448,
     "timeMonth": 389,
     "timeYear": 445,
     "dailyMinutesDown": {
@@ -2556,7 +2558,8 @@
     "timeMonth": 1241,
     "timeYear": 1379,
     "dailyMinutesDown": {
-      "2026-03-04": 1434,
+      "2026-03-05": 6,
+      "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
@@ -2919,8 +2922,7 @@
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
-      "2025-03-06": 1440,
-      "2025-03-05": 1440
+      "2025-03-06": 1440
     }
   },
   {
@@ -3028,7 +3030,7 @@
     "timeDay": 247,
     "timeWeek": 336,
     "timeMonth": 372,
-    "timeYear": 1697,
+    "timeYear": 1676,
     "dailyMinutesDown": {
       "2026-01-16": 86,
       "2026-01-15": 74,
@@ -3055,8 +3057,7 @@
       "2025-03-10": 114,
       "2025-03-09": 69,
       "2025-03-07": 68,
-      "2025-03-06": 1,
-      "2025-03-05": 24
+      "2025-03-06": 1
     }
   },
   {
