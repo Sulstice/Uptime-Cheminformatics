@@ -140,19 +140,20 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "79.80%",
-    "uptimeWeek": "83.55%",
-    "uptimeMonth": "91.96%",
-    "uptimeYear": "99.33%",
+    "uptimeDay": "77.76%",
+    "uptimeWeek": "83.37%",
+    "uptimeMonth": "91.86%",
+    "uptimeYear": "99.32%",
     "time": 1571,
-    "timeDay": 1914,
-    "timeWeek": 1352,
+    "timeDay": 2034,
+    "timeWeek": 1365,
     "timeMonth": 1140,
     "timeYear": 1553,
     "dailyMinutesDown": {
-      "2026-03-27": 275,
+      "2026-03-28": 4,
+      "2026-03-27": 317,
       "2026-03-26": 243,
       "2026-03-25": 151,
       "2026-03-24": 211,
@@ -177,8 +178,8 @@
     "uptime": "57.18%",
     "uptimeDay": "98.60%",
     "uptimeWeek": "99.38%",
-    "uptimeMonth": "84.74%",
-    "uptimeYear": "6.40%",
+    "uptimeMonth": "84.85%",
+    "uptimeYear": "6.41%",
     "time": 627,
     "timeDay": 493,
     "timeWeek": 594,
@@ -527,8 +528,7 @@
       "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
-      "2025-03-29": 1440,
-      "2025-03-28": 1440
+      "2025-03-29": 1440
     }
   },
   {
@@ -557,7 +557,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
     "status": "down",
-    "uptime": "72.45%",
+    "uptime": "72.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -568,7 +568,8 @@
     "timeMonth": 213,
     "timeYear": 1141,
     "dailyMinutesDown": {
-      "2026-03-27": 1400,
+      "2026-03-28": 7,
+      "2026-03-27": 1440,
       "2026-03-26": 1440,
       "2026-03-25": 1440,
       "2026-03-24": 1440,
@@ -931,8 +932,7 @@
       "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
-      "2025-03-29": 1440,
-      "2025-03-28": 1440
+      "2025-03-29": 1440
     }
   },
   {
@@ -961,16 +961,17 @@
     "status": "down",
     "uptime": "98.59%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "64.71%",
-    "uptimeMonth": "90.77%",
-    "uptimeYear": "94.53%",
+    "uptimeWeek": "64.25%",
+    "uptimeMonth": "90.67%",
+    "uptimeYear": "94.52%",
     "time": 902,
     "timeDay": 0,
     "timeWeek": 715,
     "timeMonth": 831,
     "timeYear": 914,
     "dailyMinutesDown": {
-      "2026-03-27": 1400,
+      "2026-03-28": 7,
+      "2026-03-27": 1440,
       "2026-03-26": 1440,
       "2026-03-25": 717,
       "2026-03-20": 40,
@@ -1065,14 +1066,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "3.14%",
+    "uptimeYear": "3.13%",
     "time": 674,
     "timeDay": 306,
     "timeWeek": 467,
     "timeMonth": 425,
     "timeYear": 516,
     "dailyMinutesDown": {
-      "2026-03-27": 1400,
+      "2026-03-28": 7,
+      "2026-03-27": 1440,
       "2026-03-26": 1440,
       "2026-03-25": 1440,
       "2026-03-24": 1440,
@@ -1428,8 +1430,7 @@
       "2025-04-08": 949,
       "2025-04-01": 39,
       "2025-03-31": 1,
-      "2025-03-30": 15,
-      "2025-03-28": 165
+      "2025-03-30": 15
     }
   },
   {
@@ -1438,18 +1439,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/stitch.embl.de.ico",
     "slug": "stitch",
     "status": "down",
-    "uptime": "98.60%",
+    "uptime": "98.59%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "64.72%",
-    "uptimeMonth": "90.90%",
-    "uptimeYear": "94.54%",
+    "uptimeWeek": "64.25%",
+    "uptimeMonth": "90.79%",
+    "uptimeYear": "94.53%",
     "time": 1485,
     "timeDay": 0,
     "timeWeek": 1413,
     "timeMonth": 1560,
     "timeYear": 1539,
     "dailyMinutesDown": {
-      "2026-03-27": 1400,
+      "2026-03-28": 7,
+      "2026-03-27": 1440,
       "2026-03-26": 1440,
       "2026-03-25": 716,
       "2026-03-20": 39,
@@ -1941,18 +1943,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bioinf.xmu.edu.cn.ico",
     "slug": "adverse-drug-reaction-classification-system",
     "status": "down",
-    "uptime": "98.53%",
-    "uptimeDay": "1.14%",
+    "uptime": "98.52%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "2.81%",
-    "uptimeMonth": "26.21%",
-    "uptimeYear": "93.85%",
+    "uptimeMonth": "26.10%",
+    "uptimeYear": "93.84%",
     "time": 10416,
-    "timeDay": 12758,
+    "timeDay": 0,
     "timeWeek": 16749,
     "timeMonth": 12475,
     "timeYear": 10884,
     "dailyMinutesDown": {
-      "2026-03-27": 1401,
+      "2026-03-28": 8,
+      "2026-03-27": 1440,
       "2026-03-26": 1392,
       "2026-03-25": 1440,
       "2026-03-24": 1415,
@@ -2043,7 +2046,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.24%",
     "uptimeMonth": "99.67%",
-    "uptimeYear": "69.83%",
+    "uptimeYear": "69.84%",
     "time": 540,
     "timeDay": 1468,
     "timeWeek": 620,
@@ -2184,8 +2187,7 @@
       "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
-      "2025-03-29": 1440,
-      "2025-03-28": 1440
+      "2025-03-29": 1440
     }
   },
   {
@@ -2198,14 +2200,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "52.67%",
+    "uptimeYear": "52.66%",
     "time": 2320,
     "timeDay": 699,
     "timeWeek": 817,
     "timeMonth": 1057,
     "timeYear": 2116,
     "dailyMinutesDown": {
-      "2026-03-27": 1402,
+      "2026-03-28": 9,
+      "2026-03-27": 1440,
       "2026-03-26": 1440,
       "2026-03-25": 1440,
       "2026-03-24": 1440,
@@ -2566,7 +2569,8 @@
     "timeMonth": 1379,
     "timeYear": 1375,
     "dailyMinutesDown": {
-      "2026-03-27": 1402,
+      "2026-03-28": 9,
+      "2026-03-27": 1440,
       "2026-03-26": 1440,
       "2026-03-25": 1440,
       "2026-03-24": 1440,
@@ -2929,8 +2933,7 @@
       "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
-      "2025-03-29": 1440,
-      "2025-03-28": 1440
+      "2025-03-29": 1440
     }
   },
   {
@@ -3010,8 +3013,7 @@
       "2025-04-04": 378,
       "2025-04-03": 29,
       "2025-04-02": 56,
-      "2025-03-31": 71,
-      "2025-03-28": 298
+      "2025-03-31": 71
     }
   },
   {
