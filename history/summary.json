@@ -144,19 +144,20 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "91.31%",
-    "uptimeWeek": "81.81%",
-    "uptimeMonth": "92.89%",
+    "uptimeDay": "91.14%",
+    "uptimeWeek": "81.79%",
+    "uptimeMonth": "92.96%",
     "uptimeYear": "99.41%",
     "time": 1559,
     "timeDay": 599,
     "timeWeek": 1263,
-    "timeMonth": 1253,
+    "timeMonth": 1255,
     "timeYear": 1573,
     "dailyMinutesDown": {
-      "2026-04-09": 125,
+      "2026-04-10": 0,
+      "2026-04-09": 127,
       "2026-04-08": 343,
       "2026-04-07": 341,
       "2026-04-06": 372,
@@ -167,7 +168,7 @@
       "2026-04-01": 199,
       "2026-03-31": 287,
       "2026-03-30": 352,
-      "2026-03-29": 170
+      "2026-03-29": 137
     }
   },
   {
@@ -180,7 +181,7 @@
     "uptimeDay": "97.58%",
     "uptimeWeek": "98.91%",
     "uptimeMonth": "99.21%",
-    "uptimeYear": "9.91%",
+    "uptimeYear": "9.92%",
     "time": 642,
     "timeDay": 585,
     "timeWeek": 651,
@@ -523,8 +524,7 @@
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
-      "2025-04-11": 1440,
-      "2025-04-10": 1440
+      "2025-04-11": 1440
     }
   },
   {
@@ -564,7 +564,8 @@
     "timeMonth": 223,
     "timeYear": 1128,
     "dailyMinutesDown": {
-      "2026-04-09": 1425,
+      "2026-04-10": 3,
+      "2026-04-09": 1440,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
@@ -927,8 +928,7 @@
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
-      "2025-04-11": 1440,
-      "2025-04-10": 1440
+      "2025-04-11": 1440
     }
   },
   {
@@ -1074,7 +1074,8 @@
     "timeMonth": 442,
     "timeYear": 492,
     "dailyMinutesDown": {
-      "2026-04-09": 1425,
+      "2026-04-10": 3,
+      "2026-04-09": 1440,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
@@ -1437,8 +1438,7 @@
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
-      "2025-04-11": 1440,
-      "2025-04-10": 1440
+      "2025-04-11": 1440
     }
   },
   {
@@ -1557,8 +1557,8 @@
     "status": "down",
     "uptime": "93.10%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "3.32%",
-    "uptimeMonth": "77.75%",
+    "uptimeWeek": "3.14%",
+    "uptimeMonth": "77.71%",
     "uptimeYear": "88.72%",
     "time": 1075,
     "timeDay": 0,
@@ -1566,7 +1566,8 @@
     "timeMonth": 1106,
     "timeYear": 1099,
     "dailyMinutesDown": {
-      "2026-04-09": 1425,
+      "2026-04-10": 3,
+      "2026-04-09": 1440,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
@@ -1971,9 +1972,9 @@
     "slug": "adverse-drug-reaction-classification-system",
     "status": "up",
     "uptime": "97.93%",
-    "uptimeDay": "66.89%",
-    "uptimeWeek": "11.89%",
-    "uptimeMonth": "13.02%",
+    "uptimeDay": "68.16%",
+    "uptimeWeek": "12.07%",
+    "uptimeMonth": "13.06%",
     "uptimeYear": "91.30%",
     "time": 10620,
     "timeDay": 5381,
@@ -2085,7 +2086,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "73.39%",
+    "uptimeYear": "73.40%",
     "time": 546,
     "timeDay": 309,
     "timeWeek": 449,
@@ -2213,8 +2214,7 @@
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
-      "2025-04-11": 1440,
-      "2025-04-10": 1440
+      "2025-04-11": 1440
     }
   },
   {
@@ -2227,14 +2227,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "49.11%",
+    "uptimeYear": "49.10%",
     "time": 2288,
     "timeDay": 813,
     "timeWeek": 944,
     "timeMonth": 1006,
     "timeYear": 2071,
     "dailyMinutesDown": {
-      "2026-04-09": 1426,
+      "2026-04-10": 4,
+      "2026-04-09": 1440,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
@@ -2436,16 +2437,16 @@
     "url": "https://www.tera.org/iter/",
     "icon": "https://icons.duckduckgo.com/ip3/www.tera.org.ico",
     "slug": "international-toxicity-information-for-risk-assesments",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 318,
-    "timeDay": 258,
-    "timeWeek": 255,
-    "timeMonth": 297,
+    "timeDay": 255,
+    "timeWeek": 254,
+    "timeMonth": 295,
     "timeYear": 333,
     "dailyMinutesDown": {}
   },
@@ -2500,19 +2501,20 @@
     "url": "https://www.pesticideinfo.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pesticideinfo.org.ico",
     "slug": "pesticide-info",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "83.75%",
-    "uptimeWeek": "93.17%",
-    "uptimeMonth": "96.67%",
+    "uptimeDay": "83.35%",
+    "uptimeWeek": "93.11%",
+    "uptimeMonth": "96.66%",
     "uptimeYear": "99.50%",
-    "time": 452,
-    "timeDay": 365,
-    "timeWeek": 349,
-    "timeMonth": 389,
-    "timeYear": 433,
+    "time": 454,
+    "timeDay": 632,
+    "timeWeek": 427,
+    "timeMonth": 413,
+    "timeYear": 437,
     "dailyMinutesDown": {
-      "2026-04-09": 235,
+      "2026-04-10": 4,
+      "2026-04-09": 236,
       "2026-04-08": 57,
       "2026-04-07": 142,
       "2026-04-06": 52,
@@ -2559,7 +2561,7 @@
       "2026-02-17": 92,
       "2026-02-16": 31,
       "2026-02-15": 35,
-      "2026-02-14": 46
+      "2026-02-14": 30
     }
   },
   {
@@ -2604,7 +2606,8 @@
     "timeMonth": 1383,
     "timeYear": 1373,
     "dailyMinutesDown": {
-      "2026-04-09": 1426,
+      "2026-04-10": 5,
+      "2026-04-09": 1440,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
@@ -2967,8 +2970,7 @@
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
-      "2025-04-11": 1440,
-      "2025-04-10": 1440
+      "2025-04-11": 1440
     }
   },
   {
@@ -3042,8 +3044,7 @@
       "2025-04-24": 421,
       "2025-04-17": 434,
       "2025-04-14": 93,
-      "2025-04-11": 62,
-      "2025-04-10": 502
+      "2025-04-11": 62
     }
   },
   {
