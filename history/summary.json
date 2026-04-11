@@ -98,7 +98,7 @@
     "time": 451,
     "timeDay": 67,
     "timeWeek": 206,
-    "timeMonth": 160,
+    "timeMonth": 162,
     "timeYear": 382,
     "dailyMinutesDown": {
       "2026-03-14": 16,
@@ -144,19 +144,20 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "80.17%",
-    "uptimeWeek": "80.86%",
-    "uptimeMonth": "92.61%",
-    "uptimeYear": "99.38%",
+    "uptimeDay": "81.43%",
+    "uptimeWeek": "80.96%",
+    "uptimeMonth": "92.63%",
+    "uptimeYear": "99.39%",
     "time": 1567,
     "timeDay": 629,
     "timeWeek": 1194,
     "timeMonth": 1254,
     "timeYear": 1576,
     "dailyMinutesDown": {
-      "2026-04-10": 283,
+      "2026-04-11": 2,
+      "2026-04-10": 271,
       "2026-04-09": 127,
       "2026-04-08": 343,
       "2026-04-07": 341,
@@ -181,10 +182,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.18%",
     "uptimeMonth": "99.21%",
-    "uptimeYear": "10.18%",
+    "uptimeYear": "10.19%",
     "time": 639,
     "timeDay": 538,
-    "timeWeek": 638,
+    "timeWeek": 644,
     "timeMonth": 629,
     "timeYear": 639,
     "dailyMinutesDown": {
@@ -523,8 +524,7 @@
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
-      "2025-04-12": 1440,
-      "2025-04-11": 1440
+      "2025-04-12": 1440
     }
   },
   {
@@ -553,7 +553,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
     "status": "down",
-    "uptime": "71.79%",
+    "uptime": "71.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -564,7 +564,8 @@
     "timeMonth": 227,
     "timeYear": 1127,
     "dailyMinutesDown": {
-      "2026-04-10": 1414,
+      "2026-04-11": 8,
+      "2026-04-10": 1440,
       "2026-04-09": 1440,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
@@ -927,8 +928,7 @@
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
-      "2025-04-12": 1440,
-      "2025-04-11": 1440
+      "2025-04-12": 1440
     }
   },
   {
@@ -1062,7 +1062,8 @@
     "timeMonth": 452,
     "timeYear": 492,
     "dailyMinutesDown": {
-      "2026-04-10": 1414,
+      "2026-04-11": 8,
+      "2026-04-10": 1440,
       "2026-04-09": 1440,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
@@ -1425,8 +1426,7 @@
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
-      "2025-04-12": 1440,
-      "2025-04-11": 1440
+      "2025-04-12": 1440
     }
   },
   {
@@ -1547,7 +1547,7 @@
     "uptime": "93.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "74.49%",
+    "uptimeMonth": "74.41%",
     "uptimeYear": "88.45%",
     "time": 1075,
     "timeDay": 0,
@@ -1555,7 +1555,8 @@
     "timeMonth": 1128,
     "timeYear": 1098,
     "dailyMinutesDown": {
-      "2026-04-10": 1414,
+      "2026-04-11": 8,
+      "2026-04-10": 1440,
       "2026-04-09": 1440,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
@@ -1960,8 +1961,8 @@
     "status": "up",
     "uptime": "97.93%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "24.71%",
-    "uptimeMonth": "16.05%",
+    "uptimeWeek": "25.04%",
+    "uptimeMonth": "16.13%",
     "uptimeYear": "91.30%",
     "time": 10620,
     "timeDay": 2816,
@@ -2200,8 +2201,7 @@
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
-      "2025-04-12": 1440,
-      "2025-04-11": 1440
+      "2025-04-12": 1440
     }
   },
   {
@@ -2210,7 +2210,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.heraproject.com.ico",
     "slug": "human-and-environment-risk-assessment",
     "status": "down",
-    "uptime": "43.76%",
+    "uptime": "43.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2221,7 +2221,8 @@
     "timeMonth": 993,
     "timeYear": 2065,
     "dailyMinutesDown": {
-      "2026-04-10": 1415,
+      "2026-04-11": 9,
+      "2026-04-10": 1440,
       "2026-04-09": 1440,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
@@ -2431,7 +2432,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 317,
-    "timeDay": 169,
+    "timeDay": 160,
     "timeWeek": 237,
     "timeMonth": 283,
     "timeYear": 332,
@@ -2490,12 +2491,12 @@
     "slug": "pesticide-info",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "89.85%",
+    "uptimeDay": "90.60%",
     "uptimeWeek": "92.17%",
     "uptimeMonth": "96.34%",
     "uptimeYear": "99.49%",
     "time": 453,
-    "timeDay": 734,
+    "timeDay": 427,
     "timeWeek": 430,
     "timeMonth": 416,
     "timeYear": 436,
@@ -2591,7 +2592,8 @@
     "timeMonth": 1418,
     "timeYear": 1374,
     "dailyMinutesDown": {
-      "2026-04-10": 1416,
+      "2026-04-11": 10,
+      "2026-04-10": 1440,
       "2026-04-09": 1440,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
@@ -2954,8 +2956,7 @@
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
-      "2025-04-12": 1440,
-      "2025-04-11": 1440
+      "2025-04-12": 1440
     }
   },
   {
@@ -3028,8 +3029,7 @@
       "2025-04-25": 40,
       "2025-04-24": 421,
       "2025-04-17": 434,
-      "2025-04-14": 93,
-      "2025-04-11": 62
+      "2025-04-14": 93
     }
   },
   {
@@ -3039,12 +3039,12 @@
     "slug": "look-chem",
     "status": "up",
     "uptime": "97.45%",
-    "uptimeDay": "90.87%",
+    "uptimeDay": "91.28%",
     "uptimeWeek": "80.96%",
     "uptimeMonth": "95.51%",
     "uptimeYear": "99.32%",
     "time": 1898,
-    "timeDay": 9839,
+    "timeDay": 7615,
     "timeWeek": 12690,
     "timeMonth": 5540,
     "timeYear": 1766,
