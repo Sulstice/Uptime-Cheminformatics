@@ -1,7 +1,7 @@
 url: https://dra4.nihs.go.jp/mhlw_data/jsp/SearchPageENG.jsp
-status: down
-code: 503
-responseTime: 1385
-lastUpdated: 2026-04-23T03:57:37.162Z
+status: up
+code: 200
+responseTime: 821
+lastUpdated: 2026-04-23T05:09:25.420Z
 startTime: 2022-01-24T23:07:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
