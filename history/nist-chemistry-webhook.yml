@@ -1,7 +1,7 @@
 url: https://webbook.nist.gov/chemistry/
-status: up
-code: 200
-responseTime: 180
-lastUpdated: 2026-04-25T00:55:53.155Z
+status: down
+code: 504
+responseTime: 10102
+lastUpdated: 2026-04-25T07:49:58.047Z
 startTime: 2022-01-24T15:20:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
