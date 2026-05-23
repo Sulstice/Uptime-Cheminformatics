@@ -6,9 +6,9 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "6.86%",
+    "uptimeDay": "12.14%",
     "uptimeWeek": "39.92%",
-    "uptimeMonth": "82.67%",
+    "uptimeMonth": "82.85%",
     "uptimeYear": "96.99%",
     "time": 2014,
     "timeDay": 10999,
@@ -64,9 +64,9 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "8.87%",
+    "uptimeDay": "14.16%",
     "uptimeWeek": "35.28%",
-    "uptimeMonth": "81.00%",
+    "uptimeMonth": "81.18%",
     "uptimeYear": "96.79%",
     "time": 1920,
     "timeDay": 12522,
@@ -136,8 +136,7 @@
       "2026-03-07": 16,
       "2026-02-16": 17,
       "2025-12-06": 16,
-      "2025-06-05": 28,
-      "2025-05-23": 18
+      "2025-06-05": 28
     }
   },
   {
@@ -179,18 +178,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
     "status": "down",
-    "uptime": "99.34%",
+    "uptime": "99.33%",
     "uptimeDay": "15.72%",
-    "uptimeWeek": "23.37%",
-    "uptimeMonth": "65.48%",
-    "uptimeYear": "97.12%",
+    "uptimeWeek": "23.23%",
+    "uptimeMonth": "65.31%",
+    "uptimeYear": "97.11%",
     "time": 1565,
     "timeDay": 2444,
     "timeWeek": 3182,
     "timeMonth": 2147,
     "timeYear": 1559,
     "dailyMinutesDown": {
-      "2026-05-22": 1195,
+      "2026-05-23": 58,
+      "2026-05-22": 1213,
       "2026-05-21": 935,
       "2026-05-20": 1246,
       "2026-05-19": 930,
@@ -217,9 +217,9 @@
     "status": "up",
     "uptime": "58.82%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "21.60%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "21.61%",
     "time": 642,
     "timeDay": 612,
     "timeWeek": 638,
@@ -523,8 +523,7 @@
       "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
-      "2025-05-24": 1440,
-      "2025-05-23": 1440
+      "2025-05-24": 1440
     }
   },
   {
@@ -553,7 +552,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
     "status": "down",
-    "uptime": "69.88%",
+    "uptime": "69.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -564,7 +563,8 @@
     "timeMonth": 220,
     "timeYear": 942,
     "dailyMinutesDown": {
-      "2026-05-22": 1424,
+      "2026-05-23": 60,
+      "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
       "2026-05-19": 1440,
@@ -927,8 +927,7 @@
       "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
-      "2025-05-24": 1440,
-      "2025-05-23": 1440
+      "2025-05-24": 1440
     }
   },
   {
@@ -957,12 +956,12 @@
     "status": "up",
     "uptime": "99.50%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.07%",
+    "uptimeWeek": "99.27%",
     "uptimeMonth": "97.58%",
     "uptimeYear": "97.83%",
     "time": 891,
     "timeDay": 664,
-    "timeWeek": 677,
+    "timeWeek": 674,
     "timeMonth": 829,
     "timeYear": 883,
     "dailyMinutesDown": {
@@ -1037,7 +1036,8 @@
     "timeMonth": 411,
     "timeYear": 458,
     "dailyMinutesDown": {
-      "2026-05-22": 1424,
+      "2026-05-23": 60,
+      "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
       "2026-05-19": 1440,
@@ -1400,8 +1400,7 @@
       "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
-      "2025-05-24": 1440,
-      "2025-05-23": 1440
+      "2025-05-24": 1440
     }
   },
   {
@@ -1412,12 +1411,12 @@
     "status": "up",
     "uptime": "99.22%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.11%",
+    "uptimeWeek": "99.32%",
     "uptimeMonth": "82.77%",
     "uptimeYear": "96.61%",
     "time": 1876,
     "timeDay": 1158,
-    "timeWeek": 1330,
+    "timeWeek": 1365,
     "timeMonth": 6235,
     "timeYear": 2035,
     "dailyMinutesDown": {
@@ -1486,14 +1485,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "83.85%",
+    "uptimeYear": "83.84%",
     "time": 1080,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1101,
     "dailyMinutesDown": {
-      "2026-05-22": 1424,
+      "2026-05-23": 60,
+      "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
       "2026-05-19": 1440,
@@ -1671,8 +1671,7 @@
       "2025-11-07": 1327,
       "2025-09-25": 540,
       "2025-08-29": 314,
-      "2025-08-28": 949,
-      "2025-05-23": 19
+      "2025-08-28": 949
     }
   },
   {
@@ -1783,12 +1782,12 @@
     "status": "up",
     "uptime": "99.84%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.06%",
+    "uptimeWeek": "96.31%",
     "uptimeMonth": "96.00%",
     "uptimeYear": "99.31%",
     "time": 844,
     "timeDay": 776,
-    "timeWeek": 766,
+    "timeWeek": 776,
     "timeMonth": 1244,
     "timeYear": 861,
     "dailyMinutesDown": {
@@ -1874,8 +1873,7 @@
       "2025-10-29": 16,
       "2025-10-07": 28,
       "2025-09-24": 31,
-      "2025-07-02": 209,
-      "2025-05-23": 44
+      "2025-07-02": 209
     }
   },
   {
@@ -1941,12 +1939,12 @@
     "status": "up",
     "uptime": "99.84%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.47%",
+    "uptimeWeek": "98.81%",
     "uptimeMonth": "96.28%",
     "uptimeYear": "99.32%",
     "time": 2233,
     "timeDay": 978,
-    "timeWeek": 1286,
+    "timeWeek": 1319,
     "timeMonth": 2467,
     "timeYear": 2513,
     "dailyMinutesDown": {
@@ -2005,8 +2003,8 @@
     "uptime": "75.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.69%",
-    "uptimeYear": "83.58%",
+    "uptimeMonth": "83.86%",
+    "uptimeYear": "83.59%",
     "time": 561,
     "timeDay": 276,
     "timeWeek": 365,
@@ -2100,8 +2098,7 @@
       "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
-      "2025-05-24": 1440,
-      "2025-05-23": 1440
+      "2025-05-24": 1440
     }
   },
   {
@@ -2114,14 +2111,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "37.54%",
+    "uptimeYear": "37.53%",
     "time": 2135,
     "timeDay": 582,
     "timeWeek": 475,
     "timeMonth": 852,
     "timeYear": 1780,
     "dailyMinutesDown": {
-      "2026-05-22": 1425,
+      "2026-05-23": 61,
+      "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
       "2026-05-19": 1440,
@@ -2367,7 +2365,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 313,
-    "timeDay": 369,
+    "timeDay": 374,
     "timeWeek": 299,
     "timeMonth": 287,
     "timeYear": 329,
@@ -2427,13 +2425,13 @@
     "slug": "pesticide-info",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "97.79%",
-    "uptimeWeek": "49.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "50.27%",
     "uptimeMonth": "86.56%",
     "uptimeYear": "98.45%",
     "time": 446,
-    "timeDay": 2796,
-    "timeWeek": 698,
+    "timeDay": 4933,
+    "timeWeek": 712,
     "timeMonth": 403,
     "timeYear": 432,
     "dailyMinutesDown": {
@@ -2536,7 +2534,8 @@
     "timeMonth": 1016,
     "timeYear": 1351,
     "dailyMinutesDown": {
-      "2026-05-22": 1426,
+      "2026-05-23": 62,
+      "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
       "2026-05-19": 1440,
@@ -2899,8 +2898,7 @@
       "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
-      "2025-05-24": 1440,
-      "2025-05-23": 1440
+      "2025-05-24": 1440
     }
   },
   {
@@ -2965,8 +2963,7 @@
       "2025-06-04": 427,
       "2025-06-03": 149,
       "2025-06-02": 46,
-      "2025-05-24": 260,
-      "2025-05-23": 260
+      "2025-05-24": 260
     }
   },
   {
