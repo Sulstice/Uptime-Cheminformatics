@@ -1,7 +1,7 @@
 url: https://www.pesticideinfo.org/
-status: up
-code: 200
-responseTime: 4933
-lastUpdated: 2026-05-22T23:41:10.866Z
+status: down
+code: 415
+responseTime: 81
+lastUpdated: 2026-05-23T14:34:14.586Z
 startTime: 2022-01-24T23:07:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
