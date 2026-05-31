@@ -4,19 +4,19 @@
     "url": "https://zinc15.docking.org",
     "icon": "https://icons.duckduckgo.com/ip3/zinc15.docking.org.ico",
     "slug": "zinc-15",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "92.55%",
-    "uptimeWeek": "86.98%",
-    "uptimeMonth": "81.52%",
+    "uptimeDay": "92.28%",
+    "uptimeWeek": "86.76%",
+    "uptimeMonth": "81.47%",
     "uptimeYear": "96.81%",
-    "time": 2110,
-    "timeDay": 13857,
+    "time": 2111,
+    "timeDay": 12300,
     "timeWeek": 11170,
     "timeMonth": 8132,
     "timeYear": 2141,
     "dailyMinutesDown": {
-      "2026-03-16": 173,
+      "2026-03-16": 144,
       "2026-03-17": 494,
       "2026-03-18": 29,
       "2026-03-20": 28,
@@ -58,7 +58,7 @@
       "2026-05-28": 183,
       "2026-05-29": 678,
       "2026-05-30": 236,
-      "2026-05-31": 89
+      "2026-05-31": 112
     }
   },
   {
@@ -68,9 +68,9 @@
     "slug": "zinc-20",
     "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "85.30%",
-    "uptimeWeek": "84.84%",
-    "uptimeMonth": "79.69%",
+    "uptimeDay": "82.22%",
+    "uptimeWeek": "84.40%",
+    "uptimeMonth": "79.59%",
     "uptimeYear": "96.68%",
     "time": 1976,
     "timeDay": 7421,
@@ -120,7 +120,7 @@
       "2026-05-28": 119,
       "2026-05-29": 713,
       "2026-05-30": 164,
-      "2026-05-31": 207
+      "2026-05-31": 251
     }
   },
   {
@@ -191,13 +191,13 @@
     "uptime": "99.11%",
     "uptimeDay": "6.31%",
     "uptimeWeek": "24.27%",
-    "uptimeMonth": "53.50%",
+    "uptimeMonth": "53.39%",
     "uptimeYear": "96.12%",
-    "time": 1574,
+    "time": 1571,
     "timeDay": 7988,
     "timeWeek": 4479,
     "timeMonth": 2993,
-    "timeYear": 1571,
+    "timeYear": 1570,
     "dailyMinutesDown": {
       "2026-05-12": 643,
       "2026-05-13": 986,
@@ -218,7 +218,7 @@
       "2026-05-28": 1130,
       "2026-05-29": 979,
       "2026-05-30": 1209,
-      "2026-05-31": 745
+      "2026-05-31": 790
     }
   },
   {
@@ -567,7 +567,7 @@
     "timeMonth": 201,
     "timeYear": 929,
     "dailyMinutesDown": {
-      "2026-05-31": 747,
+      "2026-05-31": 792,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
@@ -1040,7 +1040,7 @@
     "timeMonth": 358,
     "timeYear": 453,
     "dailyMinutesDown": {
-      "2026-05-31": 747,
+      "2026-05-31": 792,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
@@ -1489,7 +1489,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "81.52%",
+    "uptimeYear": "81.51%",
     "time": 1076,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1514,7 +1514,7 @@
       "2026-01-31": 635,
       "2026-02-22": 709,
       "2026-02-21": 569,
-      "2026-05-31": 747,
+      "2026-05-31": 792,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
@@ -1897,12 +1897,12 @@
     "slug": "adverse-drug-reaction-classification-system",
     "status": "down",
     "uptime": "98.34%",
-    "uptimeDay": "43.19%",
-    "uptimeWeek": "79.96%",
-    "uptimeMonth": "92.59%",
+    "uptimeDay": "40.72%",
+    "uptimeWeek": "79.52%",
+    "uptimeMonth": "92.49%",
     "uptimeYear": "92.79%",
     "time": 10745,
-    "timeDay": 42594,
+    "timeDay": 40704,
     "timeWeek": 27970,
     "timeMonth": 20136,
     "timeYear": 11293,
@@ -1943,7 +1943,7 @@
       "2026-05-22": 35,
       "2026-05-25": 1003,
       "2026-05-30": 543,
-      "2026-05-31": 476
+      "2026-05-31": 521
     }
   },
   {
@@ -2021,7 +2021,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "85.92%",
+    "uptimeYear": "85.93%",
     "time": 559,
     "timeDay": 454,
     "timeWeek": 392,
@@ -2120,7 +2120,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "35.21%",
+    "uptimeYear": "35.20%",
     "time": 2112,
     "timeDay": 617,
     "timeWeek": 577,
@@ -2252,7 +2252,7 @@
       "2025-10-09": 1440,
       "2025-10-08": 1440,
       "2025-10-07": 947,
-      "2026-05-31": 748,
+      "2026-05-31": 793,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
@@ -2384,7 +2384,7 @@
     "time": 312,
     "timeDay": 403,
     "timeWeek": 224,
-    "timeMonth": 262,
+    "timeMonth": 266,
     "timeYear": 326,
     "dailyMinutesDown": {}
   },
@@ -2514,12 +2514,12 @@
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.71%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.92%",
     "time": 1406,
     "timeDay": 846,
     "timeWeek": 998,
-    "timeMonth": 1085,
+    "timeMonth": 1074,
     "timeYear": 1257,
     "dailyMinutesDown": {
       "2025-06-07": 20,
@@ -2551,7 +2551,7 @@
     "timeMonth": 811,
     "timeYear": 1337,
     "dailyMinutesDown": {
-      "2026-05-31": 749,
+      "2026-05-31": 794,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
