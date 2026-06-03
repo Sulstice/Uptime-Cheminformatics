@@ -71,8 +71,8 @@
     "status": "up",
     "uptime": "99.31%",
     "uptimeDay": "83.91%",
-    "uptimeWeek": "79.68%",
-    "uptimeMonth": "78.94%",
+    "uptimeWeek": "79.97%",
+    "uptimeMonth": "79.01%",
     "uptimeYear": "96.61%",
     "time": 2001,
     "timeDay": 18642,
@@ -194,8 +194,8 @@
     "uptime": "99.04%",
     "uptimeDay": "27.96%",
     "uptimeWeek": "21.24%",
-    "uptimeMonth": "50.05%",
-    "uptimeYear": "95.84%",
+    "uptimeMonth": "49.98%",
+    "uptimeYear": "95.83%",
     "time": 1572,
     "timeDay": 6529,
     "timeWeek": 4529,
@@ -223,7 +223,7 @@
       "2026-05-31": 1180,
       "2026-06-01": 1252,
       "2026-06-02": 1037,
-      "2026-06-03": 8
+      "2026-06-03": 37
     }
   },
   {
@@ -569,7 +569,7 @@
     "timeMonth": 189,
     "timeYear": 924,
     "dailyMinutesDown": {
-      "2026-06-03": 10,
+      "2026-06-03": 39,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
@@ -1043,7 +1043,7 @@
     "timeMonth": 516,
     "timeYear": 463,
     "dailyMinutesDown": {
-      "2026-06-03": 10,
+      "2026-06-03": 39,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
@@ -1493,7 +1493,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "80.84%",
+    "uptimeYear": "80.83%",
     "time": 1075,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1518,7 +1518,7 @@
       "2026-01-31": 635,
       "2026-02-22": 709,
       "2026-02-21": 569,
-      "2026-06-03": 10,
+      "2026-06-03": 40,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
@@ -1799,16 +1799,16 @@
     "url": "http://csbg.cnb.csic.es/mbrole2/",
     "icon": "https://icons.duckduckgo.com/ip3/csbg.cnb.csic.es.ico",
     "slug": "metabolites-biological-role",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "83.28%",
-    "uptimeWeek": "96.20%",
-    "uptimeMonth": "96.39%",
-    "uptimeYear": "99.24%",
+    "uptimeDay": "82.18%",
+    "uptimeWeek": "96.05%",
+    "uptimeMonth": "96.35%",
+    "uptimeYear": "99.23%",
     "time": 850,
-    "timeDay": 779,
-    "timeWeek": 1328,
-    "timeMonth": 1616,
+    "timeDay": 780,
+    "timeWeek": 1274,
+    "timeMonth": 1592,
     "timeYear": 873,
     "dailyMinutesDown": {
       "2026-03-21": 15,
@@ -1862,7 +1862,7 @@
       "2026-05-29": 46,
       "2026-05-31": 33,
       "2026-06-02": 229,
-      "2026-06-03": 11
+      "2026-06-03": 27
     }
   },
   {
@@ -1906,10 +1906,10 @@
     "slug": "adverse-drug-reaction-classification-system",
     "status": "down",
     "uptime": "98.44%",
-    "uptimeDay": "60.63%",
-    "uptimeWeek": "81.60%",
-    "uptimeMonth": "90.68%",
-    "uptimeYear": "93.21%",
+    "uptimeDay": "58.60%",
+    "uptimeWeek": "81.31%",
+    "uptimeMonth": "90.61%",
+    "uptimeYear": "93.20%",
     "time": 10901,
     "timeDay": 51201,
     "timeWeek": 30809,
@@ -1951,7 +1951,7 @@
       "2026-05-30": 543,
       "2026-05-31": 748,
       "2026-06-02": 561,
-      "2026-06-03": 6
+      "2026-06-03": 36
     }
   },
   {
@@ -2257,7 +2257,7 @@
       "2025-10-09": 1440,
       "2025-10-08": 1440,
       "2025-10-07": 947,
-      "2026-06-03": 11,
+      "2026-06-03": 41,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
@@ -2391,7 +2391,7 @@
     "uptimeYear": "100.00%",
     "time": 312,
     "timeDay": 231,
-    "timeWeek": 338,
+    "timeWeek": 346,
     "timeMonth": 269,
     "timeYear": 327,
     "dailyMinutesDown": {}
@@ -2448,16 +2448,16 @@
     "url": "https://www.pesticideinfo.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pesticideinfo.org.ico",
     "slug": "pesticide-info",
-    "status": "down",
+    "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "78.88%",
-    "uptimeWeek": "93.14%",
-    "uptimeMonth": "85.61%",
+    "uptimeDay": "77.17%",
+    "uptimeWeek": "92.89%",
+    "uptimeMonth": "85.55%",
     "uptimeYear": "98.33%",
-    "time": 451,
-    "timeDay": 256,
-    "timeWeek": 344,
-    "timeMonth": 400,
+    "time": 450,
+    "timeDay": 262,
+    "timeWeek": 342,
+    "timeMonth": 399,
     "timeYear": 429,
     "dailyMinutesDown": {
       "2026-03-30": 27,
@@ -2512,7 +2512,7 @@
       "2026-05-28": 82,
       "2026-06-01": 306,
       "2026-06-02": 292,
-      "2026-06-03": 12
+      "2026-06-03": 36
     }
   },
   {
@@ -2561,7 +2561,7 @@
     "timeMonth": 775,
     "timeYear": 1332,
     "dailyMinutesDown": {
-      "2026-06-03": 12,
+      "2026-06-03": 41,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
