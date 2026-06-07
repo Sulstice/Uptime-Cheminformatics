@@ -195,12 +195,12 @@
     "status": "down",
     "uptime": "99.00%",
     "uptimeDay": "19.23%",
-    "uptimeWeek": "23.98%",
-    "uptimeMonth": "47.69%",
-    "uptimeYear": "95.64%",
+    "uptimeWeek": "23.61%",
+    "uptimeMonth": "47.58%",
+    "uptimeYear": "95.63%",
     "time": 1555,
     "timeDay": 3499,
-    "timeWeek": 4071,
+    "timeWeek": 4182,
     "timeMonth": 3770,
     "timeYear": 1540,
     "dailyMinutesDown": {
@@ -225,7 +225,7 @@
       "2026-06-04": 1073,
       "2026-06-05": 926,
       "2026-06-06": 1040,
-      "2026-06-07": 903
+      "2026-06-07": 948
     }
   },
   {
@@ -238,7 +238,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "25.92%",
+    "uptimeYear": "25.93%",
     "time": 641,
     "timeDay": 0,
     "timeWeek": 614,
@@ -556,7 +556,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bindingdb.org.ico",
     "slug": "binding-database",
     "status": "down",
-    "uptime": "69.19%",
+    "uptime": "69.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -567,7 +567,7 @@
     "timeMonth": 209,
     "timeYear": 918,
     "dailyMinutesDown": {
-      "2026-06-07": 1118,
+      "2026-06-07": 1163,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
@@ -957,19 +957,18 @@
     "url": "http://sideeffects.embl.de/download/",
     "icon": "https://icons.duckduckgo.com/ip3/sideeffects.embl.de.ico",
     "slug": "sider",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "63.19%",
-    "uptimeWeek": "80.89%",
-    "uptimeMonth": "94.77%",
-    "uptimeYear": "99.18%",
+    "uptimeDay": "61.58%",
+    "uptimeWeek": "80.66%",
+    "uptimeMonth": "94.72%",
+    "uptimeYear": "99.17%",
     "time": 880,
     "timeDay": 764,
     "timeWeek": 730,
     "timeMonth": 734,
     "timeYear": 848,
     "dailyMinutesDown": {
-      "2026-04-10": 19,
       "2026-04-11": 105,
       "2026-04-12": 98,
       "2026-04-13": 25,
@@ -1003,7 +1002,7 @@
       "2026-06-04": 140,
       "2026-06-05": 394,
       "2026-06-06": 576,
-      "2026-06-07": 506
+      "2026-06-07": 529
     }
   },
   {
@@ -1023,7 +1022,7 @@
     "timeMonth": 493,
     "timeYear": 460,
     "dailyMinutesDown": {
-      "2026-06-07": 1118,
+      "2026-06-07": 1163,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
@@ -1395,19 +1394,19 @@
     "url": "http://stitch.embl.de/cgi/download.pl",
     "icon": "https://icons.duckduckgo.com/ip3/stitch.embl.de.ico",
     "slug": "stitch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "65.86%",
-    "uptimeWeek": "82.13%",
-    "uptimeMonth": "83.39%",
+    "uptimeDay": "64.60%",
+    "uptimeWeek": "81.95%",
+    "uptimeMonth": "83.45%",
     "uptimeYear": "97.98%",
-    "time": 1900,
+    "time": 1901,
     "timeDay": 1483,
     "timeWeek": 1423,
     "timeMonth": 2523,
     "timeYear": 1997,
     "dailyMinutesDown": {
-      "2026-04-11": 71,
+      "2026-04-11": 49,
       "2026-04-12": 95,
       "2026-04-13": 25,
       "2026-04-14": 32,
@@ -1443,7 +1442,7 @@
       "2026-06-04": 127,
       "2026-06-05": 370,
       "2026-06-06": 538,
-      "2026-06-07": 472
+      "2026-06-07": 490
     }
   },
   {
@@ -1456,7 +1455,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "79.53%",
+    "uptimeYear": "79.52%",
     "time": 1076,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1481,7 +1480,7 @@
       "2026-01-31": 635,
       "2026-02-22": 709,
       "2026-02-21": 569,
-      "2026-06-07": 1118,
+      "2026-06-07": 1163,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
@@ -1766,19 +1765,19 @@
     "url": "http://csbg.cnb.csic.es/mbrole2/",
     "icon": "https://icons.duckduckgo.com/ip3/csbg.cnb.csic.es.ico",
     "slug": "metabolites-biological-role",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "63.79%",
-    "uptimeWeek": "77.61%",
-    "uptimeMonth": "92.07%",
+    "uptimeDay": "64.22%",
+    "uptimeWeek": "77.52%",
+    "uptimeMonth": "92.05%",
     "uptimeYear": "99.02%",
     "time": 847,
-    "timeDay": 858,
+    "timeDay": 851,
     "timeWeek": 782,
     "timeMonth": 1242,
     "timeYear": 869,
     "dailyMinutesDown": {
-      "2026-04-16": 42,
+      "2026-04-16": 21,
       "2026-04-17": 206,
       "2026-04-18": 156,
       "2026-04-19": 143,
@@ -1815,7 +1814,7 @@
       "2026-06-04": 214,
       "2026-06-05": 152,
       "2026-06-06": 593,
-      "2026-06-07": 443
+      "2026-06-07": 452
     }
   },
   {
@@ -1912,19 +1911,18 @@
     "url": "http://www-metrabase.ch.cam.ac.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www-metrabase.ch.cam.ac.uk.ico",
     "slug": "metabolism-and-transport-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "72.49%",
-    "uptimeWeek": "81.55%",
+    "uptimeDay": "72.90%",
+    "uptimeWeek": "81.51%",
     "uptimeMonth": "94.82%",
-    "uptimeYear": "99.09%",
-    "time": 2148,
-    "timeDay": 1603,
+    "uptimeYear": "99.10%",
+    "time": 2150,
+    "timeDay": 1645,
     "timeWeek": 1405,
     "timeMonth": 1356,
     "timeYear": 2449,
     "dailyMinutesDown": {
-      "2026-04-11": 30,
       "2026-04-12": 92,
       "2026-04-13": 24,
       "2026-04-14": 63,
@@ -1960,7 +1958,7 @@
       "2026-06-04": 460,
       "2026-06-05": 336,
       "2026-06-06": 443,
-      "2026-06-07": 362
+      "2026-06-07": 366
     }
   },
   {
@@ -2065,7 +2063,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "33.22%",
+    "uptimeYear": "33.21%",
     "time": 2092,
     "timeDay": 0,
     "timeWeek": 566,
@@ -2197,7 +2195,7 @@
       "2025-10-09": 1440,
       "2025-10-08": 1440,
       "2025-10-07": 947,
-      "2026-06-07": 1119,
+      "2026-06-07": 1164,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
@@ -2394,10 +2392,10 @@
     "slug": "pesticide-info",
     "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "75.80%",
-    "uptimeWeek": "76.33%",
-    "uptimeMonth": "81.73%",
-    "uptimeYear": "98.11%",
+    "uptimeDay": "72.66%",
+    "uptimeWeek": "75.88%",
+    "uptimeMonth": "81.63%",
+    "uptimeYear": "98.10%",
     "time": 514,
     "timeDay": 303,
     "timeWeek": 2281,
@@ -2451,7 +2449,7 @@
       "2026-06-04": 66,
       "2026-06-05": 325,
       "2026-06-06": 40,
-      "2026-06-07": 348
+      "2026-06-07": 393
     }
   },
   {
@@ -2499,7 +2497,7 @@
     "timeMonth": 711,
     "timeYear": 1322,
     "dailyMinutesDown": {
-      "2026-06-07": 1119,
+      "2026-06-07": 1164,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
@@ -2984,7 +2982,7 @@
     "timeDay": 0,
     "timeWeek": 657,
     "timeMonth": 781,
-    "timeYear": 1480,
+    "timeYear": 1481,
     "dailyMinutesDown": {
       "2025-06-08": 42,
       "2025-06-17": 1246,
