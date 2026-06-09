@@ -192,17 +192,17 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "down",
+    "status": "up",
     "uptime": "98.95%",
-    "uptimeDay": "21.88%",
-    "uptimeWeek": "23.06%",
-    "uptimeMonth": "44.85%",
+    "uptimeDay": "21.45%",
+    "uptimeWeek": "23.33%",
+    "uptimeMonth": "44.83%",
     "uptimeYear": "95.40%",
-    "time": 1540,
-    "timeDay": 2939,
-    "timeWeek": 3519,
-    "timeMonth": 3978,
-    "timeYear": 1539,
+    "time": 1544,
+    "timeDay": 5356,
+    "timeWeek": 3852,
+    "timeMonth": 4068,
+    "timeYear": 1542,
     "dailyMinutesDown": {
       "2026-05-18": 305,
       "2026-05-19": 930,
@@ -226,7 +226,7 @@
       "2026-06-06": 1040,
       "2026-06-07": 1166,
       "2026-06-08": 1082,
-      "2026-06-09": 1049
+      "2026-06-09": 1058
     }
   },
   {
@@ -239,7 +239,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "26.51%",
+    "uptimeYear": "26.52%",
     "time": 644,
     "timeDay": 792,
     "timeWeek": 695,
@@ -566,7 +566,7 @@
     "timeMonth": 197,
     "timeYear": 916,
     "dailyMinutesDown": {
-      "2026-06-09": 1310,
+      "2026-06-09": 1346,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
@@ -958,9 +958,9 @@
     "slug": "sider",
     "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "79.45%",
-    "uptimeWeek": "74.52%",
-    "uptimeMonth": "93.27%",
+    "uptimeDay": "76.97%",
+    "uptimeWeek": "74.17%",
+    "uptimeMonth": "93.19%",
     "uptimeYear": "99.09%",
     "time": 879,
     "timeDay": 708,
@@ -1000,7 +1000,7 @@
       "2026-06-06": 576,
       "2026-06-07": 627,
       "2026-06-08": 269,
-      "2026-06-09": 296
+      "2026-06-09": 332
     }
   },
   {
@@ -1020,7 +1020,7 @@
     "timeMonth": 445,
     "timeYear": 454,
     "dailyMinutesDown": {
-      "2026-06-09": 1311,
+      "2026-06-09": 1346,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
@@ -1394,8 +1394,8 @@
     "slug": "stitch",
     "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "80.80%",
-    "uptimeWeek": "75.28%",
+    "uptimeDay": "78.32%",
+    "uptimeWeek": "74.93%",
     "uptimeMonth": "88.74%",
     "uptimeYear": "97.90%",
     "time": 1837,
@@ -1437,7 +1437,7 @@
       "2026-06-06": 538,
       "2026-06-07": 573,
       "2026-06-08": 351,
-      "2026-06-09": 276
+      "2026-06-09": 312
     }
   },
   {
@@ -1475,7 +1475,7 @@
       "2026-01-31": 635,
       "2026-02-22": 709,
       "2026-02-21": 569,
-      "2026-06-09": 1311,
+      "2026-06-09": 1346,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
@@ -1761,10 +1761,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/csbg.cnb.csic.es.ico",
     "slug": "metabolites-biological-role",
     "status": "down",
-    "uptime": "99.77%",
-    "uptimeDay": "80.03%",
-    "uptimeWeek": "73.43%",
-    "uptimeMonth": "90.87%",
+    "uptime": "99.76%",
+    "uptimeDay": "79.29%",
+    "uptimeWeek": "73.07%",
+    "uptimeMonth": "90.79%",
     "uptimeYear": "98.97%",
     "time": 852,
     "timeDay": 712,
@@ -1809,7 +1809,7 @@
       "2026-06-06": 593,
       "2026-06-07": 524,
       "2026-06-08": 300,
-      "2026-06-09": 253
+      "2026-06-09": 289
     }
   },
   {
@@ -1854,7 +1854,7 @@
     "status": "up",
     "uptime": "98.39%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "80.32%",
+    "uptimeWeek": "80.68%",
     "uptimeMonth": "86.25%",
     "uptimeYear": "92.97%",
     "time": 11042,
@@ -1908,10 +1908,10 @@
     "slug": "metabolism-and-transport-database",
     "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "83.77%",
-    "uptimeWeek": "76.55%",
-    "uptimeMonth": "93.67%",
-    "uptimeYear": "99.04%",
+    "uptimeDay": "81.29%",
+    "uptimeWeek": "76.19%",
+    "uptimeMonth": "93.59%",
+    "uptimeYear": "99.03%",
     "time": 2168,
     "timeDay": 1423,
     "timeWeek": 1412,
@@ -1951,7 +1951,7 @@
       "2026-06-06": 443,
       "2026-06-07": 412,
       "2026-06-08": 239,
-      "2026-06-09": 234
+      "2026-06-09": 269
     }
   },
   {
@@ -1964,7 +1964,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.49%",
+    "uptimeYear": "88.50%",
     "time": 557,
     "timeDay": 403,
     "timeWeek": 399,
@@ -2186,7 +2186,7 @@
       "2025-10-09": 1440,
       "2025-10-08": 1440,
       "2025-10-07": 947,
-      "2026-06-09": 1312,
+      "2026-06-09": 1348,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
@@ -2385,12 +2385,12 @@
     "slug": "pesticide-info",
     "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "68.21%",
-    "uptimeWeek": "74.08%",
-    "uptimeMonth": "80.28%",
-    "uptimeYear": "98.04%",
+    "uptimeDay": "67.49%",
+    "uptimeWeek": "73.73%",
+    "uptimeMonth": "80.20%",
+    "uptimeYear": "98.03%",
     "time": 510,
-    "timeDay": 380,
+    "timeDay": 411,
     "timeWeek": 1864,
     "timeMonth": 1220,
     "timeYear": 502,
@@ -2442,7 +2442,7 @@
       "2026-06-06": 40,
       "2026-06-07": 438,
       "2026-06-08": 312,
-      "2026-06-09": 372
+      "2026-06-09": 407
     }
   },
   {
@@ -2489,7 +2489,7 @@
     "timeMonth": 671,
     "timeYear": 1317,
     "dailyMinutesDown": {
-      "2026-06-09": 1312,
+      "2026-06-09": 1348,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
@@ -2861,17 +2861,17 @@
     "url": "https://cactus.nci.nih.gov/chemical/structure",
     "icon": "https://icons.duckduckgo.com/ip3/cactus.nci.nih.gov.ico",
     "slug": "chemical-resolver",
-    "status": "down",
-    "uptime": "99.40%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "98.38%",
+    "status": "up",
+    "uptime": "99.39%",
+    "uptimeDay": "97.54%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "98.37%",
     "time": 2156,
-    "timeDay": 7776,
-    "timeWeek": 3749,
-    "timeMonth": 3921,
-    "timeYear": 1825,
+    "timeDay": 5312,
+    "timeWeek": 3328,
+    "timeMonth": 3814,
+    "timeYear": 1821,
     "dailyMinutesDown": {
       "2025-06-10": 76,
       "2025-06-11": 46,
@@ -2915,7 +2915,7 @@
       "2026-05-10": 26,
       "2026-05-11": 147,
       "2026-05-22": 32,
-      "2026-06-09": 4
+      "2026-06-09": 35
     }
   },
   {
