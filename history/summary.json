@@ -14,7 +14,7 @@
     "timeDay": 1103,
     "timeWeek": 8673,
     "timeMonth": 7300,
-    "timeYear": 2309,
+    "timeYear": 2310,
     "dailyMinutesDown": {
       "2026-03-25": 154,
       "2026-03-26": 431,
@@ -167,12 +167,12 @@
     "status": "up",
     "uptime": "99.45%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.50%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.48%",
     "time": 682,
     "timeDay": 62,
-    "timeWeek": 100,
+    "timeWeek": 99,
     "timeMonth": 126,
     "timeYear": 787,
     "dailyMinutesDown": {
@@ -208,7 +208,7 @@
     "timeDay": 20335,
     "timeWeek": 12665,
     "timeMonth": 5148,
-    "timeYear": 1543,
+    "timeYear": 1542,
     "dailyMinutesDown": {
       "2026-05-27": 237,
       "2026-05-28": 1130,
@@ -249,7 +249,7 @@
     "uptimeDay": "92.15%",
     "uptimeWeek": "98.88%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "30.54%",
+    "uptimeYear": "30.55%",
     "time": 660,
     "timeDay": 1237,
     "timeWeek": 848,
@@ -562,7 +562,7 @@
     "timeMonth": 283,
     "timeYear": 895,
     "dailyMinutesDown": {
-      "2026-06-24": 1024,
+      "2026-06-24": 1069,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
@@ -954,10 +954,10 @@
     "slug": "sider",
     "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "98.24%",
-    "uptimeWeek": "91.28%",
-    "uptimeMonth": "84.04%",
-    "uptimeYear": "98.58%",
+    "uptimeDay": "95.16%",
+    "uptimeWeek": "90.84%",
+    "uptimeMonth": "83.94%",
+    "uptimeYear": "98.57%",
     "time": 872,
     "timeDay": 565,
     "timeWeek": 767,
@@ -996,7 +996,7 @@
       "2026-06-21": 28,
       "2026-06-23": 238,
       "2026-06-22": 19,
-      "2026-06-24": 25
+      "2026-06-24": 70
     }
   },
   {
@@ -1016,7 +1016,7 @@
     "timeMonth": 385,
     "timeYear": 435,
     "dailyMinutesDown": {
-      "2026-06-24": 1025,
+      "2026-06-24": 1069,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
@@ -1390,10 +1390,10 @@
     "slug": "stitch",
     "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "98.59%",
-    "uptimeWeek": "92.10%",
-    "uptimeMonth": "84.82%",
-    "uptimeYear": "97.43%",
+    "uptimeDay": "95.51%",
+    "uptimeWeek": "91.66%",
+    "uptimeMonth": "84.71%",
+    "uptimeYear": "97.42%",
     "time": 1824,
     "timeDay": 1198,
     "timeWeek": 1458,
@@ -1433,7 +1433,7 @@
       "2026-06-21": 23,
       "2026-06-23": 223,
       "2026-06-22": 14,
-      "2026-06-24": 20
+      "2026-06-24": 65
     }
   },
   {
@@ -1442,11 +1442,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bioanalysis.cau.ac.kr.ico",
     "slug": "card-pred",
     "status": "down",
-    "uptime": "88.73%",
+    "uptime": "88.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "74.89%",
+    "uptimeYear": "74.88%",
     "time": 1079,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1471,7 +1471,7 @@
       "2026-01-31": 635,
       "2026-02-22": 709,
       "2026-02-21": 569,
-      "2026-06-24": 1025,
+      "2026-06-24": 1069,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
@@ -1767,10 +1767,10 @@
     "slug": "metabolites-biological-role",
     "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "95.90%",
-    "uptimeWeek": "88.73%",
-    "uptimeMonth": "82.16%",
-    "uptimeYear": "98.51%",
+    "uptimeDay": "92.82%",
+    "uptimeWeek": "88.29%",
+    "uptimeMonth": "82.06%",
+    "uptimeYear": "98.50%",
     "time": 853,
     "timeDay": 742,
     "timeWeek": 824,
@@ -1800,7 +1800,7 @@
       "2026-06-21": 38,
       "2026-06-22": 85,
       "2026-06-23": 298,
-      "2026-06-24": 59
+      "2026-06-24": 103
     }
   },
   {
@@ -1900,10 +1900,10 @@
     "slug": "metabolism-and-transport-database",
     "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "95.40%",
-    "uptimeMonth": "87.44%",
-    "uptimeYear": "98.69%",
+    "uptimeDay": "96.47%",
+    "uptimeWeek": "94.96%",
+    "uptimeMonth": "87.34%",
+    "uptimeYear": "98.68%",
     "time": 2127,
     "timeDay": 986,
     "timeWeek": 1701,
@@ -1946,7 +1946,7 @@
       "2026-06-19": 95,
       "2026-06-20": 16,
       "2026-06-23": 127,
-      "2026-06-24": 7
+      "2026-06-24": 51
     }
   },
   {
@@ -1959,7 +1959,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.54%",
+    "uptimeYear": "92.55%",
     "time": 552,
     "timeDay": 273,
     "timeWeek": 380,
@@ -2034,7 +2034,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "28.61%",
+    "uptimeYear": "28.60%",
     "time": 2030,
     "timeDay": 425,
     "timeWeek": 590,
@@ -2165,7 +2165,7 @@
       "2025-10-09": 1440,
       "2025-10-08": 1440,
       "2025-10-07": 947,
-      "2026-06-24": 1026,
+      "2026-06-24": 1070,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
@@ -2377,16 +2377,16 @@
     "url": "https://www.pesticideinfo.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pesticideinfo.org.ico",
     "slug": "pesticide-info",
-    "status": "down",
+    "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "88.15%",
-    "uptimeWeek": "83.61%",
-    "uptimeMonth": "84.85%",
+    "uptimeDay": "85.38%",
+    "uptimeWeek": "83.21%",
+    "uptimeMonth": "84.76%",
     "uptimeYear": "97.66%",
     "time": 498,
-    "timeDay": 306,
-    "timeWeek": 286,
-    "timeMonth": 872,
+    "timeDay": 329,
+    "timeWeek": 292,
+    "timeMonth": 871,
     "timeYear": 488,
     "dailyMinutesDown": {
       "2026-05-01": 52,
@@ -2432,7 +2432,7 @@
       "2026-06-21": 103,
       "2026-06-22": 392,
       "2026-06-23": 251,
-      "2026-06-24": 150
+      "2026-06-24": 190
     }
   },
   {
@@ -2479,7 +2479,7 @@
     "timeMonth": 664,
     "timeYear": 1278,
     "dailyMinutesDown": {
-      "2026-06-24": 1026,
+      "2026-06-24": 1070,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
