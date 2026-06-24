@@ -14,7 +14,7 @@
     "timeDay": 1103,
     "timeWeek": 8673,
     "timeMonth": 7300,
-    "timeYear": 2243,
+    "timeYear": 2225,
     "dailyMinutesDown": {
       "2026-03-25": 154,
       "2026-03-26": 431,
@@ -245,11 +245,11 @@
     "url": "https://nmrshiftdb.nmr.uni-koeln.de/",
     "icon": "https://icons.duckduckgo.com/ip3/nmrshiftdb.nmr.uni-koeln.de.ico",
     "slug": "nmr-shift-database",
-    "status": "up",
+    "status": "down",
     "uptime": "59.66%",
-    "uptimeDay": "89.62%",
-    "uptimeWeek": "98.52%",
-    "uptimeMonth": "99.66%",
+    "uptimeDay": "88.88%",
+    "uptimeWeek": "98.41%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "30.59%",
     "time": 659,
     "timeDay": 1046,
@@ -523,7 +523,7 @@
       "2026-04-22": 175,
       "2026-04-23": 205,
       "2026-05-16": 68,
-      "2026-06-24": 149
+      "2026-06-24": 160
     }
   },
   {
@@ -563,7 +563,7 @@
     "timeMonth": 283,
     "timeYear": 895,
     "dailyMinutesDown": {
-      "2026-06-24": 1315,
+      "2026-06-24": 1336,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
@@ -953,16 +953,16 @@
     "url": "http://sideeffects.embl.de/download/",
     "icon": "https://icons.duckduckgo.com/ip3/sideeffects.embl.de.ico",
     "slug": "sider",
-    "status": "down",
+    "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "92.29%",
-    "uptimeWeek": "90.43%",
-    "uptimeMonth": "83.85%",
+    "uptimeDay": "91.62%",
+    "uptimeWeek": "90.34%",
+    "uptimeMonth": "83.83%",
     "uptimeYear": "98.57%",
     "time": 872,
-    "timeDay": 559,
-    "timeWeek": 757,
-    "timeMonth": 755,
+    "timeDay": 571,
+    "timeWeek": 750,
+    "timeMonth": 754,
     "timeYear": 835,
     "dailyMinutesDown": {
       "2026-05-02": 45,
@@ -997,7 +997,7 @@
       "2026-06-21": 28,
       "2026-06-23": 238,
       "2026-06-22": 19,
-      "2026-06-24": 111
+      "2026-06-24": 120
     }
   },
   {
@@ -1017,7 +1017,7 @@
     "timeMonth": 385,
     "timeYear": 435,
     "dailyMinutesDown": {
-      "2026-06-24": 1316,
+      "2026-06-24": 1336,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
@@ -1389,16 +1389,16 @@
     "url": "http://stitch.embl.de/cgi/download.pl",
     "icon": "https://icons.duckduckgo.com/ip3/stitch.embl.de.ico",
     "slug": "stitch",
-    "status": "down",
+    "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "92.97%",
-    "uptimeWeek": "91.30%",
-    "uptimeMonth": "84.63%",
+    "uptimeDay": "92.29%",
+    "uptimeWeek": "91.20%",
+    "uptimeMonth": "84.61%",
     "uptimeYear": "97.43%",
-    "time": 1824,
-    "timeDay": 1262,
-    "timeWeek": 1452,
-    "timeMonth": 1474,
+    "time": 1825,
+    "timeDay": 1406,
+    "timeWeek": 1463,
+    "timeMonth": 1476,
     "timeYear": 1953,
     "dailyMinutesDown": {
       "2026-05-06": 415,
@@ -1433,7 +1433,7 @@
       "2026-06-21": 23,
       "2026-06-23": 223,
       "2026-06-22": 14,
-      "2026-06-24": 102
+      "2026-06-24": 112
     }
   },
   {
@@ -1471,7 +1471,7 @@
       "2026-01-31": 635,
       "2026-02-22": 709,
       "2026-02-21": 569,
-      "2026-06-24": 1316,
+      "2026-06-24": 1336,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
@@ -1765,16 +1765,16 @@
     "url": "http://csbg.cnb.csic.es/mbrole2/",
     "icon": "https://icons.duckduckgo.com/ip3/csbg.cnb.csic.es.ico",
     "slug": "metabolites-biological-role",
-    "status": "down",
+    "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "90.62%",
-    "uptimeWeek": "87.97%",
-    "uptimeMonth": "82.06%",
+    "uptimeDay": "89.62%",
+    "uptimeWeek": "87.83%",
+    "uptimeMonth": "82.03%",
     "uptimeYear": "98.50%",
     "time": 854,
-    "timeDay": 729,
-    "timeWeek": 819,
-    "timeMonth": 837,
+    "timeDay": 775,
+    "timeWeek": 822,
+    "timeMonth": 838,
     "timeYear": 870,
     "dailyMinutesDown": {
       "2026-06-02": 229,
@@ -1799,7 +1799,7 @@
       "2026-06-21": 38,
       "2026-06-22": 85,
       "2026-06-23": 298,
-      "2026-06-24": 135
+      "2026-06-24": 150
     }
   },
   {
@@ -1897,17 +1897,17 @@
     "url": "http://www-metrabase.ch.cam.ac.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www-metrabase.ch.cam.ac.uk.ico",
     "slug": "metabolism-and-transport-database",
-    "status": "down",
+    "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "94.61%",
-    "uptimeWeek": "94.70%",
-    "uptimeMonth": "87.28%",
+    "uptimeDay": "93.62%",
+    "uptimeWeek": "94.56%",
+    "uptimeMonth": "87.25%",
     "uptimeYear": "98.68%",
-    "time": 2128,
-    "timeDay": 947,
-    "timeWeek": 1657,
-    "timeMonth": 1445,
-    "timeYear": 2380,
+    "time": 2129,
+    "timeDay": 1158,
+    "timeWeek": 1653,
+    "timeMonth": 1447,
+    "timeYear": 2378,
     "dailyMinutesDown": {
       "2026-04-26": 44,
       "2026-04-29": 52,
@@ -1945,7 +1945,7 @@
       "2026-06-19": 95,
       "2026-06-20": 16,
       "2026-06-23": 127,
-      "2026-06-24": 78
+      "2026-06-24": 92
     }
   },
   {
@@ -2164,7 +2164,7 @@
       "2025-10-09": 1440,
       "2025-10-08": 1440,
       "2025-10-07": 947,
-      "2026-06-24": 1317,
+      "2026-06-24": 1337,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
@@ -2478,7 +2478,7 @@
     "timeMonth": 664,
     "timeYear": 1278,
     "dailyMinutesDown": {
-      "2026-06-24": 1317,
+      "2026-06-24": 1338,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
