@@ -6,10 +6,10 @@
     "slug": "zinc-15",
     "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "36.85%",
-    "uptimeWeek": "90.98%",
-    "uptimeMonth": "96.90%",
-    "uptimeYear": "96.18%",
+    "uptimeDay": "35.31%",
+    "uptimeWeek": "90.76%",
+    "uptimeMonth": "96.85%",
+    "uptimeYear": "96.17%",
     "time": 2138,
     "timeDay": 9073,
     "timeWeek": 3130,
@@ -70,7 +70,7 @@
       "2026-08-09": 112,
       "2026-08-11": 59,
       "2026-08-20": 209,
-      "2026-08-21": 701
+      "2026-08-21": 723
     }
   },
   {
@@ -80,12 +80,12 @@
     "slug": "zinc-20",
     "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "35.13%",
-    "uptimeWeek": "87.43%",
-    "uptimeMonth": "96.30%",
+    "uptimeDay": "33.91%",
+    "uptimeWeek": "87.22%",
+    "uptimeMonth": "96.25%",
     "uptimeYear": "96.29%",
     "time": 1786,
-    "timeDay": 15140,
+    "timeDay": 20613,
     "timeWeek": 6601,
     "timeMonth": 3529,
     "timeYear": 1544,
@@ -142,7 +142,7 @@
       "2026-08-09": 35,
       "2026-08-18": 304,
       "2026-08-20": 261,
-      "2026-08-21": 701
+      "2026-08-21": 723
     }
   },
   {
@@ -264,16 +264,16 @@
     "url": "https://nmrshiftdb.nmr.uni-koeln.de/",
     "icon": "https://icons.duckduckgo.com/ip3/nmrshiftdb.nmr.uni-koeln.de.ico",
     "slug": "nmr-shift-database",
-    "status": "down",
+    "status": "up",
     "uptime": "61.04%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.06%",
-    "uptimeMonth": "99.36%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "99.33%",
     "uptimeYear": "46.07%",
     "time": 643,
-    "timeDay": 519,
-    "timeWeek": 641,
-    "timeMonth": 642,
+    "timeDay": 636,
+    "timeWeek": 655,
+    "timeMonth": 645,
     "timeYear": 643,
     "dailyMinutesDown": {
       "2026-03-04": 821,
@@ -492,7 +492,7 @@
       "2026-07-26": 180,
       "2026-07-27": 7,
       "2026-08-18": 86,
-      "2026-08-21": 8
+      "2026-08-21": 22
     }
   },
   {
@@ -532,7 +532,7 @@
     "timeMonth": 157,
     "timeYear": 646,
     "dailyMinutesDown": {
-      "2026-08-21": 703,
+      "2026-08-21": 725,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
@@ -995,7 +995,7 @@
     "timeMonth": 236,
     "timeYear": 390,
     "dailyMinutesDown": {
-      "2026-08-21": 703,
+      "2026-08-21": 725,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
@@ -1429,7 +1429,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bioanalysis.cau.ac.kr.ico",
     "slug": "card-pred",
     "status": "down",
-    "uptime": "85.66%",
+    "uptime": "85.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1451,7 +1451,7 @@
       "2026-01-31": 635,
       "2026-02-22": 709,
       "2026-02-21": 569,
-      "2026-08-21": 703,
+      "2026-08-21": 725,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
@@ -1866,7 +1866,7 @@
     "timeDay": 2875,
     "timeWeek": 2491,
     "timeMonth": 3381,
-    "timeYear": 11414,
+    "timeYear": 11409,
     "dailyMinutesDown": {
       "2026-03-17": 252,
       "2026-03-18": 1176,
@@ -2033,7 +2033,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "12.78%",
+    "uptimeYear": "12.77%",
     "time": 1776,
     "timeDay": 426,
     "timeWeek": 592,
@@ -2164,7 +2164,7 @@
       "2025-10-09": 1440,
       "2025-10-08": 1440,
       "2025-10-07": 947,
-      "2026-08-21": 705,
+      "2026-08-21": 727,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
@@ -2532,7 +2532,7 @@
     "timeMonth": 726,
     "timeYear": 1157,
     "dailyMinutesDown": {
-      "2026-08-21": 705,
+      "2026-08-21": 727,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
