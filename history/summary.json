@@ -6,7 +6,7 @@
     "slug": "zinc-15",
     "status": "up",
     "uptime": "99.24%",
-    "uptimeDay": "93.16%",
+    "uptimeDay": "94.65%",
     "uptimeWeek": "86.18%",
     "uptimeMonth": "96.17%",
     "uptimeYear": "96.09%",
@@ -80,7 +80,7 @@
     "slug": "zinc-20",
     "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "93.20%",
+    "uptimeDay": "94.66%",
     "uptimeWeek": "82.64%",
     "uptimeMonth": "95.56%",
     "uptimeYear": "96.20%",
@@ -207,7 +207,7 @@
     "slug": "chem-exper",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "77.20%",
+    "uptimeDay": "78.66%",
     "uptimeWeek": "85.69%",
     "uptimeMonth": "86.40%",
     "uptimeYear": "98.45%",
@@ -528,7 +528,7 @@
     "timeMonth": 158,
     "timeYear": 645,
     "dailyMinutesDown": {
-      "2026-08-22": 1088,
+      "2026-08-22": 1109,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -920,10 +920,10 @@
     "slug": "sider",
     "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "26.63%",
-    "uptimeWeek": "87.57%",
-    "uptimeMonth": "93.70%",
-    "uptimeYear": "98.25%",
+    "uptimeDay": "25.17%",
+    "uptimeWeek": "87.37%",
+    "uptimeMonth": "93.65%",
+    "uptimeYear": "98.24%",
     "time": 855,
     "timeDay": 1062,
     "timeWeek": 868,
@@ -972,7 +972,7 @@
       "2026-08-15": 29,
       "2026-08-16": 56,
       "2026-08-20": 111,
-      "2026-08-22": 1057
+      "2026-08-22": 1077
     }
   },
   {
@@ -992,7 +992,7 @@
     "timeMonth": 236,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2026-08-22": 1088,
+      "2026-08-22": 1109,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -1366,9 +1366,9 @@
     "slug": "stitch",
     "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "26.97%",
-    "uptimeWeek": "87.86%",
-    "uptimeMonth": "93.98%",
+    "uptimeDay": "25.52%",
+    "uptimeWeek": "87.66%",
+    "uptimeMonth": "93.93%",
     "uptimeYear": "98.34%",
     "time": 1834,
     "timeDay": 3183,
@@ -1418,7 +1418,7 @@
       "2026-08-15": 24,
       "2026-08-16": 47,
       "2026-08-20": 101,
-      "2026-08-22": 1052
+      "2026-08-22": 1073
     }
   },
   {
@@ -1449,7 +1449,7 @@
       "2026-01-31": 635,
       "2026-02-22": 709,
       "2026-02-21": 569,
-      "2026-08-22": 1088,
+      "2026-08-22": 1109,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -1915,16 +1915,16 @@
     "url": "http://www-metrabase.ch.cam.ac.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www-metrabase.ch.cam.ac.uk.ico",
     "slug": "metabolism-and-transport-database",
-    "status": "down",
-    "uptime": "99.66%",
-    "uptimeDay": "80.69%",
-    "uptimeWeek": "97.04%",
-    "uptimeMonth": "94.33%",
+    "status": "up",
+    "uptime": "99.65%",
+    "uptimeDay": "79.49%",
+    "uptimeWeek": "96.87%",
+    "uptimeMonth": "94.29%",
     "uptimeYear": "98.42%",
-    "time": 2117,
-    "timeDay": 1357,
-    "timeWeek": 1196,
-    "timeMonth": 1519,
+    "time": 2118,
+    "timeDay": 1412,
+    "timeWeek": 1235,
+    "timeMonth": 1525,
     "timeYear": 2349,
     "dailyMinutesDown": {
       "2026-06-07": 174,
@@ -1971,7 +1971,7 @@
       "2026-08-15": 33,
       "2026-08-16": 21,
       "2026-08-21": 31,
-      "2026-08-22": 248
+      "2026-08-22": 266
     }
   },
   {
@@ -2165,7 +2165,7 @@
       "2025-10-09": 1440,
       "2025-10-08": 1440,
       "2025-10-07": 947,
-      "2026-08-22": 1090,
+      "2026-08-22": 1110,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -2534,7 +2534,7 @@
     "timeMonth": 729,
     "timeYear": 1157,
     "dailyMinutesDown": {
-      "2026-08-22": 1090,
+      "2026-08-22": 1111,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
