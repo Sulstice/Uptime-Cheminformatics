@@ -205,16 +205,16 @@
     "url": "http://www.chemexper.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.chemexper.com.ico",
     "slug": "chem-exper",
-    "status": "down",
+    "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "90.89%",
-    "uptimeWeek": "85.49%",
-    "uptimeMonth": "86.48%",
+    "uptimeDay": "90.71%",
+    "uptimeWeek": "85.46%",
+    "uptimeMonth": "86.47%",
     "uptimeYear": "98.49%",
-    "time": 1781,
-    "timeDay": 4346,
-    "timeWeek": 5698,
-    "timeMonth": 7492,
+    "time": 1780,
+    "timeDay": 3613,
+    "timeWeek": 5563,
+    "timeMonth": 7431,
     "timeYear": 1778,
     "dailyMinutesDown": {
       "2026-07-11": 60,
@@ -253,7 +253,7 @@
       "2026-08-20": 133,
       "2026-08-21": 441,
       "2026-08-22": 127,
-      "2026-08-23": 81
+      "2026-08-23": 85
     }
   },
   {
@@ -527,7 +527,7 @@
     "timeMonth": 156,
     "timeYear": 644,
     "dailyMinutesDown": {
-      "2026-08-23": 477,
+      "2026-08-23": 503,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -920,8 +920,8 @@
     "status": "down",
     "uptime": "99.58%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "79.94%",
-    "uptimeMonth": "91.81%",
+    "uptimeWeek": "79.68%",
+    "uptimeMonth": "91.75%",
     "uptimeYear": "98.09%",
     "time": 855,
     "timeDay": 0,
@@ -971,7 +971,7 @@
       "2026-08-15": 29,
       "2026-08-16": 56,
       "2026-08-20": 111,
-      "2026-08-23": 477,
+      "2026-08-23": 503,
       "2026-08-22": 1408
     }
   },
@@ -992,7 +992,7 @@
     "timeMonth": 237,
     "timeYear": 385,
     "dailyMinutesDown": {
-      "2026-08-23": 477,
+      "2026-08-23": 503,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -1367,8 +1367,8 @@
     "status": "down",
     "uptime": "99.60%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "80.13%",
-    "uptimeMonth": "92.08%",
+    "uptimeWeek": "79.88%",
+    "uptimeMonth": "92.03%",
     "uptimeYear": "98.18%",
     "time": 1835,
     "timeDay": 0,
@@ -1418,7 +1418,7 @@
       "2026-08-15": 24,
       "2026-08-16": 47,
       "2026-08-20": 101,
-      "2026-08-23": 478,
+      "2026-08-23": 503,
       "2026-08-22": 1403
     }
   },
@@ -1432,7 +1432,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "59.21%",
+    "uptimeYear": "59.20%",
     "time": 1091,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1450,7 +1450,7 @@
       "2026-01-31": 635,
       "2026-02-22": 709,
       "2026-02-21": 569,
-      "2026-08-23": 478,
+      "2026-08-23": 503,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -1718,10 +1718,10 @@
     "slug": "drug-safety-analysis-system",
     "status": "down",
     "uptime": "97.90%",
-    "uptimeDay": "88.58%",
-    "uptimeWeek": "98.37%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.63%",
+    "uptimeDay": "86.81%",
+    "uptimeWeek": "98.12%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.62%",
     "time": 907,
     "timeDay": 759,
     "timeWeek": 808,
@@ -1733,7 +1733,7 @@
       "2025-10-25": 699,
       "2026-02-03": 298,
       "2026-05-23": 27,
-      "2026-08-23": 165
+      "2026-08-23": 190
     }
   },
   {
@@ -1918,19 +1918,19 @@
     "url": "http://www-metrabase.ch.cam.ac.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www-metrabase.ch.cam.ac.uk.ico",
     "slug": "metabolism-and-transport-database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "80.97%",
-    "uptimeWeek": "95.58%",
-    "uptimeMonth": "93.95%",
+    "uptimeDay": "81.18%",
+    "uptimeWeek": "95.54%",
+    "uptimeMonth": "93.94%",
     "uptimeYear": "98.42%",
-    "time": 2123,
+    "time": 2125,
     "timeDay": 1157,
     "timeWeek": 1233,
     "timeMonth": 1510,
     "timeYear": 2344,
     "dailyMinutesDown": {
-      "2026-06-07": 50,
+      "2026-06-07": 34,
       "2026-06-08": 239,
       "2026-06-09": 292,
       "2026-06-10": 408,
@@ -1975,7 +1975,7 @@
       "2026-08-16": 21,
       "2026-08-21": 31,
       "2026-08-22": 333,
-      "2026-08-23": 83
+      "2026-08-23": 87
     }
   },
   {
@@ -2169,7 +2169,7 @@
       "2025-10-09": 1440,
       "2025-10-08": 1440,
       "2025-10-07": 947,
-      "2026-08-23": 479,
+      "2026-08-23": 504,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -2386,7 +2386,7 @@
     "timeDay": 255,
     "timeWeek": 270,
     "timeMonth": 302,
-    "timeYear": 335,
+    "timeYear": 336,
     "dailyMinutesDown": {}
   },
   {
@@ -2539,7 +2539,7 @@
     "timeMonth": 728,
     "timeYear": 1154,
     "dailyMinutesDown": {
-      "2026-08-23": 479,
+      "2026-08-23": 505,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
